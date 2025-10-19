@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>The Jank Tank — Content</title>
+  <link rel="stylesheet" href="/Styles/Main.css">
+</head>
+<body>
+  <div id="SiteHeaderMount"></div>
+
+  <main class="Container Page">
+    <h1>Content</h1>
+    <p>Articles, videos, and extras will live here.</p>
+  </main>
+
+  <footer class="SiteFooter Container">© <span id="Year"></span> The Jank Tank</footer>
+  <script src="/Scripts/Main.js"></script>
+  <script>document.getElementById('Year').textContent = new Date().getFullYear();</script>
+</body>
+</html>

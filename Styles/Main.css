@@ -1,0 +1,111 @@
+/* ===== Theme: Grey / Purple / White ===== */
+:root{
+  --bg-0:#0b0d10;         /* page background (near-black grey) */
+  --bg-1:#12151b;         /* header background */
+  --line:#232634;         /* borders */
+  --text:#e8ecf3;         /* primary text (white-ish) */
+  --muted:#c9d1de;        /* secondary text (grey) */
+  --nav:#d5dbea;          /* nav link default */
+  --nav-hover:#ffffff;    /* nav link hover/active text */
+  --purple:#8b5cf6;       /* primary accent */
+  --purple-2:#a78bfa;     /* hover/soft accent */
+  --chip:#1b2030;         /* nav pill background */
+}
+
+/* ===== Reset / base ===== */
+*{box-sizing:border-box}
+html,body{margin:0;padding:0}
+body{
+  background: var(--bg-0);
+  color: var(--text);
+  font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+  line-height:1.5;
+}
+
+/* subtle page edge glow to match stream vibe */
+body::before{
+  content:"";
+  position:fixed; inset:-40vmax;
+  background: radial-gradient(60vmax 60vmax at -10% -10%, rgba(139,92,246,.12), transparent 60%),
+              radial-gradient(60vmax 60vmax at 110% -10%, rgba(139,92,246,.08), transparent 60%);
+  pointer-events:none; z-index:-1;
+}
+
+/* ===== Layout ===== */
+.Container{ width:min(1100px,92vw); margin-inline:auto; padding:16px }
+
+/* ===== Header (larger) ===== */
+.SiteHeader{
+  position:sticky; top:0; z-index:1000;
+  background: color-mix(in oklab, var(--bg-1) 85%, black 15%);
+  backdrop-filter: blur(8px);
+  border-bottom:1px solid var(--line);
+}
+.HeaderInner{
+  display:flex; align-items:center; justify-content:space-between;
+  width:min(1100px,92vw); margin-inline:auto;
+  padding:14px 16px;       /* ↑ bigger header */
+  gap:18px;
+}
+.Brand{ display:flex; align-items:center; text-decoration:none }
+.Logo{ height:96px; width:auto; display:block; }  /* ↑ bigger logo */
+
+/* ===== Nav ===== */
+.MainNav{ display:flex; align-items:center; gap:10px; flex-wrap:wrap }
+.NavLink{
+  display:inline-block;
+  padding:10px 14px;              /* ↑ bigger click target */
+  border-radius:12px;
+  color:var(--nav);
+  text-decoration:none;
+  background:transparent;
+  transition: background .15s ease, color .15s ease, box-shadow .15s ease;
+  border:1px solid transparent;
+}
+.NavLink:hover{
+  background:var(--chip);
+  color:var(--nav-hover);
+  border-color:var(--line);
+  box-shadow:0 0 0 2px rgba(139,92,246,.09) inset;
+}
+.NavLink.is-active{
+  color:var(--nav-hover);
+  background:var(--chip);
+  border-color:color-mix(in oklab, var(--purple) 40%, var(--line) 60%);
+  box-shadow:
+    0 0 0 1px color-mix(in oklab, var(--purple) 35%, transparent 65%) inset,
+    0 0 22px rgba(139,92,246,.18);
+}
+
+/* ===== Page section ===== */
+.Page{ padding:34px 0 60px }
+.Page h1{ margin:0 0 10px; font-size:28px }
+.Page p{ margin:4px 0 0; color:var(--muted) }
+
+/* ===== Footer ===== */
+.SiteFooter{ border-top:1px solid var(--line); color:#a7b3c7; padding:16px }
+/* ===== Responsive: phones & small tablets ===== */
+@media (max-width: 820px) {
+  .HeaderInner {
+    padding: 14px 12px;
+    gap: 12px;
+  }
+  .Logo { height: 56px; }        /* keep presence but not overwhelming */
+  .MainNav {
+    gap: 6px;
+    overflow-x: auto;             /* enables swipe if links wrap */
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+  }
+  .MainNav::-webkit-scrollbar { display: none; }
+  .NavLink { padding: 9px 12px; } /* comfy tap targets */
+  .Container { width: min(100%, 94vw); padding: 12px; }
+  .Page { padding: 24px 0 48px; }
+}
+
+/* ultra-small devices */
+@media (max-width: 420px) {
+  .Logo { height: 48px; }
+  .HeaderInner { padding: 12px 10px; }
+  .NavLink { padding: 8px 10px; font-size: 0.95rem; }
+}
