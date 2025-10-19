@@ -14,7 +14,6 @@ on:
       - "package.json"
       - "package-lock.json"
 
-
 jobs:
   sync-and-deploy:
     runs-on: ubuntu-latest
@@ -31,7 +30,6 @@ jobs:
       - name: Install dependencies (none yet)
         run: echo "No dependencies to install"
 
-
       - name: Run Airtable sync
         env:
           AIRTABLE_TOKEN: ${{ secrets.AIRTABLE_TOKEN }}
@@ -39,18 +37,17 @@ jobs:
           AIRTABLE_TABLE: ${{ secrets.AIRTABLE_TABLE }}
         run: npm run sync
 
-           - name: Create PR with data changes (if any)
-        if: ${{ always() }}
-        uses: peter-evans/create-pull-request@v6
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: "data: nightly sync [skip ci]"
-          title: "data: nightly sync"
-          body: "Automated data sync"
-          branch: chore/data-sync
-          add-paths: |
-            data/**
-
+      - name: Commit and push data changes (if any)
+        run: |
+          if [[ -n "$(git status --porcelain data)" ]]; then
+            git config user.name  "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add data
+            git commit -m "data: nightly sync [skip ci]"
+            git push
+          else
+            echo "No data changes to commit."
+          fi
 
       - name: Deploy /data to HostGator via FTP
         uses: SamKirkland/FTP-Deploy-Action@v4.3.6
