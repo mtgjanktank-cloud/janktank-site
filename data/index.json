@@ -1,268 +1,3569 @@
 {
-  "slugs": [
-    "3-in-1-gyruda-combo",
-    "3-land-belcher",
-    "4-horsemen",
-    "4c-enigma",
-    "4c-seance",
-    "5c-bring-to-light",
-    "5c-coco",
-    "5c-elementals",
-    "5c-glittering-scales",
-    "7-land-belcher",
-    "8-scales",
-    "abzan-curses",
-    "abzan-sustenance",
-    "abzan-truths",
-    "act-of-bees",
-    "aethermage-sultai",
-    "alcatraz",
-    "all-natural-breakfast",
-    "amulet-elementals",
-    "angel-pact",
-    "arcane-remedy",
-    "artifact-prison",
-    "ball-lightning-coco",
-    "bandit-lord-vizier",
-    "bant-bellower",
-    "bant-helix",
-    "bant-martyr-proc",
-    "bant-miracles",
-    "bant-saheeli",
-    "bant-spirits",
-    "baral-reanimator",
-    "beck-alarm",
-    "bio-weaver",
-    "black-moon",
-    "blistering-rage",
-    "blood-funnel-combo",
-    "bloody-humans",
-    "blue-moon-turns",
-    "blue-stax",
-    "blue-steel",
-    "blues-clues",
-    "boros-vehicles",
-    "bug-salvage",
-    "bw-myr-combo",
-    "bw-vehicles",
-    "charged-destruction",
-    "christmas-lights",
-    "colossal-infect",
-    "combo-mill",
-    "counter-crop",
-    "crucible-control",
-    "cryptic-eldrazi",
-    "curious-gifts",
-    "cursed-tokens",
-    "dark-crime-combo",
-    "descendants-treefolk",
-    "doran-ascendancy",
-    "double-moon-walkers",
-    "dragon-rally",
-    "dragon-stompy",
-    "dubious-breach",
-    "elemental-blast",
-    "elemental-breach",
-    "enduring-ideal",
-    "ensnaring-aggro",
-    "esper-blink",
-    "esper-hunted-horror",
-    "esper-planes",
-    "esper-rally",
-    "esper-trading-post",
-    "esper-turbo-friends",
-    "esper-zur",
-    "evo-journey",
-    "field-reanimator",
-    "free-win-red",
-    "gb-deaths-shadow",
-    "gb-delirium",
-    "gb-ooze",
-    "gideon-tribal",
-    "glittering-ad-nauseum",
-    "glittering-walls",
-    "god-pharaohs-combo",
-    "golden-humans",
-    "golden-zoo",
-    "goryos-deathvine",
-    "gr-bogles",
-    "gr-cremator",
-    "gr-eldrazi-delirium",
-    "graveshift",
-    "grixis-as-foretold",
-    "grixis-dragons",
-    "grixis-miracles",
-    "grixis-pits",
-    "gw-enchantress",
-    "gw-humans",
-    "gw-life-gain-aggro",
-    "haakon-combo",
-    "harmless-trader",
-    "hate-mares",
-    "heartbeat-combo",
-    "heartless-eldrazi",
-    "heartless-valuetown",
-    "hello-world",
-    "hollow-eldrazi",
-    "hollow-flayer",
-    "hollow-loam",
-    "hollow-red",
-    "holy-quest",
-    "hot-pockets",
-    "humanator-combo",
-    "induced-amnesia",
-    "infinite-research",
-    "journey-nic-fit",
-    "jund-dragons",
-    "kethis-combo",
-    "land-extraction-mill",
-    "landfall-combo",
-    "lava-storm",
-    "liliana-tribal",
-    "little-walkers",
-    "loxobots",
-    "lucky-charms",
-    "lupelines",
-    "madcap-naya",
-    "mardu-pyromancer",
-    "mardu-walkers",
-    "marvelous-dragon-storm",
-    "marwyn-storm",
-    "mazes-witz",
-    "meatball-ponza",
-    "memory-belcher",
-    "metal-reanimator",
-    "metalworks",
-    "mindcrank-combo",
-    "monkey-form",
-    "mono-b-burn",
-    "mono-b-infestation",
-    "mono-b-panharmonicon",
-    "mono-b-zombies",
-    "mono-g-control",
-    "mono-g-delirium",
-    "mono-g-devotion",
-    "mono-g-superfriends",
-    "mono-g-value",
-    "mono-r-engineer",
-    "mono-r-hatebears",
-    "mono-r-living-end",
-    "mono-r-prison",
-    "mono-r-tron",
-    "mono-u-airforce",
-    "mono-u-borrowers",
-    "mono-u-devotion",
-    "mono-u-illusions",
-    "mono-u-living-end",
-    "mono-u-martyrs",
-    "mono-w-devotion",
-    "mornsong-experiment",
-    "mystic-sultai",
-    "narset-turns",
-    "naru-chord",
-    "naya-eldrazi-evolution",
-    "naya-landfall",
-    "naya-midrange",
-    "naya-swans",
-    "new-perspectives",
-    "nexus-control",
-    "nexus-teachings",
-    "nivmagus-cannon",
-    "nyx-wave",
-    "obzedats-vengeance",
-    "oops-all-spells",
-    "owling-mine",
-    "pitch-blue",
-    "pokemon-scapeshift",
-    "presence-of-gond",
-    "primal-door",
-    "primal-surge",
-    "prison-mill",
-    "puresteel-tool-box",
-    "rally-the-zuberas",
-    "rats-and-taxes",
-    "rb-death-vine",
-    "rb-hollow-call",
-    "red-vine-zoo",
-    "rg-shamans",
-    "rug-prowess",
-    "rw-pyrohemia",
-    "rw-stax",
-    "sarkhan-reanimator",
-    "sarkhans-shadow",
-    "savor-the-moment",
-    "seasons-past-combo",
-    "shadow-infect",
-    "shelldock-apostles",
-    "shifting-end",
-    "simic-faeries",
-    "simic-midrange",
-    "singleton-control",
-    "skill-borrower-evolution",
-    "skred-red",
-    "smothering-wheels",
-    "snow-storm",
-    "solemnity-combo",
-    "sonic-boom",
-    "soulflayer-surprise",
-    "spirit-bomb",
-    "suicide-grixis",
-    "sultai-deathcloud",
-    "sultai-dragons",
-    "sultai-spark-double",
-    "swan-storm",
-    "sylvan-soulblast",
-    "tabernacle-control",
-    "taking-turns",
-    "temur-ascendancy-zoo",
-    "temur-hollow-one",
-    "temur-polymorph",
-    "tezzerets-intuition",
-    "thopter-sly-combo",
-    "tmnt",
-    "transformable-belcher",
-    "ub-control",
-    "ub-eldrazi",
-    "ub-horrors",
-    "ub-rogues",
-    "ub-zombie-combo",
-    "ug-gifts",
-    "ug-outcome",
-    "ug-pili-pala",
-    "ug-precognition",
-    "ug-turbo-lands",
-    "ug-warp",
-    "ultimatum-combo",
-    "unexpected-results",
-    "unstorm",
-    "ur-battle-of-wits",
-    "ur-coin-flip",
-    "ur-electro-end",
-    "ur-hollow-one",
-    "ur-improvise",
-    "ur-rhinos",
-    "ur-thopters",
-    "ur-tutelage",
-    "uw-airforce",
-    "uw-battle-of-wits",
-    "uw-hatebears",
-    "uw-hexproof",
-    "uw-holy-quest",
-    "uw-monument",
-    "uw-renewal",
-    "uw-sceptor",
-    "uw-turns",
-    "venser-chord",
-    "voltaic-scales",
-    "warp-world",
-    "waste-cascade",
-    "waste-foretold",
-    "waste-not-phoenix",
-    "waste-not-storm",
-    "westvale-worship",
-    "wr-prison",
-    "zombardment",
-    "zombie-hunt",
-    "zurs-prison"
+  "updatedAt": "2025-10-19T05:50:41.337Z",
+  "decks": [
+    {
+      "slug": "3-in-1-gyruda-combo",
+      "name": "3-in-1 Gyruda Combo",
+      "author": "Plum",
+      "format": "Timeless",
+      "archetype": "Combo",
+      "colors": [
+        "Blue"
+      ],
+      "updatedAt": "2024-12-07T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "blue-stax",
+      "name": "Blue Stax",
+      "author": "Plum",
+      "format": "Timeless",
+      "archetype": "Prison",
+      "colors": [
+        "Blue",
+        "Black"
+      ],
+      "updatedAt": "2024-12-07T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "memory-belcher",
+      "name": "Memory Belcher",
+      "author": "Vagabond87",
+      "format": "Modern",
+      "archetype": "Combo",
+      "colors": [
+        "White",
+        "Blue"
+      ],
+      "updatedAt": "2020-11-01T00:00:00.000Z",
+      "containsBannedCards": true
+    },
+    {
+      "slug": "tmnt",
+      "name": "TMNT",
+      "author": "u/MeatAnimal",
+      "format": "Modern",
+      "archetype": "Midrange",
+      "colors": [
+        "Blue",
+        "Black",
+        "Green"
+      ],
+      "updatedAt": "2020-02-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "mono-u-devotion",
+      "name": "Mono-U Devotion",
+      "author": "u/mackslc",
+      "format": "Modern",
+      "archetype": "Combo",
+      "colors": [
+        "Blue"
+      ],
+      "updatedAt": "2020-01-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "4c-enigma",
+      "name": "4c Enigma",
+      "author": "JulienR",
+      "format": "Modern",
+      "archetype": "Value",
+      "colors": [
+        "White",
+        "Blue",
+        "Black",
+        "Green"
+      ],
+      "updatedAt": "2020-01-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "field-reanimator",
+      "name": "Field Reanimator",
+      "author": "SGCYRUS",
+      "format": "Modern",
+      "archetype": "Control",
+      "colors": [
+        "White",
+        "Blue",
+        "Black",
+        "Green"
+      ],
+      "updatedAt": "2019-12-01T00:00:00.000Z",
+      "containsBannedCards": true
+    },
+    {
+      "slug": "haakon-combo",
+      "name": "Haakon Combo",
+      "author": "ComboCarl",
+      "format": "Modern",
+      "archetype": "Combo",
+      "colors": [
+        "Blue",
+        "Black",
+        "Red"
+      ],
+      "updatedAt": "2019-12-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "obzedats-vengeance",
+      "name": "Obzedat's Vengeance",
+      "author": "alfreditomelira",
+      "format": "Modern",
+      "archetype": "Midrange",
+      "colors": [
+        "White",
+        "Blue",
+        "Black"
+      ],
+      "updatedAt": "2019-10-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "mystic-sultai",
+      "name": "Mystic Sultai",
+      "author": "Sam Black",
+      "format": "Modern",
+      "archetype": "Control",
+      "colors": [
+        "Blue",
+        "Black",
+        "Green"
+      ],
+      "updatedAt": "2019-10-01T00:00:00.000Z",
+      "containsBannedCards": true
+    },
+    {
+      "slug": "kethis-combo",
+      "name": "Kethis Combo",
+      "author": "elvin7",
+      "format": "Modern",
+      "archetype": "Combo",
+      "colors": [
+        "White",
+        "Blue",
+        "Black",
+        "Green"
+      ],
+      "updatedAt": "2019-10-01T00:00:00.000Z",
+      "containsBannedCards": true
+    },
+    {
+      "slug": "5c-bring-to-light",
+      "name": "5c Bring to Light",
+      "author": "TennTyou",
+      "format": "Modern",
+      "archetype": "Combo",
+      "colors": [
+        "White",
+        "Blue",
+        "Black",
+        "Red",
+        "Green"
+      ],
+      "updatedAt": "2019-09-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "5c-elementals",
+      "name": "5c Elementals",
+      "author": "Mazuku94",
+      "format": "Modern",
+      "archetype": "Tribal",
+      "colors": [
+        "White",
+        "Blue",
+        "Black",
+        "Red",
+        "Green"
+      ],
+      "updatedAt": "2019-09-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "colossal-infect",
+      "name": "Colossal Infect",
+      "author": "Simon Powell",
+      "format": "Modern",
+      "archetype": "Aggro",
+      "colors": [
+        "White",
+        "Blue",
+        "Green"
+      ],
+      "updatedAt": "2019-08-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "ur-rhinos",
+      "name": "UR Rhinos",
+      "author": "u/KyFly1",
+      "format": "Modern",
+      "archetype": "Pseudo Combo",
+      "colors": [
+        "Blue",
+        "Red"
+      ],
+      "updatedAt": "2019-08-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "amulet-elementals",
+      "name": "Amulet Elementals",
+      "author": "u/Jrax",
+      "format": "Modern",
+      "archetype": "Combo",
+      "colors": [
+        "Blue",
+        "Red",
+        "Green"
+      ],
+      "updatedAt": "2019-07-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "snow-storm",
+      "name": "Snow Storm",
+      "author": "u/pudgimelon",
+      "format": "Modern",
+      "archetype": "Combo",
+      "colors": [
+        "White",
+        "Blue",
+        "Black",
+        "Green"
+      ],
+      "updatedAt": "2019-07-01T00:00:00.000Z",
+      "containsBannedCards": true
+    },
+    {
+      "slug": "mono-r-engineer",
+      "name": "Mono-R Engineer",
+      "author": "u/mackslc",
+      "format": "Modern",
+      "archetype": "Control",
+      "colors": [
+        "Red"
+      ],
+      "updatedAt": "2019-06-01T00:00:00.000Z",
+      "containsBannedCards": true
+    },
+    {
+      "slug": "mono-g-control",
+      "name": "Mono-G Control",
+      "author": "u/MarstheSoos",
+      "format": "Modern",
+      "archetype": "Control",
+      "colors": [
+        "Green"
+      ],
+      "updatedAt": "2019-06-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "cursed-tokens",
+      "name": "Cursed Tokens",
+      "author": "TimeBound",
+      "format": "Modern",
+      "archetype": "Prison",
+      "colors": [
+        "White",
+        "Black",
+        "Red"
+      ],
+      "updatedAt": "2019-06-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "mono-u-borrowers",
+      "name": "Mono-U Borrowers",
+      "author": "BadDecksPlayedBadlyMTG",
+      "format": "Modern",
+      "archetype": "Value",
+      "colors": [
+        "Blue"
+      ],
+      "updatedAt": "2019-06-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "waste-not-phoenix",
+      "name": "Waste Not Phoenix",
+      "author": "Demieyes",
+      "format": "Modern",
+      "archetype": "Value",
+      "colors": [
+        "Black",
+        "Red"
+      ],
+      "updatedAt": "2019-06-01T00:00:00.000Z",
+      "containsBannedCards": true
+    },
+    {
+      "slug": "naya-landfall",
+      "name": "Naya Landfall",
+      "author": "[LionHeart]",
+      "format": "Modern",
+      "archetype": "Aggro",
+      "colors": [
+        "White",
+        "Red",
+        "Green"
+      ],
+      "updatedAt": "2019-05-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "sultai-spark-double",
+      "name": "Sultai Spark Double",
+      "author": "BLAKTOOTHMKK",
+      "format": "Modern",
+      "archetype": "Midrange",
+      "colors": [
+        "Blue",
+        "Black",
+        "Green"
+      ],
+      "updatedAt": "2019-05-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "pitch-blue",
+      "name": "Pitch Blue",
+      "author": "Conley Woods",
+      "format": "Modern",
+      "archetype": "Control",
+      "colors": [
+        "Blue",
+        "Black"
+      ],
+      "updatedAt": "2019-05-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "marwyn-storm",
+      "name": "Marwyn Storm",
+      "author": "[LionHeart]",
+      "format": "Modern",
+      "archetype": "Combo",
+      "colors": [
+        "Green"
+      ],
+      "updatedAt": "2019-05-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "spirit-bomb",
+      "name": "Spirit Bomb",
+      "author": "u/Throwfire8",
+      "format": "Modern",
+      "archetype": "Pseudo Combo",
+      "colors": [
+        "White",
+        "Green"
+      ],
+      "updatedAt": "2019-05-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "monkey-form",
+      "name": "Monkey Form",
+      "author": "u/cavedan2",
+      "format": "Modern",
+      "archetype": "Aggro",
+      "colors": [
+        "White",
+        "Blue",
+        "Green"
+      ],
+      "updatedAt": "2019-04-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "naya-swans",
+      "name": "Naya Swans",
+      "author": "u/KunrinG",
+      "format": "Modern",
+      "archetype": "Combo",
+      "colors": [
+        "White",
+        "Red",
+        "Green"
+      ],
+      "updatedAt": "2019-04-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "mono-g-delirium",
+      "name": "Mono-G Delirium",
+      "author": "AshStar",
+      "format": "Modern",
+      "archetype": "Midrange",
+      "colors": [
+        "Green"
+      ],
+      "updatedAt": "2019-03-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "blues-clues",
+      "name": "Blue's Clues",
+      "author": "BadDecksPlayedBadlyMTG",
+      "format": "Modern",
+      "archetype": "Control",
+      "colors": [
+        "Blue",
+        "Red"
+      ],
+      "updatedAt": "2019-03-01T00:00:00.000Z",
+      "containsBannedCards": true
+    },
+    {
+      "slug": "grixis-miracles",
+      "name": "Grixis Miracles",
+      "author": "Mjaben",
+      "format": "Modern",
+      "archetype": "Control",
+      "colors": [
+        "Blue",
+        "Black",
+        "Red"
+      ],
+      "updatedAt": "2019-03-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "smothering-wheels",
+      "name": "Smothering Wheels",
+      "author": "Zerodaim",
+      "format": "Modern",
+      "archetype": "Combo",
+      "colors": [
+        "White",
+        "Blue",
+        "Black",
+        "Red"
+      ],
+      "updatedAt": "2019-03-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "prison-mill",
+      "name": "Prison Mill",
+      "author": "u/millatondeckfriend",
+      "format": "Modern",
+      "archetype": "Prison",
+      "colors": [
+        "Blue"
+      ],
+      "updatedAt": "2019-02-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "rg-shamans",
+      "name": "RG Shamans",
+      "author": "CalebD",
+      "format": "Modern",
+      "archetype": "Tribal",
+      "colors": [
+        "Red",
+        "Green"
+      ],
+      "updatedAt": "2019-02-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "simic-midrange",
+      "name": "Simic Midrange",
+      "author": "Atomic",
+      "format": "Modern",
+      "archetype": "Midrange",
+      "colors": [
+        "Blue",
+        "Green"
+      ],
+      "updatedAt": "2019-01-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "mono-r-living-end",
+      "name": "Mono-R Living End",
+      "author": "MTG Tavern",
+      "format": "Modern",
+      "archetype": "Combo",
+      "colors": [
+        "Red"
+      ],
+      "updatedAt": "2019-01-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "ur-electro-end",
+      "name": "UR Electro End",
+      "author": "Alex Bianchi",
+      "format": "Modern",
+      "archetype": "Combo",
+      "colors": [
+        "Blue",
+        "Red"
+      ],
+      "updatedAt": "2019-01-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "nexus-teachings",
+      "name": "Nexus Teachings",
+      "author": "FTZZMTG",
+      "format": "Modern",
+      "archetype": "Value",
+      "colors": [
+        "Blue",
+        "Black",
+        "Green"
+      ],
+      "updatedAt": "2019-01-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "loxobots",
+      "name": "Loxobots",
+      "author": "Jim Davis",
+      "format": "Modern",
+      "archetype": "Aggro",
+      "colors": [
+        "White"
+      ],
+      "updatedAt": "2018-12-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "naya-midrange",
+      "name": "Naya Midrange",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Midrange",
+      "colors": [
+        "White",
+        "Red",
+        "Green"
+      ],
+      "updatedAt": "2018-12-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "mornsong-experiment",
+      "name": "Mornsong Experiment",
+      "author": "Sjorpha",
+      "format": "Modern",
+      "archetype": "Attrition",
+      "colors": [
+        "White",
+        "Black",
+        "Red"
+      ],
+      "updatedAt": "2018-12-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "curious-gifts",
+      "name": "Curious Gifts",
+      "author": "Lieutenant_DAngel",
+      "format": "Modern",
+      "archetype": "Midrange",
+      "colors": [
+        "White",
+        "Blue",
+        "Black"
+      ],
+      "updatedAt": "2018-11-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "bant-miracles",
+      "name": "Bant Miracles",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Control",
+      "colors": [
+        "White",
+        "Blue",
+        "Green"
+      ],
+      "updatedAt": "2018-11-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "ug-precognition",
+      "name": "UG Precognition",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Combo",
+      "colors": [
+        "Blue",
+        "Green"
+      ],
+      "updatedAt": "2018-11-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "metalworks",
+      "name": "Metalworks",
+      "author": "u/Hombre550",
+      "format": "Modern",
+      "archetype": "Combo",
+      "colors": [
+        "Colorless"
+      ],
+      "updatedAt": "2018-11-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "singleton-control",
+      "name": "Singleton Control",
+      "author": "MerynMoon",
+      "format": "Modern",
+      "archetype": "Control",
+      "colors": [
+        "White",
+        "Blue",
+        "Black",
+        "Red",
+        "Green"
+      ],
+      "updatedAt": "2018-10-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "ug-outcome",
+      "name": "UG Outcome",
+      "author": "u/DiscombobulatedUnit5",
+      "format": "Modern",
+      "archetype": "Combo",
+      "colors": [
+        "Blue",
+        "Green"
+      ],
+      "updatedAt": "2018-10-01T00:00:00.000Z",
+      "containsBannedCards": true
+    },
+    {
+      "slug": "angel-pact",
+      "name": "Angel Pact",
+      "author": "u/MrRaeb",
+      "format": "Modern",
+      "archetype": "Pseudo Combo",
+      "colors": [
+        "White",
+        "Blue",
+        "Red"
+      ],
+      "updatedAt": "2018-10-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "sarkhan-reanimator",
+      "name": "Sarkhan Reanimator",
+      "author": "Magic_Aids",
+      "format": "Modern",
+      "archetype": "Pseudo Combo",
+      "colors": [
+        "Black",
+        "Red"
+      ],
+      "updatedAt": "2018-10-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "gr-cremator",
+      "name": "GR Cremator",
+      "author": "Archgaze",
+      "format": "Modern",
+      "archetype": "Value",
+      "colors": [
+        "Red",
+        "Green"
+      ],
+      "updatedAt": "2018-10-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "bw-vehicles",
+      "name": "BW Vehicles",
+      "author": "Hror",
+      "format": "Modern",
+      "archetype": "Aggro",
+      "colors": [
+        "White",
+        "Black"
+      ],
+      "updatedAt": "2018-09-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "3-land-belcher",
+      "name": "3-Land Belcher",
+      "author": "u/colzdude",
+      "format": "Modern",
+      "archetype": "Combo",
+      "colors": [
+        "Red",
+        "Green"
+      ],
+      "updatedAt": "2018-09-01T00:00:00.000Z",
+      "containsBannedCards": true
+    },
+    {
+      "slug": "beck-alarm",
+      "name": "Beck Alarm",
+      "author": "Conley Woods",
+      "format": "Modern",
+      "archetype": "Combo",
+      "colors": [
+        "White",
+        "Blue",
+        "Black",
+        "Red",
+        "Green"
+      ],
+      "updatedAt": "2018-09-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "hollow-flayer",
+      "name": "Hollow Flayer",
+      "author": "TheBasicPotato",
+      "format": "Modern",
+      "archetype": "Aggro",
+      "colors": [
+        "Blue",
+        "Black",
+        "Red"
+      ],
+      "updatedAt": "2018-08-01T00:00:00.000Z",
+      "containsBannedCards": true
+    },
+    {
+      "slug": "shadow-infect",
+      "name": "Shadow Infect",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Aggro",
+      "colors": [
+        "Blue",
+        "Black",
+        "Green"
+      ],
+      "updatedAt": "2018-08-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "thopter-sly-combo",
+      "name": "Thopter Sly Combo",
+      "author": "Zac Elsik",
+      "format": "Modern",
+      "archetype": "Combo",
+      "colors": [
+        "Blue",
+        "Black"
+      ],
+      "updatedAt": "2018-08-01T00:00:00.000Z",
+      "containsBannedCards": true
+    },
+    {
+      "slug": "hot-pockets",
+      "name": "Hot Pockets",
+      "author": "Omega_DestoyerZ",
+      "format": "Modern",
+      "archetype": "Combo",
+      "colors": [
+        "Black",
+        "Red"
+      ],
+      "updatedAt": "2018-08-01T00:00:00.000Z",
+      "containsBannedCards": true
+    },
+    {
+      "slug": "mono-g-value",
+      "name": "Mono-G Value",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Value",
+      "colors": [
+        "Green"
+      ],
+      "updatedAt": "2018-08-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "abzan-sustenance",
+      "name": "Abzan Sustenance",
+      "author": "u/TheOinkinator",
+      "format": "Modern",
+      "archetype": "Value",
+      "colors": [
+        "White",
+        "Black",
+        "Green"
+      ],
+      "updatedAt": "2018-08-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "ball-lightning-coco",
+      "name": "Ball Lightning CoCo",
+      "author": "Mikey42Hopkins",
+      "format": "Modern",
+      "archetype": "Aggro",
+      "colors": [
+        "Red",
+        "Green",
+        "Black"
+      ],
+      "updatedAt": "2018-07-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "hate-mares",
+      "name": "Hate Mares",
+      "author": "PleasantKenobi",
+      "format": "Modern",
+      "archetype": "Tribal",
+      "colors": [
+        "White",
+        "Green"
+      ],
+      "updatedAt": "2018-07-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "sylvan-soulblast",
+      "name": "Sylvan Soulblast",
+      "author": "MooseImperium",
+      "format": "Modern",
+      "archetype": "Combo",
+      "colors": [
+        "Red",
+        "Green"
+      ],
+      "updatedAt": "2018-06-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "skill-borrower-evolution",
+      "name": "Skill Borrower Evolution",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Combo",
+      "colors": [
+        "White",
+        "Blue",
+        "Black",
+        "Red",
+        "Green"
+      ],
+      "updatedAt": "2018-06-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "naru-chord",
+      "name": "Naru Chord",
+      "author": "Jeff Hoogland",
+      "format": "Modern",
+      "archetype": "Value",
+      "colors": [
+        "White",
+        "Blue",
+        "Green"
+      ],
+      "updatedAt": "2018-06-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "ub-rogues",
+      "name": "UB Rogues",
+      "author": "GreenSkyDragon",
+      "format": "Modern",
+      "archetype": "Tribal",
+      "colors": [
+        "Blue",
+        "Black"
+      ],
+      "updatedAt": "2018-06-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "hollow-loam",
+      "name": "Hollow Loam",
+      "author": "u/ieatatsonic",
+      "format": "Modern",
+      "archetype": "Aggro",
+      "colors": [
+        "Blue",
+        "Black",
+        "Red",
+        "Green"
+      ],
+      "updatedAt": "2018-05-01T00:00:00.000Z",
+      "containsBannedCards": true
+    },
+    {
+      "slug": "skred-red",
+      "name": "Skred Red",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Midrange",
+      "colors": [
+        "Red"
+      ],
+      "updatedAt": "2018-05-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "all-natural-breakfast",
+      "name": "All-Natural Breakfast",
+      "author": "u/BACEXXXXXX",
+      "format": "Modern",
+      "archetype": "Combo",
+      "colors": [
+        "White",
+        "Blue",
+        "Red",
+        "Green"
+      ],
+      "updatedAt": "2018-05-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "ur-thopters",
+      "name": "UR Thopters",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Prison",
+      "colors": [
+        "Blue",
+        "Red"
+      ],
+      "updatedAt": "2018-05-01T00:00:00.000Z",
+      "containsBannedCards": true
+    },
+    {
+      "slug": "blue-steel",
+      "name": "Blue Steel",
+      "author": "Zac Elsik",
+      "format": "Modern",
+      "archetype": "Value",
+      "colors": [
+        "Blue"
+      ],
+      "updatedAt": "2018-05-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "voltaic-scales",
+      "name": "Voltaic Scales",
+      "author": "Magic Aids",
+      "format": "Modern",
+      "archetype": "Value",
+      "colors": [
+        "White",
+        "Green"
+      ],
+      "updatedAt": "2018-05-01T00:00:00.000Z",
+      "containsBannedCards": true
+    },
+    {
+      "slug": "waste-cascade",
+      "name": "Waste Cascade",
+      "author": "u/x1uo3yd",
+      "format": "Modern",
+      "archetype": "Value",
+      "colors": [
+        "Black",
+        "Red",
+        "Green"
+      ],
+      "updatedAt": "2018-05-01T00:00:00.000Z",
+      "containsBannedCards": true
+    },
+    {
+      "slug": "uw-battle-of-wits",
+      "name": "UW Battle of Wits",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Control",
+      "colors": [
+        "White",
+        "Blue"
+      ],
+      "updatedAt": "2018-04-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "sultai-dragons",
+      "name": "Sultai Dragons",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Control",
+      "colors": [
+        "Blue",
+        "Black",
+        "Green"
+      ],
+      "updatedAt": "2018-04-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "infinite-research",
+      "name": "Infinite Research",
+      "author": "",
+      "format": "Modern",
+      "archetype": "Combo",
+      "colors": [
+        "White",
+        "Blue",
+        "Red",
+        "Green"
+      ],
+      "updatedAt": "2018-04-01T00:00:00.000Z",
+      "containsBannedCards": true
+    },
+    {
+      "slug": "narset-turns",
+      "name": "Narset Turns",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Pseudo Combo",
+      "colors": [
+        "White",
+        "Blue",
+        "Red"
+      ],
+      "updatedAt": "2018-04-01T00:00:00.000Z",
+      "containsBannedCards": true
+    },
+    {
+      "slug": "heartless-eldrazi",
+      "name": "Heartless Eldrazi",
+      "author": "u/MythSteak",
+      "format": "Modern",
+      "archetype": "Tribal",
+      "colors": [
+        "Black"
+      ],
+      "updatedAt": "2018-04-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "gr-bogles",
+      "name": "GR Bogles",
+      "author": "u/GhostofCircleKnight",
+      "format": "Modern",
+      "archetype": "Aggro",
+      "colors": [
+        "Red",
+        "Green"
+      ],
+      "updatedAt": "2018-03-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "ur-hollow-one",
+      "name": "UR Hollow One",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Aggro",
+      "colors": [
+        "Blue",
+        "Red"
+      ],
+      "updatedAt": "2018-03-01T00:00:00.000Z",
+      "containsBannedCards": true
+    },
+    {
+      "slug": "doran-ascendancy",
+      "name": "Doran Ascendancy",
+      "author": "u/DrDrater",
+      "format": "Modern",
+      "archetype": "Aggro",
+      "colors": [
+        "White",
+        "Black",
+        "Red",
+        "Green"
+      ],
+      "updatedAt": "2018-03-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "christmas-lights",
+      "name": "Christmas Lights",
+      "author": "u/Pustka",
+      "format": "Modern",
+      "archetype": "Midrange",
+      "colors": [
+        "Red",
+        "Green"
+      ],
+      "updatedAt": "2018-03-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "harmless-trader",
+      "name": "Harmless Trader",
+      "author": "u/Deathjoker00",
+      "format": "Modern",
+      "archetype": "Pseudo Combo",
+      "colors": [
+        "Black",
+        "Red"
+      ],
+      "updatedAt": "2018-03-01T00:00:00.000Z",
+      "containsBannedCards": true
+    },
+    {
+      "slug": "zurs-prison",
+      "name": "Zur's Prison",
+      "author": "u/Sergmac",
+      "format": "Modern",
+      "archetype": "Prison",
+      "colors": [
+        "White",
+        "Blue"
+      ],
+      "updatedAt": "2018-03-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "alcatraz",
+      "name": "Alcatraz",
+      "author": "u/DiogenesCane",
+      "format": "Modern",
+      "archetype": "Prison",
+      "colors": [
+        "Blue",
+        "Red",
+        "Green"
+      ],
+      "updatedAt": "2018-03-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "induced-amnesia",
+      "name": "Induced Amnesia",
+      "author": "Saffron Olive",
+      "format": "Modern",
+      "archetype": "Value",
+      "colors": [
+        "White",
+        "Blue"
+      ],
+      "updatedAt": "2018-03-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "esper-hunted-horror",
+      "name": "Esper Hunted Horror",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Value",
+      "colors": [
+        "White",
+        "Blue",
+        "Black"
+      ],
+      "updatedAt": "2018-03-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "lucky-charms",
+      "name": "Lucky Charms",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Aggro",
+      "colors": [
+        "White",
+        "Blue",
+        "Black",
+        "Red",
+        "Green"
+      ],
+      "updatedAt": "2018-02-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "ub-horrors",
+      "name": "UB Horrors",
+      "author": "u/Commanda_Panda",
+      "format": "Modern",
+      "archetype": "Midrange",
+      "colors": [
+        "Blue",
+        "Black"
+      ],
+      "updatedAt": "2018-02-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "grixis-dragons",
+      "name": "Grixis Dragons",
+      "author": "u/JaceArveduin",
+      "format": "Modern",
+      "archetype": "Midrange",
+      "colors": [
+        "Blue",
+        "Black",
+        "Red"
+      ],
+      "updatedAt": "2018-02-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "ur-battle-of-wits",
+      "name": "UR Battle of Wits",
+      "author": "u/URLSweathsirt",
+      "format": "Modern",
+      "archetype": "Control",
+      "colors": [
+        "Blue",
+        "Red"
+      ],
+      "updatedAt": "2018-02-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "arcane-remedy",
+      "name": "Arcane Remedy",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Combo",
+      "colors": [
+        "Blue",
+        "Black"
+      ],
+      "updatedAt": "2018-02-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "mindcrank-combo",
+      "name": "Mindcrank Combo",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Combo",
+      "colors": [
+        "Blue",
+        "Black"
+      ],
+      "updatedAt": "2018-02-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "zombie-hunt",
+      "name": "Zombie Hunt",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Combo",
+      "colors": [
+        "Blue",
+        "Black"
+      ],
+      "updatedAt": "2018-02-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "swan-storm",
+      "name": "Swan Storm",
+      "author": "u/Deathjoker00",
+      "format": "Modern",
+      "archetype": "Combo",
+      "colors": [
+        "Blue",
+        "Red"
+      ],
+      "updatedAt": "2018-02-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "bant-bellower",
+      "name": "Bant Bellower",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Combo",
+      "colors": [
+        "White",
+        "Blue",
+        "Green"
+      ],
+      "updatedAt": "2018-02-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "soulflayer-surprise",
+      "name": "Soulflayer Surprise",
+      "author": "flintyminty3",
+      "format": "Modern",
+      "archetype": "Pseudo Combo",
+      "colors": [
+        "White",
+        "Black",
+        "Red",
+        "Green"
+      ],
+      "updatedAt": "2018-02-01T00:00:00.000Z",
+      "containsBannedCards": true
+    },
+    {
+      "slug": "combo-mill",
+      "name": "Combo Mill",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Pseudo Combo",
+      "colors": [
+        "Blue",
+        "Black"
+      ],
+      "updatedAt": "2018-02-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "mono-b-infestation",
+      "name": "Mono-B Infestation",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Value",
+      "colors": [
+        "Black"
+      ],
+      "updatedAt": "2018-02-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "waste-not-storm",
+      "name": "Waste Not Storm",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Value",
+      "colors": [
+        "Black",
+        "Red"
+      ],
+      "updatedAt": "2018-02-01T00:00:00.000Z",
+      "containsBannedCards": true
+    },
+    {
+      "slug": "heartless-valuetown",
+      "name": "Heartless Valuetown",
+      "author": "u/packbuckbrew",
+      "format": "Modern",
+      "archetype": "Value",
+      "colors": [
+        "Black",
+        "Green"
+      ],
+      "updatedAt": "2018-02-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "ug-turbo-lands",
+      "name": "UG Turbo Lands",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Value",
+      "colors": [
+        "Blue",
+        "Green"
+      ],
+      "updatedAt": "2018-02-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "cryptic-eldrazi",
+      "name": "Cryptic Eldrazi",
+      "author": "u/userlastname",
+      "format": "Modern",
+      "archetype": "Tribal",
+      "colors": [
+        "Blue"
+      ],
+      "updatedAt": "2018-02-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "owling-mine",
+      "name": "Owling Mine",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Attrition",
+      "colors": [
+        "Blue",
+        "Red"
+      ],
+      "updatedAt": "2018-02-01T00:00:00.000Z",
+      "containsBannedCards": true
+    },
+    {
+      "slug": "dragon-stompy",
+      "name": "Dragon Stompy",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Tribal",
+      "colors": [
+        "Red"
+      ],
+      "updatedAt": "2018-02-01T00:00:00.000Z",
+      "containsBannedCards": true
+    },
+    {
+      "slug": "hollow-eldrazi",
+      "name": "Hollow Eldrazi",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Tribal",
+      "colors": [
+        "Red"
+      ],
+      "updatedAt": "2018-02-01T00:00:00.000Z",
+      "containsBannedCards": true
+    },
+    {
+      "slug": "ub-eldrazi",
+      "name": "UB Eldrazi",
+      "author": "Todd Stevens",
+      "format": "Modern",
+      "archetype": "Tribal",
+      "colors": [
+        "Blue",
+        "Black"
+      ],
+      "updatedAt": "2018-02-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "bant-martyr-proc",
+      "name": "Bant Martyr Proc",
+      "author": "",
+      "format": "Modern",
+      "archetype": "Other",
+      "colors": [
+        "White",
+        "Blue",
+        "Green"
+      ],
+      "updatedAt": "2018-02-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "meatball-ponza",
+      "name": "Meatball Ponza",
+      "author": "u/ArborElfPass",
+      "format": "Modern",
+      "archetype": "Midrange",
+      "colors": [
+        "Red",
+        "Green"
+      ],
+      "updatedAt": "2018-01-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "journey-nic-fit",
+      "name": "Journey Nic-Fit",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Midrange",
+      "colors": [
+        "Blue",
+        "Black",
+        "Green"
+      ],
+      "updatedAt": "2018-01-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "evo-journey",
+      "name": "Evo Journey",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Midrange",
+      "colors": [
+        "White",
+        "Blue",
+        "Black",
+        "Green"
+      ],
+      "updatedAt": "2018-01-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "grixis-pits",
+      "name": "Grixis Pits",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Control",
+      "colors": [
+        "Blue",
+        "Black",
+        "Red"
+      ],
+      "updatedAt": "2018-01-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "mono-u-airforce",
+      "name": "Mono-U Airforce",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Aggro",
+      "colors": [
+        "Blue"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "holy-quest",
+      "name": "Holy Quest",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Aggro",
+      "colors": [
+        "White"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "hollow-red",
+      "name": "Hollow Red",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Aggro",
+      "colors": [
+        "Red"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": true
+    },
+    {
+      "slug": "rb-death-vine",
+      "name": "RB Death Vine",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Aggro",
+      "colors": [
+        "Black",
+        "Red"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": true
+    },
+    {
+      "slug": "rb-hollow-call",
+      "name": "RB Hollow Call",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Aggro",
+      "colors": [
+        "Black",
+        "Red"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": true
+    },
+    {
+      "slug": "red-vine-zoo",
+      "name": "Red Vine Zoo",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Aggro",
+      "colors": [
+        "Red",
+        "Green"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": true
+    },
+    {
+      "slug": "gw-life-gain-aggro",
+      "name": "GW Life Gain Aggro",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Aggro",
+      "colors": [
+        "White",
+        "Green"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "boros-vehicles",
+      "name": "Boros Vehicles",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Aggro",
+      "colors": [
+        "White",
+        "Red"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "nivmagus-cannon",
+      "name": "Nivmagus Cannon",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Aggro",
+      "colors": [
+        "Blue",
+        "Black",
+        "Red"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "suicide-grixis",
+      "name": "Suicide Grixis",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Aggro",
+      "colors": [
+        "Blue",
+        "Black",
+        "Red"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "savor-the-moment",
+      "name": "Savor the Moment",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Aggro",
+      "colors": [
+        "White",
+        "Blue",
+        "Red"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "temur-ascendancy-zoo",
+      "name": "Temur Ascendancy Zoo",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Aggro",
+      "colors": [
+        "Blue",
+        "Red",
+        "Green"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "rug-prowess",
+      "name": "RUG Prowess",
+      "author": "u/CommandaPanda",
+      "format": "Modern",
+      "archetype": "Aggro",
+      "colors": [
+        "Blue",
+        "Red",
+        "Green"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "temur-hollow-one",
+      "name": "Temur Hollow One",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Aggro",
+      "colors": [
+        "Blue",
+        "Red",
+        "Green"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": true
+    },
+    {
+      "slug": "mono-w-devotion",
+      "name": "Mono-W Devotion",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Midrange",
+      "colors": [
+        "White"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "black-moon",
+      "name": "Black Moon",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Midrange",
+      "colors": [
+        "Black",
+        "Red"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "gw-enchantress",
+      "name": "GW Enchantress",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Midrange",
+      "colors": [
+        "Green",
+        "White"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "jund-dragons",
+      "name": "Jund Dragons",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Midrange",
+      "colors": [
+        "Black",
+        "Red",
+        "Green"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "naya-eldrazi-evolution",
+      "name": "Naya Eldrazi Evolution",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Midrange",
+      "colors": [
+        "White",
+        "Red",
+        "Green"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "madcap-naya",
+      "name": "Madcap Naya",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Midrange",
+      "colors": [
+        "White",
+        "Red",
+        "Green"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "warp-world",
+      "name": "Warp World",
+      "author": "u/URLSweatshirt",
+      "format": "Modern",
+      "archetype": "Midrange",
+      "colors": [
+        "White",
+        "Red",
+        "Green"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "esper-trading-post",
+      "name": "Esper Trading Post",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Midrange",
+      "colors": [
+        "White",
+        "Blue",
+        "Black"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "mardu-pyromancer",
+      "name": "Mardu Pyromancer",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Midrange",
+      "colors": [
+        "White",
+        "Black",
+        "Red"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "mono-g-devotion",
+      "name": "Mono-G Devotion",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Midrange",
+      "colors": [
+        "White",
+        "Black",
+        "Red",
+        "Green"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "glittering-walls",
+      "name": "Glittering Walls",
+      "author": "u/URLSweatshirt",
+      "format": "Modern",
+      "archetype": "Midrange",
+      "colors": [
+        "White",
+        "Blue",
+        "Black",
+        "Red",
+        "Green"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "mazes-witz",
+      "name": "Maze's Witz",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Midrange",
+      "colors": [
+        "White",
+        "Blue",
+        "Black",
+        "Red",
+        "Green"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "sonic-boom",
+      "name": "Sonic Boom",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Control",
+      "colors": [
+        "Blue"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "nexus-control",
+      "name": "Nexus Control",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Control",
+      "colors": [
+        "White",
+        "Blue",
+        "Black",
+        "Red",
+        "Green"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "mono-u-living-end",
+      "name": "Mono-U Living End",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Combo",
+      "colors": [
+        "Blue"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "lava-storm",
+      "name": "Lava Storm",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Combo",
+      "colors": [
+        "Red"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "7-land-belcher",
+      "name": "7-Land Belcher",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Combo",
+      "colors": [
+        "Green"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "shelldock-apostles",
+      "name": "Shelldock Apostles",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Combo",
+      "colors": [
+        "Blue",
+        "Black"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "graveshift",
+      "name": "Graveshift",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Combo",
+      "colors": [
+        "Red",
+        "Green"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": true
+    },
+    {
+      "slug": "bandit-lord-vizier",
+      "name": "Bandit Lord Vizier",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Combo",
+      "colors": [
+        "White",
+        "Green"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "bw-myr-combo",
+      "name": "BW Myr Combo",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Combo",
+      "colors": [
+        "White",
+        "Black"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "heartbeat-combo",
+      "name": "Heartbeat Combo",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Combo",
+      "colors": [
+        "Blue",
+        "Green"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "shifting-end",
+      "name": "Shifting End",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Combo",
+      "colors": [
+        "Black",
+        "Red",
+        "Green"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "humanator-combo",
+      "name": "Humanator Combo",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Combo",
+      "colors": [
+        "White",
+        "Black",
+        "Red"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": true
+    },
+    {
+      "slug": "landfall-combo",
+      "name": "Landfall Combo",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Combo",
+      "colors": [
+        "Blue",
+        "Red",
+        "Green"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "god-pharaohs-combo",
+      "name": "God-Pharaoh's Combo",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Combo",
+      "colors": [
+        "White",
+        "Black",
+        "Red",
+        "Green"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": true
+    },
+    {
+      "slug": "new-perspectives",
+      "name": "New Perspectives",
+      "author": "M14",
+      "format": "Modern",
+      "archetype": "Combo",
+      "colors": [
+        "Blue",
+        "Red",
+        "Green"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "marvelous-dragon-storm",
+      "name": "Marvelous Dragon Storm",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Combo",
+      "colors": [
+        "White",
+        "Blue",
+        "Black",
+        "Red",
+        "Green"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": true
+    },
+    {
+      "slug": "pokemon-scapeshift",
+      "name": "Pokemon Scapeshift",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Combo",
+      "colors": [
+        "White",
+        "Blue",
+        "Black",
+        "Red",
+        "Green"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "taking-turns",
+      "name": "Taking Turns",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Pseudo Combo",
+      "colors": [
+        "Blue"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "goryos-deathvine",
+      "name": "Goryo's Deathvine",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Pseudo Combo",
+      "colors": [
+        "Black",
+        "Red",
+        "Green"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": true
+    },
+    {
+      "slug": "esper-rally",
+      "name": "Esper Rally",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Pseudo Combo",
+      "colors": [
+        "White",
+        "Blue",
+        "Black"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": true
+    },
+    {
+      "slug": "temur-polymorph",
+      "name": "Temur Polymorph",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Pseudo Combo",
+      "colors": [
+        "Blue",
+        "Red",
+        "Green"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "mono-r-tron",
+      "name": "Mono-R Tron",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Pseudo Combo",
+      "colors": [
+        "Red"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "land-extraction-mill",
+      "name": "Land Extraction Mill",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Pseudo Combo",
+      "colors": [
+        "Blue",
+        "Black"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "metal-reanimator",
+      "name": "Metal Reanimator",
+      "author": "Zac Elsik",
+      "format": "Modern",
+      "archetype": "Pseudo Combo",
+      "colors": [
+        "Black",
+        "Red"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": true
+    },
+    {
+      "slug": "free-win-red",
+      "name": "Free Win Red",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Prison",
+      "colors": [
+        "Red"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": true
+    },
+    {
+      "slug": "mono-r-prison",
+      "name": "Mono-R Prison",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Prison",
+      "colors": [
+        "Red"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": true
+    },
+    {
+      "slug": "artifact-prison",
+      "name": "Artifact Prison",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Prison",
+      "colors": [
+        "Colorless"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": true
+    },
+    {
+      "slug": "liliana-tribal",
+      "name": "Liliana Tribal",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Planeswalkers",
+      "colors": [
+        "Black"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "puresteel-tool-box",
+      "name": "Puresteel Tool Box",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Value",
+      "colors": [
+        "White"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": true
+    },
+    {
+      "slug": "mono-g-superfriends",
+      "name": "Mono-G Superfriends",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Planeswalkers",
+      "colors": [
+        "Green"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "gideon-tribal",
+      "name": "Gideon Tribal",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Planeswalkers",
+      "colors": [
+        "White",
+        "Black"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "mardu-walkers",
+      "name": "Mardu Walkers",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Planeswalkers",
+      "colors": [
+        "White",
+        "Black",
+        "Red"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "little-walkers",
+      "name": "Little Walkers",
+      "author": "Todd Stevens",
+      "format": "Modern",
+      "archetype": "Planeswalkers",
+      "colors": [
+        "Blue",
+        "Black",
+        "Green"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "mono-b-panharmonicon",
+      "name": "Mono-B Panharmonicon",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Value",
+      "colors": [
+        "Black"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "sarkhans-shadow",
+      "name": "Sarkhan's Shadow",
+      "author": "Conley Woods",
+      "format": "Modern",
+      "archetype": "Value",
+      "colors": [
+        "Black",
+        "Red"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "heartless-eldrazi",
+      "name": "Heartless Eldrazi",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Value",
+      "colors": [
+        "Blue",
+        "Black"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "ur-coin-flip",
+      "name": "UR Coin Flip",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Value",
+      "colors": [
+        "Blue",
+        "Red"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "grixis-as-foretold",
+      "name": "Grixis As Foretold",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Value",
+      "colors": [
+        "Blue",
+        "Black",
+        "Red"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": true
+    },
+    {
+      "slug": "baral-reanimator",
+      "name": "Baral Reanimator",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Value",
+      "colors": [
+        "White",
+        "Blue",
+        "Black"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "lupelines",
+      "name": "LupeLines",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Value",
+      "colors": [
+        "White",
+        "Black",
+        "Green"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "5c-coco",
+      "name": "5c CoCo",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Value",
+      "colors": [
+        "White",
+        "Blue",
+        "Black",
+        "Red",
+        "Green"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "mono-r-hatebears",
+      "name": "Mono-R Hatebears",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Attrition",
+      "colors": [
+        "Red"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "mono-u-martyrs",
+      "name": "Mono-U Martyrs",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Attrition",
+      "colors": [
+        "Blue"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "rats-and-taxes",
+      "name": "Rats and Taxes",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Attrition",
+      "colors": [
+        "White",
+        "Black"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "sultai-deathcloud",
+      "name": "Sultai Deathcloud",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Attrition",
+      "colors": [
+        "Blue",
+        "Black",
+        "Green"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "rw-stax",
+      "name": "RW Stax",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Attrition",
+      "colors": [
+        "White",
+        "Red"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "mono-u-illusions",
+      "name": "Mono-U Illusions",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Tribal",
+      "colors": [
+        "Blue"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "ub-zombie-combo",
+      "name": "UB Zombie Combo",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Tribal",
+      "colors": [
+        "Blue",
+        "Black"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": true
+    },
+    {
+      "slug": "gr-eldrazi-delirium",
+      "name": "GR Eldrazi Delirium",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Tribal",
+      "colors": [
+        "Red",
+        "Green"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "gw-humans",
+      "name": "GW Humans",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Tribal",
+      "colors": [
+        "White",
+        "Green"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "mono-b-burn",
+      "name": "Mono-B Burn",
+      "author": "",
+      "format": "Modern",
+      "archetype": "Other",
+      "colors": [
+        "Black"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "nyx-wave",
+      "name": "Nyx Wave",
+      "author": "",
+      "format": "Modern",
+      "archetype": "Other",
+      "colors": [
+        "Green"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "primal-door",
+      "name": "Primal Door",
+      "author": "",
+      "format": "Modern",
+      "archetype": "Other",
+      "colors": [
+        "Green"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "primal-surge",
+      "name": "Primal Surge",
+      "author": "",
+      "format": "Modern",
+      "archetype": "Other",
+      "colors": [
+        "Green"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "rally-the-zuberas",
+      "name": "Rally the Zuberas",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Tribal",
+      "colors": [
+        "White",
+        "Blue",
+        "Black",
+        "Red",
+        "Green"
+      ],
+      "updatedAt": "2017-12-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "glittering-ad-nauseum",
+      "name": "Glittering Ad Nauseum",
+      "author": "u/EDPT",
+      "format": "Modern",
+      "archetype": "Combo",
+      "colors": [
+        "White",
+        "Blue",
+        "Black",
+        "Red",
+        "Green"
+      ],
+      "updatedAt": "2017-10-01T00:00:00.000Z",
+      "containsBannedCards": true
+    },
+    {
+      "slug": "esper-zur",
+      "name": "Esper Zur",
+      "author": "Kehlder",
+      "format": "Modern",
+      "archetype": "Value",
+      "colors": [
+        "White",
+        "Blue",
+        "Black"
+      ],
+      "updatedAt": "2017-10-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "uw-airforce",
+      "name": "UW Airforce",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Aggro",
+      "colors": [
+        "White",
+        "Blue"
+      ],
+      "updatedAt": "2017-09-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "uw-hexproof",
+      "name": "UW Hexproof",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Aggro",
+      "colors": [
+        "White",
+        "Blue"
+      ],
+      "updatedAt": "2017-09-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "uw-holy-quest",
+      "name": "UW Holy Quest",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Aggro",
+      "colors": [
+        "White",
+        "Blue"
+      ],
+      "updatedAt": "2017-09-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "rw-pyrohemia",
+      "name": "RW Pyrohemia",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Midrange",
+      "colors": [
+        "White",
+        "Red"
+      ],
+      "updatedAt": "2017-09-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "abzan-curses",
+      "name": "Abzan Curses",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Midrange",
+      "colors": [
+        "White",
+        "Black",
+        "Green"
+      ],
+      "updatedAt": "2017-09-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "8-scales",
+      "name": "8-Scales",
+      "author": "Plum",
+      "format": "Modern",
+      "archetype": "Midrange",
+      "colors": [
+        "White",
+        "Black",
+        "Red",
+        "Green"
+      ],
+      "updatedAt": "2017-09-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "uw-renewal",
+      "name": "UW Renewal",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Control",
+      "colors": [
+        "White",
+        "Blue"
+      ],
+      "updatedAt": "2017-09-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "ub-control",
+      "name": "UB Control",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Control",
+      "colors": [
+        "Blue",
+        "Black"
+      ],
+      "updatedAt": "2017-09-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "ug-pili-pala",
+      "name": "UG Pili-Pala",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Combo",
+      "colors": [
+        "Blue",
+        "Green"
+      ],
+      "updatedAt": "2017-09-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "uw-turns",
+      "name": "UW Turns",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Pseudo Combo",
+      "colors": [
+        "White",
+        "Blue"
+      ],
+      "updatedAt": "2017-09-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "zombardment",
+      "name": "Zombardment",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Pseudo Combo",
+      "colors": [
+        "Black",
+        "Red",
+        "Green"
+      ],
+      "updatedAt": "2017-09-01T00:00:00.000Z",
+      "containsBannedCards": true
+    },
+    {
+      "slug": "tezzerets-intuition",
+      "name": "Tezzeret's Intuition",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Prison",
+      "colors": [
+        "Blue",
+        "Black"
+      ],
+      "updatedAt": "2017-09-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "westvale-worship",
+      "name": "Westvale Worship",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Prison",
+      "colors": [
+        "White",
+        "Green"
+      ],
+      "updatedAt": "2017-09-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "enduring-ideal",
+      "name": "Enduring Ideal",
+      "author": "Rinko",
+      "format": "Modern",
+      "archetype": "Prison",
+      "colors": [
+        "White",
+        "Red"
+      ],
+      "updatedAt": "2017-09-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "wr-prison",
+      "name": "WR Prison",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Prison",
+      "colors": [
+        "White",
+        "Red"
+      ],
+      "updatedAt": "2017-09-01T00:00:00.000Z",
+      "containsBannedCards": true
+    },
+    {
+      "slug": "ur-tutelage",
+      "name": "UR Tutelage",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Prison",
+      "colors": [
+        "Blue",
+        "Red"
+      ],
+      "updatedAt": "2017-09-01T00:00:00.000Z",
+      "containsBannedCards": true
+    },
+    {
+      "slug": "uw-monument",
+      "name": "UW Monument",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Value",
+      "colors": [
+        "White",
+        "Blue"
+      ],
+      "updatedAt": "2017-09-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "ur-improvise",
+      "name": "UR Improvise",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Value",
+      "colors": [
+        "Blue",
+        "Red"
+      ],
+      "updatedAt": "2017-09-01T00:00:00.000Z",
+      "containsBannedCards": true
+    },
+    {
+      "slug": "ug-warp",
+      "name": "UG Warp",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Value",
+      "colors": [
+        "Blue",
+        "Green"
+      ],
+      "updatedAt": "2017-09-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "waste-foretold",
+      "name": "Waste Foretold",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Value",
+      "colors": [
+        "Blue",
+        "Black",
+        "Red"
+      ],
+      "updatedAt": "2017-09-01T00:00:00.000Z",
+      "containsBannedCards": true
+    },
+    {
+      "slug": "unexpected-results",
+      "name": "Unexpected Results",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Value",
+      "colors": [
+        "White",
+        "Blue",
+        "Black",
+        "Red",
+        "Green"
+      ],
+      "updatedAt": "2017-09-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "uw-hatebears",
+      "name": "UW Hatebears",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Attrition",
+      "colors": [
+        "White",
+        "Blue"
+      ],
+      "updatedAt": "2017-09-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "uw-sceptor",
+      "name": "UW Sceptor",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Attrition",
+      "colors": [
+        "White",
+        "Blue"
+      ],
+      "updatedAt": "2017-09-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "elemental-breach",
+      "name": "Elemental Breach",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Tribal",
+      "colors": [
+        "White",
+        "Blue",
+        "Black",
+        "Red",
+        "Green"
+      ],
+      "updatedAt": "2017-09-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "ug-gifts",
+      "name": "UG Gifts",
+      "author": "",
+      "format": "Modern",
+      "archetype": "Other",
+      "colors": [
+        "Blue",
+        "Green"
+      ],
+      "updatedAt": "2017-09-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "aethermage-sultai",
+      "name": "Aethermage Sultai",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Midrange",
+      "colors": [
+        "White",
+        "Blue",
+        "Black",
+        "Green"
+      ],
+      "updatedAt": "2017-08-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "solemnity-combo",
+      "name": "Solemnity Combo",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Combo",
+      "colors": [
+        "White",
+        "Blue",
+        "Black"
+      ],
+      "updatedAt": "2017-07-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "tabernacle-control",
+      "name": "Tabernacle Control",
+      "author": "u/lashazior",
+      "format": "Modern",
+      "archetype": "Attrition",
+      "colors": [
+        "White"
+      ],
+      "updatedAt": "2017-07-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "dubious-breach",
+      "name": "Dubious Breach",
+      "author": "John Middlebrook",
+      "format": "Modern",
+      "archetype": "Pseudo Combo",
+      "colors": [
+        "White",
+        "Red",
+        "Green"
+      ],
+      "updatedAt": "2017-06-01T00:00:00.000Z",
+      "containsBannedCards": true
+    },
+    {
+      "slug": "gb-ooze",
+      "name": "GB Ooze",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Combo",
+      "colors": [
+        "Black",
+        "Green"
+      ],
+      "updatedAt": "2017-05-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "ultimatum-combo",
+      "name": "Ultimatum Combo",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Combo",
+      "colors": [
+        "White",
+        "Blue",
+        "Black",
+        "Red",
+        "Green"
+      ],
+      "updatedAt": "2017-05-01T00:00:00.000Z",
+      "containsBannedCards": true
+    },
+    {
+      "slug": "blue-moon-turns",
+      "name": "Blue Moon Turns",
+      "author": "u/HELLO_WORKS_AGAIN",
+      "format": "Modern",
+      "archetype": "Pseudo Combo",
+      "colors": [
+        "Blue",
+        "Red"
+      ],
+      "updatedAt": "2017-05-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "blistering-rage",
+      "name": "Blistering Rage",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Aggro",
+      "colors": [
+        "Red"
+      ],
+      "updatedAt": "2017-04-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "ensnaring-aggro",
+      "name": "Ensnaring Aggro",
+      "author": "u/BACEXXXXXX",
+      "format": "Modern",
+      "archetype": "Aggro",
+      "colors": [
+        "Red",
+        "Green"
+      ],
+      "updatedAt": "2017-04-01T00:00:00.000Z",
+      "containsBannedCards": true
+    },
+    {
+      "slug": "esper-planes",
+      "name": "Esper Planes",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Aggro",
+      "colors": [
+        "White",
+        "Blue",
+        "Black"
+      ],
+      "updatedAt": "2017-04-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "golden-zoo",
+      "name": "Golden Zoo",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Aggro",
+      "colors": [
+        "White",
+        "Blue",
+        "Black",
+        "Red",
+        "Green"
+      ],
+      "updatedAt": "2017-04-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "bug-salvage",
+      "name": "BUG Salvage",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Midrange",
+      "colors": [
+        "Blue",
+        "Black",
+        "Green"
+      ],
+      "updatedAt": "2017-04-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "5c-glittering-scales",
+      "name": "5c Glittering Scales",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Midrange",
+      "colors": [
+        "White",
+        "Blue",
+        "Black",
+        "Red",
+        "Green"
+      ],
+      "updatedAt": "2017-04-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "counter-crop",
+      "name": "Counter Crop",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Control",
+      "colors": [
+        "White",
+        "Blue",
+        "Green"
+      ],
+      "updatedAt": "2017-04-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "dark-crime-combo",
+      "name": "Dark Crime Combo",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Combo",
+      "colors": [
+        "Blue",
+        "Black"
+      ],
+      "updatedAt": "2017-04-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "bio-weaver",
+      "name": "Bio-Weaver",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Combo",
+      "colors": [
+        "Blue",
+        "Green"
+      ],
+      "updatedAt": "2017-04-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "blood-funnel-combo",
+      "name": "Blood Funnel Combo",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Combo",
+      "colors": [
+        "White",
+        "Blue",
+        "Black"
+      ],
+      "updatedAt": "2017-04-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "bant-saheeli",
+      "name": "Bant Saheeli",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Combo",
+      "colors": [
+        "White",
+        "Blue",
+        "Red",
+        "Green"
+      ],
+      "updatedAt": "2017-04-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "transformable-belcher",
+      "name": "Transformable Belcher",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Combo",
+      "colors": [
+        "White",
+        "Blue",
+        "Black",
+        "Red",
+        "Green"
+      ],
+      "updatedAt": "2017-04-01T00:00:00.000Z",
+      "containsBannedCards": true
+    },
+    {
+      "slug": "act-of-bees",
+      "name": "Act of Bees",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Pseudo Combo",
+      "colors": [
+        "White",
+        "Black",
+        "Red",
+        "Green"
+      ],
+      "updatedAt": "2017-04-01T00:00:00.000Z",
+      "containsBannedCards": true
+    },
+    {
+      "slug": "charged-destruction",
+      "name": "Charged Destruction",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Pseudo Combo",
+      "colors": [
+        "Red"
+      ],
+      "updatedAt": "2017-04-01T00:00:00.000Z",
+      "containsBannedCards": true
+    },
+    {
+      "slug": "bloody-humans",
+      "name": "Bloody Humans",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Prison",
+      "colors": [
+        "Red"
+      ],
+      "updatedAt": "2017-04-01T00:00:00.000Z",
+      "containsBannedCards": true
+    },
+    {
+      "slug": "crucible-control",
+      "name": "Crucible Control",
+      "author": "Randall Thompson",
+      "format": "Modern",
+      "archetype": "Prison",
+      "colors": [
+        "Black"
+      ],
+      "updatedAt": "2017-04-01T00:00:00.000Z",
+      "containsBannedCards": true
+    },
+    {
+      "slug": "esper-turbo-friends",
+      "name": "Esper Turbo Friends",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Planeswalkers",
+      "colors": [
+        "White",
+        "Blue",
+        "Black"
+      ],
+      "updatedAt": "2017-04-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "double-moon-walkers",
+      "name": "Double Moon Walkers",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Planeswalkers",
+      "colors": [
+        "White",
+        "Blue",
+        "Red",
+        "Green"
+      ],
+      "updatedAt": "2017-04-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "venser-chord",
+      "name": "Venser Chord",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Value",
+      "colors": [
+        "White",
+        "Blue",
+        "Green"
+      ],
+      "updatedAt": "2017-04-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "4c-seance",
+      "name": "4c Seance",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Value",
+      "colors": [
+        "White",
+        "Blue",
+        "Black",
+        "Green"
+      ],
+      "updatedAt": "2017-04-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "abzan-truths",
+      "name": "Abzan Truths",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Value",
+      "colors": [
+        "White",
+        "Black",
+        "Green"
+      ],
+      "updatedAt": "2017-04-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "mono-b-zombies",
+      "name": "Mono-B Zombies",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Tribal",
+      "colors": [
+        "Black"
+      ],
+      "updatedAt": "2017-04-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "simic-faeries",
+      "name": "Simic Faeries",
+      "author": "Plum",
+      "format": "Modern",
+      "archetype": "Tribal",
+      "colors": [
+        "Blue",
+        "Green"
+      ],
+      "updatedAt": "2017-04-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "bant-spirits",
+      "name": "Bant Spirits",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Tribal",
+      "colors": [
+        "White",
+        "Blue",
+        "Green"
+      ],
+      "updatedAt": "2017-04-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "elemental-blast",
+      "name": "Elemental Blast",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Tribal",
+      "colors": [
+        "White",
+        "Red"
+      ],
+      "updatedAt": "2017-04-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "dragon-rally",
+      "name": "Dragon Rally",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Tribal",
+      "colors": [
+        "White",
+        "Blue",
+        "Red"
+      ],
+      "updatedAt": "2017-04-01T00:00:00.000Z",
+      "containsBannedCards": true
+    },
+    {
+      "slug": "descendants-treefolk",
+      "name": "Descendant's Treefolk",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Tribal",
+      "colors": [
+        "White",
+        "Black",
+        "Green"
+      ],
+      "updatedAt": "2017-04-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "golden-humans",
+      "name": "Golden Humans",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Tribal",
+      "colors": [
+        "White",
+        "Blue",
+        "Black",
+        "Red",
+        "Green"
+      ],
+      "updatedAt": "2017-04-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "bant-helix",
+      "name": "Bant Helix",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Prison",
+      "colors": [
+        "White",
+        "Blue",
+        "Green"
+      ],
+      "updatedAt": "2017-03-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "esper-blink",
+      "name": "Esper Blink",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Value",
+      "colors": [
+        "White",
+        "Blue",
+        "Black"
+      ],
+      "updatedAt": "2017-03-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "gb-delirium",
+      "name": "GB Delirium",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Midrange",
+      "colors": [
+        "Black",
+        "Green"
+      ],
+      "updatedAt": "2017-01-12T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "gb-deaths-shadow",
+      "name": "GB Death's Shadow",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Midrange",
+      "colors": [
+        "Green",
+        "Black"
+      ],
+      "updatedAt": "2017-01-12T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "seasons-past-combo",
+      "name": "Seasons Past Combo",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Combo",
+      "colors": [
+        "Blue",
+        "Green"
+      ],
+      "updatedAt": "2017-01-12T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "oops-all-spells",
+      "name": "Oops, All Spells!",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Combo",
+      "colors": [
+        "Blue",
+        "Black",
+        "Red"
+      ],
+      "updatedAt": "2017-01-12T00:00:00.000Z",
+      "containsBannedCards": true
+    },
+    {
+      "slug": "4-horsemen",
+      "name": "4 Horsemen",
+      "author": "u/Cellokun",
+      "format": "Modern",
+      "archetype": "Combo",
+      "colors": [
+        "Blue",
+        "Black",
+        "Red"
+      ],
+      "updatedAt": "2017-01-01T00:00:00.000Z",
+      "containsBannedCards": true
+    },
+    {
+      "slug": "presence-of-gond",
+      "name": "Presence of Gond",
+      "author": "---",
+      "format": "Modern",
+      "archetype": "Combo",
+      "colors": [
+        "White",
+        "Blue",
+        "Green"
+      ],
+      "updatedAt": "2016-05-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "unstorm",
+      "name": "Unstorm",
+      "author": "Marc Tobiasch",
+      "format": "Modern",
+      "archetype": "Combo",
+      "colors": [
+        "White",
+        "Blue",
+        "Red"
+      ],
+      "updatedAt": "2015-11-01T00:00:00.000Z",
+      "containsBannedCards": false
+    }
   ]
 }
