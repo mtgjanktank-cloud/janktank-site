@@ -1,0 +1,25 @@
+{
+  "id": "recWga0F1F9Z9LV0H",
+  "slug": "8-scales",
+  "name": "8-Scales",
+  "author": "Plum",
+  "format": "Modern",
+  "archetype": "Midrange",
+  "characteristics": [
+    "Value"
+  ],
+  "colors": [
+    "White",
+    "Black",
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2017-09-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Crackling Doom",
+  "decklist": {
+    "raw": "3 Anger of the Gods\r\n3 Arid Mesa\r\n2 Blood Crypt\r\n2 Bloodstained Mire\r\n1 Bonfire of the Damned\r\n2 Crackling Doom\r\n4 Culling Scales\r\n1 Emrakul, the Aeons Torn\r\n2 Fatal Push\r\n2 Fulminator Mage\r\n4 Glittering Wish\r\n2 Godless Shrine\r\n3 Inquisition of Kozilek\r\n2 Kolaghan's Command\r\n3 Marsh Flats\r\n3 Nahiri, the Harbinger\r\n4 Path to Exile\r\n1 Plains\r\n4 Porphyry Nodes\r\n3 Sacred Foundry\r\n1 Stomping Ground\r\n1 Swamp\r\n1 Temple Garden\r\n3 Thoughtseize\r\n1 Windswept Heath\r\n2 Wooded Foothills\r\n\r\n2 Abrupt Decay\r\n1 Ajani Vengeant\r\n1 Firespout\r\n1 Fracturing Gust\r\n2 Fulminator Mage\r\n1 Golgari Charm\r\n1 Maelstrom Pulse\r\n1 Mogis, God of Slaughter\r\n1 Nahiri, the Harbinger\r\n1 Rakdos Charm\r\n1 Sigarda, Host of Herons\r\n1 Slaughter Games\r\n1 Wear/Tear\r\n",
+    "mainText": "3 Anger of the Gods\n3 Arid Mesa\n2 Blood Crypt\n2 Bloodstained Mire\n1 Bonfire of the Damned\n2 Crackling Doom\n4 Culling Scales\n1 Emrakul, the Aeons Torn\n2 Fatal Push\n2 Fulminator Mage\n4 Glittering Wish\n2 Godless Shrine\n3 Inquisition of Kozilek\n2 Kolaghan's Command\n3 Marsh Flats\n3 Nahiri, the Harbinger\n4 Path to Exile\n1 Plains\n4 Porphyry Nodes\n3 Sacred Foundry\n1 Stomping Ground\n1 Swamp\n1 Temple Garden\n3 Thoughtseize\n1 Windswept Heath\n2 Wooded Foothills",
+    "sideText": "2 Abrupt Decay\n1 Ajani Vengeant\n1 Firespout\n1 Fracturing Gust\n2 Fulminator Mage\n1 Golgari Charm\n1 Maelstrom Pulse\n1 Mogis, God of Slaughter\n1 Nahiri, the Harbinger\n1 Rakdos Charm\n1 Sigarda, Host of Herons\n1 Slaughter Games\n1 Wear/Tear"
+  }
+}

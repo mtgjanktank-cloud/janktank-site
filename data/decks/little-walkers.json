@@ -1,0 +1,24 @@
+{
+  "id": "recqtldNuNpQdVXHW",
+  "slug": "little-walkers",
+  "name": "Little Walkers",
+  "author": "Todd Stevens",
+  "format": "Modern",
+  "archetype": "Planeswalkers",
+  "characteristics": [
+    "Midrange"
+  ],
+  "colors": [
+    "Blue",
+    "Black",
+    "Green"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Nissa, Voice of Zendikar",
+  "decklist": {
+    "raw": "1 Abrupt Decay\r\n4 Ashiok, Nightmare Weaver\r\n4 Birds of Paradise\r\n4 Blooming Marsh\r\n1 Breeding Pool\r\n4 Dark Confidant\r\n4 Fatal Push\r\n1 Forest\r\n3 Liliana of the Veil\r\n2 Liliana, the Last Hope\r\n1 Maelstrom Pulse\r\n1 Nissa, Steward of Elements\r\n1 Nissa, Voice of Zendikar\r\n4 Noble Hierarch\r\n2 Overgrown Tomb\r\n4 Polluted Delta\r\n2 Scavenging Ooze\r\n4 Serum Visions\r\n2 Swamp\r\n4 Tarmogoyf\r\n1 Tireless Tracker\r\n1 Twilight Mire\r\n4 Verdant Catacombs\r\n1 Watery Grave\r\n\r\n1 Abrupt Decay\r\n2 Collective Brutality\r\n3 Countersquall\r\n1 Engineered Explosives\r\n4 Fulminator Mage\r\n1 Grafdigger's Cage\r\n1 Maelstrom Pulse\r\n2 Thoughtseize\r\n",
+    "mainText": "1 Abrupt Decay\n4 Ashiok, Nightmare Weaver\n4 Birds of Paradise\n4 Blooming Marsh\n1 Breeding Pool\n4 Dark Confidant\n4 Fatal Push\n1 Forest\n3 Liliana of the Veil\n2 Liliana, the Last Hope\n1 Maelstrom Pulse\n1 Nissa, Steward of Elements\n1 Nissa, Voice of Zendikar\n4 Noble Hierarch\n2 Overgrown Tomb\n4 Polluted Delta\n2 Scavenging Ooze\n4 Serum Visions\n2 Swamp\n4 Tarmogoyf\n1 Tireless Tracker\n1 Twilight Mire\n4 Verdant Catacombs\n1 Watery Grave",
+    "sideText": "1 Abrupt Decay\n2 Collective Brutality\n3 Countersquall\n1 Engineered Explosives\n4 Fulminator Mage\n1 Grafdigger's Cage\n1 Maelstrom Pulse\n2 Thoughtseize"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "rec3MXnYomhq5smmc",
+  "slug": "mono-r-prison",
+  "name": "Mono-R Prison",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Prison",
+  "characteristics": [
+    "Pseudo Combo"
+  ],
+  "colors": [
+    "Red"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": true,
+  "coverCard": "Inferno Titan",
+  "decklist": {
+    "raw": "3 Anger of the Gods\r\n1 Arc Lightning\r\n1 Batterskull\r\n3 Blood Moon\r\n4 Chalice of the Void\r\n3 Emrakul, the Aeons Torn\r\n3 Inferno Titan\r\n2 Koth of the Hammer\r\n1 Magma Jet\r\n23 Mountain\r\n2 Roast\r\n1 Sarkhan, the Dragonspeaker\r\n4 Simian Spirit Guide\r\n4 Through the Breach\r\n3 Tormenting Voice\r\n2 Trinisphere\r\n\r\n3 Dragon's Claw\r\n2 Molten Rain\r\n3 Relic of Progenitus\r\n1 Shatterstorm\r\n2 Smash to Smithereens\r\n1 Spellskite\r\n3 Sudden Shock\r\n",
+    "mainText": "3 Anger of the Gods\n1 Arc Lightning\n1 Batterskull\n3 Blood Moon\n4 Chalice of the Void\n3 Emrakul, the Aeons Torn\n3 Inferno Titan\n2 Koth of the Hammer\n1 Magma Jet\n23 Mountain\n2 Roast\n1 Sarkhan, the Dragonspeaker\n4 Simian Spirit Guide\n4 Through the Breach\n3 Tormenting Voice\n2 Trinisphere",
+    "sideText": "3 Dragon's Claw\n2 Molten Rain\n3 Relic of Progenitus\n1 Shatterstorm\n2 Smash to Smithereens\n1 Spellskite\n3 Sudden Shock"
+  }
+}

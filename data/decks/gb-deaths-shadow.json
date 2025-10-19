@@ -1,0 +1,23 @@
+{
+  "id": "recrQe8pqzndE0yOH",
+  "slug": "gb-deaths-shadow",
+  "name": "GB Death's Shadow",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Midrange",
+  "characteristics": [
+    "Graveyard Value"
+  ],
+  "colors": [
+    "Green",
+    "Black"
+  ],
+  "updatedAt": "2017-01-12T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Varolz, the Scar-Striped",
+  "decklist": {
+    "raw": "4 Abrupt Decay\r\n4 Bitterblossom\r\n4 Dark Confidant\r\n4 Death's Shadow\r\n1 Forest\r\n2 Inkmoth Nexus\r\n2 Inquisition of Kozilek\r\n2 Liliana of the Veil\r\n1 Maelstrom Pulse\r\n4 Marsh Flats\r\n2 Overgrown Tomb\r\n1 Pendelhaven\r\n2 Scavenging Ooze\r\n1 Shizo, Death's Storehouse\r\n2 Street Wraith\r\n4 Tarmogoyf\r\n4 Thoughtseize\r\n4 Treetop Village\r\n2 Twilight Mire\r\n4 Varolz, the Scar-Striped\r\n4 Verdant Catacombs\r\n2 Victim of Night\r\n\r\n2 Collective Brutality\r\n2 Fatal Push\r\n3 Fulminator Mage\r\n1 Maelstrom Pulse\r\n2 Nihil Spellbomb\r\n2 Reclamation Sage\r\n1 Shriekmaw\r\n2 Surgical Extraction\r\n",
+    "mainText": "4 Abrupt Decay\n4 Bitterblossom\n4 Dark Confidant\n4 Death's Shadow\n1 Forest\n2 Inkmoth Nexus\n2 Inquisition of Kozilek\n2 Liliana of the Veil\n1 Maelstrom Pulse\n4 Marsh Flats\n2 Overgrown Tomb\n1 Pendelhaven\n2 Scavenging Ooze\n1 Shizo, Death's Storehouse\n2 Street Wraith\n4 Tarmogoyf\n4 Thoughtseize\n4 Treetop Village\n2 Twilight Mire\n4 Varolz, the Scar-Striped\n4 Verdant Catacombs\n2 Victim of Night",
+    "sideText": "2 Collective Brutality\n2 Fatal Push\n3 Fulminator Mage\n1 Maelstrom Pulse\n2 Nihil Spellbomb\n2 Reclamation Sage\n1 Shriekmaw\n2 Surgical Extraction"
+  }
+}

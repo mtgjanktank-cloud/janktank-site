@@ -1,0 +1,24 @@
+{
+  "id": "rec5BSsAOGHnenrsR",
+  "slug": "goryos-deathvine",
+  "name": "Goryo's Deathvine",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Pseudo Combo",
+  "characteristics": [
+    "Graveyard Based"
+  ],
+  "colors": [
+    "Black",
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": true,
+  "coverCard": "Goryo's Vengeance",
+  "decklist": {
+    "raw": "3 Blood Crypt\r\n4 Bloodstained Mire\r\n4 Cathartic Reunion\r\n4 Death's Shadow\r\n4 Faithless Looting\r\n4 Goryo's Vengeance\r\n4 Griselbrand\r\n2 Gurmag Angler\r\n4 Hollow One\r\n4 Insolent Neonate\r\n1 Overgrown Tomb\r\n4 Simian Spirit Guide\r\n1 Stomping Ground\r\n4 Street Wraith\r\n1 Swamp\r\n2 Thoughtseize\r\n4 Vengevine\r\n4 Verdant Catacombs\r\n2 Wooded Foothills\r\n\r\n3 Abrupt Decay\r\n1 Ancient Grudge\r\n3 Collective Brutality\r\n3 Liliana of the Veil\r\n2 Nihil Spellbomb\r\n1 Pyroclasm\r\n2 Thoughtseize\r\n",
+    "mainText": "3 Blood Crypt\n4 Bloodstained Mire\n4 Cathartic Reunion\n4 Death's Shadow\n4 Faithless Looting\n4 Goryo's Vengeance\n4 Griselbrand\n2 Gurmag Angler\n4 Hollow One\n4 Insolent Neonate\n1 Overgrown Tomb\n4 Simian Spirit Guide\n1 Stomping Ground\n4 Street Wraith\n1 Swamp\n2 Thoughtseize\n4 Vengevine\n4 Verdant Catacombs\n2 Wooded Foothills",
+    "sideText": "3 Abrupt Decay\n1 Ancient Grudge\n3 Collective Brutality\n3 Liliana of the Veil\n2 Nihil Spellbomb\n1 Pyroclasm\n2 Thoughtseize"
+  }
+}

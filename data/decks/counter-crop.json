@@ -1,0 +1,24 @@
+{
+  "id": "recC8GzSTZCgS2RgD",
+  "slug": "counter-crop",
+  "name": "Counter Crop",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Control",
+  "characteristics": [
+    "Deck Manipulation"
+  ],
+  "colors": [
+    "White",
+    "Blue",
+    "Green"
+  ],
+  "updatedAt": "2017-04-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Cream of the Crop",
+  "decklist": {
+    "raw": "2 Alchemist's Refuge\r\n1 Botanical Sanctum\r\n1 Breeding Pool\r\n4 Counterbalance\r\n4 Cream of the Crop\r\n1 Entreat the Angels\r\n4 Flooded Strand\r\n1 Forest\r\n2 Hallowed Fountain\r\n4 Island\r\n1 Jace, Vryn's Prodigy\r\n3 Misty Rainforest\r\n2 Momentary Blink\r\n4 Path to Exile\r\n2 Plains\r\n3 Restoration Angel\r\n2 Sage of Epityr\r\n2 Seachrome Coast\r\n4 Serum Visions\r\n3 Snapcaster Mage\r\n3 Spell Queller\r\n1 Temple Garden\r\n3 Terminus\r\n3 Vendilion Clique\r\n\r\n1 Crystal Ball\r\n2 Entreat the Angels\r\n1 Grafdigger's Cage\r\n1 Jace, Vryn's Prodigy\r\n3 Kitchen Finks\r\n4 Leyline of Sanctity\r\n2 Rest in Peace\r\n1 Terminus\r\n",
+    "mainText": "2 Alchemist's Refuge\n1 Botanical Sanctum\n1 Breeding Pool\n4 Counterbalance\n4 Cream of the Crop\n1 Entreat the Angels\n4 Flooded Strand\n1 Forest\n2 Hallowed Fountain\n4 Island\n1 Jace, Vryn's Prodigy\n3 Misty Rainforest\n2 Momentary Blink\n4 Path to Exile\n2 Plains\n3 Restoration Angel\n2 Sage of Epityr\n2 Seachrome Coast\n4 Serum Visions\n3 Snapcaster Mage\n3 Spell Queller\n1 Temple Garden\n3 Terminus\n3 Vendilion Clique",
+    "sideText": "1 Crystal Ball\n2 Entreat the Angels\n1 Grafdigger's Cage\n1 Jace, Vryn's Prodigy\n3 Kitchen Finks\n4 Leyline of Sanctity\n2 Rest in Peace\n1 Terminus"
+  }
+}

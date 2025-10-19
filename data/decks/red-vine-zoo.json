@@ -1,0 +1,23 @@
+{
+  "id": "recxFSRXDKQdadBwZ",
+  "slug": "red-vine-zoo",
+  "name": "Red Vine Zoo",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Aggro",
+  "characteristics": [
+    "Zoo"
+  ],
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": true,
+  "coverCard": "Burning-tree Emissary",
+  "decklist": {
+    "raw": "3 Become Immense\r\n4 Bloodstained Mire\r\n4 Burning-Tree Emissary\r\n2 Copperline Gorge\r\n4 Faithless Looting\r\n4 Goblin Guide\r\n4 Hollow One\r\n4 Insolent Neonate\r\n3 Lightning Bolt\r\n3 Monastery Swiftspear\r\n4 Mountain\r\n4 Reckless Bushwhacker\r\n3 Stomping Ground\r\n4 Street Wraith\r\n2 Temur Battle Rage\r\n4 Vengevine\r\n4 Wooded Foothills\r\n\r\n2 Ancient Grudge\r\n2 Blood Moon\r\n3 Destructive Revelry\r\n2 Grim Lavamancer\r\n1 Lightning Bolt\r\n2 Roast\r\n3 Skullcrack\r\n",
+    "mainText": "3 Become Immense\n4 Bloodstained Mire\n4 Burning-Tree Emissary\n2 Copperline Gorge\n4 Faithless Looting\n4 Goblin Guide\n4 Hollow One\n4 Insolent Neonate\n3 Lightning Bolt\n3 Monastery Swiftspear\n4 Mountain\n4 Reckless Bushwhacker\n3 Stomping Ground\n4 Street Wraith\n2 Temur Battle Rage\n4 Vengevine\n4 Wooded Foothills",
+    "sideText": "2 Ancient Grudge\n2 Blood Moon\n3 Destructive Revelry\n2 Grim Lavamancer\n1 Lightning Bolt\n2 Roast\n3 Skullcrack"
+  }
+}

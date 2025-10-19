@@ -1,0 +1,24 @@
+{
+  "id": "rechq4h3ckOMnKUfj",
+  "slug": "bant-spirits",
+  "name": "Bant Spirits",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Tribal",
+  "characteristics": [
+    "Tempo"
+  ],
+  "colors": [
+    "White",
+    "Blue",
+    "Green"
+  ],
+  "updatedAt": "2017-04-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Spell Queller",
+  "decklist": {
+    "raw": "2 Anafenza, Kin-Tree Spirit\r\n1 Birds of Paradise\r\n2 Breeding Pool\r\n2 Cavern of Souls\r\n4 Collected Company\r\n4 Drogskol Captain\r\n3 Flooded Strand\r\n1 Forest\r\n1 Gavony Township\r\n1 Hallowed Fountain\r\n1 Island\r\n1 Kira, Great Glass-Spinner\r\n4 Mausoleum Wanderer\r\n4 Misty Rainforest\r\n4 Noble Hierarch\r\n2 Path to Exile\r\n1 Phantasmal Image\r\n1 Plains\r\n4 Rattlechains\r\n1 Razorverge Thicket\r\n2 Rhox War Monk\r\n2 Seachrome Coast\r\n4 Selfless Spirit\r\n4 Spell Queller\r\n1 Temple Garden\r\n3 Windswept Heath\r\n\r\n2 Engineered Explosives\r\n1 Kira, Great Glass-Spinner\r\n2 Negate\r\n2 Path to Exile\r\n2 Qasali Pridemage\r\n3 Rest in Peace\r\n2 Stony Silence\r\n",
+    "mainText": "2 Anafenza, Kin-Tree Spirit\n1 Birds of Paradise\n2 Breeding Pool\n2 Cavern of Souls\n4 Collected Company\n4 Drogskol Captain\n3 Flooded Strand\n1 Forest\n1 Gavony Township\n1 Hallowed Fountain\n1 Island\n1 Kira, Great Glass-Spinner\n4 Mausoleum Wanderer\n4 Misty Rainforest\n4 Noble Hierarch\n2 Path to Exile\n1 Phantasmal Image\n1 Plains\n4 Rattlechains\n1 Razorverge Thicket\n2 Rhox War Monk\n2 Seachrome Coast\n4 Selfless Spirit\n4 Spell Queller\n1 Temple Garden\n3 Windswept Heath",
+    "sideText": "2 Engineered Explosives\n1 Kira, Great Glass-Spinner\n2 Negate\n2 Path to Exile\n2 Qasali Pridemage\n3 Rest in Peace\n2 Stony Silence"
+  }
+}

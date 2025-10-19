@@ -1,0 +1,22 @@
+{
+  "id": "rec4fLxOfnSnD6i62",
+  "slug": "artifact-prison",
+  "name": "Artifact Prison",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Prison",
+  "characteristics": [
+    "Tron"
+  ],
+  "colors": [
+    "Colorless"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": true,
+  "coverCard": "Lodestone Golem",
+  "decklist": {
+    "raw": "4 Bottled Cloister\r\n3 Buried Ruin\r\n3 Chalice of the Void\r\n1 Crucible of Worlds\r\n4 Ensnaring Bridge\r\n3 Expedition Map\r\n2 Ghost Quarter\r\n3 Inventors' Fair\r\n3 Karn Liberated\r\n2 Krark-Clan Ironworks\r\n3 Lodestone Golem\r\n2 Pithing Needle\r\n2 Sea Gate Wreckage\r\n2 Silent Arbiter\r\n2 Spine of Ish Sah\r\n1 Staff of Domination\r\n1 Staff of Nin\r\n1 Steel Hellkite\r\n1 Tectonic Edge\r\n3 Trinisphere\r\n1 Ugin, the Spirit Dragon\r\n4 Urza's Mine\r\n4 Urza's Power Plant\r\n4 Urza's Tower\r\n1 Wastes\r\n\r\n2 Darksteel Forge\r\n3 Defense Grid\r\n2 Oblivion Stone\r\n1 Orbs of Warding\r\n1 Pithing Needle\r\n2 Ratchet Bomb\r\n3 Warping Wail\r\n1 Witchbane Orb\r\n",
+    "mainText": "4 Bottled Cloister\n3 Buried Ruin\n3 Chalice of the Void\n1 Crucible of Worlds\n4 Ensnaring Bridge\n3 Expedition Map\n2 Ghost Quarter\n3 Inventors' Fair\n3 Karn Liberated\n2 Krark-Clan Ironworks\n3 Lodestone Golem\n2 Pithing Needle\n2 Sea Gate Wreckage\n2 Silent Arbiter\n2 Spine of Ish Sah\n1 Staff of Domination\n1 Staff of Nin\n1 Steel Hellkite\n1 Tectonic Edge\n3 Trinisphere\n1 Ugin, the Spirit Dragon\n4 Urza's Mine\n4 Urza's Power Plant\n4 Urza's Tower\n1 Wastes",
+    "sideText": "2 Darksteel Forge\n3 Defense Grid\n2 Oblivion Stone\n1 Orbs of Warding\n1 Pithing Needle\n2 Ratchet Bomb\n3 Warping Wail\n1 Witchbane Orb"
+  }
+}

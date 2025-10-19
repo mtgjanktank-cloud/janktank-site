@@ -1,0 +1,26 @@
+{
+  "id": "rec654EuGuLoXKA34",
+  "slug": "golden-humans",
+  "name": "Golden Humans",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Tribal",
+  "characteristics": [
+    "Aggro"
+  ],
+  "colors": [
+    "White",
+    "Blue",
+    "Black",
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2017-04-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Mantis Rider",
+  "decklist": {
+    "raw": "3 Anafenza, the Foremost\r\n4 Ancient Ziggurat\r\n4 Cavern of Souls\r\n4 Champion of the Parish\r\n1 Copperline Gorge\r\n4 Experiment One\r\n4 Falkenrath Aristocrat\r\n2 Horizon Canopy\r\n3 Lyev Skyknight\r\n3 Mana Confluence\r\n4 Mantis Rider\r\n4 Meddling Mage\r\n4 Pillar of the Paruns\r\n1 Plains\r\n2 Razorverge Thicket\r\n4 Reflecting Pool\r\n2 Saffi Eriksdotter\r\n4 Siege Rhino\r\n3 Thalia, Guardian of Thraben\r\n\r\n2 Izzet Staticaster\r\n3 Lavinia of the Tenth\r\n2 Orzhov Pontiff\r\n3 Qasali Pridemage\r\n3 Sin Collector\r\n2 Spellskite\r\n",
+    "mainText": "3 Anafenza, the Foremost\n4 Ancient Ziggurat\n4 Cavern of Souls\n4 Champion of the Parish\n1 Copperline Gorge\n4 Experiment One\n4 Falkenrath Aristocrat\n2 Horizon Canopy\n3 Lyev Skyknight\n3 Mana Confluence\n4 Mantis Rider\n4 Meddling Mage\n4 Pillar of the Paruns\n1 Plains\n2 Razorverge Thicket\n4 Reflecting Pool\n2 Saffi Eriksdotter\n4 Siege Rhino\n3 Thalia, Guardian of Thraben",
+    "sideText": "2 Izzet Staticaster\n3 Lavinia of the Tenth\n2 Orzhov Pontiff\n3 Qasali Pridemage\n3 Sin Collector\n2 Spellskite"
+  }
+}

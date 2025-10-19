@@ -1,0 +1,22 @@
+{
+  "id": "recMO1qACCxiVN1i9",
+  "slug": "dragon-stompy",
+  "name": "Dragon Stompy",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Tribal",
+  "characteristics": [
+    "Prison"
+  ],
+  "colors": [
+    "Red"
+  ],
+  "updatedAt": "2018-02-01T00:00:00.000Z",
+  "containsBannedCards": true,
+  "coverCard": "Slumbering Dragon",
+  "decklist": {
+    "raw": "4 Blood Moon\r\n4 Cavern of Souls\r\n4 Chalice of the Void\r\n2 Chandra, Torch of Defiance\r\n2 Draconic Roar\r\n3 Dragon Tempest\r\n2 Glorybringer\r\n4 Haven of the Spirit Dragon\r\n14 Mountain\r\n3 Pyretic Ritual\r\n2 Scourge of Valkas\r\n4 Simian Spirit Guide\r\n4 Slumbering Dragon\r\n4 Thunderbreak Regent\r\n4 Thundermaw Hellkite\r\n\r\n2 Abrade\r\n2 Anger of the Gods\r\n1 By Force\r\n3 Dragon's Claw\r\n1 Glorybringer\r\n2 Relic of Progenitus\r\n3 Stormbreath Dragon\r\n1 Tormod's Crypt\r\n",
+    "mainText": "4 Blood Moon\n4 Cavern of Souls\n4 Chalice of the Void\n2 Chandra, Torch of Defiance\n2 Draconic Roar\n3 Dragon Tempest\n2 Glorybringer\n4 Haven of the Spirit Dragon\n14 Mountain\n3 Pyretic Ritual\n2 Scourge of Valkas\n4 Simian Spirit Guide\n4 Slumbering Dragon\n4 Thunderbreak Regent\n4 Thundermaw Hellkite",
+    "sideText": "2 Abrade\n2 Anger of the Gods\n1 By Force\n3 Dragon's Claw\n1 Glorybringer\n2 Relic of Progenitus\n3 Stormbreath Dragon\n1 Tormod's Crypt"
+  }
+}

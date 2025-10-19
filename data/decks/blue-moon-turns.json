@@ -1,0 +1,23 @@
+{
+  "id": "recOmjZQYFOeTOcvZ",
+  "slug": "blue-moon-turns",
+  "name": "Blue Moon Turns",
+  "author": "u/HELLO_WORKS_AGAIN",
+  "format": "Modern",
+  "archetype": "Pseudo Combo",
+  "characteristics": [
+    "Prison"
+  ],
+  "colors": [
+    "Blue",
+    "Red"
+  ],
+  "updatedAt": "2017-05-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Howling Mine",
+  "decklist": {
+    "raw": "3 Blood Moon\n3 Chandra, Torch of Defiance\n2 Cryptic Command\n2 Day's Undoing\n2 Dictate of Kruphix\n1 Elixir of Immortality\n3 Ghost Quarter\n4 Howling Mine\n5 Island\n1 Laboratory Maniac\n1 Metallurgic Summonings\n5 Mountain\n4 Remand\n4 Scalding Tarn\n3 Serum Visions\n3 Steam Vents\n2 Sulfur Falls\n4 Temporal Mastery\n4 Time Warp\n4 Walk the Aeons\n\nSideboard:\n2 AEtherize\n3 Anger of the Gods\n3 Dispel\n3 Grafdigger's Cage\n2 Shattering Spree\n2 Sudden Shock\n\n",
+    "mainText": "3 Blood Moon\n3 Chandra, Torch of Defiance\n2 Cryptic Command\n2 Day's Undoing\n2 Dictate of Kruphix\n1 Elixir of Immortality\n3 Ghost Quarter\n4 Howling Mine\n5 Island\n1 Laboratory Maniac\n1 Metallurgic Summonings\n5 Mountain\n4 Remand\n4 Scalding Tarn\n3 Serum Visions\n3 Steam Vents\n2 Sulfur Falls\n4 Temporal Mastery\n4 Time Warp\n4 Walk the Aeons",
+    "sideText": "2 AEtherize\n3 Anger of the Gods\n3 Dispel\n3 Grafdigger's Cage\n2 Shattering Spree\n2 Sudden Shock"
+  }
+}

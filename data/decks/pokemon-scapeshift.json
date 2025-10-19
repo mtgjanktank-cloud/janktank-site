@@ -1,0 +1,26 @@
+{
+  "id": "rec4qTgSlMXZwtMSL",
+  "slug": "pokemon-scapeshift",
+  "name": "Pokemon Scapeshift",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Combo",
+  "characteristics": [
+    "Tool Box"
+  ],
+  "colors": [
+    "White",
+    "Blue",
+    "Black",
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Scapeshift",
+  "decklist": {
+    "raw": "1 Arid Mesa\r\n1 Blood Crypt\r\n1 Bloodstained Mire\r\n2 Breeding Pool\r\n3 Bring to Light\r\n2 Cinder Glade\r\n1 Crumble to Dust\r\n4 Cryptic Command\r\n1 Elesh Norn, Grand Cenobite\r\n1 Eternal Witness\r\n4 Farseek\r\n4 Flooded Grove\r\n4 Flooded Strand\r\n2 Forest\r\n4 Gifts Ungiven\r\n4 Glittering Wish\r\n1 Hallowed Fountain\r\n4 Harrow\r\n3 Island\r\n4 Izzet Charm\r\n1 Kodama's Reach\r\n4 Lightning Bolt\r\n1 Madcap Experiment\r\n1 Marsh Flats\r\n4 Misty Rainforest\r\n1 Mountain\r\n1 Overgrown Tomb\r\n4 Path to Exile\r\n1 Plains\r\n1 Platinum Emperion\r\n4 Polluted Delta\r\n4 Remand\r\n3 Renegade Rallier\r\n1 Sacred Foundry\r\n4 Sakura-Tribe Elder\r\n4 Scalding Tarn\r\n4 Scapeshift\r\n4 Search for Tomorrow\r\n4 Snapcaster Mage\r\n4 Splendid Reclamation\r\n4 Steam Vents\r\n4 Stomping Ground\r\n1 Swamp\r\n1 Temple Garden\r\n4 Thirst for Knowledge\r\n4 Thought Scour\r\n1 Thragtusk\r\n1 Traumatize\r\n3 Unburial Rites\r\n3 Valakut, the Molten Pinnacle\r\n4 Verdant Catacombs\r\n1 Watery Grave\r\n4 Windswept Heath\r\n4 Wooded Foothills\r\n4 Worldly Counsel\r\n1 Wrath of God\r\n\r\n1 Bring to Light\r\n3 Crumble to Dust\r\n1 Firespout\r\n1 Fracturing Gust\r\n1 Guttural Response\r\n1 Izzet Staticaster\r\n1 Maelstrom Pulse\r\n1 Nahiri, the Harbinger\r\n1 Renegade Rallier\r\n1 Rhox War Monk\r\n1 Slaughter Games\r\n1 Supreme Verdict\r\n1 Wear/Tear\r\n",
+    "mainText": "1 Arid Mesa\n1 Blood Crypt\n1 Bloodstained Mire\n2 Breeding Pool\n3 Bring to Light\n2 Cinder Glade\n1 Crumble to Dust\n4 Cryptic Command\n1 Elesh Norn, Grand Cenobite\n1 Eternal Witness\n4 Farseek\n4 Flooded Grove\n4 Flooded Strand\n2 Forest\n4 Gifts Ungiven\n4 Glittering Wish\n1 Hallowed Fountain\n4 Harrow\n3 Island\n4 Izzet Charm\n1 Kodama's Reach\n4 Lightning Bolt\n1 Madcap Experiment\n1 Marsh Flats\n4 Misty Rainforest\n1 Mountain\n1 Overgrown Tomb\n4 Path to Exile\n1 Plains\n1 Platinum Emperion\n4 Polluted Delta\n4 Remand\n3 Renegade Rallier\n1 Sacred Foundry\n4 Sakura-Tribe Elder\n4 Scalding Tarn\n4 Scapeshift\n4 Search for Tomorrow\n4 Snapcaster Mage\n4 Splendid Reclamation\n4 Steam Vents\n4 Stomping Ground\n1 Swamp\n1 Temple Garden\n4 Thirst for Knowledge\n4 Thought Scour\n1 Thragtusk\n1 Traumatize\n3 Unburial Rites\n3 Valakut, the Molten Pinnacle\n4 Verdant Catacombs\n1 Watery Grave\n4 Windswept Heath\n4 Wooded Foothills\n4 Worldly Counsel\n1 Wrath of God",
+    "sideText": "1 Bring to Light\n3 Crumble to Dust\n1 Firespout\n1 Fracturing Gust\n1 Guttural Response\n1 Izzet Staticaster\n1 Maelstrom Pulse\n1 Nahiri, the Harbinger\n1 Renegade Rallier\n1 Rhox War Monk\n1 Slaughter Games\n1 Supreme Verdict\n1 Wear/Tear"
+  }
+}

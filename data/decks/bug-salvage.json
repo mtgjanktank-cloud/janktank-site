@@ -1,0 +1,24 @@
+{
+  "id": "recnTH6wFWMzttKCh",
+  "slug": "bug-salvage",
+  "name": "BUG Salvage",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Midrange",
+  "characteristics": [
+    "Graveyard Value"
+  ],
+  "colors": [
+    "Blue",
+    "Black",
+    "Green"
+  ],
+  "updatedAt": "2017-04-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Grisly Salvage",
+  "decklist": {
+    "raw": "3 Abrupt Decay\r\n1 Breeding Pool\r\n3 Dark Confidant\r\n3 Death's Shadow\r\n2 Dismember\r\n2 Fatal Push\r\n1 Forest\r\n1 Grapple with the Past\r\n3 Grim Flayer\r\n4 Grisly Salvage\r\n3 Inquisition of Kozilek\r\n1 Island\r\n2 Misty Rainforest\r\n1 Noxious Revival\r\n3 Overgrown Tomb\r\n3 Phyrexian Revoker\r\n4 Polluted Delta\r\n2 Snapcaster Mage\r\n2 Spell Pierce\r\n1 Swamp\r\n4 Tarmogoyf\r\n4 Thought Scour\r\n1 Thoughtseize\r\n3 Verdant Catacombs\r\n3 Watery Grave\r\n\r\n2 Dispel\r\n2 Golgari Charm\r\n1 Grafdigger's Cage\r\n1 Hurkyl's Recall\r\n1 Nature's Claim\r\n2 Negate\r\n2 Obstinate Baloth\r\n2 Scavenging Ooze\r\n1 Thoughtseize\r\n1 Trickbind\r\n",
+    "mainText": "3 Abrupt Decay\n1 Breeding Pool\n3 Dark Confidant\n3 Death's Shadow\n2 Dismember\n2 Fatal Push\n1 Forest\n1 Grapple with the Past\n3 Grim Flayer\n4 Grisly Salvage\n3 Inquisition of Kozilek\n1 Island\n2 Misty Rainforest\n1 Noxious Revival\n3 Overgrown Tomb\n3 Phyrexian Revoker\n4 Polluted Delta\n2 Snapcaster Mage\n2 Spell Pierce\n1 Swamp\n4 Tarmogoyf\n4 Thought Scour\n1 Thoughtseize\n3 Verdant Catacombs\n3 Watery Grave",
+    "sideText": "2 Dispel\n2 Golgari Charm\n1 Grafdigger's Cage\n1 Hurkyl's Recall\n1 Nature's Claim\n2 Negate\n2 Obstinate Baloth\n2 Scavenging Ooze\n1 Thoughtseize\n1 Trickbind"
+  }
+}

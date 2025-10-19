@@ -1,0 +1,22 @@
+{
+  "id": "recCKnZmEEJNA3NvY",
+  "slug": "mono-b-infestation",
+  "name": "Mono-B Infestation",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Value",
+  "characteristics": [
+    "Discard Value"
+  ],
+  "colors": [
+    "Black"
+  ],
+  "updatedAt": "2018-02-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Zombie Infestation",
+  "decklist": {
+    "raw": "4 Big Game Hunter\r\n4 Blackcleave Cliffs\r\n2 Blood Crypt\r\n4 Bloodstained Mire\r\n4 Call the Bloodline\r\n4 Cryptbreaker\r\n1 Darkblast\r\n1 Driven/Despair\r\n1 Fatal Push\r\n4 Grave Scrabbler\r\n3 Liliana of the Veil\r\n2 Lingering Souls\r\n4 Ruthless Sniper\r\n4 Squee, Goblin Nabob\r\n11 Swamp\r\n3 Voldaren Pariah\r\n4 Zombie Infestation\r\n\r\n2 Blood Moon\r\n2 Collective Brutality\r\n2 Darkblast\r\n2 Grafdigger's Cage\r\n1 Lingering Souls\r\n2 Nihil Spellbomb\r\n4 Thoughtseize\r\n",
+    "mainText": "4 Big Game Hunter\n4 Blackcleave Cliffs\n2 Blood Crypt\n4 Bloodstained Mire\n4 Call the Bloodline\n4 Cryptbreaker\n1 Darkblast\n1 Driven/Despair\n1 Fatal Push\n4 Grave Scrabbler\n3 Liliana of the Veil\n2 Lingering Souls\n4 Ruthless Sniper\n4 Squee, Goblin Nabob\n11 Swamp\n3 Voldaren Pariah\n4 Zombie Infestation",
+    "sideText": "2 Blood Moon\n2 Collective Brutality\n2 Darkblast\n2 Grafdigger's Cage\n1 Lingering Souls\n2 Nihil Spellbomb\n4 Thoughtseize"
+  }
+}

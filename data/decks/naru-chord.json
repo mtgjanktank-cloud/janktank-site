@@ -1,0 +1,24 @@
+{
+  "id": "recVmeOVSUkv1Tz62",
+  "slug": "naru-chord",
+  "name": "Naru Chord",
+  "author": "Jeff Hoogland",
+  "format": "Modern",
+  "archetype": "Value",
+  "characteristics": [
+    "Infinite Loop"
+  ],
+  "colors": [
+    "White",
+    "Blue",
+    "Green"
+  ],
+  "updatedAt": "2018-06-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Naru Meha, Master Wizard",
+  "decklist": {
+    "raw": "1 Acidic Slime\r\n2 Birds of Paradise\r\n2 Botanical Sanctum\r\n2 Breeding Pool\r\n4 Chord of Calling\r\n4 Coiling Oracle\r\n4 Eternal Witness\r\n2 Flooded Strand\r\n3 Forest\r\n1 Gavony Township\r\n4 Ghostly Flicker\r\n1 Hallowed Fountain\r\n1 Horizon Canopy\r\n2 Island\r\n4 Misty Rainforest\r\n1 Mystic Snake\r\n2 Naru Meha, Master Wizard\r\n1 Nissa, Vastwood Seer\r\n4 Noble Hierarch\r\n1 Plains\r\n3 Reflector Mage\r\n1 Scavenging Ooze\r\n1 Selfless Spirit\r\n1 Temple Garden\r\n1 Thragtusk\r\n4 Wall of Omens\r\n3 Windswept Heath\r\n\r\n1 Burrenton Forge-Tender\r\n3 Damping Sphere\r\n1 Dispel\r\n1 Kataki, War's Wage\r\n1 Linvala, Keeper of Silence\r\n1 Mystic Snake\r\n1 Negate\r\n3 Path to Exile\r\n1 Profaner of the Dead\r\n1 Reclamation Sage\r\n1 Thragtusk\r\n",
+    "mainText": "1 Acidic Slime\n2 Birds of Paradise\n2 Botanical Sanctum\n2 Breeding Pool\n4 Chord of Calling\n4 Coiling Oracle\n4 Eternal Witness\n2 Flooded Strand\n3 Forest\n1 Gavony Township\n4 Ghostly Flicker\n1 Hallowed Fountain\n1 Horizon Canopy\n2 Island\n4 Misty Rainforest\n1 Mystic Snake\n2 Naru Meha, Master Wizard\n1 Nissa, Vastwood Seer\n4 Noble Hierarch\n1 Plains\n3 Reflector Mage\n1 Scavenging Ooze\n1 Selfless Spirit\n1 Temple Garden\n1 Thragtusk\n4 Wall of Omens\n3 Windswept Heath",
+    "sideText": "1 Burrenton Forge-Tender\n3 Damping Sphere\n1 Dispel\n1 Kataki, War's Wage\n1 Linvala, Keeper of Silence\n1 Mystic Snake\n1 Negate\n3 Path to Exile\n1 Profaner of the Dead\n1 Reclamation Sage\n1 Thragtusk"
+  }
+}

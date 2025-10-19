@@ -1,0 +1,23 @@
+{
+  "id": "rec4ajb2bE5aaRsoI",
+  "slug": "hate-mares",
+  "name": "Hate Mares",
+  "author": "PleasantKenobi",
+  "format": "Modern",
+  "archetype": "Tribal",
+  "characteristics": [
+    "Attrition"
+  ],
+  "colors": [
+    "White",
+    "Green"
+  ],
+  "updatedAt": "2018-07-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Crested Sunmare",
+  "decklist": {
+    "raw": "4 Adaptive Automaton\r\n2 Auriok Champion\r\n4 Cavern of Souls\r\n3 Crested Sunmare\r\n4 Diamond Mare\r\n1 Forest\r\n4 Ghost Quarter\r\n4 Horizon Canopy\r\n4 Leonin Arbiter\r\n4 Metallic Mimic\r\n3 Mirror Entity\r\n2 Mutavault\r\n4 Noble Hierarch\r\n4 Path to Exile\r\n2 Plains\r\n3 Razorverge Thicket\r\n4 Shield Mare\r\n4 Temple Garden\r\n\r\n1 Auriok Champion\r\n1 Blessed Alliance\r\n1 Damping Sphere\r\n2 Dauntless Escort\r\n1 Qasali Pridemage\r\n2 Scavenging Ooze\r\n1 Shapers' Sanctuary\r\n2 Stony Silence\r\n3 Thalia, Guardian of Thraben\r\n1 Vine Mare\r\n",
+    "mainText": "4 Adaptive Automaton\n2 Auriok Champion\n4 Cavern of Souls\n3 Crested Sunmare\n4 Diamond Mare\n1 Forest\n4 Ghost Quarter\n4 Horizon Canopy\n4 Leonin Arbiter\n4 Metallic Mimic\n3 Mirror Entity\n2 Mutavault\n4 Noble Hierarch\n4 Path to Exile\n2 Plains\n3 Razorverge Thicket\n4 Shield Mare\n4 Temple Garden",
+    "sideText": "1 Auriok Champion\n1 Blessed Alliance\n1 Damping Sphere\n2 Dauntless Escort\n1 Qasali Pridemage\n2 Scavenging Ooze\n1 Shapers' Sanctuary\n2 Stony Silence\n3 Thalia, Guardian of Thraben\n1 Vine Mare"
+  }
+}

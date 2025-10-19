@@ -1,0 +1,23 @@
+{
+  "id": "recONUVCYw1RjF46K",
+  "slug": "memory-belcher",
+  "name": "Memory Belcher",
+  "author": "Vagabond87",
+  "format": "Modern",
+  "archetype": "Combo",
+  "characteristics": [
+    "Deck Manipulation"
+  ],
+  "colors": [
+    "White",
+    "Blue"
+  ],
+  "updatedAt": "2020-11-01T00:00:00.000Z",
+  "containsBannedCards": true,
+  "coverCard": "Selective Memory",
+  "decklist": {
+    "raw": "3 Beyeen Veil\r\n4 Disrupting Shoal\r\n4 Emeria's Call\r\n2 Force of Negation\r\n4 Goblin Charbelcher\r\n4 Jwari Disruption\r\n4 Pentad Prism\r\n4 Sea Gate Restoration\r\n4 Selective Memory\r\n4 Serum Visions\r\n4 Silundi Vision\r\n4 Simian Spirit Guide\r\n3 Skyclave Cleric\r\n4 Talisman of Progress\r\n4 Teferi, Time Raveler\r\n4 Thassa's Oracle\r\n\r\n2 Defense Grid\r\n1 Island\r\n4 Leyline of Sanctity\r\n2 Mystical Dispute\r\n4 Path to Exile\r\n2 Timely Reinforcements\r\n",
+    "mainText": "3 Beyeen Veil\n4 Disrupting Shoal\n4 Emeria's Call\n2 Force of Negation\n4 Goblin Charbelcher\n4 Jwari Disruption\n4 Pentad Prism\n4 Sea Gate Restoration\n4 Selective Memory\n4 Serum Visions\n4 Silundi Vision\n4 Simian Spirit Guide\n3 Skyclave Cleric\n4 Talisman of Progress\n4 Teferi, Time Raveler\n4 Thassa's Oracle",
+    "sideText": "2 Defense Grid\n1 Island\n4 Leyline of Sanctity\n2 Mystical Dispute\n4 Path to Exile\n2 Timely Reinforcements"
+  }
+}

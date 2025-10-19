@@ -1,0 +1,23 @@
+{
+  "id": "recr4lz3poz1TH4AM",
+  "slug": "ug-precognition",
+  "name": "UG Precognition",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Combo",
+  "characteristics": [
+    "Spell Storm"
+  ],
+  "colors": [
+    "Blue",
+    "Green"
+  ],
+  "updatedAt": "2018-11-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Precognition Field",
+  "decklist": {
+    "raw": "4 Aetherflux Reservoir\r\n1 Botanical Sanctum\r\n3 Breeding Pool\r\n1 Cryptic Command\r\n1 Dryad Arbor\r\n2 Explore\r\n2 Farseek\r\n2 Field of Ruin\r\n2 Forest\r\n1 Hinterland Harbor\r\n5 Island\r\n2 Jace, the Mind Sculptor\r\n1 Life from the Loam\r\n4 Misty Rainforest\r\n4 Noxious Revival\r\n4 Polluted Delta\r\n4 Precognition Field\r\n4 Remand\r\n2 Search for Azcanta\r\n4 Serum Visions\r\n4 Snapcaster Mage\r\n1 Temple of Mystery\r\n2 Tireless Tracker\r\n\r\n3 Ceremonious Rejection\r\n1 Dispel\r\n1 Echoing Truth\r\n2 Engineered Explosives\r\n1 Pithing Needle\r\n1 Reclamation Sage\r\n2 Spellskite\r\n1 Surgical Extraction\r\n3 Vedalken Shackles\r\n",
+    "mainText": "4 Aetherflux Reservoir\n1 Botanical Sanctum\n3 Breeding Pool\n1 Cryptic Command\n1 Dryad Arbor\n2 Explore\n2 Farseek\n2 Field of Ruin\n2 Forest\n1 Hinterland Harbor\n5 Island\n2 Jace, the Mind Sculptor\n1 Life from the Loam\n4 Misty Rainforest\n4 Noxious Revival\n4 Polluted Delta\n4 Precognition Field\n4 Remand\n2 Search for Azcanta\n4 Serum Visions\n4 Snapcaster Mage\n1 Temple of Mystery\n2 Tireless Tracker",
+    "sideText": "3 Ceremonious Rejection\n1 Dispel\n1 Echoing Truth\n2 Engineered Explosives\n1 Pithing Needle\n1 Reclamation Sage\n2 Spellskite\n1 Surgical Extraction\n3 Vedalken Shackles"
+  }
+}

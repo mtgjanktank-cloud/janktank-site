@@ -1,0 +1,23 @@
+{
+  "id": "recHi9ms1nZ9gHQ8B",
+  "slug": "zurs-prison",
+  "name": "Zur's Prison",
+  "author": "u/Sergmac",
+  "format": "Modern",
+  "archetype": "Prison",
+  "characteristics": [
+    "Control"
+  ],
+  "colors": [
+    "White",
+    "Blue"
+  ],
+  "updatedAt": "2018-03-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Zur's Weirding",
+  "decklist": {
+    "raw": "4 Adorned Pouncer\r\n3 Celestial Colonnade\r\n1 Elspeth, Sun's Champion\r\n3 Faith's Fetters\r\n4 Field of Ruin\r\n4 Flooded Strand\r\n1 Gideon, Ally of Zendikar\r\n2 Glacial Fortress\r\n2 Hallowed Fountain\r\n4 Island\r\n4 Path to Exile\r\n5 Plains\r\n4 Search for Azcanta\r\n4 Serum Visions\r\n4 Spreading Seas\r\n4 Sunscourge Champion\r\n3 Supreme Verdict\r\n4 Zur's Weirding\r\n\r\n2 Grafdigger's Cage\r\n2 Negate\r\n3 Runed Halo\r\n2 Settle the Wreckage\r\n2 Sorcerous Spyglass\r\n2 Stony Silence\r\n2 Tormod's Crypt\r\n",
+    "mainText": "4 Adorned Pouncer\n3 Celestial Colonnade\n1 Elspeth, Sun's Champion\n3 Faith's Fetters\n4 Field of Ruin\n4 Flooded Strand\n1 Gideon, Ally of Zendikar\n2 Glacial Fortress\n2 Hallowed Fountain\n4 Island\n4 Path to Exile\n5 Plains\n4 Search for Azcanta\n4 Serum Visions\n4 Spreading Seas\n4 Sunscourge Champion\n3 Supreme Verdict\n4 Zur's Weirding",
+    "sideText": "2 Grafdigger's Cage\n2 Negate\n3 Runed Halo\n2 Settle the Wreckage\n2 Sorcerous Spyglass\n2 Stony Silence\n2 Tormod's Crypt"
+  }
+}

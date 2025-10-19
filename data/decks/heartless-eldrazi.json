@@ -1,0 +1,23 @@
+{
+  "id": "recFlOq6UKBXy9KF5",
+  "slug": "heartless-eldrazi",
+  "name": "Heartless Eldrazi",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Value",
+  "characteristics": [
+    "Cost Reduction"
+  ],
+  "colors": [
+    "Blue",
+    "Black"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Heartless Summoning",
+  "decklist": {
+    "raw": "1 Bojuka Bog\r\n4 Eldrazi Temple\r\n4 Endless One\r\n4 Expedition Map\r\n4 Ghost Quarter\r\n3 Heartless Summoning\r\n2 Ifnir Deadlands\r\n2 Kozilek, Butcher of Truth\r\n4 Oblivion Sower\r\n4 Radiant Fountain\r\n4 Relic of Progenitus\r\n2 Scavenger Grounds\r\n4 Swamp\r\n4 Thought-Knot Seer\r\n4 Thoughtseize\r\n2 Ulamog, the Ceaseless Hunger\r\n4 Urborg, Tomb of Yawgmoth\r\n4 Wasteland Strangler\r\n\r\n1 All Is Dust\r\n3 Disfigure\r\n2 Dismember\r\n3 Duress\r\n3 Ruin Processor\r\n1 Scrabbling Claws\r\n2 Surgical Extraction\r\n",
+    "mainText": "1 Bojuka Bog\n4 Eldrazi Temple\n4 Endless One\n4 Expedition Map\n4 Ghost Quarter\n3 Heartless Summoning\n2 Ifnir Deadlands\n2 Kozilek, Butcher of Truth\n4 Oblivion Sower\n4 Radiant Fountain\n4 Relic of Progenitus\n2 Scavenger Grounds\n4 Swamp\n4 Thought-Knot Seer\n4 Thoughtseize\n2 Ulamog, the Ceaseless Hunger\n4 Urborg, Tomb of Yawgmoth\n4 Wasteland Strangler",
+    "sideText": "1 All Is Dust\n3 Disfigure\n2 Dismember\n3 Duress\n3 Ruin Processor\n1 Scrabbling Claws\n2 Surgical Extraction"
+  }
+}

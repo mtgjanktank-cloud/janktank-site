@@ -1,0 +1,23 @@
+{
+  "id": "recBa5UgbJwxVGNVU",
+  "slug": "waste-not-storm",
+  "name": "Waste Not Storm",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Value",
+  "characteristics": [
+    "Pseudo Combo"
+  ],
+  "colors": [
+    "Black",
+    "Red"
+  ],
+  "updatedAt": "2018-02-01T00:00:00.000Z",
+  "containsBannedCards": true,
+  "coverCard": "Reforge the Soul",
+  "decklist": {
+    "raw": "2 Blackcleave Cliffs\r\n3 Blood Crypt\r\n2 Blood Moon\r\n4 Bloodstained Mire\r\n4 Burning Inquiry\r\n3 Dark Deal\r\n4 Desperate Ritual\r\n3 Dream Salvage\r\n3 Faithless Looting\r\n4 Manamorphose\r\n2 Mountain\r\n3 Past in Flames\r\n4 Pyretic Ritual\r\n3 Reforge the Soul\r\n4 Simian Spirit Guide\r\n1 Stomping Ground\r\n3 Swamp\r\n4 Thoughtseize\r\n4 Waste Not\r\n\r\n2 Ancient Grudge\r\n1 Blood Moon\r\n2 Collective Brutality\r\n4 Leyline of Sanctity\r\n3 Liliana's Caress\r\n3 Surgical Extraction\r\n",
+    "mainText": "2 Blackcleave Cliffs\n3 Blood Crypt\n2 Blood Moon\n4 Bloodstained Mire\n4 Burning Inquiry\n3 Dark Deal\n4 Desperate Ritual\n3 Dream Salvage\n3 Faithless Looting\n4 Manamorphose\n2 Mountain\n3 Past in Flames\n4 Pyretic Ritual\n3 Reforge the Soul\n4 Simian Spirit Guide\n1 Stomping Ground\n3 Swamp\n4 Thoughtseize\n4 Waste Not",
+    "sideText": "2 Ancient Grudge\n1 Blood Moon\n2 Collective Brutality\n4 Leyline of Sanctity\n3 Liliana's Caress\n3 Surgical Extraction"
+  }
+}

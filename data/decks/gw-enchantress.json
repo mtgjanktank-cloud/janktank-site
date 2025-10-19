@@ -1,0 +1,23 @@
+{
+  "id": "recfptXUjAB3faUiP",
+  "slug": "gw-enchantress",
+  "name": "GW Enchantress",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Midrange",
+  "characteristics": [
+    "Prison"
+  ],
+  "colors": [
+    "Green",
+    "White"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Leyline of Sanctity",
+  "decklist": {
+    "raw": "2 Arid Mesa\r\n3 Canopy Vista\r\n3 Courser of Kruphix\r\n2 Curse of Exhaustion\r\n4 Forest\r\n3 Ghostly Prison\r\n1 Heliod, God of the Sun\r\n3 Jaddi Offshoot\r\n2 Leyline of Sanctity\r\n2 Mesa Enchantress\r\n3 Nevermore\r\n3 Nyx-Fleece Ram\r\n1 Parallel Lives\r\n5 Plains\r\n2 Privileged Position\r\n3 Sacred Mesa\r\n1 Sigil of the Empty Throne\r\n1 Spear of Heliod\r\n1 Starfield of Nyx\r\n3 Stasis Snare\r\n4 Temple Garden\r\n4 Windswept Heath\r\n4 Yavimaya Enchantress\r\n\r\n2 Choke\r\n1 Gaddock Teeg\r\n1 Grafdigger's Cage\r\n2 Kor Firewalker\r\n2 Krosan Grip\r\n2 Phyrexian Unlife\r\n2 Pithing Needle\r\n1 Relic of Progenitus\r\n2 Stony Silence\r\n",
+    "mainText": "2 Arid Mesa\n3 Canopy Vista\n3 Courser of Kruphix\n2 Curse of Exhaustion\n4 Forest\n3 Ghostly Prison\n1 Heliod, God of the Sun\n3 Jaddi Offshoot\n2 Leyline of Sanctity\n2 Mesa Enchantress\n3 Nevermore\n3 Nyx-Fleece Ram\n1 Parallel Lives\n5 Plains\n2 Privileged Position\n3 Sacred Mesa\n1 Sigil of the Empty Throne\n1 Spear of Heliod\n1 Starfield of Nyx\n3 Stasis Snare\n4 Temple Garden\n4 Windswept Heath\n4 Yavimaya Enchantress",
+    "sideText": "2 Choke\n1 Gaddock Teeg\n1 Grafdigger's Cage\n2 Kor Firewalker\n2 Krosan Grip\n2 Phyrexian Unlife\n2 Pithing Needle\n1 Relic of Progenitus\n2 Stony Silence"
+  }
+}

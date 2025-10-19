@@ -1,0 +1,24 @@
+{
+  "id": "recrwdMsgJTULvGEo",
+  "slug": "tmnt",
+  "name": "TMNT",
+  "author": "u/MeatAnimal",
+  "format": "Modern",
+  "archetype": "Midrange",
+  "characteristics": [
+    "Heroes in a Half Shell"
+  ],
+  "colors": [
+    "Blue",
+    "Black",
+    "Green"
+  ],
+  "updatedAt": "2020-02-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Riptide Turtle",
+  "decklist": {
+    "raw": "2 Abrupt Decay\r\n1 Assassin's Trophy\r\n2 Assault Formation\r\n1 Breeding Pool\r\n1 Creeping Tar Pit\r\n2 Dark Confidant\r\n4 Fatal Push\r\n2 Forest\r\n4 Inquisition of Kozilek\r\n1 Island\r\n2 Jace, the Mind Sculptor\r\n3 Liliana of the Veil\r\n1 Maelstrom Pulse\r\n3 Meandering Towershell\r\n1 Nezumi Shortfang\r\n2 Nurturing Peatland\r\n2 Overgrown Tomb\r\n4 Polluted Delta\r\n4 Riptide Turtle\r\n3 Scavenging Ooze\r\n2 Spreading Seas\r\n2 Swamp\r\n2 Thoughtseize\r\n2 Treetop Village\r\n4 Verdant Catacombs\r\n1 Waterlogged Grove\r\n2 Watery Grave\r\n\r\n2 Ashiok, Dream Render\r\n2 Bitterblossom\r\n3 Collective Brutality\r\n2 Fulminator Mage\r\n1 Liliana, the Last Hope\r\n2 Plague Engineer\r\n3 Ravenous Trap\r\n",
+    "mainText": "2 Abrupt Decay\n1 Assassin's Trophy\n2 Assault Formation\n1 Breeding Pool\n1 Creeping Tar Pit\n2 Dark Confidant\n4 Fatal Push\n2 Forest\n4 Inquisition of Kozilek\n1 Island\n2 Jace, the Mind Sculptor\n3 Liliana of the Veil\n1 Maelstrom Pulse\n3 Meandering Towershell\n1 Nezumi Shortfang\n2 Nurturing Peatland\n2 Overgrown Tomb\n4 Polluted Delta\n4 Riptide Turtle\n3 Scavenging Ooze\n2 Spreading Seas\n2 Swamp\n2 Thoughtseize\n2 Treetop Village\n4 Verdant Catacombs\n1 Waterlogged Grove\n2 Watery Grave",
+    "sideText": "2 Ashiok, Dream Render\n2 Bitterblossom\n3 Collective Brutality\n2 Fulminator Mage\n1 Liliana, the Last Hope\n2 Plague Engineer\n3 Ravenous Trap"
+  }
+}

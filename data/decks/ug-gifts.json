@@ -1,0 +1,23 @@
+{
+  "id": "rec4ZMuKzBvNJit8s",
+  "slug": "ug-gifts",
+  "name": "UG Gifts",
+  "author": "",
+  "format": "Modern",
+  "archetype": "Other",
+  "characteristics": [
+    "Ramp"
+  ],
+  "colors": [
+    "Blue",
+    "Green"
+  ],
+  "updatedAt": "2017-09-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Eternal Witness",
+  "decklist": {
+    "raw": "1 Acidic Slime\r\n4 Arbor Elf\r\n4 Birds of Paradise\r\n2 Breeding Pool\r\n1 Elesh Norn, Grand Cenobite\r\n1 Emrakul, the Aeons Torn\r\n2 Eternal Witness\r\n4 Fertile Ground\r\n4 Forest\r\n4 Garruk Wildspeaker\r\n4 Gifts Ungiven\r\n1 Kiora, the Crashing Wave\r\n2 Misty Rainforest\r\n4 Nykthos, Shrine to Nyx\r\n1 Overgrown Tomb\r\n3 Primal Command\r\n1 Sphinx of Lost Truths\r\n1 Temple Garden\r\n2 Thragtusk\r\n1 Unburial Rites\r\n4 Utopia Sprawl\r\n3 Verdant Catacombs\r\n2 Windswept Heath\r\n1 Wood Elves\r\n3 Wooded Foothills\r\n\r\n1 Disdainful Stroke\r\n1 Dispel\r\n2 Fatal Push\r\n1 Negate\r\n3 Nihil Spellbomb\r\n2 Path to Exile\r\n1 Sigarda, Host of Herons\r\n2 Stony Silence\r\n1 Terastodon\r\n1 Worm Harvest\r\n",
+    "mainText": "1 Acidic Slime\n4 Arbor Elf\n4 Birds of Paradise\n2 Breeding Pool\n1 Elesh Norn, Grand Cenobite\n1 Emrakul, the Aeons Torn\n2 Eternal Witness\n4 Fertile Ground\n4 Forest\n4 Garruk Wildspeaker\n4 Gifts Ungiven\n1 Kiora, the Crashing Wave\n2 Misty Rainforest\n4 Nykthos, Shrine to Nyx\n1 Overgrown Tomb\n3 Primal Command\n1 Sphinx of Lost Truths\n1 Temple Garden\n2 Thragtusk\n1 Unburial Rites\n4 Utopia Sprawl\n3 Verdant Catacombs\n2 Windswept Heath\n1 Wood Elves\n3 Wooded Foothills",
+    "sideText": "1 Disdainful Stroke\n1 Dispel\n2 Fatal Push\n1 Negate\n3 Nihil Spellbomb\n2 Path to Exile\n1 Sigarda, Host of Herons\n2 Stony Silence\n1 Terastodon\n1 Worm Harvest"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "recpYlJjA9I47ftNU",
+  "slug": "mono-g-value",
+  "name": "Mono-G Value",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Value",
+  "characteristics": [
+    "Collected Company"
+  ],
+  "colors": [
+    "Green"
+  ],
+  "updatedAt": "2018-08-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Yisan, the Wanderer Bard",
+  "decklist": {
+    "raw": "4 Birds of Paradise\r\n4 Chord of Calling\r\n4 Collected Company\r\n1 Dungrove Elder\r\n1 Duskwatch Recruiter\r\n1 Epochrasite\r\n1 Eternal Witness\r\n21 Forest\r\n3 Kitchen Finks\r\n4 Leatherback Baloth\r\n1 Loaming Shaman\r\n1 Oviya Pashiri, Sage Lifecrafter\r\n1 Reclamation Sage\r\n4 Relic of Progenitus\r\n1 Rhonas the Indomitable\r\n1 Runic Armasaur\r\n1 Steel Leaf Champion\r\n1 Tireless Tracker\r\n1 Ulvenwald Tracker\r\n3 Wall of Roots\r\n1 Yisan, the Wanderer Bard\r\n\r\n1 Atzocan Archer\r\n1 Brindle Boar\r\n4 Caustic Caterpillar\r\n1 Hex Parasite\r\n1 Magus of the Moon\r\n3 Shapers' Sanctuary\r\n1 Spellskite\r\n3 Tireless Tracker\r\n",
+    "mainText": "4 Birds of Paradise\n4 Chord of Calling\n4 Collected Company\n1 Dungrove Elder\n1 Duskwatch Recruiter\n1 Epochrasite\n1 Eternal Witness\n21 Forest\n3 Kitchen Finks\n4 Leatherback Baloth\n1 Loaming Shaman\n1 Oviya Pashiri, Sage Lifecrafter\n1 Reclamation Sage\n4 Relic of Progenitus\n1 Rhonas the Indomitable\n1 Runic Armasaur\n1 Steel Leaf Champion\n1 Tireless Tracker\n1 Ulvenwald Tracker\n3 Wall of Roots\n1 Yisan, the Wanderer Bard",
+    "sideText": "1 Atzocan Archer\n1 Brindle Boar\n4 Caustic Caterpillar\n1 Hex Parasite\n1 Magus of the Moon\n3 Shapers' Sanctuary\n1 Spellskite\n3 Tireless Tracker"
+  }
+}

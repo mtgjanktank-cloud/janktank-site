@@ -1,0 +1,24 @@
+{
+  "id": "recxg90dZmFOaItPS",
+  "slug": "landfall-combo",
+  "name": "Landfall Combo",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Combo",
+  "characteristics": [
+    "Lands, Infinite Loop"
+  ],
+  "colors": [
+    "Blue",
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Hedron Crab",
+  "decklist": {
+    "raw": "3 Altar of the Brood\r\n4 Breeding Pool\r\n4 Commune with the Gods\r\n3 Copperline Gorge\r\n2 Drift of Phantasms\r\n1 Gruul Turf\r\n4 Hedron Crab\r\n3 Into the Roil\r\n1 Island\r\n2 Meloku the Clouded Mirror\r\n1 Mountain\r\n4 Oboro, Palace in the Clouds\r\n4 Remand\r\n4 Retreat to Coralhelm\r\n4 Sakura-Tribe Scout\r\n3 Simic Growth Chamber\r\n2 Skyshroud Ranger\r\n1 Stomping Ground\r\n4 Tunneling Geopede\r\n2 Walking Atlas\r\n4 Wooded Foothills\r\n\r\n3 Ancient Grudge\r\n3 Dispel\r\n2 Grafdigger's Cage\r\n3 Jaddi Offshoot\r\n2 Nature's Claim\r\n2 Scavenging Ooze\r\n",
+    "mainText": "3 Altar of the Brood\n4 Breeding Pool\n4 Commune with the Gods\n3 Copperline Gorge\n2 Drift of Phantasms\n1 Gruul Turf\n4 Hedron Crab\n3 Into the Roil\n1 Island\n2 Meloku the Clouded Mirror\n1 Mountain\n4 Oboro, Palace in the Clouds\n4 Remand\n4 Retreat to Coralhelm\n4 Sakura-Tribe Scout\n3 Simic Growth Chamber\n2 Skyshroud Ranger\n1 Stomping Ground\n4 Tunneling Geopede\n2 Walking Atlas\n4 Wooded Foothills",
+    "sideText": "3 Ancient Grudge\n3 Dispel\n2 Grafdigger's Cage\n3 Jaddi Offshoot\n2 Nature's Claim\n2 Scavenging Ooze"
+  }
+}

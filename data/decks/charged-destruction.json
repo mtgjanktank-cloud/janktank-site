@@ -1,0 +1,22 @@
+{
+  "id": "reca1QqL05vdfJxKa",
+  "slug": "charged-destruction",
+  "name": "Charged Destruction",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Pseudo Combo",
+  "characteristics": [
+    "Artifact Ramp"
+  ],
+  "colors": [
+    "Red"
+  ],
+  "updatedAt": "2017-04-01T00:00:00.000Z",
+  "containsBannedCards": true,
+  "coverCard": "Coretapper",
+  "decklist": {
+    "raw": "4 Astral Cornucopia\r\n3 Blood Moon\r\n2 Boseiju, Who Shelters All\r\n4 Coretapper\r\n2 Destructive Force\r\n3 Everflowing Chalice\r\n4 Glimmervoid\r\n1 Grindclock\r\n2 Inventors' Fair\r\n1 Karn Liberated\r\n4 Lux Cannon\r\n2 Mikokoro, Center of the Sea\r\n3 Mountain\r\n4 Mox Opal\r\n4 Spire of Industry\r\n4 Surge Node\r\n4 Tezzeret's Gambit\r\n1 Ugin, the Spirit Dragon\r\n4 Voltaic Key\r\n4 Wildfire\r\n\r\n2 Anger of the Gods\r\n3 Defense Grid\r\n2 Grindclock\r\n4 Ratchet Bomb\r\n2 Relic of Progenitus\r\n2 Wurmcoil Engine\r\n",
+    "mainText": "4 Astral Cornucopia\n3 Blood Moon\n2 Boseiju, Who Shelters All\n4 Coretapper\n2 Destructive Force\n3 Everflowing Chalice\n4 Glimmervoid\n1 Grindclock\n2 Inventors' Fair\n1 Karn Liberated\n4 Lux Cannon\n2 Mikokoro, Center of the Sea\n3 Mountain\n4 Mox Opal\n4 Spire of Industry\n4 Surge Node\n4 Tezzeret's Gambit\n1 Ugin, the Spirit Dragon\n4 Voltaic Key\n4 Wildfire",
+    "sideText": "2 Anger of the Gods\n3 Defense Grid\n2 Grindclock\n4 Ratchet Bomb\n2 Relic of Progenitus\n2 Wurmcoil Engine"
+  }
+}

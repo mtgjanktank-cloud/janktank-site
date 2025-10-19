@@ -1,0 +1,23 @@
+{
+  "id": "rec3tjsC0HP21cf9H",
+  "slug": "uw-hexproof",
+  "name": "UW Hexproof",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Aggro",
+  "characteristics": [
+    "Voltron"
+  ],
+  "colors": [
+    "White",
+    "Blue"
+  ],
+  "updatedAt": "2017-09-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Invisible Stalker",
+  "decklist": {
+    "raw": "4 Curiosity\r\n1 Curse of Chains\r\n4 Daybreak Coronet\r\n1 Eiganjo Castle\r\n1 Ethereal Armor\r\n4 Flooded Strand\r\n4 Geist of Saint Traft\r\n3 Glacial Fortress\r\n1 Hallowed Fountain\r\n1 Hyena Umbra\r\n4 Invisible Stalker\r\n2 Island\r\n1 Moorland Haunt\r\n4 Path to Exile\r\n2 Plains\r\n1 Polluted Delta\r\n1 Prairie Stream\r\n2 Prison Term\r\n4 Remand\r\n4 Seachrome Coast\r\n1 Spectral Flight\r\n1 Spirit Mantle\r\n2 Steel of the Godhead\r\n1 Swan Song\r\n4 Tallowisp\r\n2 Tectonic Edge\r\n1 Temporal Isolation\r\n\r\n2 Disrupting Shoal\r\n1 Grafdigger's Cage\r\n2 Hibernation\r\n2 Hurkyl's Recall\r\n3 Leyline of Sanctity\r\n2 Mirran Crusader\r\n2 Relic of Progenitus\r\n1 Swan Song\r\n",
+    "mainText": "4 Curiosity\n1 Curse of Chains\n4 Daybreak Coronet\n1 Eiganjo Castle\n1 Ethereal Armor\n4 Flooded Strand\n4 Geist of Saint Traft\n3 Glacial Fortress\n1 Hallowed Fountain\n1 Hyena Umbra\n4 Invisible Stalker\n2 Island\n1 Moorland Haunt\n4 Path to Exile\n2 Plains\n1 Polluted Delta\n1 Prairie Stream\n2 Prison Term\n4 Remand\n4 Seachrome Coast\n1 Spectral Flight\n1 Spirit Mantle\n2 Steel of the Godhead\n1 Swan Song\n4 Tallowisp\n2 Tectonic Edge\n1 Temporal Isolation",
+    "sideText": "2 Disrupting Shoal\n1 Grafdigger's Cage\n2 Hibernation\n2 Hurkyl's Recall\n3 Leyline of Sanctity\n2 Mirran Crusader\n2 Relic of Progenitus\n1 Swan Song"
+  }
+}

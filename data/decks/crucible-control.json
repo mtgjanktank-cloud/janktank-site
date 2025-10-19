@@ -1,0 +1,22 @@
+{
+  "id": "recQ94QobwwVQM5jq",
+  "slug": "crucible-control",
+  "name": "Crucible Control",
+  "author": "Randall Thompson",
+  "format": "Modern",
+  "archetype": "Prison",
+  "characteristics": [
+    "Artifact Based"
+  ],
+  "colors": [
+    "Black"
+  ],
+  "updatedAt": "2017-04-01T00:00:00.000Z",
+  "containsBannedCards": true,
+  "coverCard": "Crucible of Worlds",
+  "decklist": {
+    "raw": "1 Academy Ruins\r\n4 Blooming Marsh\r\n4 Chalice of the Void\r\n4 Collective Brutality\r\n4 Crucible of Worlds\r\n3 Darksteel Citadel\r\n4 Ensnaring Bridge\r\n1 Forest\r\n4 Ghost Quarter\r\n4 Infernal Tutor\r\n1 Inkmoth Nexus\r\n1 Inventors' Fair\r\n4 Liliana of the Veil\r\n4 Mishra's Bauble\r\n4 Mox Opal\r\n2 Ratchet Bomb\r\n4 Smallpox\r\n4 Swamp\r\n3 Urborg, Tomb of Yawgmoth\r\n\r\n1 Phyrexian Revoker\r\n4 Seal of Primordium\r\n3 Sun Droplet\r\n3 Tormod's Crypt\r\n3 Welding Jar\r\n1 Witchbane Orb\r\n",
+    "mainText": "1 Academy Ruins\n4 Blooming Marsh\n4 Chalice of the Void\n4 Collective Brutality\n4 Crucible of Worlds\n3 Darksteel Citadel\n4 Ensnaring Bridge\n1 Forest\n4 Ghost Quarter\n4 Infernal Tutor\n1 Inkmoth Nexus\n1 Inventors' Fair\n4 Liliana of the Veil\n4 Mishra's Bauble\n4 Mox Opal\n2 Ratchet Bomb\n4 Smallpox\n4 Swamp\n3 Urborg, Tomb of Yawgmoth",
+    "sideText": "1 Phyrexian Revoker\n4 Seal of Primordium\n3 Sun Droplet\n3 Tormod's Crypt\n3 Welding Jar\n1 Witchbane Orb"
+  }
+}

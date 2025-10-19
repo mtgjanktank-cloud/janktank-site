@@ -1,0 +1,25 @@
+{
+  "id": "recd6nLK9bWcAjrgj",
+  "slug": "act-of-bees",
+  "name": "Act of Bees",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Pseudo Combo",
+  "characteristics": [
+    "BEES"
+  ],
+  "colors": [
+    "White",
+    "Black",
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2017-04-01T00:00:00.000Z",
+  "containsBannedCards": true,
+  "coverCard": "Hornet Nest",
+  "decklist": {
+    "raw": "4 Aether Vial\r\n4 Birds of Paradise\r\n4 Blasphemous Act\r\n1 Blood Crypt\r\n4 Boros Reckoner\r\n3 Chain Reaction\r\n4 Elvish Visionary\r\n1 Fire-Lit Thicket\r\n4 Forbidden Orchard\r\n1 Forest\r\n1 Godless Shrine\r\n4 Hornet Nest\r\n3 Lingering Souls\r\n4 Marsh Flats\r\n1 Mountain\r\n1 Overgrown Tomb\r\n1 Plains\r\n1 Sacred Foundry\r\n2 Soulfire Grand Master\r\n1 Stomping Ground\r\n1 Swamp\r\n1 Temple Garden\r\n1 Vizkopa Guildmage\r\n4 Wooded Foothills\r\n4 Zulaport Cutthroat\r\n\r\n1 Abrupt Decay\r\n1 Ancient Grudge\r\n2 Dosan the Falling Leaf\r\n2 Fulminator Mage\r\n1 Gavony Township\r\n2 Kor Firewalker\r\n1 Slaughter Pact\r\n2 Spellskite\r\n3 Tidehollow Sculler\r\n",
+    "mainText": "4 Aether Vial\n4 Birds of Paradise\n4 Blasphemous Act\n1 Blood Crypt\n4 Boros Reckoner\n3 Chain Reaction\n4 Elvish Visionary\n1 Fire-Lit Thicket\n4 Forbidden Orchard\n1 Forest\n1 Godless Shrine\n4 Hornet Nest\n3 Lingering Souls\n4 Marsh Flats\n1 Mountain\n1 Overgrown Tomb\n1 Plains\n1 Sacred Foundry\n2 Soulfire Grand Master\n1 Stomping Ground\n1 Swamp\n1 Temple Garden\n1 Vizkopa Guildmage\n4 Wooded Foothills\n4 Zulaport Cutthroat",
+    "sideText": "1 Abrupt Decay\n1 Ancient Grudge\n2 Dosan the Falling Leaf\n2 Fulminator Mage\n1 Gavony Township\n2 Kor Firewalker\n1 Slaughter Pact\n2 Spellskite\n3 Tidehollow Sculler"
+  }
+}

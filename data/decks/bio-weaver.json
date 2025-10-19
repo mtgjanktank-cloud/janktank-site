@@ -1,0 +1,23 @@
+{
+  "id": "recVrcw2x8yeCCfRb",
+  "slug": "bio-weaver",
+  "name": "Bio-Weaver",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Combo",
+  "characteristics": [
+    "Alternate Win Condition"
+  ],
+  "colors": [
+    "Blue",
+    "Green"
+  ],
+  "updatedAt": "2017-04-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Biovisonary",
+  "decklist": {
+    "raw": "4 Biovisionary\r\n4 Birds of Paradise\r\n4 Breeding Pool\r\n4 Chord of Calling\r\n4 Flooded Strand\r\n1 Flurry of Wings\r\n5 Forest\r\n3 Island\r\n3 Mana Leak\r\n4 Merchant Scroll\r\n3 Mirrorweave\r\n4 Misty Rainforest\r\n4 Nest Invader\r\n4 Noble Hierarch\r\n1 Plains\r\n2 Remand\r\n2 Temple Garden\r\n4 Wall of Roots\r\n\r\n2 Bribery\r\n3 Creeping Corrosion\r\n3 Path to Exile\r\n3 Rest in Peace\r\n4 Spellskite\r\n",
+    "mainText": "4 Biovisionary\n4 Birds of Paradise\n4 Breeding Pool\n4 Chord of Calling\n4 Flooded Strand\n1 Flurry of Wings\n5 Forest\n3 Island\n3 Mana Leak\n4 Merchant Scroll\n3 Mirrorweave\n4 Misty Rainforest\n4 Nest Invader\n4 Noble Hierarch\n1 Plains\n2 Remand\n2 Temple Garden\n4 Wall of Roots",
+    "sideText": "2 Bribery\n3 Creeping Corrosion\n3 Path to Exile\n3 Rest in Peace\n4 Spellskite"
+  }
+}

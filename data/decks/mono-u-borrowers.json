@@ -1,0 +1,22 @@
+{
+  "id": "rec4ruRJrBsus2DRx",
+  "slug": "mono-u-borrowers",
+  "name": "Mono-U Borrowers",
+  "author": "BadDecksPlayedBadlyMTG",
+  "format": "Modern",
+  "archetype": "Value",
+  "characteristics": [
+    "Control"
+  ],
+  "colors": [
+    "Blue"
+  ],
+  "updatedAt": "2019-06-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Watcher for Tomorrow",
+  "decklist": {
+    "raw": "4 Champion of Wits\r\n4 Essence Flux\r\n3 Faerie Seer\r\n15 Island\r\n4 Master of Waves\r\n4 Naban, Dean of Iteration\r\n4 Prophetic Prism\r\n4 Radiant Fountain\r\n2 Sower of Temptation\r\n4 Spreading Seas\r\n4 Vedalken Plotter\r\n4 Watcher for Tomorrow\r\n4 Zhalfirin Void\r\n\r\n1 Boomerang\r\n2 Damping Sphere\r\n1 Dispel\r\n1 Dovin, Hand of Control\r\n2 Imprisoned in the Moon\r\n1 Narset, Parter of Veils\r\n1 Ratchet Bomb\r\n3 Relic of Progenitus\r\n3 Wizard's Retort\r\n",
+    "mainText": "4 Champion of Wits\n4 Essence Flux\n3 Faerie Seer\n15 Island\n4 Master of Waves\n4 Naban, Dean of Iteration\n4 Prophetic Prism\n4 Radiant Fountain\n2 Sower of Temptation\n4 Spreading Seas\n4 Vedalken Plotter\n4 Watcher for Tomorrow\n4 Zhalfirin Void",
+    "sideText": "1 Boomerang\n2 Damping Sphere\n1 Dispel\n1 Dovin, Hand of Control\n2 Imprisoned in the Moon\n1 Narset, Parter of Veils\n1 Ratchet Bomb\n3 Relic of Progenitus\n3 Wizard's Retort"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "reczajPcIvbaLB7F0",
+  "slug": "bant-miracles",
+  "name": "Bant Miracles",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Control",
+  "characteristics": [
+    "Deck Manipulation"
+  ],
+  "colors": [
+    "White",
+    "Blue",
+    "Green"
+  ],
+  "updatedAt": "2018-11-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Terminus",
+  "decklist": {
+    "raw": "1 Breeding Pool\r\n1 Celestial Colonnade\r\n2 Entreat the Angels\r\n3 Flooded Strand\r\n1 Fog\r\n2 Forest\r\n2 Hallowed Fountain\r\n3 Island\r\n1 Isochron Scepter\r\n1 Jace, the Mind Sculptor\r\n3 Judge Unworthy\r\n1 Kiora, the Crashing Wave\r\n2 Lumbering Falls\r\n1 Misty Rainforest\r\n1 Narset Transcendent\r\n3 Noxious Revival\r\n3 Oath of Jace\r\n3 Path to Exile\r\n3 Plains\r\n3 Polluted Delta\r\n2 Prairie Stream\r\n3 Remand\r\n4 Serum Visions\r\n2 Snapcaster Mage\r\n1 Tamiyo, Field Researcher\r\n2 Telling Time\r\n2 Temporal Mastery\r\n3 Terminus\r\n1 Windswept Heath\r\n\r\n2 Disenchant\r\n2 Dispel\r\n1 Elspeth, Sun's Champion\r\n3 Leyline of Sanctity\r\n1 Pithing Needle\r\n2 Rest in Peace\r\n2 Stony Silence\r\n2 Wrath of God\r\n",
+    "mainText": "1 Breeding Pool\n1 Celestial Colonnade\n2 Entreat the Angels\n3 Flooded Strand\n1 Fog\n2 Forest\n2 Hallowed Fountain\n3 Island\n1 Isochron Scepter\n1 Jace, the Mind Sculptor\n3 Judge Unworthy\n1 Kiora, the Crashing Wave\n2 Lumbering Falls\n1 Misty Rainforest\n1 Narset Transcendent\n3 Noxious Revival\n3 Oath of Jace\n3 Path to Exile\n3 Plains\n3 Polluted Delta\n2 Prairie Stream\n3 Remand\n4 Serum Visions\n2 Snapcaster Mage\n1 Tamiyo, Field Researcher\n2 Telling Time\n2 Temporal Mastery\n3 Terminus\n1 Windswept Heath",
+    "sideText": "2 Disenchant\n2 Dispel\n1 Elspeth, Sun's Champion\n3 Leyline of Sanctity\n1 Pithing Needle\n2 Rest in Peace\n2 Stony Silence\n2 Wrath of God"
+  }
+}

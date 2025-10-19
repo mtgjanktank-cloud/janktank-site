@@ -1,0 +1,23 @@
+{
+  "id": "recNMw4Kmv313c1u8",
+  "slug": "ug-outcome",
+  "name": "UG Outcome",
+  "author": "u/DiscombobulatedUnit5",
+  "format": "Modern",
+  "archetype": "Combo",
+  "characteristics": [
+    "Artifact Storm"
+  ],
+  "colors": [
+    "Blue",
+    "Green"
+  ],
+  "updatedAt": "2018-10-01T00:00:00.000Z",
+  "containsBannedCards": true,
+  "coverCard": "Paradoxical Outcome",
+  "decklist": {
+    "raw": "2 Aetherflux Reservoir\r\n4 Ancient Stirrings\r\n4 Botanical Sanctum\r\n2 Breeding Pool\r\n2 Engineered Explosives\r\n2 Erayo, Soratami Ascendant\r\n1 Forest\r\n1 Island\r\n2 Jace, Vryn's Prodigy\r\n3 Metallic Rebuke\r\n4 Mishra's Bauble\r\n4 Misty Rainforest\r\n3 Mox Amber\r\n4 Mox Opal\r\n4 Paradoxical Outcome\r\n4 Pentad Prism\r\n4 Repeal\r\n4 Sai, Master Thopterist\r\n4 Scalding Tarn\r\n2 Thirst for Knowledge\r\n\r\n1 Commit/Memory\r\n2 Defense Grid\r\n2 Dismember\r\n1 Echoing Truth\r\n2 Engineered Explosives\r\n2 Karn, Scion of Urza\r\n2 Nature's Claim\r\n3 Tormod's Crypt\r\n",
+    "mainText": "2 Aetherflux Reservoir\n4 Ancient Stirrings\n4 Botanical Sanctum\n2 Breeding Pool\n2 Engineered Explosives\n2 Erayo, Soratami Ascendant\n1 Forest\n1 Island\n2 Jace, Vryn's Prodigy\n3 Metallic Rebuke\n4 Mishra's Bauble\n4 Misty Rainforest\n3 Mox Amber\n4 Mox Opal\n4 Paradoxical Outcome\n4 Pentad Prism\n4 Repeal\n4 Sai, Master Thopterist\n4 Scalding Tarn\n2 Thirst for Knowledge",
+    "sideText": "1 Commit/Memory\n2 Defense Grid\n2 Dismember\n1 Echoing Truth\n2 Engineered Explosives\n2 Karn, Scion of Urza\n2 Nature's Claim\n3 Tormod's Crypt"
+  }
+}

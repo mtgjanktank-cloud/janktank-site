@@ -1,0 +1,23 @@
+{
+  "id": "recdmNRwu4PMHa7ms",
+  "slug": "rw-pyrohemia",
+  "name": "RW Pyrohemia",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Midrange",
+  "characteristics": [
+    "Control"
+  ],
+  "colors": [
+    "White",
+    "Red"
+  ],
+  "updatedAt": "2017-09-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Pyrohemia",
+  "decklist": {
+    "raw": "1 Ajani Vengeant\r\n1 Batterskull\r\n1 Battlefield Forge\r\n1 Blasphemous Act\r\n3 Bloodstained Mire\r\n4 Boros Reckoner\r\n2 Clifftop Retreat\r\n1 Flame Slash\r\n1 Goblin Dark-Dwellers\r\n4 Kor Firewalker\r\n4 Lightning Bolt\r\n4 Lightning Helix\r\n1 Mana Tithe\r\n4 Monastery Swiftspear\r\n9 Mountain\r\n1 Outpost Siege\r\n2 Path to Exile\r\n3 Plains\r\n4 Pyroclasm\r\n3 Pyrohemia\r\n2 Sacred Foundry\r\n1 Swans of Bryn Argoll\r\n1 Temple of Triumph\r\n1 Wall of Omens\r\n1 Wooded Foothills\r\n\r\n1 Fiend Hunter\r\n3 Grafdigger's Cage\r\n1 Monastery Mentor\r\n1 Pride Guardian\r\n1 Rest in Peace\r\n1 Spellskite\r\n2 Stony Silence\r\n1 Sun Droplet\r\n2 Torpor Orb\r\n2 Wear/Tear\r\n",
+    "mainText": "1 Ajani Vengeant\n1 Batterskull\n1 Battlefield Forge\n1 Blasphemous Act\n3 Bloodstained Mire\n4 Boros Reckoner\n2 Clifftop Retreat\n1 Flame Slash\n1 Goblin Dark-Dwellers\n4 Kor Firewalker\n4 Lightning Bolt\n4 Lightning Helix\n1 Mana Tithe\n4 Monastery Swiftspear\n9 Mountain\n1 Outpost Siege\n2 Path to Exile\n3 Plains\n4 Pyroclasm\n3 Pyrohemia\n2 Sacred Foundry\n1 Swans of Bryn Argoll\n1 Temple of Triumph\n1 Wall of Omens\n1 Wooded Foothills",
+    "sideText": "1 Fiend Hunter\n3 Grafdigger's Cage\n1 Monastery Mentor\n1 Pride Guardian\n1 Rest in Peace\n1 Spellskite\n2 Stony Silence\n1 Sun Droplet\n2 Torpor Orb\n2 Wear/Tear"
+  }
+}

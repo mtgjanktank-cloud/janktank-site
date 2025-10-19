@@ -1,0 +1,23 @@
+{
+  "id": "recBStX1WIn7prHSe",
+  "slug": "sylvan-soulblast",
+  "name": "Sylvan Soulblast",
+  "author": "MooseImperium",
+  "format": "Modern",
+  "archetype": "Combo",
+  "characteristics": [
+    "Land Based"
+  ],
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2018-06-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Sylvan Awakening",
+  "decklist": {
+    "raw": "4 Cinder Glade\r\n2 Devastating Summons\r\n3 Dryad Arbor\r\n1 Edge of Autumn\r\n3 Farseek\r\n10 Forest\r\n1 Harrow\r\n4 Manamorphose\r\n2 Mwonvuli Acid-Moss\r\n2 Primeval Titan\r\n4 Ramunap Excavator\r\n1 Sakura-Tribe Elder\r\n1 Sapseep Forest\r\n3 Scapeshift\r\n4 Sheltered Thicket\r\n2 Soulblast\r\n3 Splendid Reclamation\r\n1 Stomping Ground\r\n4 Stone-Seeder Hierophant\r\n3 Sylvan Awakening\r\n1 The Mending of Dominaria\r\n1 Woodland Guidance\r\n\r\n4 Ancient Grudge\r\n4 Seismic Assault\r\n3 Shatterstorm\r\n4 Tormod's Crypt\r\n",
+    "mainText": "4 Cinder Glade\n2 Devastating Summons\n3 Dryad Arbor\n1 Edge of Autumn\n3 Farseek\n10 Forest\n1 Harrow\n4 Manamorphose\n2 Mwonvuli Acid-Moss\n2 Primeval Titan\n4 Ramunap Excavator\n1 Sakura-Tribe Elder\n1 Sapseep Forest\n3 Scapeshift\n4 Sheltered Thicket\n2 Soulblast\n3 Splendid Reclamation\n1 Stomping Ground\n4 Stone-Seeder Hierophant\n3 Sylvan Awakening\n1 The Mending of Dominaria\n1 Woodland Guidance",
+    "sideText": "4 Ancient Grudge\n4 Seismic Assault\n3 Shatterstorm\n4 Tormod's Crypt"
+  }
+}

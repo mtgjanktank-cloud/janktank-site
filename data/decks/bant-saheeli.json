@@ -1,0 +1,25 @@
+{
+  "id": "recG9Ecx2icIRc3MA",
+  "slug": "bant-saheeli",
+  "name": "Bant Saheeli",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Combo",
+  "characteristics": [
+    "Tool Box"
+  ],
+  "colors": [
+    "White",
+    "Blue",
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2017-04-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Saheeli Rai",
+  "decklist": {
+    "raw": "2 Birds of Paradise\r\n1 Breeding Pool\r\n2 Coiling Oracle\r\n2 Eldritch Evolution\r\n1 Eternal Witness\r\n3 Felidar Guardian\r\n2 Forest\r\n1 Gavony Township\r\n1 Hallowed Fountain\r\n1 Horizon Canopy\r\n1 Island\r\n4 Misty Rainforest\r\n4 Noble Hierarch\r\n3 Oath of Nissa\r\n3 Path to Exile\r\n1 Plains\r\n1 Qasali Pridemage\r\n3 Renegade Rallier\r\n3 Restoration Angel\r\n1 Reveillark\r\n1 Sacred Foundry\r\n4 Saheeli Rai\r\n1 Scavenging Ooze\r\n1 Steam Vents\r\n1 Stomping Ground\r\n2 Temple Garden\r\n3 Voice of Resurgence\r\n3 Wall of Omens\r\n4 Windswept Heath\r\n\r\n1 Avalanche Riders\r\n1 Eidolon of Rhetoric\r\n2 Eldritch Evolution\r\n2 Gideon, Ally of Zendikar\r\n1 Glen Elendra Archmage\r\n3 Kitchen Finks\r\n1 Reclamation Sage\r\n1 Thragtusk\r\n2 Unified Will\r\n1 Worship\r\n",
+    "mainText": "2 Birds of Paradise\n1 Breeding Pool\n2 Coiling Oracle\n2 Eldritch Evolution\n1 Eternal Witness\n3 Felidar Guardian\n2 Forest\n1 Gavony Township\n1 Hallowed Fountain\n1 Horizon Canopy\n1 Island\n4 Misty Rainforest\n4 Noble Hierarch\n3 Oath of Nissa\n3 Path to Exile\n1 Plains\n1 Qasali Pridemage\n3 Renegade Rallier\n3 Restoration Angel\n1 Reveillark\n1 Sacred Foundry\n4 Saheeli Rai\n1 Scavenging Ooze\n1 Steam Vents\n1 Stomping Ground\n2 Temple Garden\n3 Voice of Resurgence\n3 Wall of Omens\n4 Windswept Heath",
+    "sideText": "1 Avalanche Riders\n1 Eidolon of Rhetoric\n2 Eldritch Evolution\n2 Gideon, Ally of Zendikar\n1 Glen Elendra Archmage\n3 Kitchen Finks\n1 Reclamation Sage\n1 Thragtusk\n2 Unified Will\n1 Worship"
+  }
+}

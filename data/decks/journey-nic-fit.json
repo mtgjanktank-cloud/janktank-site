@@ -1,0 +1,24 @@
+{
+  "id": "recTxRNv1wGAALi8o",
+  "slug": "journey-nic-fit",
+  "name": "Journey Nic-Fit",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Midrange",
+  "characteristics": [
+    "Graveyard Value"
+  ],
+  "colors": [
+    "Blue",
+    "Black",
+    "Green"
+  ],
+  "updatedAt": "2018-01-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Journey to Eternity",
+  "decklist": {
+    "raw": "2 Abrupt Decay\r\n4 Blooming Marsh\r\n1 Breeding Pool\r\n2 Commune with the Gods\r\n4 Eldritch Evolution\r\n2 Eternal Witness\r\n4 Fatal Push\r\n2 Field of Ruin\r\n4 Forest\r\n1 Fulminator Mage\r\n2 Glen Elendra Archmage\r\n1 Grave Titan\r\n1 Hostage Taker\r\n4 Inquisition of Kozilek\r\n1 Island\r\n4 Journey to Eternity\r\n2 Kitchen Finks\r\n1 Overgrown Tomb\r\n4 Sakura-Tribe Elder\r\n1 Sidisi, Undead Vizier\r\n2 Swamp\r\n1 The Scarab God\r\n2 Thoughtseize\r\n1 Thragtusk\r\n2 Tireless Tracker\r\n4 Verdant Catacombs\r\n1 Watery Grave\r\n\r\n",
+    "mainText": "2 Abrupt Decay\n4 Blooming Marsh\n1 Breeding Pool\n2 Commune with the Gods\n4 Eldritch Evolution\n2 Eternal Witness\n4 Fatal Push\n2 Field of Ruin\n4 Forest\n1 Fulminator Mage\n2 Glen Elendra Archmage\n1 Grave Titan\n1 Hostage Taker\n4 Inquisition of Kozilek\n1 Island\n4 Journey to Eternity\n2 Kitchen Finks\n1 Overgrown Tomb\n4 Sakura-Tribe Elder\n1 Sidisi, Undead Vizier\n2 Swamp\n1 The Scarab God\n2 Thoughtseize\n1 Thragtusk\n2 Tireless Tracker\n4 Verdant Catacombs\n1 Watery Grave",
+    "sideText": ""
+  }
+}

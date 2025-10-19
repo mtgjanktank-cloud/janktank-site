@@ -1,0 +1,23 @@
+{
+  "id": "recS0WNZohf4rrvMV",
+  "slug": "black-moon",
+  "name": "Black Moon",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Midrange",
+  "characteristics": [
+    "Prison"
+  ],
+  "colors": [
+    "Black",
+    "Red"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Pack Rat",
+  "decklist": {
+    "raw": "4 Blackcleave Cliffs\r\n2 Blood Crypt\r\n4 Blood Moon\r\n4 Bloodstained Mire\r\n1 Chandra, Torch of Defiance\r\n1 Collective Brutality\r\n4 Dark Confidant\r\n1 Dreadbore\r\n4 Fatal Push\r\n4 Goblin Rabblemaster\r\n4 Inquisition of Kozilek\r\n1 Kolaghan's Command\r\n2 Lightning Bolt\r\n3 Liliana of the Veil\r\n2 Marsh Flats\r\n1 Mountain\r\n2 Mutavault\r\n4 Pack Rat\r\n3 Swamp\r\n3 Terminate\r\n2 Thoughtseize\r\n4 Verdant Catacombs\r\n\r\n1 Anger of the Gods\r\n2 Collective Brutality\r\n1 Damnation\r\n1 Duress\r\n1 Flaying Tendrils\r\n1 Grafdigger's Cage\r\n1 Grim Lavamancer\r\n1 Kolaghan's Command\r\n4 Leyline of the Void\r\n1 Olivia Voldaren\r\n1 Shatterstorm\r\n",
+    "mainText": "4 Blackcleave Cliffs\n2 Blood Crypt\n4 Blood Moon\n4 Bloodstained Mire\n1 Chandra, Torch of Defiance\n1 Collective Brutality\n4 Dark Confidant\n1 Dreadbore\n4 Fatal Push\n4 Goblin Rabblemaster\n4 Inquisition of Kozilek\n1 Kolaghan's Command\n2 Lightning Bolt\n3 Liliana of the Veil\n2 Marsh Flats\n1 Mountain\n2 Mutavault\n4 Pack Rat\n3 Swamp\n3 Terminate\n2 Thoughtseize\n4 Verdant Catacombs",
+    "sideText": "1 Anger of the Gods\n2 Collective Brutality\n1 Damnation\n1 Duress\n1 Flaying Tendrils\n1 Grafdigger's Cage\n1 Grim Lavamancer\n1 Kolaghan's Command\n4 Leyline of the Void\n1 Olivia Voldaren\n1 Shatterstorm"
+  }
+}

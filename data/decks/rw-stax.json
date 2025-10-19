@@ -1,0 +1,23 @@
+{
+  "id": "recw0E5l77Va9VdLG",
+  "slug": "rw-stax",
+  "name": "RW Stax",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Attrition",
+  "characteristics": [
+    "Prison"
+  ],
+  "colors": [
+    "White",
+    "Red"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Ghostly Prison",
+  "decklist": {
+    "raw": "1 Ajani Vengeant\r\n4 Arid Mesa\r\n2 Assemble the Legion\r\n2 Bloodstained Mire\r\n4 Boom/Bust\r\n2 Clifftop Retreat\r\n1 Crucible of Worlds\r\n1 Flagstones of Trokair\r\n3 Ghost Quarter\r\n4 Ghostly Prison\r\n3 Kher Keep\r\n3 Lightning Bolt\r\n2 Lightning Helix\r\n4 Magus of the Tabernacle\r\n2 Mountain\r\n2 Needle Spires\r\n3 Plains\r\n3 Porphyry Nodes\r\n3 Pyroclasm\r\n2 Sacred Foundry\r\n4 Scepter of Dominance\r\n3 Storage Matrix\r\n2 World Queller\r\n\r\n2 Blessed Alliance\r\n3 Blood Moon\r\n1 Crumble to Dust\r\n1 Elspeth, Sun's Champion\r\n4 Leyline of Sanctity\r\n2 Rest in Peace\r\n2 Stony Silence\r\n",
+    "mainText": "1 Ajani Vengeant\n4 Arid Mesa\n2 Assemble the Legion\n2 Bloodstained Mire\n4 Boom/Bust\n2 Clifftop Retreat\n1 Crucible of Worlds\n1 Flagstones of Trokair\n3 Ghost Quarter\n4 Ghostly Prison\n3 Kher Keep\n3 Lightning Bolt\n2 Lightning Helix\n4 Magus of the Tabernacle\n2 Mountain\n2 Needle Spires\n3 Plains\n3 Porphyry Nodes\n3 Pyroclasm\n2 Sacred Foundry\n4 Scepter of Dominance\n3 Storage Matrix\n2 World Queller",
+    "sideText": "2 Blessed Alliance\n3 Blood Moon\n1 Crumble to Dust\n1 Elspeth, Sun's Champion\n4 Leyline of Sanctity\n2 Rest in Peace\n2 Stony Silence"
+  }
+}

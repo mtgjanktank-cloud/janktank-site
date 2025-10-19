@@ -1,0 +1,23 @@
+{
+  "id": "recYml5XHiiEtzQ06",
+  "slug": "gb-delirium",
+  "name": "GB Delirium",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Midrange",
+  "characteristics": [
+    "Graveyard Value"
+  ],
+  "colors": [
+    "Black",
+    "Green"
+  ],
+  "updatedAt": "2017-01-12T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Satyr Wayfinder",
+  "decklist": {
+    "raw": "2 Abrupt Decay\r\n1 Dismember\r\n4 Eldrazi Temple\r\n1 Emrakul, the Promised End\r\n1 Eternal Witness\r\n1 Eyeblight's Ending\r\n3 Fatal Push\r\n2 Forest\r\n1 Ghost Quarter\r\n1 Grapple with the Past\r\n2 Grisly Salvage\r\n1 Hissing Quagmire\r\n3 Inquisition of Kozilek\r\n2 Liliana, the Last Hope\r\n3 Llanowar Wastes\r\n1 Nameless Inversion\r\n2 Nihil Spellbomb\r\n2 Overgrown Tomb\r\n4 Satyr Wayfinder\r\n1 Scavenging Ooze\r\n1 Shriekmaw\r\n2 Swamp\r\n4 Thought-Knot Seer\r\n2 Thoughtseize\r\n2 Tireless Tracker\r\n4 Traverse the Ulvenwald\r\n2 Twilight Mire\r\n1 Urborg, Tomb of Yawgmoth\r\n4 Verdant Catacombs\r\n\r\n1 Bojuka Bog\r\n2 Collective Brutality\r\n1 Damnation\r\n1 Dark Petition\r\n1 Flaying Tendrils\r\n2 Grafdigger's Cage\r\n1 Ishkanah, Grafwidow\r\n1 Liliana, the Last Hope\r\n1 Lost Legacy\r\n1 Maelstrom Pulse\r\n1 Night of Souls' Betrayal\r\n1 Obstinate Baloth\r\n1 Thragtusk\r\n",
+    "mainText": "2 Abrupt Decay\n1 Dismember\n4 Eldrazi Temple\n1 Emrakul, the Promised End\n1 Eternal Witness\n1 Eyeblight's Ending\n3 Fatal Push\n2 Forest\n1 Ghost Quarter\n1 Grapple with the Past\n2 Grisly Salvage\n1 Hissing Quagmire\n3 Inquisition of Kozilek\n2 Liliana, the Last Hope\n3 Llanowar Wastes\n1 Nameless Inversion\n2 Nihil Spellbomb\n2 Overgrown Tomb\n4 Satyr Wayfinder\n1 Scavenging Ooze\n1 Shriekmaw\n2 Swamp\n4 Thought-Knot Seer\n2 Thoughtseize\n2 Tireless Tracker\n4 Traverse the Ulvenwald\n2 Twilight Mire\n1 Urborg, Tomb of Yawgmoth\n4 Verdant Catacombs",
+    "sideText": "1 Bojuka Bog\n2 Collective Brutality\n1 Damnation\n1 Dark Petition\n1 Flaying Tendrils\n2 Grafdigger's Cage\n1 Ishkanah, Grafwidow\n1 Liliana, the Last Hope\n1 Lost Legacy\n1 Maelstrom Pulse\n1 Night of Souls' Betrayal\n1 Obstinate Baloth\n1 Thragtusk"
+  }
+}

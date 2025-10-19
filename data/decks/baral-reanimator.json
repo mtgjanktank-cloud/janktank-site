@@ -1,0 +1,24 @@
+{
+  "id": "rec9fnGxOVochHTC7",
+  "slug": "baral-reanimator",
+  "name": "Baral Reanimator",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Value",
+  "characteristics": [
+    "Graveyard Based"
+  ],
+  "colors": [
+    "White",
+    "Blue",
+    "Black"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Baral, Chief of Compliance",
+  "decklist": {
+    "raw": "1 Angel of Serenity\r\n1 Anguished Unmaking\r\n1 Ashen Rider\r\n3 Baral, Chief of Compliance\r\n4 Champion of Wits\r\n2 Collective Brutality\r\n1 Dismember\r\n1 Elesh Norn, Grand Cenobite\r\n4 Flooded Strand\r\n3 Gifts Ungiven\r\n3 Godless Shrine\r\n4 Hallowed Fountain\r\n1 Iona, Shield of Emeria\r\n2 Island\r\n2 Lingering Souls\r\n2 Mana Leak\r\n2 Momentary Blink\r\n1 Obzedat, Ghost Council\r\n2 Path to Exile\r\n3 Plains\r\n2 Polluted Delta\r\n1 Restoration Angel\r\n2 Seachrome Coast\r\n1 Search for Azcanta\r\n1 Snapcaster Mage\r\n2 Swamp\r\n3 Thought Scour\r\n3 Unburial Rites\r\n2 Watery Grave\r\n\r\n1 Damnation\r\n1 Detention Sphere\r\n1 Fracturing Gust\r\n3 Inquisition of Kozilek\r\n1 Jin-Gitaxias, Core Augur\r\n2 Leyline of Sanctity\r\n2 Spell Snare\r\n1 Stony Silence\r\n1 Supreme Verdict\r\n1 Thoughtseize\r\n1 Wrath of God\r\n",
+    "mainText": "1 Angel of Serenity\n1 Anguished Unmaking\n1 Ashen Rider\n3 Baral, Chief of Compliance\n4 Champion of Wits\n2 Collective Brutality\n1 Dismember\n1 Elesh Norn, Grand Cenobite\n4 Flooded Strand\n3 Gifts Ungiven\n3 Godless Shrine\n4 Hallowed Fountain\n1 Iona, Shield of Emeria\n2 Island\n2 Lingering Souls\n2 Mana Leak\n2 Momentary Blink\n1 Obzedat, Ghost Council\n2 Path to Exile\n3 Plains\n2 Polluted Delta\n1 Restoration Angel\n2 Seachrome Coast\n1 Search for Azcanta\n1 Snapcaster Mage\n2 Swamp\n3 Thought Scour\n3 Unburial Rites\n2 Watery Grave",
+    "sideText": "1 Damnation\n1 Detention Sphere\n1 Fracturing Gust\n3 Inquisition of Kozilek\n1 Jin-Gitaxias, Core Augur\n2 Leyline of Sanctity\n2 Spell Snare\n1 Stony Silence\n1 Supreme Verdict\n1 Thoughtseize\n1 Wrath of God"
+  }
+}

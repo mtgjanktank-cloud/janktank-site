@@ -1,0 +1,26 @@
+{
+  "id": "recaK3Fjs2OlLB5Fu",
+  "slug": "5c-bring-to-light",
+  "name": "5c Bring to Light",
+  "author": "TennTyou",
+  "format": "Modern",
+  "archetype": "Combo",
+  "characteristics": [
+    "Tool Box"
+  ],
+  "colors": [
+    "White",
+    "Blue",
+    "Black",
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2019-09-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Niv-Mizzet Reborn",
+  "decklist": {
+    "raw": "1 Ashiok, Dream Render\r\n3 Assassin's Trophy\r\n4 Birds of Paradise\r\n2 Bloodbraid Elf\r\n1 Blooming Marsh\r\n1 Breeding Pool\r\n3 Bring to Light\r\n3 City of Brass\r\n1 Eladamri's Call\r\n1 Force of Negation\r\n1 Forest\r\n1 Godless Shrine\r\n1 Grove of the Burnwillows\r\n1 Hallowed Fountain\r\n2 Inquisition of Kozilek\r\n2 Izzet Charm\r\n2 Kaya's Guile\r\n1 Kess, Dissident Mage\r\n2 Kolaghan's Command\r\n4 Lightning Helix\r\n1 Maelstrom Pulse\r\n1 Nahiri, the Harbinger\r\n3 Niv-Mizzet Reborn\r\n1 Overgrown Tomb\r\n4 Pillar of the Paruns\r\n1 Plains\r\n1 Sacred Foundry\r\n2 Safewright Quest\r\n1 Sin Collector\r\n1 Stomping Ground\r\n1 Supreme Verdict\r\n1 Teferi, Time Raveler\r\n1 Temple Garden\r\n4 Windswept Heath\r\n\r\n1 Ashiok, Dream Render\r\n1 Cindervines\r\n1 Damping Sphere\r\n1 Dovin's Veto\r\n1 Firespout\r\n1 Force of Vigor\r\n1 Fulminator Mage\r\n1 Grafdigger's Cage\r\n1 Izzet Staticaster\r\n1 Kambal, Consul of Allocation\r\n1 Knight of Autumn\r\n1 Lavinia, Azorius Renegade\r\n1 Unmoored Ego\r\n1 Veil of Summer\r\n1 Wheel of Sun and Moon\r\n",
+    "mainText": "1 Ashiok, Dream Render\n3 Assassin's Trophy\n4 Birds of Paradise\n2 Bloodbraid Elf\n1 Blooming Marsh\n1 Breeding Pool\n3 Bring to Light\n3 City of Brass\n1 Eladamri's Call\n1 Force of Negation\n1 Forest\n1 Godless Shrine\n1 Grove of the Burnwillows\n1 Hallowed Fountain\n2 Inquisition of Kozilek\n2 Izzet Charm\n2 Kaya's Guile\n1 Kess, Dissident Mage\n2 Kolaghan's Command\n4 Lightning Helix\n1 Maelstrom Pulse\n1 Nahiri, the Harbinger\n3 Niv-Mizzet Reborn\n1 Overgrown Tomb\n4 Pillar of the Paruns\n1 Plains\n1 Sacred Foundry\n2 Safewright Quest\n1 Sin Collector\n1 Stomping Ground\n1 Supreme Verdict\n1 Teferi, Time Raveler\n1 Temple Garden\n4 Windswept Heath",
+    "sideText": "1 Ashiok, Dream Render\n1 Cindervines\n1 Damping Sphere\n1 Dovin's Veto\n1 Firespout\n1 Force of Vigor\n1 Fulminator Mage\n1 Grafdigger's Cage\n1 Izzet Staticaster\n1 Kambal, Consul of Allocation\n1 Knight of Autumn\n1 Lavinia, Azorius Renegade\n1 Unmoored Ego\n1 Veil of Summer\n1 Wheel of Sun and Moon"
+  }
+}

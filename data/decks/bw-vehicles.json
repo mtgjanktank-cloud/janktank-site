@@ -1,0 +1,23 @@
+{
+  "id": "recnZuDDZmSMeS3mf",
+  "slug": "bw-vehicles",
+  "name": "BW Vehicles",
+  "author": "Hror",
+  "format": "Modern",
+  "archetype": "Aggro",
+  "characteristics": [
+    "Vehicles"
+  ],
+  "colors": [
+    "White",
+    "Black"
+  ],
+  "updatedAt": "2018-09-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Smuggler's Copter",
+  "decklist": {
+    "raw": "4 Aethersphere Harvester\r\n4 Bloodsoaked Champion\r\n3 Concealed Courtyard\r\n3 Fatal Push\r\n2 Godless Shrine\r\n1 Heart of Kiran\r\n2 Inquisition of Kozilek\r\n4 Isolated Chapel\r\n2 Kytheon, Hero of Akros\r\n4 Lingering Souls\r\n4 Marsh Flats\r\n4 Night Market Lookout\r\n4 Pain Seer\r\n4 Path to Exile\r\n3 Plains\r\n4 Smuggler's Copter\r\n2 Sorin, Solemn Visitor\r\n5 Swamp\r\n1 Urborg, Tomb of Yawgmoth\r\n\r\n2 Authority of the Consuls\r\n1 Blessed Alliance\r\n1 Collective Brutality\r\n2 Gideon, Ally of Zendikar\r\n2 Inquisition of Kozilek\r\n2 Oreskos Sun Guide\r\n2 Rest in Peace\r\n2 Settle the Wreckage\r\n1 Thoughtseize\r\n",
+    "mainText": "4 Aethersphere Harvester\n4 Bloodsoaked Champion\n3 Concealed Courtyard\n3 Fatal Push\n2 Godless Shrine\n1 Heart of Kiran\n2 Inquisition of Kozilek\n4 Isolated Chapel\n2 Kytheon, Hero of Akros\n4 Lingering Souls\n4 Marsh Flats\n4 Night Market Lookout\n4 Pain Seer\n4 Path to Exile\n3 Plains\n4 Smuggler's Copter\n2 Sorin, Solemn Visitor\n5 Swamp\n1 Urborg, Tomb of Yawgmoth",
+    "sideText": "2 Authority of the Consuls\n1 Blessed Alliance\n1 Collective Brutality\n2 Gideon, Ally of Zendikar\n2 Inquisition of Kozilek\n2 Oreskos Sun Guide\n2 Rest in Peace\n2 Settle the Wreckage\n1 Thoughtseize"
+  }
+}

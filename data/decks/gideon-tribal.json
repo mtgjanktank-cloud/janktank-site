@@ -1,0 +1,23 @@
+{
+  "id": "recffJewl01zuwF4i",
+  "slug": "gideon-tribal",
+  "name": "Gideon Tribal",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Planeswalkers",
+  "characteristics": [
+    "Midrange"
+  ],
+  "colors": [
+    "White",
+    "Black"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Gideon Jura",
+  "decklist": {
+    "raw": "1 Anointed Procession\r\n1 Concealed Courtyard\r\n3 Fatal Push\r\n1 Ghost Quarter\r\n3 Gideon Jura\r\n4 Gideon of the Trials\r\n3 Gideon, Ally of Zendikar\r\n4 Godless Shrine\r\n3 Heart of Kiran\r\n4 Inquisition of Kozilek\r\n1 Isolated Chapel\r\n4 Lingering Souls\r\n4 Marsh Flats\r\n3 Oath of Gideon\r\n4 Path to Exile\r\n3 Plains\r\n4 Shambling Vent\r\n1 Swamp\r\n3 Thoughtseize\r\n1 Vault of the Archangel\r\n1 Westvale Abbey\r\n2 Windbrisk Heights\r\n2 Wrath of God\r\n\r\n3 Fulminator Mage\r\n1 Gideon's Intervention\r\n1 Gideon, Champion of Justice\r\n1 Kytheon, Hero of Akros\r\n3 Leyline of Sanctity\r\n3 Rest in Peace\r\n3 Stony Silence\r\n",
+    "mainText": "1 Anointed Procession\n1 Concealed Courtyard\n3 Fatal Push\n1 Ghost Quarter\n3 Gideon Jura\n4 Gideon of the Trials\n3 Gideon, Ally of Zendikar\n4 Godless Shrine\n3 Heart of Kiran\n4 Inquisition of Kozilek\n1 Isolated Chapel\n4 Lingering Souls\n4 Marsh Flats\n3 Oath of Gideon\n4 Path to Exile\n3 Plains\n4 Shambling Vent\n1 Swamp\n3 Thoughtseize\n1 Vault of the Archangel\n1 Westvale Abbey\n2 Windbrisk Heights\n2 Wrath of God",
+    "sideText": "3 Fulminator Mage\n1 Gideon's Intervention\n1 Gideon, Champion of Justice\n1 Kytheon, Hero of Akros\n3 Leyline of Sanctity\n3 Rest in Peace\n3 Stony Silence"
+  }
+}

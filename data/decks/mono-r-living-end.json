@@ -1,0 +1,22 @@
+{
+  "id": "rect5EdvPr5XSsr3I",
+  "slug": "mono-r-living-end",
+  "name": "Mono-R Living End",
+  "author": "MTG Tavern",
+  "format": "Modern",
+  "archetype": "Combo",
+  "characteristics": [
+    "Graveyard Based"
+  ],
+  "colors": [
+    "Red"
+  ],
+  "updatedAt": "2019-01-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Electrodominance",
+  "decklist": {
+    "raw": "2 Archfiend of Ifnir\r\n2 Blood Crypt\r\n4 Bloodstained Mire\r\n2 Cathartic Reunion\r\n4 Desert Cerodon\r\n3 Electrodominance\r\n1 Faerie Macabre\r\n4 Faithless Looting\r\n1 Forbidden Orchard\r\n3 Horror of the Broken Lands\r\n3 Insolent Neonate\r\n2 Kari Zev's Expertise\r\n4 Lightning Bolt\r\n2 Living End\r\n3 Mausoleum Secrets\r\n6 Mountain\r\n2 Simian Spirit Guide\r\n4 Street Wraith\r\n1 Swamp\r\n1 Tormenting Voice\r\n1 Urabrask the Hidden\r\n2 Wheel of Fate\r\n3 Wooded Foothills\r\n\r\n2 Anger of the Gods\r\n2 Eidolon of the Great Revel\r\n2 Fatal Push\r\n2 Guttural Response\r\n2 Ingot Chewer\r\n2 Surgical Extraction\r\n3 Young Pyromancer\r\n",
+    "mainText": "2 Archfiend of Ifnir\n2 Blood Crypt\n4 Bloodstained Mire\n2 Cathartic Reunion\n4 Desert Cerodon\n3 Electrodominance\n1 Faerie Macabre\n4 Faithless Looting\n1 Forbidden Orchard\n3 Horror of the Broken Lands\n3 Insolent Neonate\n2 Kari Zev's Expertise\n4 Lightning Bolt\n2 Living End\n3 Mausoleum Secrets\n6 Mountain\n2 Simian Spirit Guide\n4 Street Wraith\n1 Swamp\n1 Tormenting Voice\n1 Urabrask the Hidden\n2 Wheel of Fate\n3 Wooded Foothills",
+    "sideText": "2 Anger of the Gods\n2 Eidolon of the Great Revel\n2 Fatal Push\n2 Guttural Response\n2 Ingot Chewer\n2 Surgical Extraction\n3 Young Pyromancer"
+  }
+}

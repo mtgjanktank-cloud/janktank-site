@@ -1,0 +1,22 @@
+{
+  "id": "recBKbRC8cAOxiV3t",
+  "slug": "hollow-red",
+  "name": "Hollow Red",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Aggro",
+  "characteristics": [
+    "Discard Value"
+  ],
+  "colors": [
+    "Red"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": true,
+  "coverCard": "Flameblade Adept",
+  "decklist": {
+    "raw": "4 Blackcleave Cliffs\r\n4 Blood Crypt\r\n4 Bloodghast\r\n4 Bloodrage Brawler\r\n4 Bloodstained Mire\r\n4 Burning Inquiry\r\n4 Faithless Looting\r\n3 Fiery Temper\r\n4 Flameblade Adept\r\n4 Flamewake Phoenix\r\n1 Hazoret the Fervent\r\n4 Hollow One\r\n3 Lightning Axe\r\n4 Lightning Bolt\r\n5 Mountain\r\n4 Ramunap Ruins\r\n\r\n2 Bedlam Reveler\r\n3 Blood Moon\r\n1 Nahiri's Wrath\r\n4 Shattering Spree\r\n3 Skullcrack\r\n2 Sudden Shock\r\n",
+    "mainText": "4 Blackcleave Cliffs\n4 Blood Crypt\n4 Bloodghast\n4 Bloodrage Brawler\n4 Bloodstained Mire\n4 Burning Inquiry\n4 Faithless Looting\n3 Fiery Temper\n4 Flameblade Adept\n4 Flamewake Phoenix\n1 Hazoret the Fervent\n4 Hollow One\n3 Lightning Axe\n4 Lightning Bolt\n5 Mountain\n4 Ramunap Ruins",
+    "sideText": "2 Bedlam Reveler\n3 Blood Moon\n1 Nahiri's Wrath\n4 Shattering Spree\n3 Skullcrack\n2 Sudden Shock"
+  }
+}

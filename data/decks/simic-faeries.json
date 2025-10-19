@@ -1,0 +1,23 @@
+{
+  "id": "reczk5ID4fDRlYVQb",
+  "slug": "simic-faeries",
+  "name": "Simic Faeries",
+  "author": "Plum",
+  "format": "Modern",
+  "archetype": "Tribal",
+  "characteristics": [
+    "Tempo"
+  ],
+  "colors": [
+    "Blue",
+    "Green"
+  ],
+  "updatedAt": "2017-04-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Spellstutter Sprite",
+  "decklist": {
+    "raw": "4 Breeding Pool\r\n3 Cavern of Souls\r\n3 Cloudfin Raptor\r\n3 Cryptic Command\r\n4 Faerie Miscreant\r\n4 Island\r\n3 Lead the Stampede\r\n2 Mistbind Clique\r\n4 Misty Rainforest\r\n3 Mutavault\r\n1 Pendelhaven\r\n3 Pestermite\r\n3 Phantasmal Image\r\n2 Polluted Delta\r\n4 Scion of Oona\r\n3 Scryb Ranger\r\n1 Simic Charm\r\n4 Spellstutter Sprite\r\n4 Vapor Snag\r\n2 Vendilion Clique\r\n\r\n2 Hurkyl's Recall\r\n2 Negate\r\n2 Reclamation Sage\r\n2 Relic of Progenitus\r\n2 Sower of Temptation\r\n2 Spell Pierce\r\n1 Spreading Seas\r\n2 Tidebinder Mage\r\n",
+    "mainText": "4 Breeding Pool\n3 Cavern of Souls\n3 Cloudfin Raptor\n3 Cryptic Command\n4 Faerie Miscreant\n4 Island\n3 Lead the Stampede\n2 Mistbind Clique\n4 Misty Rainforest\n3 Mutavault\n1 Pendelhaven\n3 Pestermite\n3 Phantasmal Image\n2 Polluted Delta\n4 Scion of Oona\n3 Scryb Ranger\n1 Simic Charm\n4 Spellstutter Sprite\n4 Vapor Snag\n2 Vendilion Clique",
+    "sideText": "2 Hurkyl's Recall\n2 Negate\n2 Reclamation Sage\n2 Relic of Progenitus\n2 Sower of Temptation\n2 Spell Pierce\n1 Spreading Seas\n2 Tidebinder Mage"
+  }
+}

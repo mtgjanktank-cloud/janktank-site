@@ -1,0 +1,24 @@
+{
+  "id": "recBaKYsYi8OxQzOM",
+  "slug": "esper-hunted-horror",
+  "name": "Esper Hunted Horror",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Value",
+  "characteristics": [
+    "ETB Effects"
+  ],
+  "colors": [
+    "White",
+    "Blue",
+    "Black"
+  ],
+  "updatedAt": "2018-03-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Illness in the Ranks",
+  "decklist": {
+    "raw": "3 Anguished Unmaking\r\n2 Bontu's Last Reckoning\r\n3 Dowsing Dagger\r\n2 Field of Ruin\r\n4 Forbidden Orchard\r\n3 Godless Shrine\r\n4 Hunted Phantasm\r\n4 Illness in the Ranks\r\n1 Island\r\n4 Marsh Flats\r\n2 Mercy Killing\r\n4 Opt\r\n3 Panharmonicon\r\n4 Path to Exile\r\n3 Phyrexian Metamorph\r\n2 Plains\r\n3 Suture Priest\r\n2 Swamp\r\n4 Trespasser's Curse\r\n3 Watery Grave\r\n\r\n2 Ghost Quarter\r\n3 Leyline of Sanctity\r\n3 Rest in Peace\r\n3 Surgical Extraction\r\n4 Swan Song\r\n",
+    "mainText": "3 Anguished Unmaking\n2 Bontu's Last Reckoning\n3 Dowsing Dagger\n2 Field of Ruin\n4 Forbidden Orchard\n3 Godless Shrine\n4 Hunted Phantasm\n4 Illness in the Ranks\n1 Island\n4 Marsh Flats\n2 Mercy Killing\n4 Opt\n3 Panharmonicon\n4 Path to Exile\n3 Phyrexian Metamorph\n2 Plains\n3 Suture Priest\n2 Swamp\n4 Trespasser's Curse\n3 Watery Grave",
+    "sideText": "2 Ghost Quarter\n3 Leyline of Sanctity\n3 Rest in Peace\n3 Surgical Extraction\n4 Swan Song"
+  }
+}

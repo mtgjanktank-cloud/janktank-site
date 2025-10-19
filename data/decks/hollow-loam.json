@@ -1,0 +1,25 @@
+{
+  "id": "recnySmSEAELSU1Kh",
+  "slug": "hollow-loam",
+  "name": "Hollow Loam",
+  "author": "u/ieatatsonic",
+  "format": "Modern",
+  "archetype": "Aggro",
+  "characteristics": [
+    "Discard Value"
+  ],
+  "colors": [
+    "Blue",
+    "Black",
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2018-05-01T00:00:00.000Z",
+  "containsBannedCards": true,
+  "coverCard": "Life from the Loam",
+  "decklist": {
+    "raw": "1 Blood Crypt\n1 Breeding Pool\n2 Conflagrate\n1 Driven / Despair\n4 Edge of Autumn\n4 Faithless Looting\n3 Fatal Push\n2 Field of Ruin\n4 Flameblade Adept\n2 Forest\n1 Ghost Quarter\n4 Hollow One\n1 Island\n4 Life from the Loam\n2 Mountain\n2 Overgrown Tomb\n1 Scalding Tarn\n4 Seismic Assault\n1 Steam Vents\n2 Stomping Ground\n4 Street Wraith\n2 Swamp\n3 Trade Routes\n1 Verdant Catacombs\n2 Windswept Heath\n2 Wooded Foothills\n\nSideboard:\n1 Ancient Grudge\n3 Collective Brutality\n1 Faerie Macabre\n2 Grafdigger's Cage\n2 Grim Lavamancer\n1 Heaven / Earth\n2 Inquisition of Kozilek\n1 Kolaghan's Command\n2 Smallpox\n\n",
+    "mainText": "1 Blood Crypt\n1 Breeding Pool\n2 Conflagrate\n1 Driven / Despair\n4 Edge of Autumn\n4 Faithless Looting\n3 Fatal Push\n2 Field of Ruin\n4 Flameblade Adept\n2 Forest\n1 Ghost Quarter\n4 Hollow One\n1 Island\n4 Life from the Loam\n2 Mountain\n2 Overgrown Tomb\n1 Scalding Tarn\n4 Seismic Assault\n1 Steam Vents\n2 Stomping Ground\n4 Street Wraith\n2 Swamp\n3 Trade Routes\n1 Verdant Catacombs\n2 Windswept Heath\n2 Wooded Foothills",
+    "sideText": "1 Ancient Grudge\n3 Collective Brutality\n1 Faerie Macabre\n2 Grafdigger's Cage\n2 Grim Lavamancer\n1 Heaven / Earth\n2 Inquisition of Kozilek\n1 Kolaghan's Command\n2 Smallpox"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "reczAAwhXjZ0RIsBX",
+  "slug": "curious-gifts",
+  "name": "Curious Gifts",
+  "author": "Lieutenant_DAngel",
+  "format": "Modern",
+  "archetype": "Midrange",
+  "characteristics": [
+    "Gifts Ungiven"
+  ],
+  "colors": [
+    "White",
+    "Blue",
+    "Black"
+  ],
+  "updatedAt": "2018-11-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Curious Homunculus",
+  "decklist": {
+    "raw": "1 Champion of Wits\n4 Collective Brutality\n1 Condescend\n4 Curious Homunculus\n2 Drowned Catacomb\n1 Elesh Norn, Grand Cenobite\n1 Fetid Pools\n2 Field of Ruin\n4 Gifts Ungiven\n2 Glacial Fortress\n1 Go for the Throat\n2 Godless Shrine\n1 Griselbrand\n2 Hallowed Fountain\n1 Hero's Downfall\n3 Hieroglyphic Illumination\n1 Iona, Shield of Emeria\n1 Irrigated Farmland\n2 Island\n2 Isolated Chapel\n3 Lingering Souls\n1 Mana Leak\n1 Mission Briefing\n1 Negate\n2 Opt\n2 Path to Exile\n1 Plains\n2 Swamp\n1 Thirst for Knowledge\n1 Torrential Gearhulk\n2 Unburial Rites\n1 Vault of the Archangel\n2 Watery Grave\n2 Windswept Heath\n\nSideboard:\n1 Blood Baron of Vizkopa\n1 Cataclysmic Gearhulk\n3 Damping Sphere\n1 Day of Judgment\n1 Disenchant\n1 Forsake the Worldly\n1 Invoke the Divine\n1 Nihil Spellbomb\n1 Relic of Progenitus\n1 Sphinx of the Steel Wind\n1 Supreme Verdict\n1 Tormod's Crypt\n1 Wrath of God\n\n",
+    "mainText": "1 Champion of Wits\n4 Collective Brutality\n1 Condescend\n4 Curious Homunculus\n2 Drowned Catacomb\n1 Elesh Norn, Grand Cenobite\n1 Fetid Pools\n2 Field of Ruin\n4 Gifts Ungiven\n2 Glacial Fortress\n1 Go for the Throat\n2 Godless Shrine\n1 Griselbrand\n2 Hallowed Fountain\n1 Hero's Downfall\n3 Hieroglyphic Illumination\n1 Iona, Shield of Emeria\n1 Irrigated Farmland\n2 Island\n2 Isolated Chapel\n3 Lingering Souls\n1 Mana Leak\n1 Mission Briefing\n1 Negate\n2 Opt\n2 Path to Exile\n1 Plains\n2 Swamp\n1 Thirst for Knowledge\n1 Torrential Gearhulk\n2 Unburial Rites\n1 Vault of the Archangel\n2 Watery Grave\n2 Windswept Heath",
+    "sideText": "1 Blood Baron of Vizkopa\n1 Cataclysmic Gearhulk\n3 Damping Sphere\n1 Day of Judgment\n1 Disenchant\n1 Forsake the Worldly\n1 Invoke the Divine\n1 Nihil Spellbomb\n1 Relic of Progenitus\n1 Sphinx of the Steel Wind\n1 Supreme Verdict\n1 Tormod's Crypt\n1 Wrath of God"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "recNPwPJ33l10ldln",
+  "slug": "metal-reanimator",
+  "name": "Metal Reanimator",
+  "author": "Zac Elsik",
+  "format": "Modern",
+  "archetype": "Pseudo Combo",
+  "characteristics": [
+    "Graveyard Based"
+  ],
+  "colors": [
+    "Black",
+    "Red"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": true,
+  "coverCard": "Trash for Treasure",
+  "decklist": {
+    "raw": "4 Blackcleave Cliffs\r\n4 Cathartic Reunion\r\n2 Chromatic Star\r\n3 Collective Brutality\r\n3 Darksteel Citadel\r\n1 Engineered Explosives\r\n4 Faithless Looting\r\n1 Geier Reach Sanitarium\r\n1 Gemstone Caverns\r\n4 Gemstone Mine\r\n3 Mortarpod\r\n1 Mountain\r\n3 Myr Battlesphere\r\n4 Perilous Myr\r\n4 Sulfurous Springs\r\n4 Sundering Titan\r\n1 Swamp\r\n3 Thoughtseize\r\n4 Trash for Treasure\r\n3 Wurmcoil Engine\r\n3 Zombify\r\n\r\n3 Blood Moon\r\n4 Chandra, Torch of Defiance\r\n1 Collective Brutality\r\n1 Engineered Explosives\r\n2 Pia and Kiran Nalaar\r\n2 Pithing Needle\r\n2 Smash to Smithereens\r\n",
+    "mainText": "4 Blackcleave Cliffs\n4 Cathartic Reunion\n2 Chromatic Star\n3 Collective Brutality\n3 Darksteel Citadel\n1 Engineered Explosives\n4 Faithless Looting\n1 Geier Reach Sanitarium\n1 Gemstone Caverns\n4 Gemstone Mine\n3 Mortarpod\n1 Mountain\n3 Myr Battlesphere\n4 Perilous Myr\n4 Sulfurous Springs\n4 Sundering Titan\n1 Swamp\n3 Thoughtseize\n4 Trash for Treasure\n3 Wurmcoil Engine\n3 Zombify",
+    "sideText": "3 Blood Moon\n4 Chandra, Torch of Defiance\n1 Collective Brutality\n1 Engineered Explosives\n2 Pia and Kiran Nalaar\n2 Pithing Needle\n2 Smash to Smithereens"
+  }
+}

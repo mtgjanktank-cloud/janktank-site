@@ -1,0 +1,25 @@
+{
+  "id": "rec14TesQE364K5bM",
+  "slug": "god-pharaohs-combo",
+  "name": "God-Pharaoh's Combo",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Combo",
+  "characteristics": [
+    "Graveyard Based"
+  ],
+  "colors": [
+    "White",
+    "Black",
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": true,
+  "coverCard": "God-Pharaoh's Gift",
+  "decklist": {
+    "raw": "4 Aurelia, the Warleader\r\n2 Blood Crypt\r\n2 Bloodstained Mire\r\n4 Cathartic Reunion\r\n3 Combustible Gearhulk\r\n4 Dryad Arbor\r\n4 Faithless Looting\r\n4 Gate to the Afterlife\r\n4 Gisela, Blade of Goldnight\r\n1 God-Pharaoh's Gift\r\n4 Golgari Thug\r\n4 Insolent Neonate\r\n6 Mountain\r\n4 Shambling Shell\r\n4 Stinkweed Imp\r\n2 Stomping Ground\r\n4 Wooded Foothills\r\n\r\n2 Abrupt Decay\r\n3 Ancient Grudge\r\n1 God-Pharaoh's Gift\r\n2 Iona, Shield of Emeria\r\n2 Leyline of the Void\r\n1 Life from the Loam\r\n4 Thoughtseize\r\n",
+    "mainText": "4 Aurelia, the Warleader\n2 Blood Crypt\n2 Bloodstained Mire\n4 Cathartic Reunion\n3 Combustible Gearhulk\n4 Dryad Arbor\n4 Faithless Looting\n4 Gate to the Afterlife\n4 Gisela, Blade of Goldnight\n1 God-Pharaoh's Gift\n4 Golgari Thug\n4 Insolent Neonate\n6 Mountain\n4 Shambling Shell\n4 Stinkweed Imp\n2 Stomping Ground\n4 Wooded Foothills",
+    "sideText": "2 Abrupt Decay\n3 Ancient Grudge\n1 God-Pharaoh's Gift\n2 Iona, Shield of Emeria\n2 Leyline of the Void\n1 Life from the Loam\n4 Thoughtseize"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "recmLjzGarmJKb2hJ",
+  "slug": "solemnity-combo",
+  "name": "Solemnity Combo",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Combo",
+  "characteristics": [
+    "Prison, Infinite Loop"
+  ],
+  "colors": [
+    "White",
+    "Blue",
+    "Black"
+  ],
+  "updatedAt": "2017-07-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Solemnity",
+  "decklist": {
+    "raw": "4 Cartel Aristocrat\r\n1 Creeping Tar Pit\r\n2 Fatal Push\r\n4 Geralf's Messenger\r\n1 Glen Elendra Archmage\r\n4 Godless Shrine\r\n3 Inquisition of Kozilek\r\n1 Island\r\n4 Kitchen Finks\r\n3 Marsh Flats\r\n3 Path to Exile\r\n4 Phyrexian Unlife\r\n1 Plains\r\n4 Polluted Delta\r\n3 Shambling Vent\r\n4 Solemnity\r\n3 Swamp\r\n3 Thoughtseize\r\n1 Urborg, Tomb of Yawgmoth\r\n4 Viscera Seer\r\n2 Watery Grave\r\n1 Zur the Enchanter\r\n\r\n3 Fulminator Mage\r\n2 Negate\r\n1 Pithing Needle\r\n2 Relic of Progenitus\r\n1 Rule of Law\r\n2 Stony Silence\r\n2 Supreme Verdict\r\n2 Surgical Extraction\r\n",
+    "mainText": "4 Cartel Aristocrat\n1 Creeping Tar Pit\n2 Fatal Push\n4 Geralf's Messenger\n1 Glen Elendra Archmage\n4 Godless Shrine\n3 Inquisition of Kozilek\n1 Island\n4 Kitchen Finks\n3 Marsh Flats\n3 Path to Exile\n4 Phyrexian Unlife\n1 Plains\n4 Polluted Delta\n3 Shambling Vent\n4 Solemnity\n3 Swamp\n3 Thoughtseize\n1 Urborg, Tomb of Yawgmoth\n4 Viscera Seer\n2 Watery Grave\n1 Zur the Enchanter",
+    "sideText": "3 Fulminator Mage\n2 Negate\n1 Pithing Needle\n2 Relic of Progenitus\n1 Rule of Law\n2 Stony Silence\n2 Supreme Verdict\n2 Surgical Extraction"
+  }
+}

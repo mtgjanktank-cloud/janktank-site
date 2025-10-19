@@ -1,0 +1,22 @@
+{
+  "id": "recIXqZzN0fgkiG4o",
+  "slug": "mono-r-tron",
+  "name": "Mono-R Tron",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Pseudo Combo",
+  "characteristics": [
+    "Burn"
+  ],
+  "colors": [
+    "Red"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Pyromancer's Goggles",
+  "decklist": {
+    "raw": "1 Anger of the Gods\r\n3 Banefire\r\n3 Blasphemous Act\r\n1 Buried Ruin\r\n3 Chandra, the Firebrand\r\n4 Expedition Map\r\n3 Lightning Bolt\r\n2 Mind Stone\r\n1 Mirrorpool\r\n9 Mountain\r\n2 Pyroclasm\r\n2 Pyromancer's Goggles\r\n3 Solemn Simulacrum\r\n1 Staff of Nin\r\n4 Stuffy Doll\r\n3 Tormenting Voice\r\n1 Ugin, the Spirit Dragon\r\n4 Urza's Mine\r\n4 Urza's Power Plant\r\n4 Urza's Tower\r\n2 Wurmcoil Engine\r\n\r\n1 Anger of the Gods\r\n1 Batterskull\r\n1 Crucible of Worlds\r\n1 Dragon's Claw\r\n1 Lightning Bolt\r\n2 Magma Spray\r\n2 Orbs of Warding\r\n1 Pithing Needle\r\n2 Relic of Progenitus\r\n1 Trading Post\r\n2 Vandalblast\r\n",
+    "mainText": "1 Anger of the Gods\n3 Banefire\n3 Blasphemous Act\n1 Buried Ruin\n3 Chandra, the Firebrand\n4 Expedition Map\n3 Lightning Bolt\n2 Mind Stone\n1 Mirrorpool\n9 Mountain\n2 Pyroclasm\n2 Pyromancer's Goggles\n3 Solemn Simulacrum\n1 Staff of Nin\n4 Stuffy Doll\n3 Tormenting Voice\n1 Ugin, the Spirit Dragon\n4 Urza's Mine\n4 Urza's Power Plant\n4 Urza's Tower\n2 Wurmcoil Engine",
+    "sideText": "1 Anger of the Gods\n1 Batterskull\n1 Crucible of Worlds\n1 Dragon's Claw\n1 Lightning Bolt\n2 Magma Spray\n2 Orbs of Warding\n1 Pithing Needle\n2 Relic of Progenitus\n1 Trading Post\n2 Vandalblast"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "rec7dlj7rbIq6jQ38",
+  "slug": "golden-zoo",
+  "name": "Golden Zoo",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Aggro",
+  "characteristics": [
+    "Collected Company"
+  ],
+  "colors": [
+    "White",
+    "Blue",
+    "Black",
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2017-04-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Jund Hackblade",
+  "decklist": {
+    "raw": "4 Aether Vial\r\n3 Ancient Ziggurat\r\n4 City of Brass\r\n4 Coiling Oracle\r\n4 Collected Company\r\n3 Esper Stormblade\r\n3 Fleecemane Lion\r\n3 Geist of Saint Traft\r\n4 Gemstone Mine\r\n3 Grixis Grimblade\r\n4 Jund Hackblade\r\n3 Knight of New Alara\r\n4 Mana Confluence\r\n3 Naya Hushblade\r\n3 Pillar of the Paruns\r\n4 Reflecting Pool\r\n4 Siege Rhino\r\n\r\n3 Boros Charm\r\n3 Engineered Explosives\r\n2 Fulminator Mage\r\n2 Spellskite\r\n3 Thalia, Guardian of Thraben\r\n2 Voice of Resurgence\r\n",
+    "mainText": "4 Aether Vial\n3 Ancient Ziggurat\n4 City of Brass\n4 Coiling Oracle\n4 Collected Company\n3 Esper Stormblade\n3 Fleecemane Lion\n3 Geist of Saint Traft\n4 Gemstone Mine\n3 Grixis Grimblade\n4 Jund Hackblade\n3 Knight of New Alara\n4 Mana Confluence\n3 Naya Hushblade\n3 Pillar of the Paruns\n4 Reflecting Pool\n4 Siege Rhino",
+    "sideText": "3 Boros Charm\n3 Engineered Explosives\n2 Fulminator Mage\n2 Spellskite\n3 Thalia, Guardian of Thraben\n2 Voice of Resurgence"
+  }
+}

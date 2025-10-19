@@ -1,0 +1,23 @@
+{
+  "id": "rec0JfiJh43siFLWz",
+  "slug": "ug-pili-pala",
+  "name": "UG Pili-Pala",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Combo",
+  "characteristics": [
+    "Collected Company"
+  ],
+  "colors": [
+    "Blue",
+    "Green"
+  ],
+  "updatedAt": "2017-09-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Pili-Pala",
+  "decklist": {
+    "raw": "1 Academy Ruins\r\n1 Basilisk Collar\r\n4 Botanical Sanctum\r\n3 Breeding Pool\r\n3 Cavern of Souls\r\n4 Collected Company\r\n1 Engineered Explosives\r\n4 Eternal Witness\r\n1 Flooded Grove\r\n1 Forest\r\n4 Grand Architect\r\n3 Island\r\n4 Misty Rainforest\r\n4 Noble Hierarch\r\n4 Pili-Pala\r\n2 Scalding Tarn\r\n4 Serum Visions\r\n4 Spellskite\r\n3 Trinket Mage\r\n4 Walking Ballista\r\n1 Yavimaya Coast\r\n\r\nSideboard:\r\n1 Brittle Effigy\r\n2 Disdainful Stroke\r\n1 Engineered Explosives\r\n1 Hope of Ghirapur\r\n2 Pithing Needle\r\n3 Reclamation Sage\r\n1 Relic of Progenitus\r\n1 Rhonas the Indomitable\r\n2 Spreading Seas\r\n1 Tormod's Crypt\r\n",
+    "mainText": "1 Academy Ruins\n1 Basilisk Collar\n4 Botanical Sanctum\n3 Breeding Pool\n3 Cavern of Souls\n4 Collected Company\n1 Engineered Explosives\n4 Eternal Witness\n1 Flooded Grove\n1 Forest\n4 Grand Architect\n3 Island\n4 Misty Rainforest\n4 Noble Hierarch\n4 Pili-Pala\n2 Scalding Tarn\n4 Serum Visions\n4 Spellskite\n3 Trinket Mage\n4 Walking Ballista\n1 Yavimaya Coast",
+    "sideText": "1 Brittle Effigy\n2 Disdainful Stroke\n1 Engineered Explosives\n1 Hope of Ghirapur\n2 Pithing Needle\n3 Reclamation Sage\n1 Relic of Progenitus\n1 Rhonas the Indomitable\n2 Spreading Seas\n1 Tormod's Crypt"
+  }
+}

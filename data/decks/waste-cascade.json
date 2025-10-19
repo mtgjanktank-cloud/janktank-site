@@ -1,0 +1,24 @@
+{
+  "id": "rect2KFzqza4iPneg",
+  "slug": "waste-cascade",
+  "name": "Waste Cascade",
+  "author": "u/x1uo3yd",
+  "format": "Modern",
+  "archetype": "Value",
+  "characteristics": [
+    "Discard Vlaue"
+  ],
+  "colors": [
+    "Black",
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2018-05-01T00:00:00.000Z",
+  "containsBannedCards": true,
+  "coverCard": "Demonic Dread",
+  "decklist": {
+    "raw": "4 Blackcleave Cliffs\r\n4 Blood Crypt\r\n3 Bloodbraid Elf\r\n4 Bloodstained Mire\r\n4 Collective Defiance\r\n3 Cut/Ribbons\r\n3 Dark Deal\r\n1 Dark Petition\r\n3 Demonic Dread\r\n2 Dismember\r\n1 Emrakul, the Aeons Torn\r\n1 Forest\r\n1 Kari Zev's Expertise\r\n1 Mastermind's Acquisition\r\n2 Mountain\r\n2 Overgrown Tomb\r\n1 Sheltered Thicket\r\n2 Simian Spirit Guide\r\n1 Stomping Ground\r\n3 Swamp\r\n1 Ulamog, the Infinite Gyre\r\n4 Violent Outburst\r\n4 Waste Not\r\n4 Wheel of Fate\r\n3 Yahenni's Expertise\r\n\r\n",
+    "mainText": "4 Blackcleave Cliffs\n4 Blood Crypt\n3 Bloodbraid Elf\n4 Bloodstained Mire\n4 Collective Defiance\n3 Cut/Ribbons\n3 Dark Deal\n1 Dark Petition\n3 Demonic Dread\n2 Dismember\n1 Emrakul, the Aeons Torn\n1 Forest\n1 Kari Zev's Expertise\n1 Mastermind's Acquisition\n2 Mountain\n2 Overgrown Tomb\n1 Sheltered Thicket\n2 Simian Spirit Guide\n1 Stomping Ground\n3 Swamp\n1 Ulamog, the Infinite Gyre\n4 Violent Outburst\n4 Waste Not\n4 Wheel of Fate\n3 Yahenni's Expertise",
+    "sideText": ""
+  }
+}

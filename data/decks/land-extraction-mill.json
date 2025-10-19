@@ -1,0 +1,23 @@
+{
+  "id": "recKNFcmHu36haPE3",
+  "slug": "land-extraction-mill",
+  "name": "Land Extraction Mill",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Pseudo Combo",
+  "characteristics": [
+    "Mill"
+  ],
+  "colors": [
+    "Blue",
+    "Black"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Mind Funeral",
+  "decklist": {
+    "raw": "4 Archive Trap\r\n4 Drowned Catacomb\r\n2 Early Frost\r\n4 Extirpate\r\n2 Familiar's Ruse\r\n4 Ghost Quarter\r\n4 Hedron Crab\r\n4 Inquisition of Kozilek\r\n3 Island\r\n4 Mana Leak\r\n4 Mind Funeral\r\n4 Polluted Delta\r\n4 Shadow of Doubt\r\n4 Snapcaster Mage\r\n4 Surgical Extraction\r\n1 Swamp\r\n4 Watery Grave\r\n\r\n3 Dimir Charm\r\n4 Ensnaring Bridge\r\n4 Glimpse the Unthinkable\r\n4 Profane Memento\r\n",
+    "mainText": "4 Archive Trap\n4 Drowned Catacomb\n2 Early Frost\n4 Extirpate\n2 Familiar's Ruse\n4 Ghost Quarter\n4 Hedron Crab\n4 Inquisition of Kozilek\n3 Island\n4 Mana Leak\n4 Mind Funeral\n4 Polluted Delta\n4 Shadow of Doubt\n4 Snapcaster Mage\n4 Surgical Extraction\n1 Swamp\n4 Watery Grave",
+    "sideText": "3 Dimir Charm\n4 Ensnaring Bridge\n4 Glimpse the Unthinkable\n4 Profane Memento"
+  }
+}

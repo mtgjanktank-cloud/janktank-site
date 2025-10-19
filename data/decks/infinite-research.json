@@ -1,0 +1,25 @@
+{
+  "id": "reckH1ZtKa4QEhATJ",
+  "slug": "infinite-research",
+  "name": "Infinite Research",
+  "author": "",
+  "format": "Modern",
+  "archetype": "Combo",
+  "characteristics": [
+    "Tool Box"
+  ],
+  "colors": [
+    "White",
+    "Blue",
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2018-04-01T00:00:00.000Z",
+  "containsBannedCards": true,
+  "coverCard": "Sunforger",
+  "decklist": {
+    "raw": "1 Accorder's Shield\n4 Arid Mesa\n1 Batterskull\n2 Boros Charm\n2 Boros Signet\n4 Fervent Champion\n4 Flooded Strand\n1 Giver of Runes\n1 Godless Shrine\n1 Hallowed Fountain\n1 Halvar, God of Battle\n3 Inkmoth Nexus\n1 Kaldra Compleat\n1 Lightning Helix\n4 Manamorphose\n1 Mistveil Plains\n1 Mountain\n2 Paradise Mantle\n1 Path to Exile\n2 Plains\n4 Puresteel Paladin\n3 Ranger-Captain of Eos\n2 Research / Development\n2 Sacred Foundry\n1 Shadowspear\n4 Stoneforge Mystic\n3 Sunforger\n1 Sword of Feast and Famine\n1 Sword of Fire and Ice\n1 Temple Garden\n\nSideboard:\n1 Boil\n1 Crackling Doom\n1 Jund Charm\n1 Kolaghan's Command\n1 Lightning Helix\n1 Ojutai's Command\n1 Punish Ignorance\n1 Render Silent\n3 Repeated Reverberation\n1 Settle the Wreckage\n2 Wear / Tear\n1 Wrecking Ball\n\n",
+    "mainText": "1 Accorder's Shield\n4 Arid Mesa\n1 Batterskull\n2 Boros Charm\n2 Boros Signet\n4 Fervent Champion\n4 Flooded Strand\n1 Giver of Runes\n1 Godless Shrine\n1 Hallowed Fountain\n1 Halvar, God of Battle\n3 Inkmoth Nexus\n1 Kaldra Compleat\n1 Lightning Helix\n4 Manamorphose\n1 Mistveil Plains\n1 Mountain\n2 Paradise Mantle\n1 Path to Exile\n2 Plains\n4 Puresteel Paladin\n3 Ranger-Captain of Eos\n2 Research / Development\n2 Sacred Foundry\n1 Shadowspear\n4 Stoneforge Mystic\n3 Sunforger\n1 Sword of Feast and Famine\n1 Sword of Fire and Ice\n1 Temple Garden",
+    "sideText": "1 Boil\n1 Crackling Doom\n1 Jund Charm\n1 Kolaghan's Command\n1 Lightning Helix\n1 Ojutai's Command\n1 Punish Ignorance\n1 Render Silent\n3 Repeated Reverberation\n1 Settle the Wreckage\n2 Wear / Tear\n1 Wrecking Ball"
+  }
+}

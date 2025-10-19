@@ -1,0 +1,24 @@
+{
+  "id": "rec06TrO9ccWp6crc",
+  "slug": "esper-zur",
+  "name": "Esper Zur",
+  "author": "Kehlder",
+  "format": "Modern",
+  "archetype": "Value",
+  "characteristics": [
+    "Enchantments"
+  ],
+  "colors": [
+    "White",
+    "Blue",
+    "Black"
+  ],
+  "updatedAt": "2017-10-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Zur the Enchanter",
+  "decklist": {
+    "raw": "3 Azorius Signet\n2 Creeping Tar Pit\n1 Detention Sphere\n2 Drowned Catacomb\n1 Eiganjo Castle\n4 Flooded Strand\n4 Geist of Saint Traft\n1 Ghostly Prison\n1 Godless Shrine\n1 Hallowed Fountain\n4 Inquisition of Kozilek\n1 Island\n1 Meddling Mage\n2 Meddling Mage\n1 Meddling Mage\n3 Path to Exile\n2 Plains\n4 Polluted Delta\n4 Remand\n4 Serum Visions\n1 Steam Vents\n1 Steel of the Godhead\n2 Swamp\n4 Thoughtseize\n2 Watery Grave\n4 Zur the Enchanter\n\nSideboard:\n1 Aegis of the Gods\n1 Blind Obedience\n2 Blood Moon\n1 Detention Sphere\n1 Greater Auramancy\n1 Rest in Peace\n1 Shielding Plax\n2 Spreading Seas\n1 Steel of the Godhead\n1 Stony Silence\n1 Supreme Verdict\n2 Threads of Disloyalty\n\n",
+    "mainText": "3 Azorius Signet\n2 Creeping Tar Pit\n1 Detention Sphere\n2 Drowned Catacomb\n1 Eiganjo Castle\n4 Flooded Strand\n4 Geist of Saint Traft\n1 Ghostly Prison\n1 Godless Shrine\n1 Hallowed Fountain\n4 Inquisition of Kozilek\n1 Island\n1 Meddling Mage\n2 Meddling Mage\n1 Meddling Mage\n3 Path to Exile\n2 Plains\n4 Polluted Delta\n4 Remand\n4 Serum Visions\n1 Steam Vents\n1 Steel of the Godhead\n2 Swamp\n4 Thoughtseize\n2 Watery Grave\n4 Zur the Enchanter",
+    "sideText": "1 Aegis of the Gods\n1 Blind Obedience\n2 Blood Moon\n1 Detention Sphere\n1 Greater Auramancy\n1 Rest in Peace\n1 Shielding Plax\n2 Spreading Seas\n1 Steel of the Godhead\n1 Stony Silence\n1 Supreme Verdict\n2 Threads of Disloyalty"
+  }
+}

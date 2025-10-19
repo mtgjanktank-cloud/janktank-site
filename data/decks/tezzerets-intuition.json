@@ -1,0 +1,23 @@
+{
+  "id": "recUKo09gINbKlCw5",
+  "slug": "tezzerets-intuition",
+  "name": "Tezzeret's Intuition",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Prison",
+  "characteristics": [
+    "Tool Box"
+  ],
+  "colors": [
+    "Blue",
+    "Black"
+  ],
+  "updatedAt": "2017-09-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Artificer's Intuition",
+  "decklist": {
+    "raw": "2 Academy Ruins\r\n4 Artificer's Intuition\r\n1 Chalice of the Void\r\n1 Engineered Explosives\r\n3 Ensnaring Bridge\r\n1 Inkmoth Nexus\r\n7 Island\r\n4 Myr Servitor\r\n1 Phyrexian Metamorph\r\n1 Pithing Needle\r\n4 Polluted Delta\r\n2 Pristine Talisman\r\n1 Relic of Progenitus\r\n3 Scalding Tarn\r\n1 Spellskite\r\n2 Steam Vents\r\n1 Swamp\r\n3 Sword of the Meek\r\n4 Tezzeret the Seeker\r\n1 Tezzeret, Agent of Bolas\r\n1 Thirst for Knowledge\r\n3 Thopter Foundry\r\n2 Thoughtcast\r\n1 Trinisphere\r\n2 Trinket Mage\r\n1 Urborg, Tomb of Yawgmoth\r\n1 Vedalken Shackles\r\n2 Watery Grave\r\n\r\n",
+    "mainText": "2 Academy Ruins\n4 Artificer's Intuition\n1 Chalice of the Void\n1 Engineered Explosives\n3 Ensnaring Bridge\n1 Inkmoth Nexus\n7 Island\n4 Myr Servitor\n1 Phyrexian Metamorph\n1 Pithing Needle\n4 Polluted Delta\n2 Pristine Talisman\n1 Relic of Progenitus\n3 Scalding Tarn\n1 Spellskite\n2 Steam Vents\n1 Swamp\n3 Sword of the Meek\n4 Tezzeret the Seeker\n1 Tezzeret, Agent of Bolas\n1 Thirst for Knowledge\n3 Thopter Foundry\n2 Thoughtcast\n1 Trinisphere\n2 Trinket Mage\n1 Urborg, Tomb of Yawgmoth\n1 Vedalken Shackles\n2 Watery Grave",
+    "sideText": ""
+  }
+}

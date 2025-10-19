@@ -1,0 +1,23 @@
+{
+  "id": "recxluQGse3Yqnl2U",
+  "slug": "ub-control",
+  "name": "UB Control",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Control",
+  "characteristics": [
+    "Control"
+  ],
+  "colors": [
+    "Blue",
+    "Black"
+  ],
+  "updatedAt": "2017-09-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Kalitas, Traitor of Ghet",
+  "decklist": {
+    "raw": "2 Collective Brutality\r\n1 Compulsive Research\r\n4 Creeping Tar Pit\r\n4 Cryptic Command\r\n4 Darkslick Shores\r\n4 Fatal Push\r\n1 Hero's Downfall\r\n2 Inquisition of Kozilek\r\n4 Island\r\n2 Jace, Architect of Thought\r\n2 Kalitas, Traitor of Ghet\r\n1 Liliana, the Last Hope\r\n2 Mana Leak\r\n1 Murderous Cut\r\n1 Night's Whisper\r\n1 Ob Nixilis Reignited\r\n4 Polluted Delta\r\n2 Remand\r\n4 Serum Visions\r\n4 Snapcaster Mage\r\n2 Swamp\r\n4 Tectonic Edge\r\n2 Thoughtseize\r\n2 Watery Grave\r\n\r\n2 Ceremonious Rejection\r\n1 Collective Brutality\r\n1 Countersquall\r\n1 Crucible of Worlds\r\n2 Damnation\r\n1 Engineered Explosives\r\n1 Hero's Downfall\r\n1 Pithing Needle\r\n2 Spreading Seas\r\n2 Surgical Extraction\r\n1 Thoughtseize\r\n",
+    "mainText": "2 Collective Brutality\n1 Compulsive Research\n4 Creeping Tar Pit\n4 Cryptic Command\n4 Darkslick Shores\n4 Fatal Push\n1 Hero's Downfall\n2 Inquisition of Kozilek\n4 Island\n2 Jace, Architect of Thought\n2 Kalitas, Traitor of Ghet\n1 Liliana, the Last Hope\n2 Mana Leak\n1 Murderous Cut\n1 Night's Whisper\n1 Ob Nixilis Reignited\n4 Polluted Delta\n2 Remand\n4 Serum Visions\n4 Snapcaster Mage\n2 Swamp\n4 Tectonic Edge\n2 Thoughtseize\n2 Watery Grave",
+    "sideText": "2 Ceremonious Rejection\n1 Collective Brutality\n1 Countersquall\n1 Crucible of Worlds\n2 Damnation\n1 Engineered Explosives\n1 Hero's Downfall\n1 Pithing Needle\n2 Spreading Seas\n2 Surgical Extraction\n1 Thoughtseize"
+  }
+}

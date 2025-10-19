@@ -1,0 +1,26 @@
+{
+  "id": "recQiUaLuBWt4vhzw",
+  "slug": "singleton-control",
+  "name": "Singleton Control",
+  "author": "MerynMoon",
+  "format": "Modern",
+  "archetype": "Control",
+  "characteristics": [
+    "Value"
+  ],
+  "colors": [
+    "White",
+    "Blue",
+    "Black",
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2018-10-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Baneslayer Angel",
+  "decklist": {
+    "raw": "1 Abrupt Decay\r\n1 Arid Mesa\r\n1 Assassin's Trophy\r\n1 Baneslayer Angel\r\n1 Batterskull\r\n1 Bloodbraid Elf\r\n1 Bloodstained Mire\r\n1 Breeding Pool\r\n1 Canopy Vista\r\n1 Chromatic Lantern\r\n1 Cinder Glade\r\n1 Condemn\r\n1 Damnation\r\n1 Detention Sphere\r\n1 Dreadbore\r\n1 Electrolyze\r\n1 Elspeth, Sun's Champion\r\n1 Fatal Push\r\n1 Flame Slash\r\n1 Flooded Strand\r\n1 Forest\r\n1 Ghostly Prison\r\n1 Godless Shrine\r\n1 Island\r\n1 Jace, the Mind Sculptor\r\n1 Kolaghan's Command\r\n1 Lightning Bolt\r\n1 Lightning Helix\r\n1 Lingering Souls\r\n1 Maelstrom Pulse\r\n1 Marsh Flats\r\n1 Misty Rainforest\r\n1 Mountain\r\n1 Nahiri, the Harbinger\r\n1 Oblivion Ring\r\n1 Overgrown Tomb\r\n1 Path to Exile\r\n1 Plains\r\n1 Polluted Delta\r\n1 Prairie Stream\r\n1 Sacred Foundry\r\n1 Scalding Tarn\r\n1 Siege Rhino\r\n1 Smoldering Marsh\r\n1 Snapcaster Mage\r\n1 Sorin, Lord of Innistrad\r\n1 Steam Vents\r\n1 Sunken Hollow\r\n1 Swamp\r\n1 Teferi, Hero of Dominaria\r\n1 Terminate\r\n1 Thragtusk\r\n1 Timely Reinforcements\r\n1 Tireless Tracker\r\n1 Verdant Catacombs\r\n1 Wall of Omens\r\n1 Windswept Heath\r\n1 Wooded Foothills\r\n1 Wrath of God\r\n1 Wurmcoil Engine\r\n\r\n1 Ancient Grudge\r\n1 Crumble to Dust\r\n1 Damping Sphere\r\n1 Disdainful Stroke\r\n1 Dispel\r\n1 Dragon's Claw\r\n1 Grafdigger's Cage\r\n1 Izzet Staticaster\r\n1 Negate\r\n1 Pyroclasm\r\n1 Relic of Progenitus\r\n1 Rest for the Weary\r\n1 Rest in Peace\r\n1 Slaughter Games\r\n1 Stony Silence\r\n",
+    "mainText": "1 Abrupt Decay\n1 Arid Mesa\n1 Assassin's Trophy\n1 Baneslayer Angel\n1 Batterskull\n1 Bloodbraid Elf\n1 Bloodstained Mire\n1 Breeding Pool\n1 Canopy Vista\n1 Chromatic Lantern\n1 Cinder Glade\n1 Condemn\n1 Damnation\n1 Detention Sphere\n1 Dreadbore\n1 Electrolyze\n1 Elspeth, Sun's Champion\n1 Fatal Push\n1 Flame Slash\n1 Flooded Strand\n1 Forest\n1 Ghostly Prison\n1 Godless Shrine\n1 Island\n1 Jace, the Mind Sculptor\n1 Kolaghan's Command\n1 Lightning Bolt\n1 Lightning Helix\n1 Lingering Souls\n1 Maelstrom Pulse\n1 Marsh Flats\n1 Misty Rainforest\n1 Mountain\n1 Nahiri, the Harbinger\n1 Oblivion Ring\n1 Overgrown Tomb\n1 Path to Exile\n1 Plains\n1 Polluted Delta\n1 Prairie Stream\n1 Sacred Foundry\n1 Scalding Tarn\n1 Siege Rhino\n1 Smoldering Marsh\n1 Snapcaster Mage\n1 Sorin, Lord of Innistrad\n1 Steam Vents\n1 Sunken Hollow\n1 Swamp\n1 Teferi, Hero of Dominaria\n1 Terminate\n1 Thragtusk\n1 Timely Reinforcements\n1 Tireless Tracker\n1 Verdant Catacombs\n1 Wall of Omens\n1 Windswept Heath\n1 Wooded Foothills\n1 Wrath of God\n1 Wurmcoil Engine",
+    "sideText": "1 Ancient Grudge\n1 Crumble to Dust\n1 Damping Sphere\n1 Disdainful Stroke\n1 Dispel\n1 Dragon's Claw\n1 Grafdigger's Cage\n1 Izzet Staticaster\n1 Negate\n1 Pyroclasm\n1 Relic of Progenitus\n1 Rest for the Weary\n1 Rest in Peace\n1 Slaughter Games\n1 Stony Silence"
+  }
+}

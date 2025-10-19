@@ -1,0 +1,23 @@
+{
+  "id": "rec7hPENV22Xzzadm",
+  "slug": "meatball-ponza",
+  "name": "Meatball Ponza",
+  "author": "u/ArborElfPass",
+  "format": "Modern",
+  "archetype": "Midrange",
+  "characteristics": [
+    "Tool Box"
+  ],
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2018-01-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Magus of the Moon",
+  "decklist": {
+    "raw": "1 Acidic Slime\r\n4 Arbor Elf\r\n2 Birds of Paradise\r\n3 Blood Moon\r\n1 Chameleon Colossus\r\n2 Chandra, Torch of Defiance\r\n1 Courser of Kruphix\r\n3 Eldritch Evolution\r\n1 Eternal Witness\r\n9 Forest\r\n1 Furystoke Giant\r\n1 Hazoret the Fervent\r\n1 Huntmaster of the Fells\r\n2 Inferno Titan\r\n2 Kitchen Finks\r\n1 Magus of the Moon\r\n2 Misty Rainforest\r\n1 Mountain\r\n1 Nissa, Vastwood Seer\r\n1 Nissa, Voice of Zendikar\r\n2 Pia and Kiran Nalaar\r\n4 Stomping Ground\r\n1 Stormbreath Dragon\r\n1 Thragtusk\r\n3 Tireless Tracker\r\n3 Utopia Sprawl\r\n2 Windswept Heath\r\n4 Wooded Foothills\r\n\r\n1 Abrade\r\n1 Ancient Grudge\r\n2 Anger of the Gods\r\n1 Caldera Hellion\r\n1 Fracturing Gust\r\n1 Kitchen Finks\r\n1 Primal Command\r\n2 Relic of Progenitus\r\n1 Scavenging Ooze\r\n1 Shatterstorm\r\n1 Thrun, the Last Troll\r\n2 Trinisphere\r\n",
+    "mainText": "1 Acidic Slime\n4 Arbor Elf\n2 Birds of Paradise\n3 Blood Moon\n1 Chameleon Colossus\n2 Chandra, Torch of Defiance\n1 Courser of Kruphix\n3 Eldritch Evolution\n1 Eternal Witness\n9 Forest\n1 Furystoke Giant\n1 Hazoret the Fervent\n1 Huntmaster of the Fells\n2 Inferno Titan\n2 Kitchen Finks\n1 Magus of the Moon\n2 Misty Rainforest\n1 Mountain\n1 Nissa, Vastwood Seer\n1 Nissa, Voice of Zendikar\n2 Pia and Kiran Nalaar\n4 Stomping Ground\n1 Stormbreath Dragon\n1 Thragtusk\n3 Tireless Tracker\n3 Utopia Sprawl\n2 Windswept Heath\n4 Wooded Foothills",
+    "sideText": "1 Abrade\n1 Ancient Grudge\n2 Anger of the Gods\n1 Caldera Hellion\n1 Fracturing Gust\n1 Kitchen Finks\n1 Primal Command\n2 Relic of Progenitus\n1 Scavenging Ooze\n1 Shatterstorm\n1 Thrun, the Last Troll\n2 Trinisphere"
+  }
+}

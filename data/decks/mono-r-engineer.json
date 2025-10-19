@@ -1,0 +1,22 @@
+{
+  "id": "rech0kVSCwruh60Xx",
+  "slug": "mono-r-engineer",
+  "name": "Mono-R Engineer",
+  "author": "u/mackslc",
+  "format": "Modern",
+  "archetype": "Control",
+  "characteristics": [
+    "Artifact Value"
+  ],
+  "colors": [
+    "Red"
+  ],
+  "updatedAt": "2019-06-01T00:00:00.000Z",
+  "containsBannedCards": true,
+  "coverCard": "Goblin Engineer",
+  "decklist": {
+    "raw": "4 Arcum's Astrolabe\r\n2 Blast Zone\r\n2 Blood Moon\r\n4 Darksteel Citadel\r\n1 Ensnaring Bridge\r\n4 Faithless Looting\r\n2 Galvanic Blast\r\n1 Gemstone Caverns\r\n4 Goblin Engineer\r\n3 Ichor Wellspring\r\n2 Karn, Scion of Urza\r\n4 Karn, the Great Creator\r\n2 Liquimetal Coating\r\n1 Myr Superion\r\n1 Platinum Angel\r\n1 Pyrite Spellbomb\r\n2 Shenanigans\r\n13 Snow-Covered Mountain\r\n1 Sundering Titan\r\n2 Sweltering Suns\r\n4 Trash for Treasure\r\n\r\n2 Anger of the Gods\r\n1 Cataclysmic Gearhulk\r\n1 Chalice of the Void\r\n1 Damping Sphere\r\n1 Ensnaring Bridge\r\n1 God-Pharaoh's Statue\r\n1 Grafdigger's Cage\r\n1 Liquimetal Coating\r\n1 Mycosynth Lattice\r\n1 Pithing Needle\r\n1 Sorcerous Spyglass\r\n1 Tormod's Crypt\r\n1 Trinisphere\r\n1 Wurmcoil Engine\r\n",
+    "mainText": "4 Arcum's Astrolabe\n2 Blast Zone\n2 Blood Moon\n4 Darksteel Citadel\n1 Ensnaring Bridge\n4 Faithless Looting\n2 Galvanic Blast\n1 Gemstone Caverns\n4 Goblin Engineer\n3 Ichor Wellspring\n2 Karn, Scion of Urza\n4 Karn, the Great Creator\n2 Liquimetal Coating\n1 Myr Superion\n1 Platinum Angel\n1 Pyrite Spellbomb\n2 Shenanigans\n13 Snow-Covered Mountain\n1 Sundering Titan\n2 Sweltering Suns\n4 Trash for Treasure",
+    "sideText": "2 Anger of the Gods\n1 Cataclysmic Gearhulk\n1 Chalice of the Void\n1 Damping Sphere\n1 Ensnaring Bridge\n1 God-Pharaoh's Statue\n1 Grafdigger's Cage\n1 Liquimetal Coating\n1 Mycosynth Lattice\n1 Pithing Needle\n1 Sorcerous Spyglass\n1 Tormod's Crypt\n1 Trinisphere\n1 Wurmcoil Engine"
+  }
+}

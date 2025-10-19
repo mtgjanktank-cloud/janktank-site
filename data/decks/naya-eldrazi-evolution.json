@@ -1,0 +1,24 @@
+{
+  "id": "recUsEtF8C3xBQCQl",
+  "slug": "naya-eldrazi-evolution",
+  "name": "Naya Eldrazi Evolution",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Midrange",
+  "characteristics": [
+    "Tool Box"
+  ],
+  "colors": [
+    "White",
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Though-knot Seer",
+  "decklist": {
+    "raw": "4 Birds of Paradise\r\n4 Brushland\r\n3 Cavern of Souls\r\n1 Eldrazi Displacer\r\n4 Eldrazi Temple\r\n4 Eldritch Evolution\r\n2 Forest\r\n3 Grafted Wargear\r\n4 Kitchen Finks\r\n4 Matter Reshaper\r\n1 Mirran Crusader\r\n4 Noble Hierarch\r\n4 Path to Exile\r\n1 Plains\r\n3 Reality Smasher\r\n1 Stomping Ground\r\n1 Temple Garden\r\n4 Thought-Knot Seer\r\n1 Thragtusk\r\n1 Wastes\r\n4 Windswept Heath\r\n1 Wooded Bastion\r\n1 Zealous Conscripts\r\n\r\n1 Acidic Slime\r\n1 Angel of Sanctions\r\n1 Aven Mindcensor\r\n1 Cataclysmic Gearhulk\r\n1 Eidolon of Rhetoric\r\n1 Gaddock Teeg\r\n1 Kataki, War's Wage\r\n1 Linvala, Keeper of Silence\r\n1 Loaming Shaman\r\n3 Mirran Crusader\r\n1 Sigarda, Heron's Grace\r\n1 Sigarda, Host of Herons\r\n1 Thrun, the Last Troll\r\n",
+    "mainText": "4 Birds of Paradise\n4 Brushland\n3 Cavern of Souls\n1 Eldrazi Displacer\n4 Eldrazi Temple\n4 Eldritch Evolution\n2 Forest\n3 Grafted Wargear\n4 Kitchen Finks\n4 Matter Reshaper\n1 Mirran Crusader\n4 Noble Hierarch\n4 Path to Exile\n1 Plains\n3 Reality Smasher\n1 Stomping Ground\n1 Temple Garden\n4 Thought-Knot Seer\n1 Thragtusk\n1 Wastes\n4 Windswept Heath\n1 Wooded Bastion\n1 Zealous Conscripts",
+    "sideText": "1 Acidic Slime\n1 Angel of Sanctions\n1 Aven Mindcensor\n1 Cataclysmic Gearhulk\n1 Eidolon of Rhetoric\n1 Gaddock Teeg\n1 Kataki, War's Wage\n1 Linvala, Keeper of Silence\n1 Loaming Shaman\n3 Mirran Crusader\n1 Sigarda, Heron's Grace\n1 Sigarda, Host of Herons\n1 Thrun, the Last Troll"
+  }
+}

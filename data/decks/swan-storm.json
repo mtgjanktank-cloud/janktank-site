@@ -1,0 +1,23 @@
+{
+  "id": "recj9yJqha465MbrU",
+  "slug": "swan-storm",
+  "name": "Swan Storm",
+  "author": "u/Deathjoker00",
+  "format": "Modern",
+  "archetype": "Combo",
+  "characteristics": [
+    "Storm"
+  ],
+  "colors": [
+    "Blue",
+    "Red"
+  ],
+  "updatedAt": "2018-02-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Swans of Bryn Argoll",
+  "decklist": {
+    "raw": "3 Baral, Chief of Compliance\n4 Desperate Ritual\n4 Flame Slash\n4 Flooded Strand\n2 Gifts Ungiven\n3 Goblin Electromancer\n2 Grapeshot\n3 Hallowed Fountain\n2 Harvest Pyre\n2 Island\n4 Manamorphose\n2 Mountain\n1 Noxious Revival\n4 Pyretic Ritual\n4 Scalding Tarn\n4 Serum Visions\n4 Steam Vents\n4 Swans of Bryn Argoll\n4 Weight of Spires\n\n\n",
+    "mainText": "3 Baral, Chief of Compliance\n4 Desperate Ritual\n4 Flame Slash\n4 Flooded Strand\n2 Gifts Ungiven\n3 Goblin Electromancer\n2 Grapeshot\n3 Hallowed Fountain\n2 Harvest Pyre\n2 Island\n4 Manamorphose\n2 Mountain\n1 Noxious Revival\n4 Pyretic Ritual\n4 Scalding Tarn\n4 Serum Visions\n4 Steam Vents\n4 Swans of Bryn Argoll\n4 Weight of Spires",
+    "sideText": ""
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "recLU6aAUQQeYdJPT",
+  "slug": "gr-eldrazi-delirium",
+  "name": "GR Eldrazi Delirium",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Tribal",
+  "characteristics": [
+    "Midrange"
+  ],
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Reality Smasher",
+  "decklist": {
+    "raw": "3 Ancient Stirrings\r\n2 Cavern of Souls\r\n4 Eldrazi Temple\r\n2 Engineered Explosives\r\n1 Forest\r\n4 Grove of the Burnwillows\r\n2 Huntmaster of the Fells\r\n4 Lightning Bolt\r\n4 Matter Reshaper\r\n3 Mishra's Bauble\r\n1 Mountain\r\n4 Noble Hierarch\r\n3 Reality Smasher\r\n2 Seal of Fire\r\n2 Stomping Ground\r\n2 Tarfire\r\n4 Tarmogoyf\r\n4 Thought-Knot Seer\r\n4 Traverse the Ulvenwald\r\n1 Wastes\r\n4 Wooded Foothills\r\n\r\n2 Ancient Grudge\r\n2 Eldrazi Obligator\r\n2 Ghost Quarter\r\n1 Grafdigger's Cage\r\n1 Natural State\r\n2 Pyroclasm\r\n1 Scavenging Ooze\r\n1 Sudden Shock\r\n2 Tireless Tracker\r\n1 World Breaker\r\n",
+    "mainText": "3 Ancient Stirrings\n2 Cavern of Souls\n4 Eldrazi Temple\n2 Engineered Explosives\n1 Forest\n4 Grove of the Burnwillows\n2 Huntmaster of the Fells\n4 Lightning Bolt\n4 Matter Reshaper\n3 Mishra's Bauble\n1 Mountain\n4 Noble Hierarch\n3 Reality Smasher\n2 Seal of Fire\n2 Stomping Ground\n2 Tarfire\n4 Tarmogoyf\n4 Thought-Knot Seer\n4 Traverse the Ulvenwald\n1 Wastes\n4 Wooded Foothills",
+    "sideText": "2 Ancient Grudge\n2 Eldrazi Obligator\n2 Ghost Quarter\n1 Grafdigger's Cage\n1 Natural State\n2 Pyroclasm\n1 Scavenging Ooze\n1 Sudden Shock\n2 Tireless Tracker\n1 World Breaker"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "recTkNm82sxKAGZEE",
+  "slug": "narset-turns",
+  "name": "Narset Turns",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Pseudo Combo",
+  "characteristics": [
+    "Extra Turns"
+  ],
+  "colors": [
+    "White",
+    "Blue",
+    "Red"
+  ],
+  "updatedAt": "2018-04-01T00:00:00.000Z",
+  "containsBannedCards": true,
+  "coverCard": "Narset, Enlightened Master",
+  "decklist": {
+    "raw": "2 Blessed Alliance\r\n4 Celestial Colonnade\r\n1 Cryptic Command\r\n4 Flooded Strand\r\n1 Gideon Jura\r\n1 Gideon of the Trials\r\n2 Hallowed Fountain\r\n2 Island\r\n2 Jace, the Mind Sculptor\r\n3 Lightning Bolt\r\n2 Mountain\r\n3 Narset, Enlightened Master\r\n3 Path to Exile\r\n2 Plains\r\n4 Remand\r\n1 Sacred Foundry\r\n3 Scalding Tarn\r\n4 Serum Visions\r\n2 Snapcaster Mage\r\n2 Steam Vents\r\n1 Supreme Verdict\r\n4 Temporal Mastery\r\n2 Temporal Trespass\r\n4 Time Warp\r\n1 Vendilion Clique\r\n\r\n3 Blood Moon\r\n4 Leyline of Sanctity\r\n2 Rest in Peace\r\n2 Runed Halo\r\n2 Stony Silence\r\n2 Supreme Verdict\r\n",
+    "mainText": "2 Blessed Alliance\n4 Celestial Colonnade\n1 Cryptic Command\n4 Flooded Strand\n1 Gideon Jura\n1 Gideon of the Trials\n2 Hallowed Fountain\n2 Island\n2 Jace, the Mind Sculptor\n3 Lightning Bolt\n2 Mountain\n3 Narset, Enlightened Master\n3 Path to Exile\n2 Plains\n4 Remand\n1 Sacred Foundry\n3 Scalding Tarn\n4 Serum Visions\n2 Snapcaster Mage\n2 Steam Vents\n1 Supreme Verdict\n4 Temporal Mastery\n2 Temporal Trespass\n4 Time Warp\n1 Vendilion Clique",
+    "sideText": "3 Blood Moon\n4 Leyline of Sanctity\n2 Rest in Peace\n2 Runed Halo\n2 Stony Silence\n2 Supreme Verdict"
+  }
+}

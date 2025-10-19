@@ -1,0 +1,23 @@
+{
+  "id": "rec5KsSK6X5xOLqtT",
+  "slug": "boros-vehicles",
+  "name": "Boros Vehicles",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Aggro",
+  "characteristics": [
+    "Vehicles, Burn"
+  ],
+  "colors": [
+    "White",
+    "Red"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Toolcraft Exemplar",
+  "decklist": {
+    "raw": "2 Blackcleave Cliffs\r\n2 Bonesplitter\r\n4 Concealed Courtyard\r\n2 Court Homunculus\r\n2 Cultivator's Caravan\r\n2 Darksteel Citadel\r\n2 Glint Hawk Idol\r\n2 Godless Shrine\r\n4 Inspiring Vantage\r\n2 Inventor's Apprentice\r\n4 Lightning Bolt\r\n3 Lightning Helix\r\n3 Marsh Flats\r\n4 Path to Exile\r\n1 Plains\r\n4 Porcelain Legionnaire\r\n1 Sacred Foundry\r\n4 Scrapheap Scrounger\r\n4 Shrapnel Blast\r\n3 Smuggler's Copter\r\n1 Swamp\r\n4 Toolcraft Exemplar\r\n\r\n2 Grafdigger's Cage\r\n3 Leyline of Sanctity\r\n3 Sudden Shock\r\n4 Tidehollow Sculler\r\n3 Wear/Tear\r\n",
+    "mainText": "2 Blackcleave Cliffs\n2 Bonesplitter\n4 Concealed Courtyard\n2 Court Homunculus\n2 Cultivator's Caravan\n2 Darksteel Citadel\n2 Glint Hawk Idol\n2 Godless Shrine\n4 Inspiring Vantage\n2 Inventor's Apprentice\n4 Lightning Bolt\n3 Lightning Helix\n3 Marsh Flats\n4 Path to Exile\n1 Plains\n4 Porcelain Legionnaire\n1 Sacred Foundry\n4 Scrapheap Scrounger\n4 Shrapnel Blast\n3 Smuggler's Copter\n1 Swamp\n4 Toolcraft Exemplar",
+    "sideText": "2 Grafdigger's Cage\n3 Leyline of Sanctity\n3 Sudden Shock\n4 Tidehollow Sculler\n3 Wear/Tear"
+  }
+}

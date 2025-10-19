@@ -1,0 +1,22 @@
+{
+  "id": "recUqjftzhEqYzo7d",
+  "slug": "mono-u-devotion",
+  "name": "Mono-U Devotion",
+  "author": "u/mackslc",
+  "format": "Modern",
+  "archetype": "Combo",
+  "characteristics": [
+    "Card Draw"
+  ],
+  "colors": [
+    "Blue"
+  ],
+  "updatedAt": "2020-01-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Thassa's Oracle",
+  "decklist": {
+    "raw": "4 Brazen Borrower\r\n3 Castle Vantress\r\n2 Cryptic Command\r\n3 Force of Negation\r\n2 Gadwick, the Wizened\r\n13 Island\r\n3 Jace, Wielder of Mysteries\r\n4 Leyline of Anticipation\r\n2 Master of Waves\r\n3 Mirror of Fate\r\n4 Nykthos, Shrine to Nyx\r\n4 Remand\r\n3 Spreading Seas\r\n4 Thassa's Oracle\r\n2 Waterlogged Grove\r\n4 Witching Well\r\n\r\n2 Ashiok, Dream Render\r\n1 Devastation Tide\r\n2 Encase in Ice\r\n1 Master of Waves\r\n2 Mystical Dispute\r\n2 Narset, Parter of Veils\r\n1 Ratchet Bomb\r\n2 Spell Pierce\r\n1 Vendilion Clique\r\n1 Whelming Wave\r\n",
+    "mainText": "4 Brazen Borrower\n3 Castle Vantress\n2 Cryptic Command\n3 Force of Negation\n2 Gadwick, the Wizened\n13 Island\n3 Jace, Wielder of Mysteries\n4 Leyline of Anticipation\n2 Master of Waves\n3 Mirror of Fate\n4 Nykthos, Shrine to Nyx\n4 Remand\n3 Spreading Seas\n4 Thassa's Oracle\n2 Waterlogged Grove\n4 Witching Well",
+    "sideText": "2 Ashiok, Dream Render\n1 Devastation Tide\n2 Encase in Ice\n1 Master of Waves\n2 Mystical Dispute\n2 Narset, Parter of Veils\n1 Ratchet Bomb\n2 Spell Pierce\n1 Vendilion Clique\n1 Whelming Wave"
+  }
+}

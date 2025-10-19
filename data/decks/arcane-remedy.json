@@ -1,0 +1,23 @@
+{
+  "id": "rec8W7i1yReqLj9SW",
+  "slug": "arcane-remedy",
+  "name": "Arcane Remedy",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Combo",
+  "characteristics": [
+    "Arcane Spells"
+  ],
+  "colors": [
+    "Blue",
+    "Black"
+  ],
+  "updatedAt": "2018-02-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Tainted Remedy",
+  "decklist": {
+    "raw": "4 Darkslick Shores\r\n4 Disrupting Shoal\r\n3 Eerie Procession\r\n2 Eye of Nowhere\r\n4 Flooded Strand\r\n3 Horobi's Whisper\r\n4 Ideas Unbound\r\n5 Island\r\n4 Peer Through Depths\r\n4 Polluted Delta\r\n4 Reach Through Mists\r\n4 Roar of Jukai\r\n1 Scalding Tarn\r\n4 Serum Visions\r\n1 Swamp\r\n4 Tainted Remedy\r\n3 Thought Scour\r\n2 Watery Grave\r\n\r\n2 Collective Brutality\r\n1 Eye of Nowhere\r\n3 Fatal Push\r\n1 Hideous Laughter\r\n4 Leyline of Sanctity\r\n2 Spreading Seas\r\n2 Surgical Extraction\r\n",
+    "mainText": "4 Darkslick Shores\n4 Disrupting Shoal\n3 Eerie Procession\n2 Eye of Nowhere\n4 Flooded Strand\n3 Horobi's Whisper\n4 Ideas Unbound\n5 Island\n4 Peer Through Depths\n4 Polluted Delta\n4 Reach Through Mists\n4 Roar of Jukai\n1 Scalding Tarn\n4 Serum Visions\n1 Swamp\n4 Tainted Remedy\n3 Thought Scour\n2 Watery Grave",
+    "sideText": "2 Collective Brutality\n1 Eye of Nowhere\n3 Fatal Push\n1 Hideous Laughter\n4 Leyline of Sanctity\n2 Spreading Seas\n2 Surgical Extraction"
+  }
+}

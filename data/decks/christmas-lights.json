@@ -1,0 +1,23 @@
+{
+  "id": "recxaLnFnUxSICv2p",
+  "slug": "christmas-lights",
+  "name": "Christmas Lights",
+  "author": "u/Pustka",
+  "format": "Modern",
+  "archetype": "Midrange",
+  "characteristics": [
+    "Control"
+  ],
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2018-03-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Koth of the Hammer",
+  "decklist": {
+    "raw": "3 Anger of the Gods\r\n3 Blood Moon\r\n4 Bloodbraid Elf\r\n2 Chandra, Torch of Defiance\r\n1 Hazoret the Fervent\r\n2 Highland Weald\r\n4 Into the North\r\n3 Koth of the Hammer\r\n4 Lightning Bolt\r\n1 Mouth of Ronom\r\n2 Nissa, Vital Force\r\n3 Scavenging Ooze\r\n2 Scrying Sheets\r\n4 Skred\r\n5 Snow-Covered Forest\r\n9 Snow-Covered Mountain\r\n2 Stormbreath Dragon\r\n2 Tireless Tracker\r\n4 Wooded Foothills\r\n\r\n2 Beast Within\r\n2 Goblin Rabblemaster\r\n2 Kitchen Finks\r\n2 Kozilek's Return\r\n2 Pithing Needle\r\n2 Ratchet Bomb\r\n2 Shattering Spree\r\n1 Thrun, the Last Troll\r\n",
+    "mainText": "3 Anger of the Gods\n3 Blood Moon\n4 Bloodbraid Elf\n2 Chandra, Torch of Defiance\n1 Hazoret the Fervent\n2 Highland Weald\n4 Into the North\n3 Koth of the Hammer\n4 Lightning Bolt\n1 Mouth of Ronom\n2 Nissa, Vital Force\n3 Scavenging Ooze\n2 Scrying Sheets\n4 Skred\n5 Snow-Covered Forest\n9 Snow-Covered Mountain\n2 Stormbreath Dragon\n2 Tireless Tracker\n4 Wooded Foothills",
+    "sideText": "2 Beast Within\n2 Goblin Rabblemaster\n2 Kitchen Finks\n2 Kozilek's Return\n2 Pithing Needle\n2 Ratchet Bomb\n2 Shattering Spree\n1 Thrun, the Last Troll"
+  }
+}

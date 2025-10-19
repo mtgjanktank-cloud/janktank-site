@@ -1,0 +1,23 @@
+{
+  "id": "recEMsHyYXR7ONJPl",
+  "slug": "hot-pockets",
+  "name": "Hot Pockets",
+  "author": "Omega_DestoyerZ",
+  "format": "Modern",
+  "archetype": "Combo",
+  "characteristics": [
+    "Storm"
+  ],
+  "colors": [
+    "Black",
+    "Red"
+  ],
+  "updatedAt": "2018-08-01T00:00:00.000Z",
+  "containsBannedCards": true,
+  "coverCard": "Haakon, Stromgald Scourge",
+  "decklist": {
+    "raw": "2 Basal Sliver\r\n4 Blood Crypt\r\n2 Blood Moon\r\n4 Bloodstained Mire\r\n2 Bontu's Monument\r\n2 Cathartic Reunion\r\n4 Collective Brutality\r\n4 Dragonskull Summit\r\n1 Dreadbore\r\n4 Faithless Looting\r\n2 Fatal Push\r\n2 Grapeshot\r\n2 Haakon, Stromgald Scourge\r\n2 Inquisition of Kozilek\r\n3 Kolaghan's Command\r\n2 Lightning Bolt\r\n2 Liliana of the Veil\r\n2 Mountain\r\n2 Skeletal Changeling\r\n6 Swamp\r\n2 Sweltering Suns\r\n2 Terminate\r\n2 Thoughtseize\r\n\r\n2 Anger of the Gods\r\n1 Blood Moon\r\n3 Ensnaring Bridge\r\n1 Extirpate\r\n1 Liliana of the Veil\r\n1 Liliana, the Last Hope\r\n2 Nihil Spellbomb\r\n2 Surgical Extraction\r\n2 Sweltering Suns\r\n",
+    "mainText": "2 Basal Sliver\n4 Blood Crypt\n2 Blood Moon\n4 Bloodstained Mire\n2 Bontu's Monument\n2 Cathartic Reunion\n4 Collective Brutality\n4 Dragonskull Summit\n1 Dreadbore\n4 Faithless Looting\n2 Fatal Push\n2 Grapeshot\n2 Haakon, Stromgald Scourge\n2 Inquisition of Kozilek\n3 Kolaghan's Command\n2 Lightning Bolt\n2 Liliana of the Veil\n2 Mountain\n2 Skeletal Changeling\n6 Swamp\n2 Sweltering Suns\n2 Terminate\n2 Thoughtseize",
+    "sideText": "2 Anger of the Gods\n1 Blood Moon\n3 Ensnaring Bridge\n1 Extirpate\n1 Liliana of the Veil\n1 Liliana, the Last Hope\n2 Nihil Spellbomb\n2 Surgical Extraction\n2 Sweltering Suns"
+  }
+}

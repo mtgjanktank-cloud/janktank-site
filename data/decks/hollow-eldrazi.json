@@ -1,0 +1,22 @@
+{
+  "id": "rechjyrWKOkSBqWzQ",
+  "slug": "hollow-eldrazi",
+  "name": "Hollow Eldrazi",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Tribal",
+  "characteristics": [
+    "Aggro"
+  ],
+  "colors": [
+    "Red"
+  ],
+  "updatedAt": "2018-02-01T00:00:00.000Z",
+  "containsBannedCards": true,
+  "coverCard": "Hollow One",
+  "decklist": {
+    "raw": "2 Cavern of Souls\r\n2 Dismember\r\n4 Eldrazi Mimic\r\n4 Eldrazi Obligator\r\n4 Eldrazi Temple\r\n4 Faithless Looting\r\n1 Gemstone Caverns\r\n2 Ghost Quarter\r\n4 Hollow One\r\n3 Lightning Bolt\r\n2 Matter Reshaper\r\n4 Mountain\r\n2 Mutavault\r\n4 Ramunap Ruins\r\n4 Reality Smasher\r\n4 Simian Spirit Guide\r\n4 Street Wraith\r\n4 Thought-Knot Seer\r\n2 Wastes\r\n\r\n3 By Force\r\n2 Gemstone Caverns\r\n2 Ghost Quarter\r\n2 Ratchet Bomb\r\n1 Tomb of the Spirit Dragon\r\n4 Tormod's Crypt\r\n1 Warping Wail\r\n",
+    "mainText": "2 Cavern of Souls\n2 Dismember\n4 Eldrazi Mimic\n4 Eldrazi Obligator\n4 Eldrazi Temple\n4 Faithless Looting\n1 Gemstone Caverns\n2 Ghost Quarter\n4 Hollow One\n3 Lightning Bolt\n2 Matter Reshaper\n4 Mountain\n2 Mutavault\n4 Ramunap Ruins\n4 Reality Smasher\n4 Simian Spirit Guide\n4 Street Wraith\n4 Thought-Knot Seer\n2 Wastes",
+    "sideText": "3 By Force\n2 Gemstone Caverns\n2 Ghost Quarter\n2 Ratchet Bomb\n1 Tomb of the Spirit Dragon\n4 Tormod's Crypt\n1 Warping Wail"
+  }
+}

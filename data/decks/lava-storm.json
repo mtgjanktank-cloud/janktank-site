@@ -1,0 +1,22 @@
+{
+  "id": "recdYgEoi4oIbRuFJ",
+  "slug": "lava-storm",
+  "name": "Lava Storm",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Combo",
+  "characteristics": [
+    "Aggro"
+  ],
+  "colors": [
+    "Red"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Commune with Lava",
+  "decklist": {
+    "raw": "4 Akroan Crusader\r\n4 Battle Hymn\r\n4 Commune with Lava\r\n4 Crowd's Favor\r\n4 Desperate Ritual\r\n3 Goblin Bushwhacker\r\n1 Haze of Rage\r\n4 Manamorphose\r\n16 Mountain\r\n4 Mutagenic Growth\r\n4 Pyretic Ritual\r\n4 Street Wraith\r\n4 Young Pyromancer\r\n\r\n3 Empty the Warrens\r\n1 Goblin Bushwhacker\r\n2 Grapeshot\r\n4 Gut Shot\r\n2 Haze of Rage\r\n1 Locket of Yesterdays\r\n2 Past in Flames\r\n",
+    "mainText": "4 Akroan Crusader\n4 Battle Hymn\n4 Commune with Lava\n4 Crowd's Favor\n4 Desperate Ritual\n3 Goblin Bushwhacker\n1 Haze of Rage\n4 Manamorphose\n16 Mountain\n4 Mutagenic Growth\n4 Pyretic Ritual\n4 Street Wraith\n4 Young Pyromancer",
+    "sideText": "3 Empty the Warrens\n1 Goblin Bushwhacker\n2 Grapeshot\n4 Gut Shot\n2 Haze of Rage\n1 Locket of Yesterdays\n2 Past in Flames"
+  }
+}

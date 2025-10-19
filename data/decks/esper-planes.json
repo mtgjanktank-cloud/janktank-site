@@ -1,0 +1,24 @@
+{
+  "id": "recC1HDC0dDhAySl3",
+  "slug": "esper-planes",
+  "name": "Esper Planes",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Aggro",
+  "characteristics": [
+    "Vehicles"
+  ],
+  "colors": [
+    "White",
+    "Blue",
+    "Black"
+  ],
+  "updatedAt": "2017-04-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Heart of Kiran",
+  "decklist": {
+    "raw": "2 Aethersphere Harvester\r\n2 Concealed Courtyard\r\n4 Dark Confidant\r\n1 Darkslick Shores\r\n3 Disciple of Deceit\r\n2 Etched Champion\r\n4 Fatal Push\r\n1 Flooded Strand\r\n1 Godless Shrine\r\n2 Hallowed Fountain\r\n3 Heart of Kiran\r\n2 Island\r\n2 Kira, Great Glass-Spinner\r\n4 Marsh Flats\r\n4 Night Market Lookout\r\n2 Oreskos Sun Guide\r\n3 Path to Exile\r\n2 Peacewalker Colossus\r\n1 Plains\r\n4 Polluted Delta\r\n3 Sky Skiff\r\n4 Smuggler's Copter\r\n2 Swamp\r\n2 Watery Grave\r\n\r\n1 Collective Brutality\r\n1 Duress\r\n2 Hurkyl's Recall\r\n1 Kira, Great Glass-Spinner\r\n2 Leyline of Sanctity\r\n1 Path to Exile\r\n2 Selfless Spirit\r\n2 Snapcaster Mage\r\n1 Spell Snare\r\n1 Spellskite\r\n1 Surgical Extraction\r\n",
+    "mainText": "2 Aethersphere Harvester\n2 Concealed Courtyard\n4 Dark Confidant\n1 Darkslick Shores\n3 Disciple of Deceit\n2 Etched Champion\n4 Fatal Push\n1 Flooded Strand\n1 Godless Shrine\n2 Hallowed Fountain\n3 Heart of Kiran\n2 Island\n2 Kira, Great Glass-Spinner\n4 Marsh Flats\n4 Night Market Lookout\n2 Oreskos Sun Guide\n3 Path to Exile\n2 Peacewalker Colossus\n1 Plains\n4 Polluted Delta\n3 Sky Skiff\n4 Smuggler's Copter\n2 Swamp\n2 Watery Grave",
+    "sideText": "1 Collective Brutality\n1 Duress\n2 Hurkyl's Recall\n1 Kira, Great Glass-Spinner\n2 Leyline of Sanctity\n1 Path to Exile\n2 Selfless Spirit\n2 Snapcaster Mage\n1 Spell Snare\n1 Spellskite\n1 Surgical Extraction"
+  }
+}

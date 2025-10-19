@@ -1,0 +1,22 @@
+{
+  "id": "rec8B9QEGoicG4rdI",
+  "slug": "free-win-red",
+  "name": "Free Win Red",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Prison",
+  "characteristics": [
+    "Mana Acceleration"
+  ],
+  "colors": [
+    "Red"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": true,
+  "coverCard": "Pyretic Ritual",
+  "decklist": {
+    "raw": "2 Anger of the Gods\r\n4 Blood Moon\r\n4 Chandra, Pyromaster\r\n4 Desperate Ritual\r\n4 Ensnaring Bridge\r\n2 Koth of the Hammer\r\n4 Lightning Bolt\r\n3 Magma Jet\r\n3 Magus of the Moon\r\n22 Mountain\r\n2 Pyretic Ritual\r\n2 Relic of Progenitus\r\n4 Simian Spirit Guide\r\n\r\n4 Dragon's Claw\r\n1 Pithing Needle\r\n1 Pyroclasm\r\n2 Relic of Progenitus\r\n2 Rending Volley\r\n2 Roast\r\n3 Vandalblast\r\n",
+    "mainText": "2 Anger of the Gods\n4 Blood Moon\n4 Chandra, Pyromaster\n4 Desperate Ritual\n4 Ensnaring Bridge\n2 Koth of the Hammer\n4 Lightning Bolt\n3 Magma Jet\n3 Magus of the Moon\n22 Mountain\n2 Pyretic Ritual\n2 Relic of Progenitus\n4 Simian Spirit Guide",
+    "sideText": "4 Dragon's Claw\n1 Pithing Needle\n1 Pyroclasm\n2 Relic of Progenitus\n2 Rending Volley\n2 Roast\n3 Vandalblast"
+  }
+}

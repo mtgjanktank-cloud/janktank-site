@@ -1,0 +1,23 @@
+{
+  "id": "recgOiObiOT6Yeacs",
+  "slug": "induced-amnesia",
+  "name": "Induced Amnesia",
+  "author": "Saffron Olive",
+  "format": "Modern",
+  "archetype": "Value",
+  "characteristics": [
+    "Card Draw"
+  ],
+  "colors": [
+    "White",
+    "Blue"
+  ],
+  "updatedAt": "2018-03-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Induced Amnesia",
+  "decklist": {
+    "raw": "4 Auratog\r\n4 Chasm Skulker\r\n2 Collective Effort\r\n1 Copy Enchantment\r\n1 Declaration in Stone\r\n4 Extricator of Sin\r\n1 Faith's Reward\r\n4 Field of Ruin\r\n4 Hatching Plans\r\n4 Induced Amnesia\r\n8 Island\r\n3 Negate\r\n3 Path to Exile\r\n4 Perilous Research\r\n6 Plains\r\n4 Port Town\r\n2 Reliquary Tower\r\n1 Visions of Beyond\r\n\r\n1 Celestial Purge\r\n1 Declaration in Stone\r\n2 Disdainful Stroke\r\n2 Kor Firewalker\r\n1 Negate\r\n1 Relic of Progenitus\r\n3 Sphinx's Tutelage\r\n3 Spreading Seas\r\n1 Wrath of God\r\n",
+    "mainText": "4 Auratog\n4 Chasm Skulker\n2 Collective Effort\n1 Copy Enchantment\n1 Declaration in Stone\n4 Extricator of Sin\n1 Faith's Reward\n4 Field of Ruin\n4 Hatching Plans\n4 Induced Amnesia\n8 Island\n3 Negate\n3 Path to Exile\n4 Perilous Research\n6 Plains\n4 Port Town\n2 Reliquary Tower\n1 Visions of Beyond",
+    "sideText": "1 Celestial Purge\n1 Declaration in Stone\n2 Disdainful Stroke\n2 Kor Firewalker\n1 Negate\n1 Relic of Progenitus\n3 Sphinx's Tutelage\n3 Spreading Seas\n1 Wrath of God"
+  }
+}

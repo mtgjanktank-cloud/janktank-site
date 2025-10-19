@@ -1,0 +1,24 @@
+{
+  "id": "rectFMClZRcmvQAFp",
+  "slug": "obzedats-vengeance",
+  "name": "Obzedat's Vengeance",
+  "author": "alfreditomelira",
+  "format": "Modern",
+  "archetype": "Midrange",
+  "characteristics": [
+    "Pseudo Combo"
+  ],
+  "colors": [
+    "White",
+    "Blue",
+    "Black"
+  ],
+  "updatedAt": "2019-10-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Obzedat, Ghost Council",
+  "decklist": {
+    "raw": "3 Collective Brutality\r\n2 Creeping Tar Pit\r\n3 Darkslick Shores\r\n2 Drown in the Loch\r\n3 Fatal Push\r\n1 Flooded Strand\r\n1 Godless Shrine\r\n4 Goryo's Vengeance\r\n1 Hallowed Fountain\r\n3 Inquisition of Kozilek\r\n1 Island\r\n4 Jace, Vryn's Prodigy\r\n3 Lingering Souls\r\n3 Marsh Flats\r\n4 Obzedat, Ghost Council\r\n1 Plains\r\n4 Polluted Delta\r\n1 Rankle, Master of Pranks\r\n1 Seachrome Coast\r\n1 Silent Clearing\r\n2 Swamp\r\n1 Tasigur, the Golden Fang\r\n3 Teferi, Time Raveler\r\n4 Thought Scour\r\n2 Thoughtseize\r\n2 Watery Grave\r\n\r\n3 Damping Sphere\r\n1 Kambal, Consul of Allocation\r\n2 Kaya's Guile\r\n2 Mystical Dispute\r\n3 Nihil Spellbomb\r\n3 Stony Silence\r\n1 Timely Reinforcements\r\n",
+    "mainText": "3 Collective Brutality\n2 Creeping Tar Pit\n3 Darkslick Shores\n2 Drown in the Loch\n3 Fatal Push\n1 Flooded Strand\n1 Godless Shrine\n4 Goryo's Vengeance\n1 Hallowed Fountain\n3 Inquisition of Kozilek\n1 Island\n4 Jace, Vryn's Prodigy\n3 Lingering Souls\n3 Marsh Flats\n4 Obzedat, Ghost Council\n1 Plains\n4 Polluted Delta\n1 Rankle, Master of Pranks\n1 Seachrome Coast\n1 Silent Clearing\n2 Swamp\n1 Tasigur, the Golden Fang\n3 Teferi, Time Raveler\n4 Thought Scour\n2 Thoughtseize\n2 Watery Grave",
+    "sideText": "3 Damping Sphere\n1 Kambal, Consul of Allocation\n2 Kaya's Guile\n2 Mystical Dispute\n3 Nihil Spellbomb\n3 Stony Silence\n1 Timely Reinforcements"
+  }
+}

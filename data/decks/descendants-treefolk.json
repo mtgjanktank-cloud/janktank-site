@@ -1,0 +1,24 @@
+{
+  "id": "reckGENu5yOJmW0V8",
+  "slug": "descendants-treefolk",
+  "name": "Descendant's Treefolk",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Tribal",
+  "characteristics": [
+    "Value"
+  ],
+  "colors": [
+    "White",
+    "Black",
+    "Green"
+  ],
+  "updatedAt": "2017-04-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Descendants' Path",
+  "decklist": {
+    "raw": "4 Abrupt Decay\r\n4 Birds of Paradise\r\n1 Chameleon Colossus\r\n4 Congregation at Dawn\r\n4 Descendants' Path\r\n1 Doran, the Siege Tower\r\n1 Emrakul, the Aeons Torn\r\n3 Eternal Witness\r\n1 Forest\r\n1 Gigantomancer\r\n1 Godless Shrine\r\n4 Inquisition of Kozilek\r\n1 Isolated Chapel\r\n4 Leaf-Crowned Elder\r\n1 Misty Rainforest\r\n4 Murmuring Bosk\r\n3 Mutavault\r\n2 Overgrown Tomb\r\n1 Stirring Wildwood\r\n1 Sunpetal Grove\r\n1 Swamp\r\n2 Temple Garden\r\n2 Thoughtseize\r\n3 Treefolk Harbinger\r\n4 Verdant Catacombs\r\n1 Woodfall Primus\r\n1 Woodland Cemetery\r\n\r\n1 Acidic Slime\r\n1 Ethersworn Canonist\r\n1 Harmonic Sliver\r\n1 Kataki, War's Wage\r\n1 Qasali Pridemage\r\n1 Radiant Purge\r\n3 Rest in Peace\r\n2 Scavenging Ooze\r\n3 Stony Silence\r\n1 Thalia, Guardian of Thraben\r\n",
+    "mainText": "4 Abrupt Decay\n4 Birds of Paradise\n1 Chameleon Colossus\n4 Congregation at Dawn\n4 Descendants' Path\n1 Doran, the Siege Tower\n1 Emrakul, the Aeons Torn\n3 Eternal Witness\n1 Forest\n1 Gigantomancer\n1 Godless Shrine\n4 Inquisition of Kozilek\n1 Isolated Chapel\n4 Leaf-Crowned Elder\n1 Misty Rainforest\n4 Murmuring Bosk\n3 Mutavault\n2 Overgrown Tomb\n1 Stirring Wildwood\n1 Sunpetal Grove\n1 Swamp\n2 Temple Garden\n2 Thoughtseize\n3 Treefolk Harbinger\n4 Verdant Catacombs\n1 Woodfall Primus\n1 Woodland Cemetery",
+    "sideText": "1 Acidic Slime\n1 Ethersworn Canonist\n1 Harmonic Sliver\n1 Kataki, War's Wage\n1 Qasali Pridemage\n1 Radiant Purge\n3 Rest in Peace\n2 Scavenging Ooze\n3 Stony Silence\n1 Thalia, Guardian of Thraben"
+  }
+}

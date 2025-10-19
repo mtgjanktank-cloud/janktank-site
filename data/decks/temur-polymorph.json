@@ -1,0 +1,24 @@
+{
+  "id": "recBwxuR73zDcI9Im",
+  "slug": "temur-polymorph",
+  "name": "Temur Polymorph",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Pseudo Combo",
+  "characteristics": [
+    "Value"
+  ],
+  "colors": [
+    "Blue",
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Polymorph",
+  "decklist": {
+    "raw": "4 Awakening Zone\r\n3 Beast Within\r\n1 Blightsteel Colossus\r\n1 Breeding Pool\r\n2 Cascade Bluffs\r\n1 Emrakul, the Aeons Torn\r\n1 Forest\r\n4 Goblin Assault\r\n1 Griselbrand\r\n3 Indomitable Creativity\r\n2 Island\r\n4 Khalni Garden\r\n1 Kher Keep\r\n4 Lightning Bolt\r\n2 Mana Leak\r\n3 Misty Rainforest\r\n3 Mountain\r\n3 Nissa, Voice of Zendikar\r\n4 Polymorph\r\n1 Progenitus\r\n3 Remand\r\n3 See Beyond\r\n3 Serum Visions\r\n3 Steam Vents\r\n2 Stomping Ground\r\n3 Wooded Foothills\r\n1 Worldspine Wurm\r\n\r\n3 Anger of the Gods\r\n1 Avacyn, Angel of Hope\r\n1 Blazing Archon\r\n1 Dragonlord Atarka\r\n1 Elderscale Wurm\r\n1 Elesh Norn, Grand Cenobite\r\n2 Explore\r\n1 Griselbrand\r\n1 Iona, Shield of Emeria\r\n3 Negate\r\n",
+    "mainText": "4 Awakening Zone\n3 Beast Within\n1 Blightsteel Colossus\n1 Breeding Pool\n2 Cascade Bluffs\n1 Emrakul, the Aeons Torn\n1 Forest\n4 Goblin Assault\n1 Griselbrand\n3 Indomitable Creativity\n2 Island\n4 Khalni Garden\n1 Kher Keep\n4 Lightning Bolt\n2 Mana Leak\n3 Misty Rainforest\n3 Mountain\n3 Nissa, Voice of Zendikar\n4 Polymorph\n1 Progenitus\n3 Remand\n3 See Beyond\n3 Serum Visions\n3 Steam Vents\n2 Stomping Ground\n3 Wooded Foothills\n1 Worldspine Wurm",
+    "sideText": "3 Anger of the Gods\n1 Avacyn, Angel of Hope\n1 Blazing Archon\n1 Dragonlord Atarka\n1 Elderscale Wurm\n1 Elesh Norn, Grand Cenobite\n2 Explore\n1 Griselbrand\n1 Iona, Shield of Emeria\n3 Negate"
+  }
+}

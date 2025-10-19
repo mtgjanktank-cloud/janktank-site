@@ -1,0 +1,23 @@
+{
+  "id": "recEmNTLvnmINMMLV",
+  "slug": "rg-shamans",
+  "name": "RG Shamans",
+  "author": "CalebD",
+  "format": "Modern",
+  "archetype": "Tribal",
+  "characteristics": [
+    "Aggro"
+  ],
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2019-02-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Rage Forger",
+  "decklist": {
+    "raw": "1 Blood Crypt\r\n2 Bosk Banneret\r\n4 Burning-Tree Emissary\r\n4 Cavern of Souls\r\n4 Collected Company\r\n4 Copperline Gorge\r\n4 Elvish Visionary\r\n1 Fire-Lit Thicket\r\n2 Firedrinker Satyr\r\n4 Flamekin Harbinger\r\n1 Forest\r\n3 Judith, the Scourge Diva\r\n4 Lightning Bolt\r\n1 Metallic Mimic\r\n2 Mountain\r\n1 Overgrown Tomb\r\n4 Rage Forger\r\n3 Rix Maadi Reveler\r\n3 Spikeshot Elder\r\n2 Stomping Ground\r\n2 Verdant Catacombs\r\n4 Wooded Foothills\r\n\r\n1 Bonfire of the Damned\r\n1 Eternal Witness\r\n3 Fulminator Mage\r\n2 Plaguecrafter\r\n3 Reclamation Sage\r\n2 Surgical Extraction\r\n3 Tormod's Crypt\r\n",
+    "mainText": "1 Blood Crypt\n2 Bosk Banneret\n4 Burning-Tree Emissary\n4 Cavern of Souls\n4 Collected Company\n4 Copperline Gorge\n4 Elvish Visionary\n1 Fire-Lit Thicket\n2 Firedrinker Satyr\n4 Flamekin Harbinger\n1 Forest\n3 Judith, the Scourge Diva\n4 Lightning Bolt\n1 Metallic Mimic\n2 Mountain\n1 Overgrown Tomb\n4 Rage Forger\n3 Rix Maadi Reveler\n3 Spikeshot Elder\n2 Stomping Ground\n2 Verdant Catacombs\n4 Wooded Foothills",
+    "sideText": "1 Bonfire of the Damned\n1 Eternal Witness\n3 Fulminator Mage\n2 Plaguecrafter\n3 Reclamation Sage\n2 Surgical Extraction\n3 Tormod's Crypt"
+  }
+}

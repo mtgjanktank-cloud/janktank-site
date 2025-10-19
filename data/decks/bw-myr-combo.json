@@ -1,0 +1,23 @@
+{
+  "id": "recpJffmsG80fRE12",
+  "slug": "bw-myr-combo",
+  "name": "BW Myr Combo",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Combo",
+  "characteristics": [
+    "Creature Loop"
+  ],
+  "colors": [
+    "White",
+    "Black"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Myr Retriever",
+  "decklist": {
+    "raw": "4 Altar of the Brood\r\n2 Bitter Ordeal\r\n4 Caves of Koilos\r\n4 Enduring Renewal\r\n4 Godless Shrine\r\n4 Grinding Station\r\n4 Heartless Summoning\r\n4 Inquisition of Kozilek\r\n4 Leyline of Sanctity\r\n4 Marsh Flats\r\n4 Myr Retriever\r\n4 Perilous Myr\r\n4 Plains\r\n4 Shred Memory\r\n5 Swamp\r\n1 Urborg, Tomb of Yawgmoth\r\n\r\n2 Dragon's Claw\r\n3 Leyline of the Void\r\n3 Silence\r\n3 Slaughter Pact\r\n4 Soul Spike\r\n",
+    "mainText": "4 Altar of the Brood\n2 Bitter Ordeal\n4 Caves of Koilos\n4 Enduring Renewal\n4 Godless Shrine\n4 Grinding Station\n4 Heartless Summoning\n4 Inquisition of Kozilek\n4 Leyline of Sanctity\n4 Marsh Flats\n4 Myr Retriever\n4 Perilous Myr\n4 Plains\n4 Shred Memory\n5 Swamp\n1 Urborg, Tomb of Yawgmoth",
+    "sideText": "2 Dragon's Claw\n3 Leyline of the Void\n3 Silence\n3 Slaughter Pact\n4 Soul Spike"
+  }
+}

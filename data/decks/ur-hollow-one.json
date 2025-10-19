@@ -1,0 +1,23 @@
+{
+  "id": "recaInGCSjxSFU35T",
+  "slug": "ur-hollow-one",
+  "name": "UR Hollow One",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Aggro",
+  "characteristics": [
+    "Discard Value"
+  ],
+  "colors": [
+    "Blue",
+    "Red"
+  ],
+  "updatedAt": "2018-03-01T00:00:00.000Z",
+  "containsBannedCards": true,
+  "coverCard": "Skaab Ruinator",
+  "decklist": {
+    "raw": "4 Bloodghast\r\n4 Bloodstained Mire\r\n4 Cathartic Reunion\r\n4 Faithless Looting\r\n4 Flameblade Adept\r\n4 Hollow One\r\n4 Izzet Charm\r\n2 Mountain\r\n4 Prized Amalgam\r\n4 Scalding Tarn\r\n1 Scourge Devil\r\n2 Search for Azcanta\r\n4 Skaab Ruinator\r\n3 Spell Pierce\r\n4 Spirebluff Canal\r\n4 Steam Vents\r\n4 Street Wraith\r\n\r\n2 Drake Haven\r\n2 Engineered Explosives\r\n3 Fulminator Mage\r\n1 Harsh Mentor\r\n2 Pyroclasm\r\n2 Shattering Spree\r\n1 Spell Pierce\r\n1 Tormod's Crypt\r\n1 Vapor Snag\r\n",
+    "mainText": "4 Bloodghast\n4 Bloodstained Mire\n4 Cathartic Reunion\n4 Faithless Looting\n4 Flameblade Adept\n4 Hollow One\n4 Izzet Charm\n2 Mountain\n4 Prized Amalgam\n4 Scalding Tarn\n1 Scourge Devil\n2 Search for Azcanta\n4 Skaab Ruinator\n3 Spell Pierce\n4 Spirebluff Canal\n4 Steam Vents\n4 Street Wraith",
+    "sideText": "2 Drake Haven\n2 Engineered Explosives\n3 Fulminator Mage\n1 Harsh Mentor\n2 Pyroclasm\n2 Shattering Spree\n1 Spell Pierce\n1 Tormod's Crypt\n1 Vapor Snag"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "recJ1huoo0xDpFypz",
+  "slug": "nexus-teachings",
+  "name": "Nexus Teachings",
+  "author": "FTZZMTG",
+  "format": "Modern",
+  "archetype": "Value",
+  "characteristics": [
+    "Pseudo Combo"
+  ],
+  "colors": [
+    "Blue",
+    "Black",
+    "Green"
+  ],
+  "updatedAt": "2019-01-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Nexus of Fate",
+  "decklist": {
+    "raw": "1 Abrupt Decay\r\n1 Assassin's Trophy\r\n1 Blue Sun's Zenith\r\n3 Breeding Pool\r\n2 Creeping Tar Pit\r\n4 Cryptic Command\r\n1 Devour Flesh\r\n1 Drowned Catacomb\r\n2 Fatal Push\r\n1 Field of Ruin\r\n1 Flooded Grove\r\n1 Forest\r\n4 Growth Spiral\r\n1 Hieroglyphic Illumination\r\n2 Hinterland Harbor\r\n4 Island\r\n1 Logic Knot\r\n3 Misty Rainforest\r\n3 Mystical Teachings\r\n1 Nexus of Fate\r\n3 Opt\r\n4 Polluted Delta\r\n1 Pulse of Murasa\r\n4 Remand\r\n3 Snapcaster Mage\r\n1 Spell Snare\r\n1 Swamp\r\n2 Watery Grave\r\n3 Wilderness Reclamation\r\n\r\n1 Ceremonious Rejection\r\n1 Consume the Meek\r\n1 Crypt Incursion\r\n2 Dispel\r\n1 Echoing Decay\r\n2 Fatal Push\r\n1 Fracturing Gust\r\n1 Hero's Downfall\r\n2 Life Goes On\r\n1 Nimble Obstructionist\r\n1 Shadow of Doubt\r\n1 Surgical Extraction\r\n",
+    "mainText": "1 Abrupt Decay\n1 Assassin's Trophy\n1 Blue Sun's Zenith\n3 Breeding Pool\n2 Creeping Tar Pit\n4 Cryptic Command\n1 Devour Flesh\n1 Drowned Catacomb\n2 Fatal Push\n1 Field of Ruin\n1 Flooded Grove\n1 Forest\n4 Growth Spiral\n1 Hieroglyphic Illumination\n2 Hinterland Harbor\n4 Island\n1 Logic Knot\n3 Misty Rainforest\n3 Mystical Teachings\n1 Nexus of Fate\n3 Opt\n4 Polluted Delta\n1 Pulse of Murasa\n4 Remand\n3 Snapcaster Mage\n1 Spell Snare\n1 Swamp\n2 Watery Grave\n3 Wilderness Reclamation",
+    "sideText": "1 Ceremonious Rejection\n1 Consume the Meek\n1 Crypt Incursion\n2 Dispel\n1 Echoing Decay\n2 Fatal Push\n1 Fracturing Gust\n1 Hero's Downfall\n2 Life Goes On\n1 Nimble Obstructionist\n1 Shadow of Doubt\n1 Surgical Extraction"
+  }
+}

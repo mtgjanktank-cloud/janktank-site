@@ -1,0 +1,24 @@
+{
+  "id": "recoRUotM2pLYRA2w",
+  "slug": "madcap-naya",
+  "name": "Madcap Naya",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Midrange",
+  "characteristics": [
+    "Combo"
+  ],
+  "colors": [
+    "White",
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Madcap Experiment",
+  "decklist": {
+    "raw": "4 Arbor Elf\r\n2 Birds of Paradise\r\n3 Blood Moon\r\n3 Bonfire of the Damned\r\n1 Emrakul, the Aeons Torn\r\n6 Forest\r\n1 Huntmaster of the Fells\r\n2 Inferno Titan\r\n1 Kessig Wolf Run\r\n4 Madcap Experiment\r\n1 Mountain\r\n3 Mwonvuli Acid-Moss\r\n3 Nahiri, the Harbinger\r\n1 Plains\r\n2 Platinum Emperion\r\n3 Stomping Ground\r\n4 Stone Rain\r\n2 Stormbreath Dragon\r\n1 Temple Garden\r\n1 Thrun, the Last Troll\r\n4 Utopia Sprawl\r\n4 Windswept Heath\r\n4 Wooded Foothills\r\n\r\n3 Ancient Grudge\r\n3 Anger of the Gods\r\n1 Crumble to Dust\r\n2 Kitchen Finks\r\n2 Obstinate Baloth\r\n2 Sudden Shock\r\n2 Thragtusk\r\n",
+    "mainText": "4 Arbor Elf\n2 Birds of Paradise\n3 Blood Moon\n3 Bonfire of the Damned\n1 Emrakul, the Aeons Torn\n6 Forest\n1 Huntmaster of the Fells\n2 Inferno Titan\n1 Kessig Wolf Run\n4 Madcap Experiment\n1 Mountain\n3 Mwonvuli Acid-Moss\n3 Nahiri, the Harbinger\n1 Plains\n2 Platinum Emperion\n3 Stomping Ground\n4 Stone Rain\n2 Stormbreath Dragon\n1 Temple Garden\n1 Thrun, the Last Troll\n4 Utopia Sprawl\n4 Windswept Heath\n4 Wooded Foothills",
+    "sideText": "3 Ancient Grudge\n3 Anger of the Gods\n1 Crumble to Dust\n2 Kitchen Finks\n2 Obstinate Baloth\n2 Sudden Shock\n2 Thragtusk"
+  }
+}

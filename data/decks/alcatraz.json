@@ -1,0 +1,24 @@
+{
+  "id": "recUDPcQ6QYgpy2Of",
+  "slug": "alcatraz",
+  "name": "Alcatraz",
+  "author": "u/DiogenesCane",
+  "format": "Modern",
+  "archetype": "Prison",
+  "characteristics": [
+    "Land Hate"
+  ],
+  "colors": [
+    "Blue",
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2018-03-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Sea's Claim",
+  "decklist": {
+    "raw": "4 Boil\r\n1 Breeding Pool\r\n2 Chandra, Torch of Defiance\r\n4 Choke\r\n4 Elsewhere Flask\r\n4 Ensnaring Bridge\r\n4 Forest\r\n3 Hinterland Harbor\r\n1 Keranos, God of Storms\r\n2 Lightning Bolt\r\n1 Oboro, Palace in the Clouds\r\n2 Pyroclasm\r\n3 Quicksilver Fountain\r\n4 Sea's Claim\r\n4 Spreading Seas\r\n4 Stomping Ground\r\n3 Sulfur Falls\r\n2 Sylvan Caryatid\r\n1 Tamiyo, the Moon Sage\r\n3 Windswept Heath\r\n4 Wooded Foothills\r\n\r\n2 Ancient Grudge\r\n2 Anger of the Gods\r\n2 Cryptic Command\r\n2 Dispel\r\n2 Forked Bolt\r\n1 Halimar Wavewatch\r\n2 Nature's Claim\r\n2 Thada Adel, Acquisitor\r\n",
+    "mainText": "4 Boil\n1 Breeding Pool\n2 Chandra, Torch of Defiance\n4 Choke\n4 Elsewhere Flask\n4 Ensnaring Bridge\n4 Forest\n3 Hinterland Harbor\n1 Keranos, God of Storms\n2 Lightning Bolt\n1 Oboro, Palace in the Clouds\n2 Pyroclasm\n3 Quicksilver Fountain\n4 Sea's Claim\n4 Spreading Seas\n4 Stomping Ground\n3 Sulfur Falls\n2 Sylvan Caryatid\n1 Tamiyo, the Moon Sage\n3 Windswept Heath\n4 Wooded Foothills",
+    "sideText": "2 Ancient Grudge\n2 Anger of the Gods\n2 Cryptic Command\n2 Dispel\n2 Forked Bolt\n1 Halimar Wavewatch\n2 Nature's Claim\n2 Thada Adel, Acquisitor"
+  }
+}

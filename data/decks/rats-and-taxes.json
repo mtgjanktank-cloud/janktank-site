@@ -1,0 +1,23 @@
+{
+  "id": "recNwlXi4V9XGZtyd",
+  "slug": "rats-and-taxes",
+  "name": "Rats and Taxes",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Attrition",
+  "characteristics": [
+    "Lock"
+  ],
+  "colors": [
+    "White",
+    "Black"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Chittering Rats",
+  "decklist": {
+    "raw": "4 Aether Vial\r\n1 Blade Splicer\r\n4 Caves of Koilos\r\n4 Chittering Rats\r\n3 Dark Confidant\r\n4 Eldrazi Displacer\r\n2 Fetid Heath\r\n4 Flickerwisp\r\n3 Geier Reach Sanitarium\r\n4 Godless Shrine\r\n4 Marsh Flats\r\n4 Path to Exile\r\n2 Plains\r\n3 Restoration Angel\r\n3 Spirit of the Labyrinth\r\n2 Swamp\r\n2 Thoughtseize\r\n4 Tidehollow Sculler\r\n2 Wasteland Strangler\r\n1 Wastes\r\n\r\n1 Fragmentize\r\n2 Kataki, War's Wage\r\n2 Kor Firewalker\r\n2 Phyrexian Revoker\r\n2 Rest in Peace\r\n2 Selfless Spirit\r\n2 Thalia, Guardian of Thraben\r\n2 Zealous Persecution\r\n",
+    "mainText": "4 Aether Vial\n1 Blade Splicer\n4 Caves of Koilos\n4 Chittering Rats\n3 Dark Confidant\n4 Eldrazi Displacer\n2 Fetid Heath\n4 Flickerwisp\n3 Geier Reach Sanitarium\n4 Godless Shrine\n4 Marsh Flats\n4 Path to Exile\n2 Plains\n3 Restoration Angel\n3 Spirit of the Labyrinth\n2 Swamp\n2 Thoughtseize\n4 Tidehollow Sculler\n2 Wasteland Strangler\n1 Wastes",
+    "sideText": "1 Fragmentize\n2 Kataki, War's Wage\n2 Kor Firewalker\n2 Phyrexian Revoker\n2 Rest in Peace\n2 Selfless Spirit\n2 Thalia, Guardian of Thraben\n2 Zealous Persecution"
+  }
+}

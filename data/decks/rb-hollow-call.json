@@ -1,0 +1,23 @@
+{
+  "id": "reckvbrMir0Q0oeJk",
+  "slug": "rb-hollow-call",
+  "name": "RB Hollow Call",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Aggro",
+  "characteristics": [
+    "Discard Value"
+  ],
+  "colors": [
+    "Black",
+    "Red"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": true,
+  "coverCard": "Call to the Netherworld",
+  "decklist": {
+    "raw": "1 Blackcleave Cliffs\r\n4 Blood Crypt\r\n4 Bloodghast\r\n4 Bloodstained Mire\r\n1 Bomat Courier\r\n4 Burning Inquiry\r\n4 Call to the Netherworld\r\n1 Canyon Slough\r\n4 Faithless Looting\r\n4 Fiery Temper\r\n4 Flameblade Adept\r\n2 Flamewake Phoenix\r\n3 Gurmag Angler\r\n4 Hollow One\r\n4 Lightning Bolt\r\n3 Mountain\r\n1 Polluted Delta\r\n2 Scalding Tarn\r\n4 Street Wraith\r\n2 Swamp\r\n\r\n2 Big Game Hunter\r\n2 Blood Moon\r\n2 Collective Brutality\r\n2 Dragon's Claw\r\n2 Engineered Explosives\r\n2 Kari Zev's Expertise\r\n2 Lightning Axe\r\n1 Rakdos Charm\r\n",
+    "mainText": "1 Blackcleave Cliffs\n4 Blood Crypt\n4 Bloodghast\n4 Bloodstained Mire\n1 Bomat Courier\n4 Burning Inquiry\n4 Call to the Netherworld\n1 Canyon Slough\n4 Faithless Looting\n4 Fiery Temper\n4 Flameblade Adept\n2 Flamewake Phoenix\n3 Gurmag Angler\n4 Hollow One\n4 Lightning Bolt\n3 Mountain\n1 Polluted Delta\n2 Scalding Tarn\n4 Street Wraith\n2 Swamp",
+    "sideText": "2 Big Game Hunter\n2 Blood Moon\n2 Collective Brutality\n2 Dragon's Claw\n2 Engineered Explosives\n2 Kari Zev's Expertise\n2 Lightning Axe\n1 Rakdos Charm"
+  }
+}

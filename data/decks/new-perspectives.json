@@ -1,0 +1,24 @@
+{
+  "id": "rec6comdztIPVQk6o",
+  "slug": "new-perspectives",
+  "name": "New Perspectives",
+  "author": "M14",
+  "format": "Modern",
+  "archetype": "Combo",
+  "characteristics": [
+    "Cycling"
+  ],
+  "colors": [
+    "Blue",
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "New Perspectives",
+  "decklist": {
+    "raw": "2 Beneath the Sands\r\n1 Breeding Pool\r\n2 Day's Undoing\r\n4 Edge of Autumn\r\n1 Fetid Pools\r\n8 Forest\r\n3 Hieroglyphic Illumination\r\n3 Island\r\n1 Misty Rainforest\r\n1 Mountain\r\n4 New Perspectives\r\n1 Plains\r\n4 Resounding Thunder\r\n4 Resounding Wave\r\n1 Scattered Groves\r\n4 Search for Tomorrow\r\n4 Shefet Monitor\r\n2 Sheltered Thicket\r\n1 Swamp\r\n4 Vizier of Tumbling Sands\r\n1 Wooded Foothills\r\n4 Worldly Counsel\r\n\r\n2 Abandoned Sarcophagus\r\n1 Day's Undoing\r\n2 Elixir of Immortality\r\n1 Mountain\r\n4 Obstinate Baloth\r\n3 Sweltering Suns\r\n2 The Locust God\r\n",
+    "mainText": "2 Beneath the Sands\n1 Breeding Pool\n2 Day's Undoing\n4 Edge of Autumn\n1 Fetid Pools\n8 Forest\n3 Hieroglyphic Illumination\n3 Island\n1 Misty Rainforest\n1 Mountain\n4 New Perspectives\n1 Plains\n4 Resounding Thunder\n4 Resounding Wave\n1 Scattered Groves\n4 Search for Tomorrow\n4 Shefet Monitor\n2 Sheltered Thicket\n1 Swamp\n4 Vizier of Tumbling Sands\n1 Wooded Foothills\n4 Worldly Counsel",
+    "sideText": "2 Abandoned Sarcophagus\n1 Day's Undoing\n2 Elixir of Immortality\n1 Mountain\n4 Obstinate Baloth\n3 Sweltering Suns\n2 The Locust God"
+  }
+}

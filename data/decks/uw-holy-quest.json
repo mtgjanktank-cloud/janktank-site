@@ -1,0 +1,23 @@
+{
+  "id": "rectCkpAkbjDbDTi3",
+  "slug": "uw-holy-quest",
+  "name": "UW Holy Quest",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Aggro",
+  "characteristics": [
+    "Pseudo Combo"
+  ],
+  "colors": [
+    "White",
+    "Blue"
+  ],
+  "updatedAt": "2017-09-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Glint Hawk",
+  "decklist": {
+    "raw": "1 Argentum Armor\r\n3 Darksteel Citadel\r\n2 Dream Stalker\r\n1 Elbrus, the Binding Blade\r\n1 Faerie Conclave\r\n4 Faerie Impostor\r\n4 Flooded Strand\r\n4 Glint Hawk\r\n2 Hallowed Fountain\r\n2 Island\r\n4 Kor Skyfisher\r\n4 Memnite\r\n2 Mutavault\r\n4 Ornithopter\r\n3 Path to Exile\r\n2 Plains\r\n4 Quest for the Holy Relic\r\n3 Quickling\r\n2 Seachrome Coast\r\n2 Spellskite\r\n2 Springleaf Drum\r\n1 Sword of Fire and Ice\r\n1 Sword of War and Peace\r\n2 Windswept Heath\r\n\r\n2 Ensoul Artifact\r\n1 Geist of Saint Traft\r\n3 Invisible Stalker\r\n1 Path to Exile\r\n2 Spell Pierce\r\n1 Sword of Fire and Ice\r\n1 Sword of Light and Shadow\r\n1 Sword of War and Peace\r\n2 Vapor Snag\r\n1 Vendilion Clique\r\n",
+    "mainText": "1 Argentum Armor\n3 Darksteel Citadel\n2 Dream Stalker\n1 Elbrus, the Binding Blade\n1 Faerie Conclave\n4 Faerie Impostor\n4 Flooded Strand\n4 Glint Hawk\n2 Hallowed Fountain\n2 Island\n4 Kor Skyfisher\n4 Memnite\n2 Mutavault\n4 Ornithopter\n3 Path to Exile\n2 Plains\n4 Quest for the Holy Relic\n3 Quickling\n2 Seachrome Coast\n2 Spellskite\n2 Springleaf Drum\n1 Sword of Fire and Ice\n1 Sword of War and Peace\n2 Windswept Heath",
+    "sideText": "2 Ensoul Artifact\n1 Geist of Saint Traft\n3 Invisible Stalker\n1 Path to Exile\n2 Spell Pierce\n1 Sword of Fire and Ice\n1 Sword of Light and Shadow\n1 Sword of War and Peace\n2 Vapor Snag\n1 Vendilion Clique"
+  }
+}

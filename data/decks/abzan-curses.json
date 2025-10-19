@@ -1,0 +1,24 @@
+{
+  "id": "recXERBWG9OllAlYb",
+  "slug": "abzan-curses",
+  "name": "Abzan Curses",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Midrange",
+  "characteristics": [
+    "Attrition"
+  ],
+  "colors": [
+    "White",
+    "Black",
+    "Green"
+  ],
+  "updatedAt": "2017-09-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Curse of Death's Hold",
+  "decklist": {
+    "raw": "2 Abrupt Decay\r\n4 Bitterheart Witch\r\n4 Blisterpod\r\n3 Bloodstained Mire\r\n2 Collective Brutality\r\n1 Cruel Reality\r\n1 Curse of Death's Hold\r\n1 Curse of Misfortunes\r\n1 Curse of Thirst\r\n2 Drown in Sorrow\r\n1 Eternal Witness\r\n3 Evolutionary Leap\r\n2 Fatal Push\r\n4 Forest\r\n1 Grim Backwoods\r\n4 Inquisition of Kozilek\r\n1 Kitchen Finks\r\n2 Mutavault\r\n1 Nissa, Vastwood Seer\r\n3 Overgrown Tomb\r\n1 Overwhelming Splendor\r\n1 Shriekmaw\r\n1 Spawning Bed\r\n2 Swamp\r\n4 Verdant Catacombs\r\n4 Viridian Emissary\r\n1 Viscera Seer\r\n3 Windswept Heath\r\n\r\n1 Curse of Exhaustion\r\n1 Maelstrom Pulse\r\n2 Surgical Extraction\r\n2 To the Slaughter\r\n1 Torment of Scarabs\r\n",
+    "mainText": "2 Abrupt Decay\n4 Bitterheart Witch\n4 Blisterpod\n3 Bloodstained Mire\n2 Collective Brutality\n1 Cruel Reality\n1 Curse of Death's Hold\n1 Curse of Misfortunes\n1 Curse of Thirst\n2 Drown in Sorrow\n1 Eternal Witness\n3 Evolutionary Leap\n2 Fatal Push\n4 Forest\n1 Grim Backwoods\n4 Inquisition of Kozilek\n1 Kitchen Finks\n2 Mutavault\n1 Nissa, Vastwood Seer\n3 Overgrown Tomb\n1 Overwhelming Splendor\n1 Shriekmaw\n1 Spawning Bed\n2 Swamp\n4 Verdant Catacombs\n4 Viridian Emissary\n1 Viscera Seer\n3 Windswept Heath",
+    "sideText": "1 Curse of Exhaustion\n1 Maelstrom Pulse\n2 Surgical Extraction\n2 To the Slaughter\n1 Torment of Scarabs"
+  }
+}

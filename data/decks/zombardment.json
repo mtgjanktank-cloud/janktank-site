@@ -1,0 +1,24 @@
+{
+  "id": "recCh4IcLI3Ml6R1l",
+  "slug": "zombardment",
+  "name": "Zombardment",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Pseudo Combo",
+  "characteristics": [
+    "Aristocrats"
+  ],
+  "colors": [
+    "Black",
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2017-09-01T00:00:00.000Z",
+  "containsBannedCards": true,
+  "coverCard": "Greater Gargadon",
+  "decklist": {
+    "raw": "3 Abrupt Decay\r\n3 Blood Artist\r\n4 Blood Crypt\r\n4 Bloodghast\r\n4 Bloodstained Mire\r\n2 Faithless Looting\r\n2 Geralf's Messenger\r\n4 Gravecrawler\r\n3 Greater Gargadon\r\n3 Grim Haruspex\r\n3 Lightning Bolt\r\n1 Mountain\r\n3 Overgrown Tomb\r\n2 Purphoros, God of the Forge\r\n2 Relentless Dead\r\n2 Sifter of Skulls\r\n5 Swamp\r\n4 Verdant Catacombs\r\n3 Viscera Seer\r\n3 Zulaport Cutthroat\r\n\r\n1 Damnation\r\n1 Electrickery\r\n2 Gatekeeper of Malakir\r\n1 Inquisition of Kozilek\r\n2 Kolaghan's Command\r\n2 Liliana, Heretical Healer\r\n2 Terminate\r\n2 Thoughtseize\r\n2 Tragic Slip\r\n",
+    "mainText": "3 Abrupt Decay\n3 Blood Artist\n4 Blood Crypt\n4 Bloodghast\n4 Bloodstained Mire\n2 Faithless Looting\n2 Geralf's Messenger\n4 Gravecrawler\n3 Greater Gargadon\n3 Grim Haruspex\n3 Lightning Bolt\n1 Mountain\n3 Overgrown Tomb\n2 Purphoros, God of the Forge\n2 Relentless Dead\n2 Sifter of Skulls\n5 Swamp\n4 Verdant Catacombs\n3 Viscera Seer\n3 Zulaport Cutthroat",
+    "sideText": "1 Damnation\n1 Electrickery\n2 Gatekeeper of Malakir\n1 Inquisition of Kozilek\n2 Kolaghan's Command\n2 Liliana, Heretical Healer\n2 Terminate\n2 Thoughtseize\n2 Tragic Slip"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "recdXBc4xu8OJHuzQ",
+  "slug": "grixis-as-foretold",
+  "name": "Grixis As Foretold",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Value",
+  "characteristics": [
+    "Discard Value"
+  ],
+  "colors": [
+    "Blue",
+    "Black",
+    "Red"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": true,
+  "coverCard": "Liliana's Caress",
+  "decklist": {
+    "raw": "1 Ancestral Vision\r\n4 As Foretold\r\n3 Blood Crypt\r\n4 Bloodstained Mire\r\n4 Burning Inquiry\r\n3 Darkslick Shores\r\n4 Demigod of Revenge\r\n3 Dream Salvage\r\n4 Faithless Looting\r\n1 Geier Reach Sanitarium\r\n3 Liliana's Caress\r\n1 Mountain\r\n2 Rise/Fall\r\n4 Simian Spirit Guide\r\n3 Spirebluff Canal\r\n1 Steam Vents\r\n2 Swamp\r\n4 Thoughtseize\r\n4 Waste Not\r\n1 Watery Grave\r\n4 Wheel of Fate\r\n\r\n2 Blood Moon\r\n2 By Force\r\n2 Collective Brutality\r\n2 Disdainful Stroke\r\n1 Goblin Dark-Dwellers\r\n3 Leyline of the Void\r\n2 Living End\r\n1 Pyroclasm\r\n",
+    "mainText": "1 Ancestral Vision\n4 As Foretold\n3 Blood Crypt\n4 Bloodstained Mire\n4 Burning Inquiry\n3 Darkslick Shores\n4 Demigod of Revenge\n3 Dream Salvage\n4 Faithless Looting\n1 Geier Reach Sanitarium\n3 Liliana's Caress\n1 Mountain\n2 Rise/Fall\n4 Simian Spirit Guide\n3 Spirebluff Canal\n1 Steam Vents\n2 Swamp\n4 Thoughtseize\n4 Waste Not\n1 Watery Grave\n4 Wheel of Fate",
+    "sideText": "2 Blood Moon\n2 By Force\n2 Collective Brutality\n2 Disdainful Stroke\n1 Goblin Dark-Dwellers\n3 Leyline of the Void\n2 Living End\n1 Pyroclasm"
+  }
+}

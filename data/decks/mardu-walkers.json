@@ -1,0 +1,24 @@
+{
+  "id": "recvEoIF7DKlGbYD9",
+  "slug": "mardu-walkers",
+  "name": "Mardu Walkers",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Planeswalkers",
+  "characteristics": [
+    "Midrange"
+  ],
+  "colors": [
+    "White",
+    "Black",
+    "Red"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Oath of Gideon",
+  "decklist": {
+    "raw": "3 Ajani Vengeant\r\n2 Arid Mesa\r\n2 Blood Crypt\r\n4 Bloodstained Mire\r\n3 Chandra, Flamecaller\r\n4 Coalition Relic\r\n2 Elspeth, Sun's Champion\r\n4 Fatal Push\r\n2 Ghost Quarter\r\n2 Gideon Jura\r\n4 Godless Shrine\r\n3 Inquisition of Kozilek\r\n2 Karn Liberated\r\n1 Mountain\r\n1 Needle Spires\r\n2 Oath of Gideon\r\n4 Path to Exile\r\n3 Plains\r\n2 Polluted Delta\r\n3 Sacred Foundry\r\n1 Shambling Vent\r\n2 Smoldering Marsh\r\n1 Sorin, Grim Nemesis\r\n2 Sorin, Solemn Visitor\r\n2 Swamp\r\n4 Terminus\r\n3 Thoughtseize\r\n1 Ugin, the Spirit Dragon\r\n1 Urborg, Tomb of Yawgmoth\r\n4 Wrath of God\r\n\r\n1 Angel's Grace\r\n1 Bonfire of the Damned\r\n1 Crumble to Dust\r\n1 Defense Grid\r\n1 Grafdigger's Cage\r\n2 Leyline of Sanctity\r\n2 Rest in Peace\r\n2 Shatterstorm\r\n2 Stony Silence\r\n1 Surgical Extraction\r\n1 Timely Reinforcements\r\n",
+    "mainText": "3 Ajani Vengeant\n2 Arid Mesa\n2 Blood Crypt\n4 Bloodstained Mire\n3 Chandra, Flamecaller\n4 Coalition Relic\n2 Elspeth, Sun's Champion\n4 Fatal Push\n2 Ghost Quarter\n2 Gideon Jura\n4 Godless Shrine\n3 Inquisition of Kozilek\n2 Karn Liberated\n1 Mountain\n1 Needle Spires\n2 Oath of Gideon\n4 Path to Exile\n3 Plains\n2 Polluted Delta\n3 Sacred Foundry\n1 Shambling Vent\n2 Smoldering Marsh\n1 Sorin, Grim Nemesis\n2 Sorin, Solemn Visitor\n2 Swamp\n4 Terminus\n3 Thoughtseize\n1 Ugin, the Spirit Dragon\n1 Urborg, Tomb of Yawgmoth\n4 Wrath of God",
+    "sideText": "1 Angel's Grace\n1 Bonfire of the Damned\n1 Crumble to Dust\n1 Defense Grid\n1 Grafdigger's Cage\n2 Leyline of Sanctity\n2 Rest in Peace\n2 Shatterstorm\n2 Stony Silence\n1 Surgical Extraction\n1 Timely Reinforcements"
+  }
+}

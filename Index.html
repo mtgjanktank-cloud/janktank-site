@@ -1,19 +1,37 @@
 <!doctype html>
 <html lang="en">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="utf-8" />
   <title>The Jank Tank — Home</title>
-  <link rel="stylesheet" href="/Styles/Main.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <!-- site + header styles (cache-busted) -->
+  <link href="Styles/Main.css?v=7" rel="stylesheet" />
 </head>
-<body>
-  <div id="SiteHeaderMount"></div>
-  <main class="Container Page">
-    <h1>Home</h1>
-    <p>Fresh start confirmed. We’ll add features step by step.</p>
+<body class="home">
+  <!-- Header.html will be injected by IncludeHeader.js -->
+
+  <main>
+    <!-- Home hero: text-only (full width) -->
+    <section class="JT-HomeHero">
+      <h1>Welcome to The Jank Tank</h1>
+      <p>Your home for the funnest brews from around the MTG community</p>
+    </section>
+
+    <!-- Placeholder sections -->
+    <section class="Section">
+      <h2>Recent Decks</h2>
+      <p class="placeholder">Placeholder — we’ll wire this to your Deck Library feed later.</p>
+    </section>
+
+    <section class="Section">
+      <h2>Latest Content</h2>
+      <p class="placeholder">Placeholder — articles &amp; videos will show up here.</p>
+    </section>
   </main>
-  <footer class="SiteFooter Container">© <span id="Year"></span> The Jank Tank</footer>
-  <script src="/Scripts/Main.js"></script>
-  <script>document.getElementById('Year').textContent = new Date().getFullYear();</script>
+
+  <!-- inject shared header -->
+  <script type="module" src="Scripts/IncludeHeader.js"></script>
 </body>
 </html>
+
+

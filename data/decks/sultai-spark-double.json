@@ -1,0 +1,24 @@
+{
+  "id": "recPfF5qvcnhmlGFG",
+  "slug": "sultai-spark-double",
+  "name": "Sultai Spark Double",
+  "author": "BLAKTOOTHMKK",
+  "format": "Modern",
+  "archetype": "Midrange",
+  "characteristics": [
+    "Combo"
+  ],
+  "colors": [
+    "Blue",
+    "Black",
+    "Green"
+  ],
+  "updatedAt": "2019-05-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Spark Double",
+  "decklist": {
+    "raw": "3 Assassin's Trophy\r\n3 Blooming Marsh\r\n1 Breeding Pool\r\n2 Creeping Tar Pit\r\n4 Dark Confidant\r\n3 Fatal Push\r\n1 Forest\r\n4 Garruk Relentless\r\n2 Hissing Quagmire\r\n3 Inquisition of Kozilek\r\n1 Island\r\n3 Jace, Vryn's Prodigy\r\n3 Liliana of the Veil\r\n3 Misty Rainforest\r\n2 Overgrown Tomb\r\n2 Polluted Delta\r\n3 Scavenging Ooze\r\n4 Spark Double\r\n3 Swamp\r\n4 Tarmogoyf\r\n2 Thoughtseize\r\n3 Verdant Catacombs\r\n1 Watery Grave\r\n\r\n1 Assassin's Trophy\r\n2 Damnation\r\n3 Damping Sphere\r\n1 Maelstrom Pulse\r\n2 Pulse of Murasa\r\n3 Surgical Extraction\r\n3 Unmoored Ego\r\n",
+    "mainText": "3 Assassin's Trophy\n3 Blooming Marsh\n1 Breeding Pool\n2 Creeping Tar Pit\n4 Dark Confidant\n3 Fatal Push\n1 Forest\n4 Garruk Relentless\n2 Hissing Quagmire\n3 Inquisition of Kozilek\n1 Island\n3 Jace, Vryn's Prodigy\n3 Liliana of the Veil\n3 Misty Rainforest\n2 Overgrown Tomb\n2 Polluted Delta\n3 Scavenging Ooze\n4 Spark Double\n3 Swamp\n4 Tarmogoyf\n2 Thoughtseize\n3 Verdant Catacombs\n1 Watery Grave",
+    "sideText": "1 Assassin's Trophy\n2 Damnation\n3 Damping Sphere\n1 Maelstrom Pulse\n2 Pulse of Murasa\n3 Surgical Extraction\n3 Unmoored Ego"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "recsKja5epWflJghc",
+  "slug": "double-moon-walkers",
+  "name": "Double Moon Walkers",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Planeswalkers",
+  "characteristics": [
+    "Prison"
+  ],
+  "colors": [
+    "White",
+    "Blue",
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2017-04-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Doubling Season",
+  "decklist": {
+    "raw": "1 Alchemist's Refuge\r\n4 Arbor Elf\r\n4 Birds of Paradise\r\n2 Blood Moon\r\n1 Breeding Pool\r\n1 Chandra, Flamecaller\r\n3 Doubling Season\r\n1 Elspeth, Sun's Champion\r\n1 Emrakul, the Aeons Torn\r\n4 Forest\r\n1 Gavony Township\r\n1 Gideon Jura\r\n1 Gideon, Ally of Zendikar\r\n1 Horizon Canopy\r\n1 Jace, Architect of Thought\r\n4 Nahiri, the Harbinger\r\n3 Nissa, Voice of Zendikar\r\n4 Noble Hierarch\r\n2 Nykthos, Shrine to Nyx\r\n4 Oath of Nissa\r\n1 Ral Zarek\r\n2 Stomping Ground\r\n2 Sylvan Caryatid\r\n2 Temple Garden\r\n1 Westvale Abbey\r\n3 Windswept Heath\r\n3 Wooded Foothills\r\n2 Xenagos, the Reveler\r\n\r\n2 Blood Moon\r\n1 Engineered Explosives\r\n4 Leyline of Sanctity\r\n2 Rest in Peace\r\n4 Stony Silence\r\n2 Worship\r\n",
+    "mainText": "1 Alchemist's Refuge\n4 Arbor Elf\n4 Birds of Paradise\n2 Blood Moon\n1 Breeding Pool\n1 Chandra, Flamecaller\n3 Doubling Season\n1 Elspeth, Sun's Champion\n1 Emrakul, the Aeons Torn\n4 Forest\n1 Gavony Township\n1 Gideon Jura\n1 Gideon, Ally of Zendikar\n1 Horizon Canopy\n1 Jace, Architect of Thought\n4 Nahiri, the Harbinger\n3 Nissa, Voice of Zendikar\n4 Noble Hierarch\n2 Nykthos, Shrine to Nyx\n4 Oath of Nissa\n1 Ral Zarek\n2 Stomping Ground\n2 Sylvan Caryatid\n2 Temple Garden\n1 Westvale Abbey\n3 Windswept Heath\n3 Wooded Foothills\n2 Xenagos, the Reveler",
+    "sideText": "2 Blood Moon\n1 Engineered Explosives\n4 Leyline of Sanctity\n2 Rest in Peace\n4 Stony Silence\n2 Worship"
+  }
+}

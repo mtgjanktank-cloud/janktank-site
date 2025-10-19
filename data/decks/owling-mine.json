@@ -1,0 +1,23 @@
+{
+  "id": "reccsdMPVZ1QKHcx6",
+  "slug": "owling-mine",
+  "name": "Owling Mine",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Attrition",
+  "characteristics": [
+    "Card Draw"
+  ],
+  "colors": [
+    "Blue",
+    "Red"
+  ],
+  "updatedAt": "2018-02-01T00:00:00.000Z",
+  "containsBannedCards": true,
+  "coverCard": "Ebony Owl Netsuke",
+  "decklist": {
+    "raw": "1 Baral's Expertise\r\n4 Cascade Bluffs\r\n3 Cryptic Command\r\n3 Dictate of Kruphix\r\n4 Ebony Owl Netsuke\r\n4 Exhaustion\r\n3 Fevered Visions\r\n3 Gemstone Caverns\r\n4 Howling Mine\r\n10 Island\r\n1 Mikokoro, Center of the Sea\r\n1 Mountain\r\n4 Runeflare Trap\r\n4 Simian Spirit Guide\r\n3 Spell Pierce\r\n4 Sulfur Falls\r\n4 Vapor Snag\r\n\r\n4 Autochthon Wurm\r\n1 Baral's Expertise\r\n3 Boomerang\r\n3 Lightning Bolt\r\n4 Nourishing Shoal\r\n",
+    "mainText": "1 Baral's Expertise\n4 Cascade Bluffs\n3 Cryptic Command\n3 Dictate of Kruphix\n4 Ebony Owl Netsuke\n4 Exhaustion\n3 Fevered Visions\n3 Gemstone Caverns\n4 Howling Mine\n10 Island\n1 Mikokoro, Center of the Sea\n1 Mountain\n4 Runeflare Trap\n4 Simian Spirit Guide\n3 Spell Pierce\n4 Sulfur Falls\n4 Vapor Snag",
+    "sideText": "4 Autochthon Wurm\n1 Baral's Expertise\n3 Boomerang\n3 Lightning Bolt\n4 Nourishing Shoal"
+  }
+}

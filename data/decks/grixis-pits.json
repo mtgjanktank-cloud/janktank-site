@@ -1,0 +1,24 @@
+{
+  "id": "recj47umg6Aq4dtmY",
+  "slug": "grixis-pits",
+  "name": "Grixis Pits",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Control",
+  "characteristics": [
+    "Burn"
+  ],
+  "colors": [
+    "Blue",
+    "Black",
+    "Red"
+  ],
+  "updatedAt": "2018-01-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Death Pits of Rath",
+  "decklist": {
+    "raw": "1 Aetherling\r\n1 Anger of the Gods\r\n2 Blood Crypt\r\n1 Chandra, Flamecaller\r\n2 Chandra, Pyromaster\r\n2 Circle of Flame\r\n2 Death Pits of Rath\r\n2 Dismember\r\n2 Dragonskull Summit\r\n2 Drowned Catacomb\r\n4 Electrolyze\r\n2 Fatal Push\r\n3 Forked Bolt\r\n4 Ghost Quarter\r\n1 Goblin Dark-Dwellers\r\n1 Graven Cairns\r\n1 Grim Lavamancer\r\n1 Inferno Titan\r\n2 Inquisition of Kozilek\r\n2 Island\r\n1 Lavaclaw Reaches\r\n2 Lightning Bolt\r\n2 Logic Knot\r\n3 Mana Leak\r\n3 Mountain\r\n1 Olivia Voldaren\r\n1 Pyroclasm\r\n2 Smoldering Marsh\r\n2 Spirebluff Canal\r\n1 Sulfur Falls\r\n1 Swamp\r\n2 Volcanic Fallout\r\n1 Watery Grave\r\n\r\n1 Ashiok, Nightmare Weaver\r\n1 Crumble to Dust\r\n2 Dragon's Claw\r\n2 Duress\r\n1 Izzet Staticaster\r\n1 Keranos, God of Storms\r\n2 Molten Rain\r\n1 Negate\r\n1 Nihil Spellbomb\r\n1 Relic of Progenitus\r\n1 Slaughter Games\r\n1 Stormbreath Dragon\r\n",
+    "mainText": "1 Aetherling\n1 Anger of the Gods\n2 Blood Crypt\n1 Chandra, Flamecaller\n2 Chandra, Pyromaster\n2 Circle of Flame\n2 Death Pits of Rath\n2 Dismember\n2 Dragonskull Summit\n2 Drowned Catacomb\n4 Electrolyze\n2 Fatal Push\n3 Forked Bolt\n4 Ghost Quarter\n1 Goblin Dark-Dwellers\n1 Graven Cairns\n1 Grim Lavamancer\n1 Inferno Titan\n2 Inquisition of Kozilek\n2 Island\n1 Lavaclaw Reaches\n2 Lightning Bolt\n2 Logic Knot\n3 Mana Leak\n3 Mountain\n1 Olivia Voldaren\n1 Pyroclasm\n2 Smoldering Marsh\n2 Spirebluff Canal\n1 Sulfur Falls\n1 Swamp\n2 Volcanic Fallout\n1 Watery Grave",
+    "sideText": "1 Ashiok, Nightmare Weaver\n1 Crumble to Dust\n2 Dragon's Claw\n2 Duress\n1 Izzet Staticaster\n1 Keranos, God of Storms\n2 Molten Rain\n1 Negate\n1 Nihil Spellbomb\n1 Relic of Progenitus\n1 Slaughter Games\n1 Stormbreath Dragon"
+  }
+}

@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Deck</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <!-- site + header styles -->
+  <link href="../Styles/Main.css" rel="stylesheet" />
+  <style>
+    :root { --bg:#0f0f12; --panel:#181a20; --text:#e8e8ec; --muted:#a0a6ad; --line:#242833; }
+    *{box-sizing:border-box}
+    body{margin:0;background:var(--bg);color:var(--text);font:14px/1.45 system-ui,-apple-system,Segoe UI,Roboto,Inter,Arial,sans-serif}
+    main{max-width:1000px;margin:0 auto;padding:20px}
+    .card{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:16px}
+    .title{font-size:20px;font-weight:700;margin:0 0 6px}
+    .meta{color:var(--muted);margin:0 0 12px}
+    pre{margin:0;white-space:pre-wrap;word-wrap:break-word}
+    .mb16{margin-bottom:16px}
+    .back-link{display:inline-block;margin:12px 20px;color:#9cc1ff;text-decoration:none}
+  </style>
+</head>
+<body class="page page--deck">
+  <!-- Header.html will be injected by IncludeHeader.js -->
+
+  <a class="back-link" href="DeckLibrary.html">← Back to Library</a>
+  <main>
+    <div class="card mb16">
+      <div class="title" id="deck-title">Loading…</div>
+      <div class="meta" id="deck-meta"></div>
+    </div>
+    <div class="card">
+      <h3 style="margin-top:0">Mainboard</h3>
+      <pre id="mainboard">Loading…</pre>
+      <hr style="border:none;border-top:1px solid var(--line);margin:16px 0" />
+      <h3>Sideboard</h3>
+      <pre id="sideboard">Loading…</pre>
+    </div>
+  </main>
+
+  <!-- inject shared header -->
+  <script type="module" src="../Scripts/IncludeHeader.js"></script>
+  <script type="module">
+    const params = new URLSearchParams(location.search);
+    const slug = params.get("deck");
+    if (!slug) {
+      document.getElementById("deck-title").textContent = "Missing ?deck=<slug>";
+      throw new Error("missing deck slug");
+    }
+    const file = `../Data/Decks/${encodeURIComponent(slug)}.json`;
+
+    const titleEl = document.getElementById("deck-title");
+    const metaEl  = document.getElementById("deck-meta");
+    const mbEl    = document.getElementById("mainboard");
+    const sbEl    = document.getElementById("sideboard");
+
+    const data = await (await fetch(file, { cache:"no-store" })).json();
+
+    const title = data.name || data.title || data["Deck Name"] || slug;
+    const format = data.format || data["Format"] || "";
+    const arche  = data.archetype || data["Archetype"] || "";
+    const updated= data.updated || data["Date Updated"] || "";
+
+    titleEl.textContent = title;
+    metaEl.textContent  = [format, arche, updated].filter(Boolean).join(" · ");
+
+    const mainText = data.mainboard || data.main || data["Mainboard"] || data["Deck List"] || "";
+    const sideText = data.sideboard || data.side || data["Sideboard"] || "";
+
+    mbEl.textContent = mainText ? String(mainText) : JSON.stringify(data, null, 2);
+    sbEl.textContent = String(sideText || "(none)");
+  </script>
+</body>
+</html>
+
+

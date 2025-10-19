@@ -1,0 +1,23 @@
+{
+  "id": "recFUCrOK0pMjd18F",
+  "slug": "rb-death-vine",
+  "name": "RB Death Vine",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Aggro",
+  "characteristics": [
+    "Discard Value"
+  ],
+  "colors": [
+    "Black",
+    "Red"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": true,
+  "coverCard": "Vengevine",
+  "decklist": {
+    "raw": "3 Blood Crypt\r\n4 Bloodstained Mire\r\n4 Bomat Courier\r\n4 Cathartic Reunion\r\n4 Death's Shadow\r\n4 Faithless Looting\r\n2 Gurmag Angler\r\n4 Hollow One\r\n4 Insolent Neonate\r\n4 Lightning Bolt\r\n4 Polluted Delta\r\n4 Simian Spirit Guide\r\n4 Street Wraith\r\n1 Swamp\r\n4 Thoughtseize\r\n4 Vengevine\r\n2 Verdant Catacombs\r\n\r\n3 Big Game Hunter\r\n2 Blood Moon\r\n3 Collective Brutality\r\n2 Fatal Push\r\n2 Shattering Spree\r\n3 Surgical Extraction\r\n",
+    "mainText": "3 Blood Crypt\n4 Bloodstained Mire\n4 Bomat Courier\n4 Cathartic Reunion\n4 Death's Shadow\n4 Faithless Looting\n2 Gurmag Angler\n4 Hollow One\n4 Insolent Neonate\n4 Lightning Bolt\n4 Polluted Delta\n4 Simian Spirit Guide\n4 Street Wraith\n1 Swamp\n4 Thoughtseize\n4 Vengevine\n2 Verdant Catacombs",
+    "sideText": "3 Big Game Hunter\n2 Blood Moon\n3 Collective Brutality\n2 Fatal Push\n2 Shattering Spree\n3 Surgical Extraction"
+  }
+}

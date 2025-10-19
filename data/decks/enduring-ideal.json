@@ -1,0 +1,23 @@
+{
+  "id": "rec1W39o6jnmgFlyT",
+  "slug": "enduring-ideal",
+  "name": "Enduring Ideal",
+  "author": "Rinko",
+  "format": "Modern",
+  "archetype": "Prison",
+  "characteristics": [
+    "Enchantments"
+  ],
+  "colors": [
+    "White",
+    "Red"
+  ],
+  "updatedAt": "2017-09-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Enduring Ideal",
+  "decklist": {
+    "raw": "1 Blood Moon\r\n1 Boseiju, Who Shelters All\r\n2 Deafening Clarion\r\n1 Dovescape\r\n4 Enduring Ideal\r\n1 Faith's Fetters\r\n2 Form of the Dragon\r\n1 Greater Auramancy\r\n4 Leyline of Sanctity\r\n4 Lotus Bloom\r\n2 Needleverge Pathway\r\n3 Nine Lives\r\n4 Nykthos, Shrine to Nyx\r\n4 On Thin Ice\r\n1 Overwhelming Splendor\r\n2 Phyrexian Unlife\r\n4 Sacred Foundry\r\n4 Silence\r\n9 Snow-Covered Plains\r\n4 Solemnity\r\n2 Temple of Triumph\r\n\r\n1 Blood Moon\r\n2 Boil\r\n2 Boseiju, Who Shelters All\r\n2 Containment Priest\r\n2 Pyroclasm\r\n2 Sorcerous Spyglass\r\n3 Torpor Orb\r\n1 Wheel of Sun and Moon\r\n",
+    "mainText": "1 Blood Moon\n1 Boseiju, Who Shelters All\n2 Deafening Clarion\n1 Dovescape\n4 Enduring Ideal\n1 Faith's Fetters\n2 Form of the Dragon\n1 Greater Auramancy\n4 Leyline of Sanctity\n4 Lotus Bloom\n2 Needleverge Pathway\n3 Nine Lives\n4 Nykthos, Shrine to Nyx\n4 On Thin Ice\n1 Overwhelming Splendor\n2 Phyrexian Unlife\n4 Sacred Foundry\n4 Silence\n9 Snow-Covered Plains\n4 Solemnity\n2 Temple of Triumph",
+    "sideText": "1 Blood Moon\n2 Boil\n2 Boseiju, Who Shelters All\n2 Containment Priest\n2 Pyroclasm\n2 Sorcerous Spyglass\n3 Torpor Orb\n1 Wheel of Sun and Moon"
+  }
+}

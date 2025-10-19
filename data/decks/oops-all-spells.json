@@ -1,0 +1,24 @@
+{
+  "id": "recpRE8z83MzcPaIu",
+  "slug": "oops-all-spells",
+  "name": "Oops, All Spells!",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Combo",
+  "characteristics": [
+    "Graveyard Based"
+  ],
+  "colors": [
+    "Blue",
+    "Black",
+    "Red"
+  ],
+  "updatedAt": "2017-01-12T00:00:00.000Z",
+  "containsBannedCards": true,
+  "coverCard": "Balustrade Spy",
+  "decklist": {
+    "raw": "4 Aether Vial\r\n1 Alchemist's Apprentice\r\n1 Angel of Glory's Rise\r\n4 Balustrade Spy\r\n4 Bridge from Below\r\n4 Chancellor of the Tangle\r\n4 Endless Obedience\r\n4 Gut Shot\r\n4 Laboratory Maniac\r\n4 Lotus Bloom\r\n4 Narcomoeba\r\n3 Pact of Negation\r\n4 Simian Spirit Guide\r\n3 Slaughter Pact\r\n4 Street Wraith\r\n4 Undercity Informer\r\n4 Wild Cantor\r\n\r\n2 Brain Maggot\r\n4 Leyline of Sanctity\r\n3 Leyline of the Void\r\n1 Pact of Negation\r\n1 Sickening Shoal\r\n4 Welding Jar\r\n",
+    "mainText": "4 Aether Vial\n1 Alchemist's Apprentice\n1 Angel of Glory's Rise\n4 Balustrade Spy\n4 Bridge from Below\n4 Chancellor of the Tangle\n4 Endless Obedience\n4 Gut Shot\n4 Laboratory Maniac\n4 Lotus Bloom\n4 Narcomoeba\n3 Pact of Negation\n4 Simian Spirit Guide\n3 Slaughter Pact\n4 Street Wraith\n4 Undercity Informer\n4 Wild Cantor",
+    "sideText": "2 Brain Maggot\n4 Leyline of Sanctity\n3 Leyline of the Void\n1 Pact of Negation\n1 Sickening Shoal\n4 Welding Jar"
+  }
+}

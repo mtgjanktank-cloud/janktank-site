@@ -1,80 +1,74 @@
 /* ===== Theme: Grey / Purple / White ===== */
 :root{
-  --bg-0:#0b0d10;         /* page background (near-black grey) */
-  --bg-1:#12151b;         /* header background */
-  --line:#232634;         /* borders */
-  --text:#e8ecf3;         /* primary text (white-ish) */
-  --muted:#c9d1de;        /* secondary text (grey) */
-  --nav:#d5dbea;          /* nav link default */
-  --nav-hover:#ffffff;    /* nav link hover/active text */
-  --purple:#8b5cf6;       /* primary accent */
-  --purple-2:#a78bfa;     /* hover/soft accent */
-  --chip:#1b2030;         /* nav pill background */
+  --bg-0:#0b0d10; --bg-1:#12151b; --line:#232634;
+  --text:#e8ecf3; --muted:#c9d1de;
+  --nav:#d5dbea; --nav-hover:#ffffff;
+  --purple:#8b5cf6; --purple-2:#a78bfa; --chip:#1b2030;
+  --site-max:1100px;
+
+  /* header logo sizes (tweak here) */
+  --logo-h: 96px;      /* desktop header logo height */
+  --logo-h-sm: 40px;   /* mobile header logo height */
 }
 
 /* ===== Reset / base ===== */
-*{box-sizing:border-box}
-html,body{margin:0;padding:0}
+*{ box-sizing:border-box }
+html,body{ margin:0; padding:0 }
 body{
-  background: var(--bg-0);
-  color: var(--text);
-  font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+  background:var(--bg-0); color:var(--text);
+  font-family:Inter, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
   line-height:1.5;
 }
 
-/* subtle page edge glow to match stream vibe */
+/* subtle page edge glow */
 body::before{
-  content:"";
-  position:fixed; inset:-40vmax;
-  background: radial-gradient(60vmax 60vmax at -10% -10%, rgba(139,92,246,.12), transparent 60%),
-              radial-gradient(60vmax 60vmax at 110% -10%, rgba(139,92,246,.08), transparent 60%);
-  pointer-events:none; z-index:-1;
+  content:""; position:fixed; inset:-40vmax; pointer-events:none; z-index:-1;
+  background:
+    radial-gradient(60vmax 60vmax at -10% -10%, rgba(139,92,246,.12), transparent 60%),
+    radial-gradient(60vmax 60vmax at 110% -10%, rgba(139,92,246,.08), transparent 60%);
 }
 
 /* ===== Layout ===== */
-.Container{ width:min(1100px,92vw); margin-inline:auto; padding:16px }
+.container, .Container{
+  width:min(var(--site-max),92vw); margin-inline:auto; padding:16px;
+}
 
-/* ===== Header (larger) ===== */
+/* ===== Header (unified across all pages) ===== */
 .SiteHeader{
   position:sticky; top:0; z-index:1000;
-  background: color-mix(in oklab, var(--bg-1) 85%, black 15%);
-  backdrop-filter: blur(8px);
+  background:color-mix(in oklab, var(--bg-1) 85%, black 15%);
+  backdrop-filter:blur(8px);
   border-bottom:1px solid var(--line);
 }
 .HeaderInner{
-  display:flex; align-items:center; justify-content:space-between;
-  width:min(1100px,92vw); margin-inline:auto;
-  padding:14px 16px;       /* ↑ bigger header */
-  gap:18px;
+  display:flex; align-items:center; gap:18px;
+  width:min(var(--site-max),92vw); margin-inline:auto;
+  padding:12px 16px;
 }
 .Brand{ display:flex; align-items:center; text-decoration:none }
-.Logo{ height:96px; width:auto; display:block; }  /* ↑ bigger logo */
+.SiteHeader .site-logo, .SiteHeader .Logo{
+  display:block; height:var(--logo-h); width:auto;
+}
 
 /* ===== Nav ===== */
-.MainNav{ display:flex; align-items:center; gap:10px; flex-wrap:wrap }
-.NavLink{
-  display:inline-block;
-  padding:10px 14px;              /* ↑ bigger click target */
-  border-radius:12px;
-  color:var(--nav);
-  text-decoration:none;
-  background:transparent;
-  transition: background .15s ease, color .15s ease, box-shadow .15s ease;
-  border:1px solid transparent;
+.MainNav, .nav{
+  display:flex; align-items:center; gap:24px; flex-wrap:wrap;
+  margin-left:auto; font-size:14px;
 }
-.NavLink:hover{
-  background:var(--chip);
-  color:var(--nav-hover);
-  border-color:var(--line);
+.NavLink, .nav a{
+  display:inline-block; padding:10px 14px; border-radius:12px;
+  color:var(--nav); text-decoration:none; background:transparent; border:1px solid transparent;
+  transition:background .15s ease, color .15s ease, box-shadow .15s ease, border-color .15s ease;
+}
+.NavLink:hover, .nav a:hover{
+  background:var(--chip); color:var(--nav-hover); border-color:var(--line);
   box-shadow:0 0 0 2px rgba(139,92,246,.09) inset;
 }
-.NavLink.is-active{
-  color:var(--nav-hover);
-  background:var(--chip);
+.NavLink.is-active, .nav a[aria-current="page"]{
+  color:var(--nav-hover); background:var(--chip);
   border-color:color-mix(in oklab, var(--purple) 40%, var(--line) 60%);
-  box-shadow:
-    0 0 0 1px color-mix(in oklab, var(--purple) 35%, transparent 65%) inset,
-    0 0 22px rgba(139,92,246,.18);
+  box-shadow:0 0 0 1px color-mix(in oklab, var(--purple) 35%, transparent 65%) inset,
+             0 0 22px rgba(139,92,246,.18);
 }
 
 /* ===== Page section ===== */
@@ -84,28 +78,54 @@ body::before{
 
 /* ===== Footer ===== */
 .SiteFooter{ border-top:1px solid var(--line); color:#a7b3c7; padding:16px }
-/* ===== Responsive: phones & small tablets ===== */
-@media (max-width: 820px) {
-  .HeaderInner {
-    padding: 14px 12px;
-    gap: 12px;
-  }
-  .Logo { height: 56px; }        /* keep presence but not overwhelming */
-  .MainNav {
-    gap: 6px;
-    overflow-x: auto;             /* enables swipe if links wrap */
-    -webkit-overflow-scrolling: touch;
-    scrollbar-width: none;
-  }
-  .MainNav::-webkit-scrollbar { display: none; }
-  .NavLink { padding: 9px 12px; } /* comfy tap targets */
-  .Container { width: min(100%, 94vw); padding: 12px; }
-  .Page { padding: 24px 0 48px; }
-}
 
-/* ultra-small devices */
-@media (max-width: 420px) {
-  .Logo { height: 48px; }
-  .HeaderInner { padding: 12px 10px; }
-  .NavLink { padding: 8px 10px; font-size: 0.95rem; }
+/* ===== Home hero (text-only by default) ===== */
+.JT-HomeHero{
+  display:grid;
+  grid-template-columns:1fr;
+  gap:12px; align-items:center;
+  padding:28px 0 8px;
+  width:min(var(--site-max),92vw); margin:0 auto 12px;
+}
+.JT-HomeHero h1{ margin:0 0 8px; font-size:40px; line-height:1.1; letter-spacing:.3px }
+.JT-HomeHero p{ margin:0; color:var(--muted) }
+
+/* Optional variant if you ever add a logo/image in the hero */
+.JT-HomeHero--withLogo{ grid-template-columns:220px 1fr; gap:24px }
+.JT-HomeHero-logo{ width:220px; height:auto; display:block }
+
+/* ===== Generic “card section” used on Home ===== */
+.Section{
+  width:min(var(--site-max),92vw);
+  margin:28px auto 0;
+  background:color-mix(in oklab, var(--bg-1) 88%, black 12%);
+  border:1px solid var(--line);
+  border-radius:14px;
+  padding:16px;
+}
+.Section h2{ margin:0 0 10px; font-size:18px }
+.placeholder{ color:var(--muted) }
+
+/* ===== Responsive ===== */
+@media (max-width: 820px){
+  .HeaderInner{ padding:10px 12px; gap:12px }
+  .SiteHeader .site-logo, .SiteHeader .Logo{ height:var(--logo-h-sm) }
+  .MainNav, .nav{ gap:16px; font-size:13px }
+  .NavLink, .nav a{ padding:9px 12px }
+  .container, .Container{ width:min(100%,94vw); padding:12px }
+  .Page{ padding:24px 0 48px }
+
+  .JT-HomeHero h1{ font-size:32px }
+  .JT-HomeHero--withLogo{ grid-template-columns:1fr; text-align:center }
+  .JT-HomeHero-logo{ width:160px; margin:0 auto }
+}
+@media (max-width: 420px){
+  .HeaderInner{ padding:10px 10px }
+  .SiteHeader .site-logo, .SiteHeader .Logo{ height:36px }
+  .NavLink, .nav a{ padding:8px 10px; font-size:.95rem }
+}
+/* Keep header content aligned with page content width */
+.HeaderInner{
+  width:min(var(--site-max), 92vw);
+  margin-inline:auto;
 }

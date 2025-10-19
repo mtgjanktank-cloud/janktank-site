@@ -1,0 +1,26 @@
+{
+  "id": "recK92POlcmo812wA",
+  "slug": "5c-glittering-scales",
+  "name": "5c Glittering Scales",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Midrange",
+  "characteristics": [
+    "Value"
+  ],
+  "colors": [
+    "White",
+    "Blue",
+    "Black",
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2017-04-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Culling Scales",
+  "decklist": {
+    "raw": "3 Bonfire of the Damned\r\n4 Coalition Relic\r\n4 Crackling Doom\r\n4 Culling Scales\r\n3 Fetid Heath\r\n4 Fulminator Mage\r\n4 Glittering Wish\r\n3 Graven Cairns\r\n2 Havengul Lich\r\n1 Mogis, God of Slaughter\r\n1 Mountain\r\n4 Phyrexian Obliterator\r\n1 Plains\r\n4 Porphyry Nodes\r\n1 Praetor's Grasp\r\n2 Rakdos's Return\r\n4 Reflecting Pool\r\n2 Rugged Prairie\r\n1 Surgical Extraction\r\n1 Swamp\r\n1 Tendo Ice Bridge\r\n2 Urborg, Tomb of Yawgmoth\r\n1 Vivid Crag\r\n4 Vivid Marsh\r\n1 Vivid Meadow\r\n\r\n1 Abrupt Decay\r\n1 Ajani Vengeant\r\n1 Batwing Brume\r\n1 Fracturing Gust\r\n1 Golgari Charm\r\n1 Heroes' Reunion\r\n1 Jund Charm\r\n2 Kitchen Finks\r\n1 Maelstrom Pulse\r\n1 Rakdos Charm\r\n1 Reborn Hope\r\n1 Slaughter Games\r\n1 Vraska the Unseen\r\n1 Wear/Tear\r\n",
+    "mainText": "3 Bonfire of the Damned\n4 Coalition Relic\n4 Crackling Doom\n4 Culling Scales\n3 Fetid Heath\n4 Fulminator Mage\n4 Glittering Wish\n3 Graven Cairns\n2 Havengul Lich\n1 Mogis, God of Slaughter\n1 Mountain\n4 Phyrexian Obliterator\n1 Plains\n4 Porphyry Nodes\n1 Praetor's Grasp\n2 Rakdos's Return\n4 Reflecting Pool\n2 Rugged Prairie\n1 Surgical Extraction\n1 Swamp\n1 Tendo Ice Bridge\n2 Urborg, Tomb of Yawgmoth\n1 Vivid Crag\n4 Vivid Marsh\n1 Vivid Meadow",
+    "sideText": "1 Abrupt Decay\n1 Ajani Vengeant\n1 Batwing Brume\n1 Fracturing Gust\n1 Golgari Charm\n1 Heroes' Reunion\n1 Jund Charm\n2 Kitchen Finks\n1 Maelstrom Pulse\n1 Rakdos Charm\n1 Reborn Hope\n1 Slaughter Games\n1 Vraska the Unseen\n1 Wear/Tear"
+  }
+}

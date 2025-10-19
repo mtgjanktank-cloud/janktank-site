@@ -1,0 +1,23 @@
+{
+  "id": "recqUspg3708tpbWj",
+  "slug": "harmless-trader",
+  "name": "Harmless Trader",
+  "author": "u/Deathjoker00",
+  "format": "Modern",
+  "archetype": "Pseudo Combo",
+  "characteristics": [
+    "Trade Permanents"
+  ],
+  "colors": [
+    "Black",
+    "Red"
+  ],
+  "updatedAt": "2018-03-01T00:00:00.000Z",
+  "containsBannedCards": true,
+  "coverCard": "Harmless Trader",
+  "decklist": {
+    "raw": "2 Abyssal Persecutor\n4 Apostle's Blessing\n4 Bazaar Trader\n4 Blood Crypt\n4 Bloodstained Mire\n4 Bojuka Bog\n4 Canyon Slough\n2 Demonic Pact\n2 Dimir House Guard\n3 Ensnaring Bridge\n3 Fatal Push\n3 Harmless Offering\n4 Immortal Coil\n2 Inquisition of Kozilek\n4 Leyline of the Void\n3 Mountain\n3 Swamp\n3 Thoughtseize\n2 Urborg, Tomb of Yawgmoth\n\n\n",
+    "mainText": "2 Abyssal Persecutor\n4 Apostle's Blessing\n4 Bazaar Trader\n4 Blood Crypt\n4 Bloodstained Mire\n4 Bojuka Bog\n4 Canyon Slough\n2 Demonic Pact\n2 Dimir House Guard\n3 Ensnaring Bridge\n3 Fatal Push\n3 Harmless Offering\n4 Immortal Coil\n2 Inquisition of Kozilek\n4 Leyline of the Void\n3 Mountain\n3 Swamp\n3 Thoughtseize\n2 Urborg, Tomb of Yawgmoth",
+    "sideText": ""
+  }
+}

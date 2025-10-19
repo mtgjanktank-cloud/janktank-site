@@ -1,0 +1,22 @@
+{
+  "id": "rec4FsKOO0VTCGXrr",
+  "slug": "mono-u-living-end",
+  "name": "Mono-U Living End",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Combo",
+  "characteristics": [
+    "Graveyard Based"
+  ],
+  "colors": [
+    "Blue"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "As Foretold",
+  "decklist": {
+    "raw": "4 Ancestral Vision\r\n4 As Foretold\r\n3 Chart a Course\r\n3 Elesh Norn, Grand Cenobite\r\n1 Emrakul, the Promised End\r\n2 Griselbrand\r\n4 Ideas Unbound\r\n1 Ipnu Rivulet\r\n15 Island\r\n2 Jace, Vryn's Prodigy\r\n4 Living End\r\n3 Search for Azcanta\r\n4 Serum Visions\r\n1 Sire of Insanity\r\n3 Strategic Planning\r\n2 Street Wraith\r\n2 Sundering Titan\r\n2 Tolaria West\r\n\r\n4 Dismember\r\n1 Dispel\r\n3 Echoing Truth\r\n2 Iona, Shield of Emeria\r\n1 Sorcerous Spyglass\r\n4 Swan Song\r\n",
+    "mainText": "4 Ancestral Vision\n4 As Foretold\n3 Chart a Course\n3 Elesh Norn, Grand Cenobite\n1 Emrakul, the Promised End\n2 Griselbrand\n4 Ideas Unbound\n1 Ipnu Rivulet\n15 Island\n2 Jace, Vryn's Prodigy\n4 Living End\n3 Search for Azcanta\n4 Serum Visions\n1 Sire of Insanity\n3 Strategic Planning\n2 Street Wraith\n2 Sundering Titan\n2 Tolaria West",
+    "sideText": "4 Dismember\n1 Dispel\n3 Echoing Truth\n2 Iona, Shield of Emeria\n1 Sorcerous Spyglass\n4 Swan Song"
+  }
+}

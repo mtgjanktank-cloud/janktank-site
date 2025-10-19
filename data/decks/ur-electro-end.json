@@ -1,0 +1,23 @@
+{
+  "id": "rec9aO2iNqeF6YpB3",
+  "slug": "ur-electro-end",
+  "name": "UR Electro End",
+  "author": "Alex Bianchi",
+  "format": "Modern",
+  "archetype": "Combo",
+  "characteristics": [
+    "Graveyard Based"
+  ],
+  "colors": [
+    "Blue",
+    "Red"
+  ],
+  "updatedAt": "2019-01-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Ancestral Vision",
+  "decklist": {
+    "raw": "4 Ancestral Vision\r\n1 Anger of the Gods\r\n3 As Foretold\r\n1 Cascade Bluffs\r\n4 Cryptic Command\r\n4 Curator of Mysteries\r\n4 Desert Cerodon\r\n4 Electrodominance\r\n3 Field of Ruin\r\n3 Island\r\n3 Living End\r\n1 Mountain\r\n3 Polluted Delta\r\n4 Scalding Tarn\r\n1 Search for Azcanta\r\n4 Serum Visions\r\n2 Steam Vents\r\n4 Street Wraith\r\n4 Striped Riverwinder\r\n2 Sulfur Falls\r\n1 Tolaria West\r\n\r\n2 Abrade\r\n2 Anger of the Gods\r\n2 Ceremonious Rejection\r\n2 Dispel\r\n1 Drake Haven\r\n4 Fulminator Mage\r\n1 Pact of Negation\r\n1 Tormod's Crypt\r\n",
+    "mainText": "4 Ancestral Vision\n1 Anger of the Gods\n3 As Foretold\n1 Cascade Bluffs\n4 Cryptic Command\n4 Curator of Mysteries\n4 Desert Cerodon\n4 Electrodominance\n3 Field of Ruin\n3 Island\n3 Living End\n1 Mountain\n3 Polluted Delta\n4 Scalding Tarn\n1 Search for Azcanta\n4 Serum Visions\n2 Steam Vents\n4 Street Wraith\n4 Striped Riverwinder\n2 Sulfur Falls\n1 Tolaria West",
+    "sideText": "2 Abrade\n2 Anger of the Gods\n2 Ceremonious Rejection\n2 Dispel\n1 Drake Haven\n4 Fulminator Mage\n1 Pact of Negation\n1 Tormod's Crypt"
+  }
+}

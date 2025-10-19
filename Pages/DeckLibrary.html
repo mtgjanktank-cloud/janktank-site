@@ -1,21 +1,28 @@
 <!doctype html>
 <html lang="en">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>The Jank Tank — Deck Library</title>
-  <link rel="stylesheet" href="/Styles/Main.css">
+  <meta charset="utf-8" />
+  <title>Deck Library</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <!-- site + header styles -->
+  <link href="../Styles/Main.css" rel="stylesheet" />
+  <!-- page-specific styles -->
+  <link href="../Styles/DeckLibrary.css" rel="stylesheet" />
 </head>
-<body>
-  <div id="SiteHeaderMount"></div>
+<body class="page page--library">
+  <!-- Header.html will be injected here by IncludeHeader.js -->
 
-  <main class="Container Page">
-    <h1>Deck Library</h1>
-    <p>Coming soon: filters, search, color chips, and the deck grid.</p>
+  <main class="container">
+    <input id="search" type="search" placeholder="Search deck slugs..." autocomplete="off" />
+    <div id="count" class="count"></div>
+    <ul id="deck-list" class="grid"></ul>
   </main>
 
-  <footer class="SiteFooter Container">© <span id="Year"></span> The Jank Tank</footer>
-  <script src="/Scripts/Main.js"></script>
-  <script>document.getElementById('Year').textContent = new Date().getFullYear();</script>
+  <!-- inject shared header, then page logic -->
+  <script type="module" src="../Scripts/IncludeHeader.js"></script>
+  <script type="module" src="../Scripts/DeckLibrary.js"></script>
 </body>
 </html>
+
+
+

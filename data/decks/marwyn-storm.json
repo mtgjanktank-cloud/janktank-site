@@ -1,0 +1,22 @@
+{
+  "id": "recM6rFOkvJc1kgb5",
+  "slug": "marwyn-storm",
+  "name": "Marwyn Storm",
+  "author": "[LionHeart]",
+  "format": "Modern",
+  "archetype": "Combo",
+  "characteristics": [
+    "Ramp"
+  ],
+  "colors": [
+    "Green"
+  ],
+  "updatedAt": "2019-05-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Marwyn, the Nurturer",
+  "decklist": {
+    "raw": "4 Adventurous Impulse\r\n4 Arbor Elf\r\n23 Forest\r\n4 Giant Growth\r\n4 Gift of Growth\r\n3 Marwyn, the Nurturer\r\n3 Paradox Engine\r\n3 Phytoburst\r\n4 Rishkar's Expertise\r\n3 Savage Surge\r\n1 Spawnsire of Ulamog\r\n4 Viridian Joiner\r\n\r\n1 Choke\r\n1 Emrakul, the Aeons Torn\r\n2 Harmonize\r\n4 Nature's Claim\r\n4 Relic of Progenitus\r\n1 Ulamog, the Infinite Gyre\r\n2 Walking Ballista\r\n",
+    "mainText": "4 Adventurous Impulse\n4 Arbor Elf\n23 Forest\n4 Giant Growth\n4 Gift of Growth\n3 Marwyn, the Nurturer\n3 Paradox Engine\n3 Phytoburst\n4 Rishkar's Expertise\n3 Savage Surge\n1 Spawnsire of Ulamog\n4 Viridian Joiner",
+    "sideText": "1 Choke\n1 Emrakul, the Aeons Torn\n2 Harmonize\n4 Nature's Claim\n4 Relic of Progenitus\n1 Ulamog, the Infinite Gyre\n2 Walking Ballista"
+  }
+}

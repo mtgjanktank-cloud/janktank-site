@@ -1,0 +1,23 @@
+{
+  "id": "recWDmTz3tCF7COdo",
+  "slug": "spirit-bomb",
+  "name": "Spirit Bomb",
+  "author": "u/Throwfire8",
+  "format": "Modern",
+  "archetype": "Pseudo Combo",
+  "characteristics": [
+    "Value"
+  ],
+  "colors": [
+    "White",
+    "Green"
+  ],
+  "updatedAt": "2019-05-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Celestial Kirin",
+  "decklist": {
+    "raw": "4 Birds of Paradise\r\n1 Blast Zone\r\n4 Celestial Kirin\r\n3 Courser of Kruphix\r\n5 Forest\r\n1 Gavony Township\r\n2 Ghost Quarter\r\n1 Horizon Canopy\r\n4 Knight of the Reliquary\r\n4 Lotus Cobra\r\n4 Noble Hierarch\r\n2 Plains\r\n2 Ramunap Excavator\r\n4 Ranger of Eos\r\n2 Temple Garden\r\n4 Ugin's Conjurant\r\n4 Verdant Catacombs\r\n4 Vivien's Arkbow\r\n1 Walking Ballista\r\n4 Windswept Heath\r\n\r\n",
+    "mainText": "4 Birds of Paradise\n1 Blast Zone\n4 Celestial Kirin\n3 Courser of Kruphix\n5 Forest\n1 Gavony Township\n2 Ghost Quarter\n1 Horizon Canopy\n4 Knight of the Reliquary\n4 Lotus Cobra\n4 Noble Hierarch\n2 Plains\n2 Ramunap Excavator\n4 Ranger of Eos\n2 Temple Garden\n4 Ugin's Conjurant\n4 Verdant Catacombs\n4 Vivien's Arkbow\n1 Walking Ballista\n4 Windswept Heath",
+    "sideText": ""
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "recGHvxqPZudN0qEy",
+  "slug": "ub-horrors",
+  "name": "UB Horrors",
+  "author": "u/Commanda_Panda",
+  "format": "Modern",
+  "archetype": "Midrange",
+  "characteristics": [
+    "Value"
+  ],
+  "colors": [
+    "Blue",
+    "Black"
+  ],
+  "updatedAt": "2018-02-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Thing in the Ice",
+  "decklist": {
+    "raw": "3 Bojuka Bog\n4 Darkslick Shores\n1 Dismember\n4 Fatal Push\n4 Inquisition of Kozilek\n1 Island\n3 Liliana of the Veil\n2 Liliana, the Last Hope\n4 Marsh Flats\n4 Opt\n3 Phyrexian Obliterator\n4 Polluted Delta\n2 Search for Azcanta\n4 Serum Visions\n4 Snapcaster Mage\n1 Sunken Ruins\n1 Swamp\n1 Swamp\n1 Swamp\n1 Swamp\n4 Thing in the Ice\n3 Thoughtseize\n1 Watery Grave\n1 Watery Grave\n\nSideboard:\n2 Ceremonious Rejection\n3 Collective Brutality\n3 Countersquall\n1 Field of Ruin\n2 Hero's Downfall\n1 Jace, the Mind Sculptor\n1 Phyrexian Obliterator\n2 Spell Pierce\n\n",
+    "mainText": "3 Bojuka Bog\n4 Darkslick Shores\n1 Dismember\n4 Fatal Push\n4 Inquisition of Kozilek\n1 Island\n3 Liliana of the Veil\n2 Liliana, the Last Hope\n4 Marsh Flats\n4 Opt\n3 Phyrexian Obliterator\n4 Polluted Delta\n2 Search for Azcanta\n4 Serum Visions\n4 Snapcaster Mage\n1 Sunken Ruins\n1 Swamp\n1 Swamp\n1 Swamp\n1 Swamp\n4 Thing in the Ice\n3 Thoughtseize\n1 Watery Grave\n1 Watery Grave",
+    "sideText": "2 Ceremonious Rejection\n3 Collective Brutality\n3 Countersquall\n1 Field of Ruin\n2 Hero's Downfall\n1 Jace, the Mind Sculptor\n1 Phyrexian Obliterator\n2 Spell Pierce"
+  }
+}

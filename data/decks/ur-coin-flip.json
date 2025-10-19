@@ -1,0 +1,23 @@
+{
+  "id": "recrpjgjLTXKbUnVo",
+  "slug": "ur-coin-flip",
+  "name": "UR Coin Flip",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Value",
+  "characteristics": [
+    "Burn"
+  ],
+  "colors": [
+    "Blue",
+    "Red"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Krark's Thumn",
+  "decklist": {
+    "raw": "3 Blood Moon\r\n4 Fiery Gambit\r\n5 Island\r\n4 Krark's Thumb\r\n4 Lightning Bolt\r\n4 Mana Clash\r\n1 Mountain\r\n4 Polluted Delta\r\n4 Remand\r\n4 Scalding Tarn\r\n4 Serum Visions\r\n3 Sleight of Hand\r\n4 Snapcaster Mage\r\n1 Spell Snare\r\n3 Spirebluff Canal\r\n4 Steam Vents\r\n4 Stitch in Time\r\n\r\n2 Anger of the Gods\r\n1 Ceremonious Rejection\r\n1 Dismember\r\n2 Dispel\r\n3 Fulminator Mage\r\n1 Izzet Staticaster\r\n1 Ratchet Bomb\r\n2 Relic of Progenitus\r\n1 Roast\r\n1 Vandalblast\r\n",
+    "mainText": "3 Blood Moon\n4 Fiery Gambit\n5 Island\n4 Krark's Thumb\n4 Lightning Bolt\n4 Mana Clash\n1 Mountain\n4 Polluted Delta\n4 Remand\n4 Scalding Tarn\n4 Serum Visions\n3 Sleight of Hand\n4 Snapcaster Mage\n1 Spell Snare\n3 Spirebluff Canal\n4 Steam Vents\n4 Stitch in Time",
+    "sideText": "2 Anger of the Gods\n1 Ceremonious Rejection\n1 Dismember\n2 Dispel\n3 Fulminator Mage\n1 Izzet Staticaster\n1 Ratchet Bomb\n2 Relic of Progenitus\n1 Roast\n1 Vandalblast"
+  }
+}

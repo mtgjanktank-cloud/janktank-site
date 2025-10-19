@@ -1,0 +1,26 @@
+{
+  "id": "recU7t8Qhf1E76Vrf",
+  "slug": "5c-coco",
+  "name": "5c CoCo",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Value",
+  "characteristics": [
+    "Collected Company"
+  ],
+  "colors": [
+    "White",
+    "Blue",
+    "Black",
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Collected Company",
+  "decklist": {
+    "raw": "1 Anafenza, Kin-Tree Spirit\r\n1 Aven Mindcensor\r\n1 Big Game Hunter\r\n1 Blood Crypt\r\n2 Bloodstained Mire\r\n1 Breeding Pool\r\n1 Brimaz, King of Oreskos\r\n1 Coiling Oracle\r\n4 Collected Company\r\n1 Duskwatch Recruiter\r\n4 Eternal Witness\r\n1 Fiend Hunter\r\n1 Fleshbag Marauder\r\n2 Flickerwisp\r\n1 Fulminator Mage\r\n1 Geist of Saint Traft\r\n1 Geralf's Messenger\r\n1 Godless Shrine\r\n1 Hallowed Fountain\r\n1 Judge's Familiar\r\n2 Kitchen Finks\r\n1 Knight of the Reliquary\r\n1 Knight of the White Orchid\r\n2 Marsh Flats\r\n1 Meddling Mage\r\n1 Mudbutton Torchrunner\r\n2 Overgrown Tomb\r\n3 Polluted Delta\r\n1 Reflector Mage\r\n1 Sacred Foundry\r\n1 Spell Queller\r\n1 Steam Vents\r\n1 Stomping Ground\r\n2 Tectonic Edge\r\n2 Temple Garden\r\n1 Thalia, Guardian of Thraben\r\n1 Thalia, Heretic Cathar\r\n2 Tidehollow Sculler\r\n1 Tireless Tracker\r\n1 Vexing Devil\r\n1 Wall of Omens\r\n1 Watery Grave\r\n2 Windswept Heath\r\n\r\n1 Abbot of Keral Keep\r\n2 Aven Mindcensor\r\n1 Leonin Relic-Warder\r\n1 Meddling Mage\r\n1 Orzhov Pontiff\r\n1 Reclamation Sage\r\n1 Shriekmaw\r\n1 Silumgar Sorcerer\r\n1 Sin Collector\r\n1 Spell Queller\r\n1 Thalia, Guardian of Thraben\r\n1 Thalia, Heretic Cathar\r\n1 Tidebinder Mage\r\n1 Wood Elves\r\n",
+    "mainText": "1 Anafenza, Kin-Tree Spirit\n1 Aven Mindcensor\n1 Big Game Hunter\n1 Blood Crypt\n2 Bloodstained Mire\n1 Breeding Pool\n1 Brimaz, King of Oreskos\n1 Coiling Oracle\n4 Collected Company\n1 Duskwatch Recruiter\n4 Eternal Witness\n1 Fiend Hunter\n1 Fleshbag Marauder\n2 Flickerwisp\n1 Fulminator Mage\n1 Geist of Saint Traft\n1 Geralf's Messenger\n1 Godless Shrine\n1 Hallowed Fountain\n1 Judge's Familiar\n2 Kitchen Finks\n1 Knight of the Reliquary\n1 Knight of the White Orchid\n2 Marsh Flats\n1 Meddling Mage\n1 Mudbutton Torchrunner\n2 Overgrown Tomb\n3 Polluted Delta\n1 Reflector Mage\n1 Sacred Foundry\n1 Spell Queller\n1 Steam Vents\n1 Stomping Ground\n2 Tectonic Edge\n2 Temple Garden\n1 Thalia, Guardian of Thraben\n1 Thalia, Heretic Cathar\n2 Tidehollow Sculler\n1 Tireless Tracker\n1 Vexing Devil\n1 Wall of Omens\n1 Watery Grave\n2 Windswept Heath",
+    "sideText": "1 Abbot of Keral Keep\n2 Aven Mindcensor\n1 Leonin Relic-Warder\n1 Meddling Mage\n1 Orzhov Pontiff\n1 Reclamation Sage\n1 Shriekmaw\n1 Silumgar Sorcerer\n1 Sin Collector\n1 Spell Queller\n1 Thalia, Guardian of Thraben\n1 Thalia, Heretic Cathar\n1 Tidebinder Mage\n1 Wood Elves"
+  }
+}

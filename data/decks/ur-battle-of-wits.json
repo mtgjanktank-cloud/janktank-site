@@ -1,0 +1,23 @@
+{
+  "id": "recR4NVf5ih944izH",
+  "slug": "ur-battle-of-wits",
+  "name": "UR Battle of Wits",
+  "author": "u/URLSweathsirt",
+  "format": "Modern",
+  "archetype": "Control",
+  "characteristics": [
+    "Alternate Win Condition"
+  ],
+  "colors": [
+    "Blue",
+    "Red"
+  ],
+  "updatedAt": "2018-02-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Ral, Izzet Viceroy",
+  "decklist": {
+    "raw": "4 Abrade\n4 Ancestral Vision\n4 Anger of the Gods\n4 Battle of Wits\n4 Blood Moon\n2 Burst Lightning\n4 Cascade Bluffs\n4 Censor\n2 Chandra, Flamecaller\n4 Chandra, Torch of Defiance\n1 Consecrated Sphinx\n4 Cryptic Command\n2 Desert of the Mindful\n4 Desolate Lighthouse\n1 Dispel\n4 Electrolyze\n2 Flame Slash\n2 Forked Bolt\n4 Gifts Ungiven\n4 Hieroglyphic Illumination\n1 Inferno Titan\n1 Island\n4 Izzet Charm\n4 Jace, the Mind Sculptor\n4 Karn, the Great Creator\n4 Lightning Bolt\n4 Madcap Experiment\n4 Mana Leak\n1 Mission Briefing\n1 Negate\n1 Noxious Revival\n4 Opt\n2 Platinum Emperion\n1 Pull from Tomorrow\n2 Ral, Izzet Viceroy\n4 Remand\n2 Repeal\n4 Scrying Sheets\n4 Search for Azcanta\n4 Serum Visions\n1 Shadow of Doubt\n4 Shivan Reef\n4 Sleight of Hand\n4 Snapcaster Mage\n38 Snow-Covered Island\n21 Snow-Covered Mountain\n4 Spell Snare\n4 Spirebluff Canal\n4 Spreading Seas\n4 Steam Vents\n4 Sulfur Falls\n4 Supreme Will\n4 Sweltering Suns\n4 Temple of Epiphany\n4 Thing in the Ice\n4 Thought Scour\n4 Vendilion Clique\n4 Wandering Fumarole\n\nSideboard:\n1 Chalice of the Void\n1 Engineered Explosives\n1 Ensnaring Bridge\n1 Grafdigger's Cage\n1 Liquimetal Coating\n1 Mishra's Bauble\n1 Mycosynth Lattice\n1 Phyrexian Metamorph\n1 Pithing Needle\n1 Sorcerous Spyglass\n2 Tormod's Crypt\n1 Trinisphere\n1 Walking Ballista\n1 Wurmcoil Engine\n\n",
+    "mainText": "4 Abrade\n4 Ancestral Vision\n4 Anger of the Gods\n4 Battle of Wits\n4 Blood Moon\n2 Burst Lightning\n4 Cascade Bluffs\n4 Censor\n2 Chandra, Flamecaller\n4 Chandra, Torch of Defiance\n1 Consecrated Sphinx\n4 Cryptic Command\n2 Desert of the Mindful\n4 Desolate Lighthouse\n1 Dispel\n4 Electrolyze\n2 Flame Slash\n2 Forked Bolt\n4 Gifts Ungiven\n4 Hieroglyphic Illumination\n1 Inferno Titan\n1 Island\n4 Izzet Charm\n4 Jace, the Mind Sculptor\n4 Karn, the Great Creator\n4 Lightning Bolt\n4 Madcap Experiment\n4 Mana Leak\n1 Mission Briefing\n1 Negate\n1 Noxious Revival\n4 Opt\n2 Platinum Emperion\n1 Pull from Tomorrow\n2 Ral, Izzet Viceroy\n4 Remand\n2 Repeal\n4 Scrying Sheets\n4 Search for Azcanta\n4 Serum Visions\n1 Shadow of Doubt\n4 Shivan Reef\n4 Sleight of Hand\n4 Snapcaster Mage\n38 Snow-Covered Island\n21 Snow-Covered Mountain\n4 Spell Snare\n4 Spirebluff Canal\n4 Spreading Seas\n4 Steam Vents\n4 Sulfur Falls\n4 Supreme Will\n4 Sweltering Suns\n4 Temple of Epiphany\n4 Thing in the Ice\n4 Thought Scour\n4 Vendilion Clique\n4 Wandering Fumarole",
+    "sideText": "1 Chalice of the Void\n1 Engineered Explosives\n1 Ensnaring Bridge\n1 Grafdigger's Cage\n1 Liquimetal Coating\n1 Mishra's Bauble\n1 Mycosynth Lattice\n1 Phyrexian Metamorph\n1 Pithing Needle\n1 Sorcerous Spyglass\n2 Tormod's Crypt\n1 Trinisphere\n1 Walking Ballista\n1 Wurmcoil Engine"
+  }
+}

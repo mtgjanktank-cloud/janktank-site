@@ -1,0 +1,23 @@
+{
+  "id": "recK4QKc2VDZ1CBGZ",
+  "slug": "ub-zombie-combo",
+  "name": "UB Zombie Combo",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Tribal",
+  "characteristics": [
+    "Graveyard Based"
+  ],
+  "colors": [
+    "Blue",
+    "Black"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": true,
+  "coverCard": "Cryptbreaker",
+  "decklist": {
+    "raw": "4 Bridge from Below\r\n2 Cavern of Souls\r\n4 Collective Brutality\r\n2 Compelling Deterrence\r\n4 Cryptbreaker\r\n4 Diregraf Colossus\r\n4 Drowned Catacomb\r\n4 Gifts Ungiven\r\n4 Gravecrawler\r\n1 Haakon, Stromgald Scourge\r\n1 Nameless Inversion\r\n4 Nantuko Husk\r\n4 Polluted Delta\r\n3 Prized Amalgam\r\n3 Rotting Rats\r\n10 Swamp\r\n2 Watery Grave\r\n\r\n2 Compelling Deterrence\r\n3 Ghost Quarter\r\n3 Hurkyl's Recall\r\n4 Inquisition of Kozilek\r\n3 Nihil Spellbomb\r\n",
+    "mainText": "4 Bridge from Below\n2 Cavern of Souls\n4 Collective Brutality\n2 Compelling Deterrence\n4 Cryptbreaker\n4 Diregraf Colossus\n4 Drowned Catacomb\n4 Gifts Ungiven\n4 Gravecrawler\n1 Haakon, Stromgald Scourge\n1 Nameless Inversion\n4 Nantuko Husk\n4 Polluted Delta\n3 Prized Amalgam\n3 Rotting Rats\n10 Swamp\n2 Watery Grave",
+    "sideText": "2 Compelling Deterrence\n3 Ghost Quarter\n3 Hurkyl's Recall\n4 Inquisition of Kozilek\n3 Nihil Spellbomb"
+  }
+}

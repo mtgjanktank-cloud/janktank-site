@@ -1,0 +1,23 @@
+{
+  "id": "rec0joiLkwDxQkU2S",
+  "slug": "heartbeat-combo",
+  "name": "Heartbeat Combo",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Combo",
+  "characteristics": [
+    "Ramp"
+  ],
+  "colors": [
+    "Blue",
+    "Green"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Heartbeat of Spring",
+  "decklist": {
+    "raw": "1 Blue Sun's Zenith\r\n1 Breeding Pool\r\n1 Dismember\r\n4 Early Harvest\r\n1 Emrakul, the Aeons Torn\r\n4 Explore\r\n13 Forest\r\n3 Harmonize\r\n4 Heartbeat of Spring\r\n3 Island\r\n1 Mirari\r\n4 Misty Rainforest\r\n3 Remand\r\n3 Rude Awakening\r\n4 Search for Tomorrow\r\n2 Sleight of Hand\r\n4 Urban Evolution\r\n2 Verdant Catacombs\r\n3 Vernal Bloom\r\n\r\n2 Cyclonic Rift\r\n2 Dismember\r\n2 Nature's Claim\r\n4 Obstinate Baloth\r\n3 Pact of Negation\r\n1 Spell Pierce\r\n1 Ulamog, the Infinite Gyre\r\n",
+    "mainText": "1 Blue Sun's Zenith\n1 Breeding Pool\n1 Dismember\n4 Early Harvest\n1 Emrakul, the Aeons Torn\n4 Explore\n13 Forest\n3 Harmonize\n4 Heartbeat of Spring\n3 Island\n1 Mirari\n4 Misty Rainforest\n3 Remand\n3 Rude Awakening\n4 Search for Tomorrow\n2 Sleight of Hand\n4 Urban Evolution\n2 Verdant Catacombs\n3 Vernal Bloom",
+    "sideText": "2 Cyclonic Rift\n2 Dismember\n2 Nature's Claim\n4 Obstinate Baloth\n3 Pact of Negation\n1 Spell Pierce\n1 Ulamog, the Infinite Gyre"
+  }
+}

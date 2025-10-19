@@ -1,0 +1,24 @@
+{
+  "id": "recSEI5Q7784V40qp",
+  "slug": "abzan-truths",
+  "name": "Abzan Truths",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Value",
+  "characteristics": [
+    "Taxes"
+  ],
+  "colors": [
+    "White",
+    "Black",
+    "Green"
+  ],
+  "updatedAt": "2017-04-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Painful Truths",
+  "decklist": {
+    "raw": "4 Birds of Paradise\r\n1 Breeding Pool\r\n2 Forest\r\n1 Godless Shrine\r\n1 Hallowed Fountain\r\n4 Kitchen Finks\r\n4 Knight of the Reliquary\r\n2 Misty Rainforest\r\n4 Noble Hierarch\r\n2 Overgrown Tomb\r\n4 Painful Truths\r\n1 Plains\r\n4 Retreat to Coralhelm\r\n4 Siege Rhino\r\n1 Stomping Ground\r\n1 Swamp\r\n4 Tarmogoyf\r\n2 Temple Garden\r\n4 Thalia, Guardian of Thraben\r\n3 Thorn of Amethyst\r\n4 Verdant Catacombs\r\n4 Windswept Heath\r\n\r\n3 Blood Moon\r\n1 Bojuka Bog\r\n2 Duress\r\n4 Path to Exile\r\n2 Rest for the Weary\r\n3 Stony Silence\r\n",
+    "mainText": "4 Birds of Paradise\n1 Breeding Pool\n2 Forest\n1 Godless Shrine\n1 Hallowed Fountain\n4 Kitchen Finks\n4 Knight of the Reliquary\n2 Misty Rainforest\n4 Noble Hierarch\n2 Overgrown Tomb\n4 Painful Truths\n1 Plains\n4 Retreat to Coralhelm\n4 Siege Rhino\n1 Stomping Ground\n1 Swamp\n4 Tarmogoyf\n2 Temple Garden\n4 Thalia, Guardian of Thraben\n3 Thorn of Amethyst\n4 Verdant Catacombs\n4 Windswept Heath",
+    "sideText": "3 Blood Moon\n1 Bojuka Bog\n2 Duress\n4 Path to Exile\n2 Rest for the Weary\n3 Stony Silence"
+  }
+}
