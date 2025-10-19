@@ -1,0 +1,25 @@
+{
+  "id": "recG9Ecx2icIRc3MA",
+  "slug": "bant-saheeli",
+  "name": "Bant Saheeli",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Combo",
+  "characteristics": [
+    "Tool Box"
+  ],
+  "colors": [
+    "White",
+    "Blue",
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2017-04-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Saheeli Rai",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

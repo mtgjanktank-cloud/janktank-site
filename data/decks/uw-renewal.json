@@ -1,0 +1,23 @@
+{
+  "id": "recjBufPBjPKl3cAY",
+  "slug": "uw-renewal",
+  "name": "UW Renewal",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Control",
+  "characteristics": [
+    "Combo"
+  ],
+  "colors": [
+    "White",
+    "Blue"
+  ],
+  "updatedAt": "2017-09-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Enduring Renewal",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

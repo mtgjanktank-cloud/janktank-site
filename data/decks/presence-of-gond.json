@@ -1,0 +1,24 @@
+{
+  "id": "rec9SJE9JZ2N9iEq6",
+  "slug": "presence-of-gond",
+  "name": "Presence of Gond",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Combo",
+  "characteristics": [
+    "Infinite Creatures"
+  ],
+  "colors": [
+    "White",
+    "Blue",
+    "Green"
+  ],
+  "updatedAt": "2016-05-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Presence of Gond",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

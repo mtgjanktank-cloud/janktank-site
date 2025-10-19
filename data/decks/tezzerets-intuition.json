@@ -1,0 +1,23 @@
+{
+  "id": "recUKo09gINbKlCw5",
+  "slug": "tezzerets-intuition",
+  "name": "Tezzeret's Intuition",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Prison",
+  "characteristics": [
+    "Tool Box"
+  ],
+  "colors": [
+    "Blue",
+    "Black"
+  ],
+  "updatedAt": "2017-09-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Artificer's Intuition",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

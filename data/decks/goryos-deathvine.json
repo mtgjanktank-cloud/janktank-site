@@ -1,0 +1,24 @@
+{
+  "id": "rec5BSsAOGHnenrsR",
+  "slug": "goryos-deathvine",
+  "name": "Goryo's Deathvine",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Pseudo Combo",
+  "characteristics": [
+    "Graveyard Based"
+  ],
+  "colors": [
+    "Black",
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": true,
+  "coverCard": "Goryo's Vengeance",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "recALBLS20fjeh2NS",
+  "slug": "snow-storm",
+  "name": "Snow Storm",
+  "author": "u/pudgimelon",
+  "format": "Modern",
+  "archetype": "Combo",
+  "characteristics": [
+    "Storm"
+  ],
+  "colors": [
+    "White",
+    "Blue",
+    "Black",
+    "Green"
+  ],
+  "updatedAt": "2019-07-01T00:00:00.000Z",
+  "containsBannedCards": true,
+  "coverCard": "Weather the Storm",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

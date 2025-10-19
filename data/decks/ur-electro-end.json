@@ -1,0 +1,23 @@
+{
+  "id": "rec9aO2iNqeF6YpB3",
+  "slug": "ur-electro-end",
+  "name": "UR Electro End",
+  "author": "Alex Bianchi",
+  "format": "Modern",
+  "archetype": "Combo",
+  "characteristics": [
+    "Graveyard Based"
+  ],
+  "colors": [
+    "Blue",
+    "Red"
+  ],
+  "updatedAt": "2019-01-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Ancestral Vision",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

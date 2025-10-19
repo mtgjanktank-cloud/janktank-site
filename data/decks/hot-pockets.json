@@ -1,0 +1,23 @@
+{
+  "id": "recEMsHyYXR7ONJPl",
+  "slug": "hot-pockets",
+  "name": "Hot Pockets",
+  "author": "Omega_DestoyerZ",
+  "format": "Modern",
+  "archetype": "Combo",
+  "characteristics": [
+    "Storm"
+  ],
+  "colors": [
+    "Black",
+    "Red"
+  ],
+  "updatedAt": "2018-08-01T00:00:00.000Z",
+  "containsBannedCards": true,
+  "coverCard": "Haakon, Stromgald Scourge",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

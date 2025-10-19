@@ -1,0 +1,26 @@
+{
+  "id": "rechkbqws3IZOvmrI",
+  "slug": "glittering-ad-nauseum",
+  "name": "Glittering Ad Nauseum",
+  "author": "u/EDPT",
+  "format": "Modern",
+  "archetype": "Combo",
+  "characteristics": [
+    "Tool Box"
+  ],
+  "colors": [
+    "White",
+    "Blue",
+    "Black",
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2017-10-01T00:00:00.000Z",
+  "containsBannedCards": true,
+  "coverCard": "Ad Nauseam",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

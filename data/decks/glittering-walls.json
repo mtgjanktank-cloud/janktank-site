@@ -1,0 +1,26 @@
+{
+  "id": "recSoyWFb4BfepcqM",
+  "slug": "glittering-walls",
+  "name": "Glittering Walls",
+  "author": "u/URLSweatshirt",
+  "format": "Modern",
+  "archetype": "Midrange",
+  "characteristics": [
+    "Prison"
+  ],
+  "colors": [
+    "White",
+    "Blue",
+    "Black",
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Glittering Wish",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

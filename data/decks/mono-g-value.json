@@ -1,0 +1,22 @@
+{
+  "id": "recpYlJjA9I47ftNU",
+  "slug": "mono-g-value",
+  "name": "Mono-G Value",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Value",
+  "characteristics": [
+    "Collected Company"
+  ],
+  "colors": [
+    "Green"
+  ],
+  "updatedAt": "2018-08-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Yisan, the Wanderer Bard",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

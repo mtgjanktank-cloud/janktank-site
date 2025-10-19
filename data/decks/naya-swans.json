@@ -1,0 +1,24 @@
+{
+  "id": "recevEifMRWko6qyd",
+  "slug": "naya-swans",
+  "name": "Naya Swans",
+  "author": "u/KunrinG",
+  "format": "Modern",
+  "archetype": "Combo",
+  "characteristics": [
+    "Tool Box"
+  ],
+  "colors": [
+    "White",
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2019-04-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Feather, the Redeemed",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "recffJewl01zuwF4i",
+  "slug": "gideon-tribal",
+  "name": "Gideon Tribal",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Planeswalkers",
+  "characteristics": [
+    "Midrange"
+  ],
+  "colors": [
+    "White",
+    "Black"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Gideon Jura",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

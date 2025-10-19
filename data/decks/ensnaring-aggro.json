@@ -1,0 +1,23 @@
+{
+  "id": "recihuGqpYC7cWfzW",
+  "slug": "ensnaring-aggro",
+  "name": "Ensnaring Aggro",
+  "author": "u/BACEXXXXXX",
+  "format": "Modern",
+  "archetype": "Aggro",
+  "characteristics": [
+    "Artifact Based"
+  ],
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2017-04-01T00:00:00.000Z",
+  "containsBannedCards": true,
+  "coverCard": "Signal Pest",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "rec8HXzn3SUrChFpC",
+  "slug": "mono-w-devotion",
+  "name": "Mono-W Devotion",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Midrange",
+  "characteristics": [
+    "Ramp"
+  ],
+  "colors": [
+    "White"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Thalia's Lancers",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

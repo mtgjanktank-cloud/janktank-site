@@ -1,0 +1,23 @@
+{
+  "id": "rec8W7i1yReqLj9SW",
+  "slug": "arcane-remedy",
+  "name": "Arcane Remedy",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Combo",
+  "characteristics": [
+    "Arcane Spells"
+  ],
+  "colors": [
+    "Blue",
+    "Black"
+  ],
+  "updatedAt": "2018-02-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Tainted Remedy",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

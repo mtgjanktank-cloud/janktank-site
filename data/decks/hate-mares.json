@@ -1,0 +1,23 @@
+{
+  "id": "rec4ajb2bE5aaRsoI",
+  "slug": "hate-mares",
+  "name": "Hate Mares",
+  "author": "PleasantKenobi",
+  "format": "Modern",
+  "archetype": "Tribal",
+  "characteristics": [
+    "Attrition"
+  ],
+  "colors": [
+    "White",
+    "Green"
+  ],
+  "updatedAt": "2018-07-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Crested Sunmare",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

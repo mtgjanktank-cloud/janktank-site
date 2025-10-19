@@ -1,0 +1,24 @@
+{
+  "id": "recVj2PPiXrq4UKCM",
+  "slug": "shifting-end",
+  "name": "Shifting End",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Combo",
+  "characteristics": [
+    "2-in-1 Combo"
+  ],
+  "colors": [
+    "Black",
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Monstrous Carabid",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

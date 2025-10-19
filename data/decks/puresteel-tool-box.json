@@ -1,0 +1,22 @@
+{
+  "id": "recvO3hk4tqBYDLPU",
+  "slug": "puresteel-tool-box",
+  "name": "Puresteel Tool Box",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Value",
+  "characteristics": [
+    "Artifact Tool Box"
+  ],
+  "colors": [
+    "White"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": true,
+  "coverCard": "Puresteel Paladin",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

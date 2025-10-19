@@ -1,0 +1,22 @@
+{
+  "id": "recDCO0J4SIwt4dfY",
+  "slug": "prison-mill",
+  "name": "Prison Mill",
+  "author": "u/millatondeckfriend",
+  "format": "Modern",
+  "archetype": "Prison",
+  "characteristics": [
+    "Mill"
+  ],
+  "colors": [
+    "Blue"
+  ],
+  "updatedAt": "2019-02-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Mesmeric Orb",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

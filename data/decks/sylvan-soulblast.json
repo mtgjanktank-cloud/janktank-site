@@ -1,0 +1,23 @@
+{
+  "id": "recBStX1WIn7prHSe",
+  "slug": "sylvan-soulblast",
+  "name": "Sylvan Soulblast",
+  "author": "MooseImperium",
+  "format": "Modern",
+  "archetype": "Combo",
+  "characteristics": [
+    "Land Based"
+  ],
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2018-06-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Sylvan Awakening",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

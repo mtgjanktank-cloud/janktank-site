@@ -1,0 +1,22 @@
+{
+  "id": "recsNSrR2t5kUk27e",
+  "slug": "7-land-belcher",
+  "name": "7-Land Belcher",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Combo",
+  "characteristics": [
+    "Ramp"
+  ],
+  "colors": [
+    "Green"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Goblin Charbelcher",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

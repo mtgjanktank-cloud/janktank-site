@@ -1,0 +1,22 @@
+{
+  "id": "recMVh1ZdXw3tGFs6",
+  "slug": "mono-u-martyrs",
+  "name": "Mono-U Martyrs",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Attrition",
+  "characteristics": [
+    "Control"
+  ],
+  "colors": [
+    "Blue"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Martyr of Frost",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

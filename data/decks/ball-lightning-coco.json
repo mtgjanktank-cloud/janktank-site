@@ -1,0 +1,24 @@
+{
+  "id": "recwfGvWJWHBZUw9N",
+  "slug": "ball-lightning-coco",
+  "name": "Ball Lightning CoCo",
+  "author": "Mikey42Hopkins",
+  "format": "Modern",
+  "archetype": "Aggro",
+  "characteristics": [
+    "Collected Company"
+  ],
+  "colors": [
+    "Red",
+    "Green",
+    "Black"
+  ],
+  "updatedAt": "2018-07-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Ball Lightning",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rec4lLCjfovO9wK8C",
+  "slug": "ub-eldrazi",
+  "name": "UB Eldrazi",
+  "author": "Todd Stevens",
+  "format": "Modern",
+  "archetype": "Tribal",
+  "characteristics": [
+    "Value"
+  ],
+  "colors": [
+    "Blue",
+    "Black"
+  ],
+  "updatedAt": "2018-02-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Wasteland Strangler",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

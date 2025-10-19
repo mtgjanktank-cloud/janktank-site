@@ -1,0 +1,22 @@
+{
+  "id": "recUqjftzhEqYzo7d",
+  "slug": "mono-u-devotion",
+  "name": "Mono-U Devotion",
+  "author": "u/mackslc",
+  "format": "Modern",
+  "archetype": "Combo",
+  "characteristics": [
+    "Card Draw"
+  ],
+  "colors": [
+    "Blue"
+  ],
+  "updatedAt": "2020-01-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Thassa's Oracle",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

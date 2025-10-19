@@ -1,0 +1,25 @@
+{
+  "id": "recBYwd2Jdp8AxDsX",
+  "slug": "soulflayer-surprise",
+  "name": "Soulflayer Surprise",
+  "author": "flintyminty3",
+  "format": "Modern",
+  "archetype": "Pseudo Combo",
+  "characteristics": [
+    "Graveyard Based"
+  ],
+  "colors": [
+    "White",
+    "Black",
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2018-02-01T00:00:00.000Z",
+  "containsBannedCards": true,
+  "coverCard": "Soulflayer",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

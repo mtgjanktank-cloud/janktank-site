@@ -1,0 +1,23 @@
+{
+  "id": "recaLL0w0yUZtcq1p",
+  "slug": "blues-clues",
+  "name": "Blue's Clues",
+  "author": "BadDecksPlayedBadlyMTG",
+  "format": "Modern",
+  "archetype": "Control",
+  "characteristics": [
+    "Card Draw"
+  ],
+  "colors": [
+    "Blue",
+    "Red"
+  ],
+  "updatedAt": "2019-03-01T00:00:00.000Z",
+  "containsBannedCards": true,
+  "coverCard": "Trail of Evidence",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

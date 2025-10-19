@@ -1,0 +1,22 @@
+{
+  "id": "rec3MXnYomhq5smmc",
+  "slug": "mono-r-prison",
+  "name": "Mono-R Prison",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Prison",
+  "characteristics": [
+    "Pseudo Combo"
+  ],
+  "colors": [
+    "Red"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": true,
+  "coverCard": "Inferno Titan",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

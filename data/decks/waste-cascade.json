@@ -1,0 +1,24 @@
+{
+  "id": "rect2KFzqza4iPneg",
+  "slug": "waste-cascade",
+  "name": "Waste Cascade",
+  "author": "u/x1uo3yd",
+  "format": "Modern",
+  "archetype": "Value",
+  "characteristics": [
+    "Discard Vlaue"
+  ],
+  "colors": [
+    "Black",
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2018-05-01T00:00:00.000Z",
+  "containsBannedCards": true,
+  "coverCard": "Demonic Dread",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

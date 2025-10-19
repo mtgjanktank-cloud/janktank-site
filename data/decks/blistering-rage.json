@@ -1,0 +1,22 @@
+{
+  "id": "recxuKsJxNnjptXnm",
+  "slug": "blistering-rage",
+  "name": "Blistering Rage",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Aggro",
+  "characteristics": [
+    "Pseudo Combo"
+  ],
+  "colors": [
+    "Red"
+  ],
+  "updatedAt": "2017-04-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Blistercoil Weird",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

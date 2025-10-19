@@ -1,0 +1,24 @@
+{
+  "id": "rec6HiaKEV5NVpYb3",
+  "slug": "hollow-flayer",
+  "name": "Hollow Flayer",
+  "author": "TheBasicPotato",
+  "format": "Modern",
+  "archetype": "Aggro",
+  "characteristics": [
+    "Graveyard Value"
+  ],
+  "colors": [
+    "Blue",
+    "Black",
+    "Red"
+  ],
+  "updatedAt": "2018-08-01T00:00:00.000Z",
+  "containsBannedCards": true,
+  "coverCard": "Soulflayer",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

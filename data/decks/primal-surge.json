@@ -1,0 +1,22 @@
+{
+  "id": "recdwcNuB6qzFwkRW",
+  "slug": "primal-surge",
+  "name": "Primal Surge",
+  "author": "",
+  "format": "Modern",
+  "archetype": "Other",
+  "characteristics": [
+    "Ramp"
+  ],
+  "colors": [
+    "Green"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Primal Surge",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

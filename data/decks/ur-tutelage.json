@@ -1,0 +1,23 @@
+{
+  "id": "rectwhrV4dKDYwlCz",
+  "slug": "ur-tutelage",
+  "name": "UR Tutelage",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Prison",
+  "characteristics": [
+    "Mill"
+  ],
+  "colors": [
+    "Blue",
+    "Red"
+  ],
+  "updatedAt": "2017-09-01T00:00:00.000Z",
+  "containsBannedCards": true,
+  "coverCard": "Sphinx's Tutelage",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "recONUVCYw1RjF46K",
+  "slug": "memory-belcher",
+  "name": "Memory Belcher",
+  "author": "Vagabond87",
+  "format": "Modern",
+  "archetype": "Combo",
+  "characteristics": [
+    "Deck Manipulation"
+  ],
+  "colors": [
+    "White",
+    "Blue"
+  ],
+  "updatedAt": "2020-11-01T00:00:00.000Z",
+  "containsBannedCards": true,
+  "coverCard": "Selective Memory",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "recmzNbHDevnzZIq6",
+  "slug": "gr-bogles",
+  "name": "GR Bogles",
+  "author": "u/GhostofCircleKnight",
+  "format": "Modern",
+  "archetype": "Aggro",
+  "characteristics": [
+    "Voltron"
+  ],
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2018-03-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Madcap Skills",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

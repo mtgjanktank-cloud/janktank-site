@@ -1,0 +1,23 @@
+{
+  "id": "rec4ZMuKzBvNJit8s",
+  "slug": "ug-gifts",
+  "name": "UG Gifts",
+  "author": "",
+  "format": "Modern",
+  "archetype": "Other",
+  "characteristics": [
+    "Ramp"
+  ],
+  "colors": [
+    "Blue",
+    "Green"
+  ],
+  "updatedAt": "2017-09-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Eternal Witness",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

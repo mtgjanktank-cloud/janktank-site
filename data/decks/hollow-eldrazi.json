@@ -1,0 +1,22 @@
+{
+  "id": "rechjyrWKOkSBqWzQ",
+  "slug": "hollow-eldrazi",
+  "name": "Hollow Eldrazi",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Tribal",
+  "characteristics": [
+    "Aggro"
+  ],
+  "colors": [
+    "Red"
+  ],
+  "updatedAt": "2018-02-01T00:00:00.000Z",
+  "containsBannedCards": true,
+  "coverCard": "Hollow One",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "recOyq8uoIZmcdMfd",
+  "slug": "colossal-infect",
+  "name": "Colossal Infect",
+  "author": "Simon Powell",
+  "format": "Modern",
+  "archetype": "Aggro",
+  "characteristics": [
+    "Infect"
+  ],
+  "colors": [
+    "White",
+    "Blue",
+    "Green"
+  ],
+  "updatedAt": "2019-08-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Glistener Elf",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

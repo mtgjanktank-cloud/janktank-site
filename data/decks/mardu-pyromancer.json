@@ -1,0 +1,24 @@
+{
+  "id": "reczksVzJ6QvghDkd",
+  "slug": "mardu-pyromancer",
+  "name": "Mardu Pyromancer",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Midrange",
+  "characteristics": [
+    "Tokens"
+  ],
+  "colors": [
+    "White",
+    "Black",
+    "Red"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Young Pyromancer",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

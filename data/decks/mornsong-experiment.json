@@ -1,0 +1,24 @@
+{
+  "id": "recS82d7nueKb0WQq",
+  "slug": "mornsong-experiment",
+  "name": "Mornsong Experiment",
+  "author": "Sjorpha",
+  "format": "Modern",
+  "archetype": "Attrition",
+  "characteristics": [
+    "Midrange"
+  ],
+  "colors": [
+    "White",
+    "Black",
+    "Red"
+  ],
+  "updatedAt": "2018-12-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Maralen of the Mornsong",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "recoRUotM2pLYRA2w",
+  "slug": "madcap-naya",
+  "name": "Madcap Naya",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Midrange",
+  "characteristics": [
+    "Combo"
+  ],
+  "colors": [
+    "White",
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Madcap Experiment",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

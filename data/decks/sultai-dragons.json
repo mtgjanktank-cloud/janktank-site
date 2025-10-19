@@ -1,0 +1,24 @@
+{
+  "id": "recZ1je8s03djeR9T",
+  "slug": "sultai-dragons",
+  "name": "Sultai Dragons",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Control",
+  "characteristics": [
+    "Tribal"
+  ],
+  "colors": [
+    "Blue",
+    "Black",
+    "Green"
+  ],
+  "updatedAt": "2018-04-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Dragonlord Silumgar",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

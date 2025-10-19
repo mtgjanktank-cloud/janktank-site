@@ -1,0 +1,23 @@
+{
+  "id": "rec8v8suL7DHSXSRO",
+  "slug": "simic-midrange",
+  "name": "Simic Midrange",
+  "author": "Atomic",
+  "format": "Modern",
+  "archetype": "Midrange",
+  "characteristics": [
+    "Value"
+  ],
+  "colors": [
+    "Blue",
+    "Green"
+  ],
+  "updatedAt": "2019-01-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Coiling Oracle",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

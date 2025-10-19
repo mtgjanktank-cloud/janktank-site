@@ -1,0 +1,23 @@
+{
+  "id": "rec6EwA8ieb5CDy94",
+  "slug": "westvale-worship",
+  "name": "Westvale Worship",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Prison",
+  "characteristics": [
+    "Enchantments"
+  ],
+  "colors": [
+    "White",
+    "Green"
+  ],
+  "updatedAt": "2017-09-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Worship",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

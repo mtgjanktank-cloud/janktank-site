@@ -1,0 +1,24 @@
+{
+  "id": "recvEoIF7DKlGbYD9",
+  "slug": "mardu-walkers",
+  "name": "Mardu Walkers",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Planeswalkers",
+  "characteristics": [
+    "Midrange"
+  ],
+  "colors": [
+    "White",
+    "Black",
+    "Red"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Oath of Gideon",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

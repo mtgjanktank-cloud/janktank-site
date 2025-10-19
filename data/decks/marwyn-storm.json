@@ -1,0 +1,22 @@
+{
+  "id": "recM6rFOkvJc1kgb5",
+  "slug": "marwyn-storm",
+  "name": "Marwyn Storm",
+  "author": "[LionHeart]",
+  "format": "Modern",
+  "archetype": "Combo",
+  "characteristics": [
+    "Ramp"
+  ],
+  "colors": [
+    "Green"
+  ],
+  "updatedAt": "2019-05-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Marwyn, the Nurturer",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

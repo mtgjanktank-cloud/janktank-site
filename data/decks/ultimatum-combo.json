@@ -1,0 +1,26 @@
+{
+  "id": "recPLnrHGcCHFgKO0",
+  "slug": "ultimatum-combo",
+  "name": "Ultimatum Combo",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Combo",
+  "characteristics": [
+    "Spells"
+  ],
+  "colors": [
+    "White",
+    "Blue",
+    "Black",
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2017-05-01T00:00:00.000Z",
+  "containsBannedCards": true,
+  "coverCard": "Brilliant Ultimatum",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

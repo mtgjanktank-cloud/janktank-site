@@ -1,0 +1,24 @@
+{
+  "id": "reckGENu5yOJmW0V8",
+  "slug": "descendants-treefolk",
+  "name": "Descendant's Treefolk",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Tribal",
+  "characteristics": [
+    "Value"
+  ],
+  "colors": [
+    "White",
+    "Black",
+    "Green"
+  ],
+  "updatedAt": "2017-04-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Descendants' Path",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

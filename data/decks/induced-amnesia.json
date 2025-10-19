@@ -1,0 +1,23 @@
+{
+  "id": "recgOiObiOT6Yeacs",
+  "slug": "induced-amnesia",
+  "name": "Induced Amnesia",
+  "author": "Saffron Olive",
+  "format": "Modern",
+  "archetype": "Value",
+  "characteristics": [
+    "Card Draw"
+  ],
+  "colors": [
+    "White",
+    "Blue"
+  ],
+  "updatedAt": "2018-03-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Induced Amnesia",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

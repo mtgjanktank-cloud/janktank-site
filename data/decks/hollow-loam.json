@@ -1,0 +1,25 @@
+{
+  "id": "recnySmSEAELSU1Kh",
+  "slug": "hollow-loam",
+  "name": "Hollow Loam",
+  "author": "u/ieatatsonic",
+  "format": "Modern",
+  "archetype": "Aggro",
+  "characteristics": [
+    "Discard Value"
+  ],
+  "colors": [
+    "Blue",
+    "Black",
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2018-05-01T00:00:00.000Z",
+  "containsBannedCards": true,
+  "coverCard": "Life from the Loam",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

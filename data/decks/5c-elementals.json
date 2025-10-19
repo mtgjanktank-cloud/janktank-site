@@ -1,0 +1,26 @@
+{
+  "id": "recXX0m6alXCMWOUs",
+  "slug": "5c-elementals",
+  "name": "5c Elementals",
+  "author": "Mazuku94",
+  "format": "Modern",
+  "archetype": "Tribal",
+  "characteristics": [
+    "Value"
+  ],
+  "colors": [
+    "White",
+    "Blue",
+    "Black",
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2019-09-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Voice of Resurgance",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

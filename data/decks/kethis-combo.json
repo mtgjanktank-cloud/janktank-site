@@ -1,0 +1,25 @@
+{
+  "id": "recbq8sMaPZd9MkSq",
+  "slug": "kethis-combo",
+  "name": "Kethis Combo",
+  "author": "elvin7",
+  "format": "Modern",
+  "archetype": "Combo",
+  "characteristics": [
+    "Graveyard based"
+  ],
+  "colors": [
+    "White",
+    "Blue",
+    "Black",
+    "Green"
+  ],
+  "updatedAt": "2019-10-01T00:00:00.000Z",
+  "containsBannedCards": true,
+  "coverCard": "Kethis, the Hidden Hand",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

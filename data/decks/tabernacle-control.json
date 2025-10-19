@@ -1,0 +1,22 @@
+{
+  "id": "recZkFsiFdasQiUkL",
+  "slug": "tabernacle-control",
+  "name": "Tabernacle Control",
+  "author": "u/lashazior",
+  "format": "Modern",
+  "archetype": "Attrition",
+  "characteristics": [
+    "Prison"
+  ],
+  "colors": [
+    "White"
+  ],
+  "updatedAt": "2017-07-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Magus of the Tabernacle",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

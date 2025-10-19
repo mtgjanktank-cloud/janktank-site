@@ -1,0 +1,24 @@
+{
+  "id": "recBwxuR73zDcI9Im",
+  "slug": "temur-polymorph",
+  "name": "Temur Polymorph",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Pseudo Combo",
+  "characteristics": [
+    "Value"
+  ],
+  "colors": [
+    "Blue",
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Polymorph",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

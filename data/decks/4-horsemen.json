@@ -1,0 +1,24 @@
+{
+  "id": "recBPuaYCSp8NIpo9",
+  "slug": "4-horsemen",
+  "name": "4 Horsemen",
+  "author": "u/Cellokun",
+  "format": "Modern",
+  "archetype": "Combo",
+  "characteristics": [
+    "Self Mill"
+  ],
+  "colors": [
+    "Blue",
+    "Black",
+    "Red"
+  ],
+  "updatedAt": "2017-01-01T00:00:00.000Z",
+  "containsBannedCards": true,
+  "coverCard": "Leyline of Singularity",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

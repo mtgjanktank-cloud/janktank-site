@@ -1,0 +1,23 @@
+{
+  "id": "rec0JfiJh43siFLWz",
+  "slug": "ug-pili-pala",
+  "name": "UG Pili-Pala",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Combo",
+  "characteristics": [
+    "Collected Company"
+  ],
+  "colors": [
+    "Blue",
+    "Green"
+  ],
+  "updatedAt": "2017-09-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Pili-Pala",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

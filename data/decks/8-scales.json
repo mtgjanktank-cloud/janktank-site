@@ -1,0 +1,25 @@
+{
+  "id": "recWga0F1F9Z9LV0H",
+  "slug": "8-scales",
+  "name": "8-Scales",
+  "author": "Plum",
+  "format": "Modern",
+  "archetype": "Midrange",
+  "characteristics": [
+    "Value"
+  ],
+  "colors": [
+    "White",
+    "Black",
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2017-09-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Crackling Doom",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

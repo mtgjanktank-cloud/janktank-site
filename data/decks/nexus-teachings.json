@@ -1,0 +1,24 @@
+{
+  "id": "recJ1huoo0xDpFypz",
+  "slug": "nexus-teachings",
+  "name": "Nexus Teachings",
+  "author": "FTZZMTG",
+  "format": "Modern",
+  "archetype": "Value",
+  "characteristics": [
+    "Pseudo Combo"
+  ],
+  "colors": [
+    "Blue",
+    "Black",
+    "Green"
+  ],
+  "updatedAt": "2019-01-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Nexus of Fate",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

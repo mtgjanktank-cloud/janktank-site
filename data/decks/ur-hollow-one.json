@@ -1,0 +1,23 @@
+{
+  "id": "recaInGCSjxSFU35T",
+  "slug": "ur-hollow-one",
+  "name": "UR Hollow One",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Aggro",
+  "characteristics": [
+    "Discard Value"
+  ],
+  "colors": [
+    "Blue",
+    "Red"
+  ],
+  "updatedAt": "2018-03-01T00:00:00.000Z",
+  "containsBannedCards": true,
+  "coverCard": "Skaab Ruinator",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

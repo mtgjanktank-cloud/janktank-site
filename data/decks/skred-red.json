@@ -1,0 +1,22 @@
+{
+  "id": "recHZhXIwv7GhhTX2",
+  "slug": "skred-red",
+  "name": "Skred Red",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Midrange",
+  "characteristics": [
+    "Control"
+  ],
+  "colors": [
+    "Red"
+  ],
+  "updatedAt": "2018-05-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Skred",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

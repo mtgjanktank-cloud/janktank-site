@@ -1,0 +1,22 @@
+{
+  "id": "recMO1qACCxiVN1i9",
+  "slug": "dragon-stompy",
+  "name": "Dragon Stompy",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Tribal",
+  "characteristics": [
+    "Prison"
+  ],
+  "colors": [
+    "Red"
+  ],
+  "updatedAt": "2018-02-01T00:00:00.000Z",
+  "containsBannedCards": true,
+  "coverCard": "Slumbering Dragon",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

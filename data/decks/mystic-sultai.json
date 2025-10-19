@@ -1,0 +1,24 @@
+{
+  "id": "recfVVn3dmY0KOZX0",
+  "slug": "mystic-sultai",
+  "name": "Mystic Sultai",
+  "author": "Sam Black",
+  "format": "Modern",
+  "archetype": "Control",
+  "characteristics": [
+    "Spell Recursion"
+  ],
+  "colors": [
+    "Blue",
+    "Black",
+    "Green"
+  ],
+  "updatedAt": "2019-10-01T00:00:00.000Z",
+  "containsBannedCards": true,
+  "coverCard": "Mystic Sanctuary",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

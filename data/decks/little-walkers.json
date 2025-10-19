@@ -1,0 +1,24 @@
+{
+  "id": "recqtldNuNpQdVXHW",
+  "slug": "little-walkers",
+  "name": "Little Walkers",
+  "author": "Todd Stevens",
+  "format": "Modern",
+  "archetype": "Planeswalkers",
+  "characteristics": [
+    "Midrange"
+  ],
+  "colors": [
+    "Blue",
+    "Black",
+    "Green"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Nissa, Voice of Zendikar",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

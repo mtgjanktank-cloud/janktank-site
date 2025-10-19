@@ -1,0 +1,25 @@
+{
+  "id": "recsyL4ijY9BEyzbR",
+  "slug": "4c-enigma",
+  "name": "4c Enigma",
+  "author": "JulienR",
+  "format": "Modern",
+  "archetype": "Value",
+  "characteristics": [
+    "Tool Box"
+  ],
+  "colors": [
+    "White",
+    "Blue",
+    "Black",
+    "Green"
+  ],
+  "updatedAt": "2020-01-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Enigmatic Incarnation",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "recDBUuKry75LDCsC",
+  "slug": "aethermage-sultai",
+  "name": "Aethermage Sultai",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Midrange",
+  "characteristics": [
+    "Value"
+  ],
+  "colors": [
+    "White",
+    "Blue",
+    "Black",
+    "Green"
+  ],
+  "updatedAt": "2017-08-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Aethermage's Touch",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

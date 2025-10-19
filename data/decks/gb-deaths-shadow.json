@@ -1,0 +1,23 @@
+{
+  "id": "recrQe8pqzndE0yOH",
+  "slug": "gb-deaths-shadow",
+  "name": "GB Death's Shadow",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Midrange",
+  "characteristics": [
+    "Graveyard Value"
+  ],
+  "colors": [
+    "Green",
+    "Black"
+  ],
+  "updatedAt": "2017-01-12T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Varolz, the Scar-Striped",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

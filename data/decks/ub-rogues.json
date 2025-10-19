@@ -1,0 +1,23 @@
+{
+  "id": "recUlPL7DuKd3tffr",
+  "slug": "ub-rogues",
+  "name": "UB Rogues",
+  "author": "GreenSkyDragon",
+  "format": "Modern",
+  "archetype": "Tribal",
+  "characteristics": [
+    "Tempo"
+  ],
+  "colors": [
+    "Blue",
+    "Black"
+  ],
+  "updatedAt": "2018-06-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Oona's Blackguard",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

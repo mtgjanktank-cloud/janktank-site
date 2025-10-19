@@ -1,0 +1,23 @@
+{
+  "id": "recnZuDDZmSMeS3mf",
+  "slug": "bw-vehicles",
+  "name": "BW Vehicles",
+  "author": "Hror",
+  "format": "Modern",
+  "archetype": "Aggro",
+  "characteristics": [
+    "Vehicles"
+  ],
+  "colors": [
+    "White",
+    "Black"
+  ],
+  "updatedAt": "2018-09-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Smuggler's Copter",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

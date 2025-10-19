@@ -1,0 +1,24 @@
+{
+  "id": "recTYa9hQSoVUeJVk",
+  "slug": "shadow-infect",
+  "name": "Shadow Infect",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Aggro",
+  "characteristics": [
+    "Infect"
+  ],
+  "colors": [
+    "Blue",
+    "Black",
+    "Green"
+  ],
+  "updatedAt": "2018-08-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Tainted Strike",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

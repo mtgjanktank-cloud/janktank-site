@@ -1,0 +1,24 @@
+{
+  "id": "recUDPcQ6QYgpy2Of",
+  "slug": "alcatraz",
+  "name": "Alcatraz",
+  "author": "u/DiogenesCane",
+  "format": "Modern",
+  "archetype": "Prison",
+  "characteristics": [
+    "Land Hate"
+  ],
+  "colors": [
+    "Blue",
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2018-03-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Sea's Claim",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

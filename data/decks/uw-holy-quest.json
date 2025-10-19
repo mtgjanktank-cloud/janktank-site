@@ -1,0 +1,23 @@
+{
+  "id": "rectCkpAkbjDbDTi3",
+  "slug": "uw-holy-quest",
+  "name": "UW Holy Quest",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Aggro",
+  "characteristics": [
+    "Pseudo Combo"
+  ],
+  "colors": [
+    "White",
+    "Blue"
+  ],
+  "updatedAt": "2017-09-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Glint Hawk",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

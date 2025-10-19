@@ -1,0 +1,23 @@
+{
+  "id": "rec5KsSK6X5xOLqtT",
+  "slug": "boros-vehicles",
+  "name": "Boros Vehicles",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Aggro",
+  "characteristics": [
+    "Vehicles, Burn"
+  ],
+  "colors": [
+    "White",
+    "Red"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Toolcraft Exemplar",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "recupJoIWFhAUg7VA",
+  "slug": "gb-ooze",
+  "name": "GB Ooze",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Combo",
+  "characteristics": [
+    "Graveyard Based"
+  ],
+  "colors": [
+    "Black",
+    "Green"
+  ],
+  "updatedAt": "2017-05-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Necrotic Ooze",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

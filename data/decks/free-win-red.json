@@ -1,0 +1,22 @@
+{
+  "id": "rec8B9QEGoicG4rdI",
+  "slug": "free-win-red",
+  "name": "Free Win Red",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Prison",
+  "characteristics": [
+    "Mana Acceleration"
+  ],
+  "colors": [
+    "Red"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": true,
+  "coverCard": "Pyretic Ritual",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

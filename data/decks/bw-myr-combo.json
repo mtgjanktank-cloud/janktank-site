@@ -1,0 +1,23 @@
+{
+  "id": "recpJffmsG80fRE12",
+  "slug": "bw-myr-combo",
+  "name": "BW Myr Combo",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Combo",
+  "characteristics": [
+    "Creature Loop"
+  ],
+  "colors": [
+    "White",
+    "Black"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Myr Retriever",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

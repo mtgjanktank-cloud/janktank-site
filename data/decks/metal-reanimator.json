@@ -1,0 +1,23 @@
+{
+  "id": "recNPwPJ33l10ldln",
+  "slug": "metal-reanimator",
+  "name": "Metal Reanimator",
+  "author": "Zac Elsik",
+  "format": "Modern",
+  "archetype": "Pseudo Combo",
+  "characteristics": [
+    "Graveyard Based"
+  ],
+  "colors": [
+    "Black",
+    "Red"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": true,
+  "coverCard": "Trash for Treasure",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "recFlOq6UKBXy9KF5",
+  "slug": "heartless-eldrazi",
+  "name": "Heartless Eldrazi",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Value",
+  "characteristics": [
+    "Cost Reduction"
+  ],
+  "colors": [
+    "Blue",
+    "Black"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Heartless Summoning",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

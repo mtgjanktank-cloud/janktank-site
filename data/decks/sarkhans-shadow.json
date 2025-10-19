@@ -1,0 +1,23 @@
+{
+  "id": "recXDimWyYRkmF783",
+  "slug": "sarkhans-shadow",
+  "name": "Sarkhan's Shadow",
+  "author": "Conley Woods",
+  "format": "Modern",
+  "archetype": "Value",
+  "characteristics": [
+    "Aggro"
+  ],
+  "colors": [
+    "Black",
+    "Red"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Sarkhan's Unsealing",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

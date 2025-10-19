@@ -1,0 +1,22 @@
+{
+  "id": "recr7NyfSFTwI1uCn",
+  "slug": "3-in-1-gyruda-combo",
+  "name": "3-in-1 Gyruda Combo",
+  "author": "Plum",
+  "format": "Timeless",
+  "archetype": "Combo",
+  "characteristics": [
+    "Transformational"
+  ],
+  "colors": [
+    "Blue"
+  ],
+  "updatedAt": "2024-12-07T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Gyruda, Doom of Depths",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

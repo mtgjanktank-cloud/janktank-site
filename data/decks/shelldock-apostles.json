@@ -1,0 +1,23 @@
+{
+  "id": "recUOSfPTxVEa1jbV",
+  "slug": "shelldock-apostles",
+  "name": "Shelldock Apostles",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Combo",
+  "characteristics": [
+    "Deck Manipulation"
+  ],
+  "colors": [
+    "Blue",
+    "Black"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Shelldock Isle",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "recqUspg3708tpbWj",
+  "slug": "harmless-trader",
+  "name": "Harmless Trader",
+  "author": "u/Deathjoker00",
+  "format": "Modern",
+  "archetype": "Pseudo Combo",
+  "characteristics": [
+    "Trade Permanents"
+  ],
+  "colors": [
+    "Black",
+    "Red"
+  ],
+  "updatedAt": "2018-03-01T00:00:00.000Z",
+  "containsBannedCards": true,
+  "coverCard": "Harmless Trader",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

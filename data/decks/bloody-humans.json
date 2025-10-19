@@ -1,0 +1,22 @@
+{
+  "id": "recccqPoMn9sIy0ze",
+  "slug": "bloody-humans",
+  "name": "Bloody Humans",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Prison",
+  "characteristics": [
+    "Aggro"
+  ],
+  "colors": [
+    "Red"
+  ],
+  "updatedAt": "2017-04-01T00:00:00.000Z",
+  "containsBannedCards": true,
+  "coverCard": "Magus of the Moon",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

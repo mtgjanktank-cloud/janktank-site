@@ -1,0 +1,23 @@
+{
+  "id": "recLIgr64TwBMzR3U",
+  "slug": "bandit-lord-vizier",
+  "name": "Bandit Lord Vizier",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Combo",
+  "characteristics": [
+    "Vizier Combo"
+  ],
+  "colors": [
+    "White",
+    "Green"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Devoted Druid",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

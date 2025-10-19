@@ -1,0 +1,24 @@
+{
+  "id": "recKwaiatDgQ7sLqt",
+  "slug": "naya-landfall",
+  "name": "Naya Landfall",
+  "author": "[LionHeart]",
+  "format": "Modern",
+  "archetype": "Aggro",
+  "characteristics": [
+    "Pseudo Combo"
+  ],
+  "colors": [
+    "White",
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2019-05-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Steppe Lynx",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

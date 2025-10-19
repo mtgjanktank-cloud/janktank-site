@@ -1,0 +1,24 @@
+{
+  "id": "recUsEtF8C3xBQCQl",
+  "slug": "naya-eldrazi-evolution",
+  "name": "Naya Eldrazi Evolution",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Midrange",
+  "characteristics": [
+    "Tool Box"
+  ],
+  "colors": [
+    "White",
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Though-knot Seer",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

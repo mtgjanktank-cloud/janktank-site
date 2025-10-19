@@ -1,0 +1,24 @@
+{
+  "id": "rec6comdztIPVQk6o",
+  "slug": "new-perspectives",
+  "name": "New Perspectives",
+  "author": "M14",
+  "format": "Modern",
+  "archetype": "Combo",
+  "characteristics": [
+    "Cycling"
+  ],
+  "colors": [
+    "Blue",
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "New Perspectives",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "recQiUaLuBWt4vhzw",
+  "slug": "singleton-control",
+  "name": "Singleton Control",
+  "author": "MerynMoon",
+  "format": "Modern",
+  "archetype": "Control",
+  "characteristics": [
+    "Value"
+  ],
+  "colors": [
+    "White",
+    "Blue",
+    "Black",
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2018-10-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Baneslayer Angel",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

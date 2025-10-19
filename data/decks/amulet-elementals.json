@@ -1,0 +1,24 @@
+{
+  "id": "recjXcO9uExcYbqaw",
+  "slug": "amulet-elementals",
+  "name": "Amulet Elementals",
+  "author": "u/Jrax",
+  "format": "Modern",
+  "archetype": "Combo",
+  "characteristics": [
+    "Tribal Value"
+  ],
+  "colors": [
+    "Blue",
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2019-07-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Risen Reef",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

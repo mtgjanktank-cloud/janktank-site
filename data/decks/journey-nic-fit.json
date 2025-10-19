@@ -1,0 +1,24 @@
+{
+  "id": "recTxRNv1wGAALi8o",
+  "slug": "journey-nic-fit",
+  "name": "Journey Nic-Fit",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Midrange",
+  "characteristics": [
+    "Graveyard Value"
+  ],
+  "colors": [
+    "Blue",
+    "Black",
+    "Green"
+  ],
+  "updatedAt": "2018-01-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Journey to Eternity",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

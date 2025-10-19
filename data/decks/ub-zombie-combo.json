@@ -1,0 +1,23 @@
+{
+  "id": "recK4QKc2VDZ1CBGZ",
+  "slug": "ub-zombie-combo",
+  "name": "UB Zombie Combo",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Tribal",
+  "characteristics": [
+    "Graveyard Based"
+  ],
+  "colors": [
+    "Blue",
+    "Black"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": true,
+  "coverCard": "Cryptbreaker",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "recKhBPE6nwtmumcs",
+  "slug": "mono-b-zombies",
+  "name": "Mono-B Zombies",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Tribal",
+  "characteristics": [
+    "Aggro"
+  ],
+  "colors": [
+    "Black"
+  ],
+  "updatedAt": "2017-04-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Gravecrawler",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

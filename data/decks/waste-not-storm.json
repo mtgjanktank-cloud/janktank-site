@@ -1,0 +1,23 @@
+{
+  "id": "recBa5UgbJwxVGNVU",
+  "slug": "waste-not-storm",
+  "name": "Waste Not Storm",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Value",
+  "characteristics": [
+    "Pseudo Combo"
+  ],
+  "colors": [
+    "Black",
+    "Red"
+  ],
+  "updatedAt": "2018-02-01T00:00:00.000Z",
+  "containsBannedCards": true,
+  "coverCard": "Reforge the Soul",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "recPfF5qvcnhmlGFG",
+  "slug": "sultai-spark-double",
+  "name": "Sultai Spark Double",
+  "author": "BLAKTOOTHMKK",
+  "format": "Modern",
+  "archetype": "Midrange",
+  "characteristics": [
+    "Combo"
+  ],
+  "colors": [
+    "Blue",
+    "Black",
+    "Green"
+  ],
+  "updatedAt": "2019-05-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Spark Double",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

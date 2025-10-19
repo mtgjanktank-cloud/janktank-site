@@ -1,0 +1,23 @@
+{
+  "id": "recLU6aAUQQeYdJPT",
+  "slug": "gr-eldrazi-delirium",
+  "name": "GR Eldrazi Delirium",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Tribal",
+  "characteristics": [
+    "Midrange"
+  ],
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Reality Smasher",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

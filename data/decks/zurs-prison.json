@@ -1,0 +1,23 @@
+{
+  "id": "recHi9ms1nZ9gHQ8B",
+  "slug": "zurs-prison",
+  "name": "Zur's Prison",
+  "author": "u/Sergmac",
+  "format": "Modern",
+  "archetype": "Prison",
+  "characteristics": [
+    "Control"
+  ],
+  "colors": [
+    "White",
+    "Blue"
+  ],
+  "updatedAt": "2018-03-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Zur's Weirding",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

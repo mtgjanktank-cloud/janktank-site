@@ -1,0 +1,23 @@
+{
+  "id": "recw0E5l77Va9VdLG",
+  "slug": "rw-stax",
+  "name": "RW Stax",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Attrition",
+  "characteristics": [
+    "Prison"
+  ],
+  "colors": [
+    "White",
+    "Red"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Ghostly Prison",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "recaK3Fjs2OlLB5Fu",
+  "slug": "5c-bring-to-light",
+  "name": "5c Bring to Light",
+  "author": "TennTyou",
+  "format": "Modern",
+  "archetype": "Combo",
+  "characteristics": [
+    "Tool Box"
+  ],
+  "colors": [
+    "White",
+    "Blue",
+    "Black",
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2019-09-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Niv-Mizzet Reborn",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "recevUV5Fd8B5OvaP",
+  "slug": "dubious-breach",
+  "name": "Dubious Breach",
+  "author": "John Middlebrook",
+  "format": "Modern",
+  "archetype": "Pseudo Combo",
+  "characteristics": [
+    "Value"
+  ],
+  "colors": [
+    "White",
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2017-06-01T00:00:00.000Z",
+  "containsBannedCards": true,
+  "coverCard": "Dubious Challenge",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

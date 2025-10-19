@@ -1,0 +1,23 @@
+{
+  "id": "rec7hPENV22Xzzadm",
+  "slug": "meatball-ponza",
+  "name": "Meatball Ponza",
+  "author": "u/ArborElfPass",
+  "format": "Modern",
+  "archetype": "Midrange",
+  "characteristics": [
+    "Tool Box"
+  ],
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2018-01-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Magus of the Moon",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

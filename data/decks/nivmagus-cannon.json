@@ -1,0 +1,24 @@
+{
+  "id": "rec89TnHAogwKi6TL",
+  "slug": "nivmagus-cannon",
+  "name": "Nivmagus Cannon",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Aggro",
+  "characteristics": [
+    "Pseudo Combo"
+  ],
+  "colors": [
+    "Blue",
+    "Black",
+    "Red"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Nivamagus Elemental",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

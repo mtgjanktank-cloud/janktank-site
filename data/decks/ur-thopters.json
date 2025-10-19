@@ -1,0 +1,23 @@
+{
+  "id": "recemGuOWJTFYYQKV",
+  "slug": "ur-thopters",
+  "name": "UR Thopters",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Prison",
+  "characteristics": [
+    "Value"
+  ],
+  "colors": [
+    "Blue",
+    "Red"
+  ],
+  "updatedAt": "2018-05-01T00:00:00.000Z",
+  "containsBannedCards": true,
+  "coverCard": "Hangarback Walker",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

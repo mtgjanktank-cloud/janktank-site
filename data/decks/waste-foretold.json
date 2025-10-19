@@ -1,0 +1,24 @@
+{
+  "id": "rec8g1K7JXwmq0iov",
+  "slug": "waste-foretold",
+  "name": "Waste Foretold",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Value",
+  "characteristics": [
+    "Discard Value"
+  ],
+  "colors": [
+    "Blue",
+    "Black",
+    "Red"
+  ],
+  "updatedAt": "2017-09-01T00:00:00.000Z",
+  "containsBannedCards": true,
+  "coverCard": "Whispering Madness",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

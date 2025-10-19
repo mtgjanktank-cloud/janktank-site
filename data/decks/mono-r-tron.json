@@ -1,0 +1,22 @@
+{
+  "id": "recIXqZzN0fgkiG4o",
+  "slug": "mono-r-tron",
+  "name": "Mono-R Tron",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Pseudo Combo",
+  "characteristics": [
+    "Burn"
+  ],
+  "colors": [
+    "Red"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Pyromancer's Goggles",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

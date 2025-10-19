@@ -1,0 +1,24 @@
+{
+  "id": "rec8ZkwkohF0f62cl",
+  "slug": "grixis-dragons",
+  "name": "Grixis Dragons",
+  "author": "u/JaceArveduin",
+  "format": "Modern",
+  "archetype": "Midrange",
+  "characteristics": [
+    "Tribal"
+  ],
+  "colors": [
+    "Blue",
+    "Black",
+    "Red"
+  ],
+  "updatedAt": "2018-02-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Kolaghan's Command",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

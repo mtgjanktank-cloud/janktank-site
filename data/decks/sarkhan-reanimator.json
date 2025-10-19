@@ -1,0 +1,23 @@
+{
+  "id": "recsFkcgkBjKTGMHv",
+  "slug": "sarkhan-reanimator",
+  "name": "Sarkhan Reanimator",
+  "author": "Magic_Aids",
+  "format": "Modern",
+  "archetype": "Pseudo Combo",
+  "characteristics": [
+    "Transformative"
+  ],
+  "colors": [
+    "Black",
+    "Red"
+  ],
+  "updatedAt": "2018-10-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Sarkhan, Fireblood",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

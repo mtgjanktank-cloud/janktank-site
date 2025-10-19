@@ -1,0 +1,26 @@
+{
+  "id": "rec2uiJgAiGON8h1G",
+  "slug": "beck-alarm",
+  "name": "Beck Alarm",
+  "author": "Conley Woods",
+  "format": "Modern",
+  "archetype": "Combo",
+  "characteristics": [
+    "Infinite Creatures"
+  ],
+  "colors": [
+    "White",
+    "Blue",
+    "Black",
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2018-09-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "The Locust God",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

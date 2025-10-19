@@ -1,0 +1,23 @@
+{
+  "id": "recR4NVf5ih944izH",
+  "slug": "ur-battle-of-wits",
+  "name": "UR Battle of Wits",
+  "author": "u/URLSweathsirt",
+  "format": "Modern",
+  "archetype": "Control",
+  "characteristics": [
+    "Alternate Win Condition"
+  ],
+  "colors": [
+    "Blue",
+    "Red"
+  ],
+  "updatedAt": "2018-02-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Ral, Izzet Viceroy",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

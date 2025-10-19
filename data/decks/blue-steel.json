@@ -1,0 +1,22 @@
+{
+  "id": "recWVvuiM1iBEm3u8",
+  "slug": "blue-steel",
+  "name": "Blue Steel",
+  "author": "Zac Elsik",
+  "format": "Modern",
+  "archetype": "Value",
+  "characteristics": [
+    "Aggro"
+  ],
+  "colors": [
+    "Blue"
+  ],
+  "updatedAt": "2018-05-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Grand Architect",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

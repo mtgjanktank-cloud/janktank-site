@@ -1,0 +1,22 @@
+{
+  "id": "rec4ruRJrBsus2DRx",
+  "slug": "mono-u-borrowers",
+  "name": "Mono-U Borrowers",
+  "author": "BadDecksPlayedBadlyMTG",
+  "format": "Modern",
+  "archetype": "Value",
+  "characteristics": [
+    "Control"
+  ],
+  "colors": [
+    "Blue"
+  ],
+  "updatedAt": "2019-06-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Watcher for Tomorrow",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

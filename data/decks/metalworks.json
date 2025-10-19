@@ -1,0 +1,22 @@
+{
+  "id": "rec5dy5l5cgRbfCck",
+  "slug": "metalworks",
+  "name": "Metalworks",
+  "author": "u/Hombre550",
+  "format": "Modern",
+  "archetype": "Combo",
+  "characteristics": [
+    "Artifact Based"
+  ],
+  "colors": [
+    "Colorless"
+  ],
+  "updatedAt": "2018-11-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Metalwork Colossus",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

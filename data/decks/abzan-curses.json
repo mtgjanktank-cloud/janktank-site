@@ -1,0 +1,24 @@
+{
+  "id": "recXERBWG9OllAlYb",
+  "slug": "abzan-curses",
+  "name": "Abzan Curses",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Midrange",
+  "characteristics": [
+    "Attrition"
+  ],
+  "colors": [
+    "White",
+    "Black",
+    "Green"
+  ],
+  "updatedAt": "2017-09-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Curse of Death's Hold",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

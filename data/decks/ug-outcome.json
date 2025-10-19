@@ -1,0 +1,23 @@
+{
+  "id": "recNMw4Kmv313c1u8",
+  "slug": "ug-outcome",
+  "name": "UG Outcome",
+  "author": "u/DiscombobulatedUnit5",
+  "format": "Modern",
+  "archetype": "Combo",
+  "characteristics": [
+    "Artifact Storm"
+  ],
+  "colors": [
+    "Blue",
+    "Green"
+  ],
+  "updatedAt": "2018-10-01T00:00:00.000Z",
+  "containsBannedCards": true,
+  "coverCard": "Paradoxical Outcome",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

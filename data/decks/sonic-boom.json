@@ -1,0 +1,22 @@
+{
+  "id": "recPOXUrQZgIYbSLo",
+  "slug": "sonic-boom",
+  "name": "Sonic Boom",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Control",
+  "characteristics": [
+    "Draw, Go"
+  ],
+  "colors": [
+    "Blue"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Plumeveil",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

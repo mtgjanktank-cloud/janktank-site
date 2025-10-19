@@ -1,0 +1,23 @@
+{
+  "id": "reciRxeqAs7gvIxNx",
+  "slug": "thopter-sly-combo",
+  "name": "Thopter Sly Combo",
+  "author": "Zac Elsik",
+  "format": "Modern",
+  "archetype": "Combo",
+  "characteristics": [
+    "Artifact Based"
+  ],
+  "colors": [
+    "Blue",
+    "Black"
+  ],
+  "updatedAt": "2018-08-01T00:00:00.000Z",
+  "containsBannedCards": true,
+  "coverCard": "Sly Requisitioner",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

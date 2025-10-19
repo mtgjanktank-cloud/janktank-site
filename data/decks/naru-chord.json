@@ -1,0 +1,24 @@
+{
+  "id": "recVmeOVSUkv1Tz62",
+  "slug": "naru-chord",
+  "name": "Naru Chord",
+  "author": "Jeff Hoogland",
+  "format": "Modern",
+  "archetype": "Value",
+  "characteristics": [
+    "Infinite Loop"
+  ],
+  "colors": [
+    "White",
+    "Blue",
+    "Green"
+  ],
+  "updatedAt": "2018-06-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Naru Meha, Master Wizard",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

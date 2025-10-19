@@ -1,0 +1,22 @@
+{
+  "id": "recOe28hijGkUNpTy",
+  "slug": "mono-g-superfriends",
+  "name": "Mono-G Superfriends",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Planeswalkers",
+  "characteristics": [
+    "Ramp"
+  ],
+  "colors": [
+    "Green"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Oath of Nissa",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

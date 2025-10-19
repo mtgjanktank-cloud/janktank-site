@@ -1,0 +1,23 @@
+{
+  "id": "recYml5XHiiEtzQ06",
+  "slug": "gb-delirium",
+  "name": "GB Delirium",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Midrange",
+  "characteristics": [
+    "Graveyard Value"
+  ],
+  "colors": [
+    "Black",
+    "Green"
+  ],
+  "updatedAt": "2017-01-12T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Satyr Wayfinder",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

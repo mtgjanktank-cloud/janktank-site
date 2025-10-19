@@ -1,0 +1,23 @@
+{
+  "id": "reczk5ID4fDRlYVQb",
+  "slug": "simic-faeries",
+  "name": "Simic Faeries",
+  "author": "Plum",
+  "format": "Modern",
+  "archetype": "Tribal",
+  "characteristics": [
+    "Tempo"
+  ],
+  "colors": [
+    "Blue",
+    "Green"
+  ],
+  "updatedAt": "2017-04-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Spellstutter Sprite",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

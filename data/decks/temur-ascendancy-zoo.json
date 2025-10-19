@@ -1,0 +1,24 @@
+{
+  "id": "recn6n48IEIGd272Q",
+  "slug": "temur-ascendancy-zoo",
+  "name": "Temur Ascendancy Zoo",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Aggro",
+  "characteristics": [
+    "Collected Company"
+  ],
+  "colors": [
+    "Blue",
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Temur Ascendancy",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

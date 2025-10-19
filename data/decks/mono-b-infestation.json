@@ -1,0 +1,22 @@
+{
+  "id": "recCKnZmEEJNA3NvY",
+  "slug": "mono-b-infestation",
+  "name": "Mono-B Infestation",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Value",
+  "characteristics": [
+    "Discard Value"
+  ],
+  "colors": [
+    "Black"
+  ],
+  "updatedAt": "2018-02-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Zombie Infestation",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

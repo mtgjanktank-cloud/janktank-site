@@ -1,0 +1,23 @@
+{
+  "id": "recrpjgjLTXKbUnVo",
+  "slug": "ur-coin-flip",
+  "name": "UR Coin Flip",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Value",
+  "characteristics": [
+    "Burn"
+  ],
+  "colors": [
+    "Blue",
+    "Red"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Krark's Thumn",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

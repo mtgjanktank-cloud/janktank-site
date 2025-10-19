@@ -1,0 +1,24 @@
+{
+  "id": "reczAAwhXjZ0RIsBX",
+  "slug": "curious-gifts",
+  "name": "Curious Gifts",
+  "author": "Lieutenant_DAngel",
+  "format": "Modern",
+  "archetype": "Midrange",
+  "characteristics": [
+    "Gifts Ungiven"
+  ],
+  "colors": [
+    "White",
+    "Blue",
+    "Black"
+  ],
+  "updatedAt": "2018-11-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Curious Homunculus",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

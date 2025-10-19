@@ -1,0 +1,23 @@
+{
+  "id": "recwt5FJjp5WiDCmy",
+  "slug": "ur-rhinos",
+  "name": "UR Rhinos",
+  "author": "u/KyFly1",
+  "format": "Modern",
+  "archetype": "Pseudo Combo",
+  "characteristics": [
+    "Control"
+  ],
+  "colors": [
+    "Blue",
+    "Red"
+  ],
+  "updatedAt": "2019-08-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Crashing Footfalls",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

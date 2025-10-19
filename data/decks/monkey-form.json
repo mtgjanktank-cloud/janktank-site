@@ -1,0 +1,24 @@
+{
+  "id": "reckJx2GDyS5EX9pX",
+  "slug": "monkey-form",
+  "name": "Monkey Form",
+  "author": "u/cavedan2",
+  "format": "Modern",
+  "archetype": "Aggro",
+  "characteristics": [
+    "Counters"
+  ],
+  "colors": [
+    "White",
+    "Blue",
+    "Green"
+  ],
+  "updatedAt": "2019-04-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Pongify",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

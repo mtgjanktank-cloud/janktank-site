@@ -1,0 +1,22 @@
+{
+  "id": "recf3pn99x439N8Q2",
+  "slug": "mono-b-panharmonicon",
+  "name": "Mono-B Panharmonicon",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Value",
+  "characteristics": [
+    "ETB Effects"
+  ],
+  "colors": [
+    "Black"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Panharmonicon",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

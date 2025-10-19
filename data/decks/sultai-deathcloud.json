@@ -1,0 +1,24 @@
+{
+  "id": "recQQNBsBhhr6wqdc",
+  "slug": "sultai-deathcloud",
+  "name": "Sultai Deathcloud",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Attrition",
+  "characteristics": [
+    "Resource Destruction"
+  ],
+  "colors": [
+    "Blue",
+    "Black",
+    "Green"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Deathcloud",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

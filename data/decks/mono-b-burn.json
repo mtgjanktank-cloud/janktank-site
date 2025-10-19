@@ -1,0 +1,22 @@
+{
+  "id": "recjvCts56Rv4z6y5",
+  "slug": "mono-b-burn",
+  "name": "Mono-B Burn",
+  "author": "",
+  "format": "Modern",
+  "archetype": "Other",
+  "characteristics": [
+    "Burn"
+  ],
+  "colors": [
+    "Black"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Bump in the Night",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

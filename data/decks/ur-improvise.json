@@ -1,0 +1,23 @@
+{
+  "id": "recGyCPwtg4nrlZYK",
+  "slug": "ur-improvise",
+  "name": "UR Improvise",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Value",
+  "characteristics": [
+    "Prison"
+  ],
+  "colors": [
+    "Blue",
+    "Red"
+  ],
+  "updatedAt": "2017-09-01T00:00:00.000Z",
+  "containsBannedCards": true,
+  "coverCard": "Enraged Giant",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

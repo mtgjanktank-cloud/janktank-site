@@ -1,0 +1,22 @@
+{
+  "id": "rec2V3AUulHX7V9zw",
+  "slug": "primal-door",
+  "name": "Primal Door",
+  "author": "",
+  "format": "Modern",
+  "archetype": "Other",
+  "characteristics": [
+    "Combo"
+  ],
+  "colors": [
+    "Green"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Door to Nothingness",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

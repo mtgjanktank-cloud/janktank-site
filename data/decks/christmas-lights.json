@@ -1,0 +1,23 @@
+{
+  "id": "recxaLnFnUxSICv2p",
+  "slug": "christmas-lights",
+  "name": "Christmas Lights",
+  "author": "u/Pustka",
+  "format": "Modern",
+  "archetype": "Midrange",
+  "characteristics": [
+    "Control"
+  ],
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2018-03-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Koth of the Hammer",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

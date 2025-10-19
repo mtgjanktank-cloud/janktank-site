@@ -1,0 +1,24 @@
+{
+  "id": "recrwdMsgJTULvGEo",
+  "slug": "tmnt",
+  "name": "TMNT",
+  "author": "u/MeatAnimal",
+  "format": "Modern",
+  "archetype": "Midrange",
+  "characteristics": [
+    "Heroes in a Half Shell"
+  ],
+  "colors": [
+    "Blue",
+    "Black",
+    "Green"
+  ],
+  "updatedAt": "2020-02-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Riptide Turtle",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

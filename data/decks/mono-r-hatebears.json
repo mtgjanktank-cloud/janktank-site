@@ -1,0 +1,22 @@
+{
+  "id": "reccJRhbAosZPj5FW",
+  "slug": "mono-r-hatebears",
+  "name": "Mono-R Hatebears",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Attrition",
+  "characteristics": [
+    "Aggro"
+  ],
+  "colors": [
+    "Red"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Zo-Zu the Punisher",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

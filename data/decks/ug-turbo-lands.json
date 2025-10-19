@@ -1,0 +1,23 @@
+{
+  "id": "recB1Uy6osOM3FfbD",
+  "slug": "ug-turbo-lands",
+  "name": "UG Turbo Lands",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Value",
+  "characteristics": [
+    "Land Value"
+  ],
+  "colors": [
+    "Blue",
+    "Green"
+  ],
+  "updatedAt": "2018-02-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Oracle of Mul Daya",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

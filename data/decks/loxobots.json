@@ -1,0 +1,22 @@
+{
+  "id": "recfoPDZYJoZ831bL",
+  "slug": "loxobots",
+  "name": "Loxobots",
+  "author": "Jim Davis",
+  "format": "Modern",
+  "archetype": "Aggro",
+  "characteristics": [
+    "Taxes"
+  ],
+  "colors": [
+    "White"
+  ],
+  "updatedAt": "2018-12-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Venerated Loxodon",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "recjLDCta870ZorUM",
+  "slug": "mono-u-illusions",
+  "name": "Mono-U Illusions",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Tribal",
+  "characteristics": [
+    "Aggro"
+  ],
+  "colors": [
+    "Blue"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Lord of the Unreal",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

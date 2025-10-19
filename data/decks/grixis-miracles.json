@@ -1,0 +1,24 @@
+{
+  "id": "rec4sF69O7wqdysOW",
+  "slug": "grixis-miracles",
+  "name": "Grixis Miracles",
+  "author": "Mjaben",
+  "format": "Modern",
+  "archetype": "Control",
+  "characteristics": [
+    "Deck Manipulation"
+  ],
+  "colors": [
+    "Blue",
+    "Black",
+    "Red"
+  ],
+  "updatedAt": "2019-03-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Bonfire of the Damned",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

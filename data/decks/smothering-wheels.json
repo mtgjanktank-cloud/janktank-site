@@ -1,0 +1,25 @@
+{
+  "id": "rec1L4TAo8BIZEU9X",
+  "slug": "smothering-wheels",
+  "name": "Smothering Wheels",
+  "author": "Zerodaim",
+  "format": "Modern",
+  "archetype": "Combo",
+  "characteristics": [
+    "Wheel Effects"
+  ],
+  "colors": [
+    "White",
+    "Blue",
+    "Black",
+    "Red"
+  ],
+  "updatedAt": "2019-03-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Molten Psyche",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

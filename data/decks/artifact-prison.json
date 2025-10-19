@@ -1,0 +1,22 @@
+{
+  "id": "rec4fLxOfnSnD6i62",
+  "slug": "artifact-prison",
+  "name": "Artifact Prison",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Prison",
+  "characteristics": [
+    "Tron"
+  ],
+  "colors": [
+    "Colorless"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": true,
+  "coverCard": "Lodestone Golem",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

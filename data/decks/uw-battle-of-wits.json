@@ -1,0 +1,23 @@
+{
+  "id": "recWAN4q4ergx5nEx",
+  "slug": "uw-battle-of-wits",
+  "name": "UW Battle of Wits",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Control",
+  "characteristics": [
+    "Alternate Win Condition"
+  ],
+  "colors": [
+    "White",
+    "Blue"
+  ],
+  "updatedAt": "2018-04-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Jace, the Mindsculptor",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

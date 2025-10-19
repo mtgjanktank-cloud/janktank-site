@@ -1,0 +1,23 @@
+{
+  "id": "reciijRSOe4u9C2K1",
+  "slug": "heartless-valuetown",
+  "name": "Heartless Valuetown",
+  "author": "u/packbuckbrew",
+  "format": "Modern",
+  "archetype": "Value",
+  "characteristics": [
+    "Land Value"
+  ],
+  "colors": [
+    "Black",
+    "Green"
+  ],
+  "updatedAt": "2018-02-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "The Gitrog Monster",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

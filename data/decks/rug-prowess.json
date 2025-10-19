@@ -1,0 +1,24 @@
+{
+  "id": "rechyHSlO8GbxU52a",
+  "slug": "rug-prowess",
+  "name": "RUG Prowess",
+  "author": "u/CommandaPanda",
+  "format": "Modern",
+  "archetype": "Aggro",
+  "characteristics": [
+    "Spells"
+  ],
+  "colors": [
+    "Blue",
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Monastery Swiftspear",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

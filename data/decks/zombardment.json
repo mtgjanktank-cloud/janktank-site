@@ -1,0 +1,24 @@
+{
+  "id": "recCh4IcLI3Ml6R1l",
+  "slug": "zombardment",
+  "name": "Zombardment",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Pseudo Combo",
+  "characteristics": [
+    "Aristocrats"
+  ],
+  "colors": [
+    "Black",
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2017-09-01T00:00:00.000Z",
+  "containsBannedCards": true,
+  "coverCard": "Greater Gargadon",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

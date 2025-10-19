@@ -1,0 +1,22 @@
+{
+  "id": "recYgJrDTSkbWBmV0",
+  "slug": "cryptic-eldrazi",
+  "name": "Cryptic Eldrazi",
+  "author": "u/userlastname",
+  "format": "Modern",
+  "archetype": "Tribal",
+  "characteristics": [
+    "Tempo"
+  ],
+  "colors": [
+    "Blue"
+  ],
+  "updatedAt": "2018-02-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Matter Reshaper",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

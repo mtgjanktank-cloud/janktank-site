@@ -1,0 +1,23 @@
+{
+  "id": "recj9yJqha465MbrU",
+  "slug": "swan-storm",
+  "name": "Swan Storm",
+  "author": "u/Deathjoker00",
+  "format": "Modern",
+  "archetype": "Combo",
+  "characteristics": [
+    "Storm"
+  ],
+  "colors": [
+    "Blue",
+    "Red"
+  ],
+  "updatedAt": "2018-02-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Swans of Bryn Argoll",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

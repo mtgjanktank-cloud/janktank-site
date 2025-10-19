@@ -1,0 +1,23 @@
+{
+  "id": "recOmjZQYFOeTOcvZ",
+  "slug": "blue-moon-turns",
+  "name": "Blue Moon Turns",
+  "author": "u/HELLO_WORKS_AGAIN",
+  "format": "Modern",
+  "archetype": "Pseudo Combo",
+  "characteristics": [
+    "Prison"
+  ],
+  "colors": [
+    "Blue",
+    "Red"
+  ],
+  "updatedAt": "2017-05-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Howling Mine",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

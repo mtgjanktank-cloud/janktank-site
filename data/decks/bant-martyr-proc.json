@@ -1,0 +1,24 @@
+{
+  "id": "rec4AE4IFQKh4oVdB",
+  "slug": "bant-martyr-proc",
+  "name": "Bant Martyr Proc",
+  "author": "",
+  "format": "Modern",
+  "archetype": "Other",
+  "characteristics": [
+    "Life Gain, Tool Box"
+  ],
+  "colors": [
+    "White",
+    "Blue",
+    "Green"
+  ],
+  "updatedAt": "2018-02-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Martyr of Sands",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

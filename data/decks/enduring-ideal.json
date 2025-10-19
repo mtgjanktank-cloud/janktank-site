@@ -1,0 +1,23 @@
+{
+  "id": "rec1W39o6jnmgFlyT",
+  "slug": "enduring-ideal",
+  "name": "Enduring Ideal",
+  "author": "Rinko",
+  "format": "Modern",
+  "archetype": "Prison",
+  "characteristics": [
+    "Enchantments"
+  ],
+  "colors": [
+    "White",
+    "Red"
+  ],
+  "updatedAt": "2017-09-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Enduring Ideal",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "recTkNm82sxKAGZEE",
+  "slug": "narset-turns",
+  "name": "Narset Turns",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Pseudo Combo",
+  "characteristics": [
+    "Extra Turns"
+  ],
+  "colors": [
+    "White",
+    "Blue",
+    "Red"
+  ],
+  "updatedAt": "2018-04-01T00:00:00.000Z",
+  "containsBannedCards": true,
+  "coverCard": "Narset, Enlightened Master",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

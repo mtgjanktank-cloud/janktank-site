@@ -1,0 +1,24 @@
+{
+  "id": "recMwDJgqyThfhkQP",
+  "slug": "abzan-sustenance",
+  "name": "Abzan Sustenance",
+  "author": "u/TheOinkinator",
+  "format": "Modern",
+  "archetype": "Value",
+  "characteristics": [
+    "Creature Count Matters"
+  ],
+  "colors": [
+    "White",
+    "Black",
+    "Green"
+  ],
+  "updatedAt": "2018-08-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Harsh Sustenance",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

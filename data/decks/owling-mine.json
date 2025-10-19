@@ -1,0 +1,23 @@
+{
+  "id": "reccsdMPVZ1QKHcx6",
+  "slug": "owling-mine",
+  "name": "Owling Mine",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Attrition",
+  "characteristics": [
+    "Card Draw"
+  ],
+  "colors": [
+    "Blue",
+    "Red"
+  ],
+  "updatedAt": "2018-02-01T00:00:00.000Z",
+  "containsBannedCards": true,
+  "coverCard": "Ebony Owl Netsuke",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

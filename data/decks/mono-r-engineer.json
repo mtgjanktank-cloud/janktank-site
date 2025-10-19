@@ -1,0 +1,22 @@
+{
+  "id": "rech0kVSCwruh60Xx",
+  "slug": "mono-r-engineer",
+  "name": "Mono-R Engineer",
+  "author": "u/mackslc",
+  "format": "Modern",
+  "archetype": "Control",
+  "characteristics": [
+    "Artifact Value"
+  ],
+  "colors": [
+    "Red"
+  ],
+  "updatedAt": "2019-06-01T00:00:00.000Z",
+  "containsBannedCards": true,
+  "coverCard": "Goblin Engineer",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

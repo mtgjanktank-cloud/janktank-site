@@ -1,0 +1,25 @@
+{
+  "id": "rechRS22oDs2GhzQS",
+  "slug": "all-natural-breakfast",
+  "name": "All-Natural Breakfast",
+  "author": "u/BACEXXXXXX",
+  "format": "Modern",
+  "archetype": "Combo",
+  "characteristics": [
+    "Eggs"
+  ],
+  "colors": [
+    "White",
+    "Blue",
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2018-05-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Mana Seism",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

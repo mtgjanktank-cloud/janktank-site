@@ -1,0 +1,22 @@
+{
+  "id": "rect5EdvPr5XSsr3I",
+  "slug": "mono-r-living-end",
+  "name": "Mono-R Living End",
+  "author": "MTG Tavern",
+  "format": "Modern",
+  "archetype": "Combo",
+  "characteristics": [
+    "Graveyard Based"
+  ],
+  "colors": [
+    "Red"
+  ],
+  "updatedAt": "2019-01-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Electrodominance",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

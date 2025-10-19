@@ -1,0 +1,22 @@
+{
+  "id": "recKEDarjUAOeq0fO",
+  "slug": "mono-g-delirium",
+  "name": "Mono-G Delirium",
+  "author": "AshStar",
+  "format": "Modern",
+  "archetype": "Midrange",
+  "characteristics": [
+    "Ramp"
+  ],
+  "colors": [
+    "Green"
+  ],
+  "updatedAt": "2019-03-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Traverse the Ulvenwald",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

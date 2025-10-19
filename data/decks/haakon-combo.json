@@ -1,0 +1,24 @@
+{
+  "id": "recxt23VcFBEW8Zsb",
+  "slug": "haakon-combo",
+  "name": "Haakon Combo",
+  "author": "ComboCarl",
+  "format": "Modern",
+  "archetype": "Combo",
+  "characteristics": [
+    "Graveyard Based"
+  ],
+  "colors": [
+    "Blue",
+    "Black",
+    "Red"
+  ],
+  "updatedAt": "2019-12-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Haakon, Stromgald Scourge",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

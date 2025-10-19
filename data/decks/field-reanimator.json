@@ -1,0 +1,25 @@
+{
+  "id": "reccmYkt8GuA6naIb",
+  "slug": "field-reanimator",
+  "name": "Field Reanimator",
+  "author": "SGCYRUS",
+  "format": "Modern",
+  "archetype": "Control",
+  "characteristics": [
+    "Gifts Ungiven"
+  ],
+  "colors": [
+    "White",
+    "Blue",
+    "Black",
+    "Green"
+  ],
+  "updatedAt": "2019-12-01T00:00:00.000Z",
+  "containsBannedCards": true,
+  "coverCard": "Field of the Dead",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

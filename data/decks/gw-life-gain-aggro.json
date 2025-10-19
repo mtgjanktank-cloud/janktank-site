@@ -1,0 +1,23 @@
+{
+  "id": "rec9dEw6tsRgnBKdF",
+  "slug": "gw-life-gain-aggro",
+  "name": "GW Life Gain Aggro",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Aggro",
+  "characteristics": [
+    "Life Gain"
+  ],
+  "colors": [
+    "White",
+    "Green"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Lone Rider",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

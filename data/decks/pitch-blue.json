@@ -1,0 +1,23 @@
+{
+  "id": "reciI66N0oDEhFKg7",
+  "slug": "pitch-blue",
+  "name": "Pitch Blue",
+  "author": "Conley Woods",
+  "format": "Modern",
+  "archetype": "Control",
+  "characteristics": [
+    "Card Draw"
+  ],
+  "colors": [
+    "Blue",
+    "Black"
+  ],
+  "updatedAt": "2019-05-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Notion Thief",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

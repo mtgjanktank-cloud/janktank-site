@@ -1,0 +1,22 @@
+{
+  "id": "reca1QqL05vdfJxKa",
+  "slug": "charged-destruction",
+  "name": "Charged Destruction",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Pseudo Combo",
+  "characteristics": [
+    "Artifact Ramp"
+  ],
+  "colors": [
+    "Red"
+  ],
+  "updatedAt": "2017-04-01T00:00:00.000Z",
+  "containsBannedCards": true,
+  "coverCard": "Coretapper",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

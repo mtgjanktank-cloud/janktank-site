@@ -1,0 +1,23 @@
+{
+  "id": "rec0joiLkwDxQkU2S",
+  "slug": "heartbeat-combo",
+  "name": "Heartbeat Combo",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Combo",
+  "characteristics": [
+    "Ramp"
+  ],
+  "colors": [
+    "Blue",
+    "Green"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Heartbeat of Spring",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

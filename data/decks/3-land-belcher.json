@@ -1,0 +1,23 @@
+{
+  "id": "recb0MIdf33hBNcn5",
+  "slug": "3-land-belcher",
+  "name": "3-Land Belcher",
+  "author": "u/colzdude",
+  "format": "Modern",
+  "archetype": "Combo",
+  "characteristics": [
+    "Deck Manipulation"
+  ],
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2018-09-01T00:00:00.000Z",
+  "containsBannedCards": true,
+  "coverCard": "Recross the Paths",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "recpRE8z83MzcPaIu",
+  "slug": "oops-all-spells",
+  "name": "Oops, All Spells!",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Combo",
+  "characteristics": [
+    "Graveyard Based"
+  ],
+  "colors": [
+    "Blue",
+    "Black",
+    "Red"
+  ],
+  "updatedAt": "2017-01-12T00:00:00.000Z",
+  "containsBannedCards": true,
+  "coverCard": "Balustrade Spy",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

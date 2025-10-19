@@ -1,0 +1,23 @@
+{
+  "id": "rec5L0EYmQhvMrw6n",
+  "slug": "seasons-past-combo",
+  "name": "Seasons Past Combo",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Combo",
+  "characteristics": [
+    "Spells"
+  ],
+  "colors": [
+    "Blue",
+    "Green"
+  ],
+  "updatedAt": "2017-01-12T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Seasons' Past",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

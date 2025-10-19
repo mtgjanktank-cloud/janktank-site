@@ -1,0 +1,25 @@
+{
+  "id": "recwuR0BVjKydcSld",
+  "slug": "doran-ascendancy",
+  "name": "Doran Ascendancy",
+  "author": "u/DrDrater",
+  "format": "Modern",
+  "archetype": "Aggro",
+  "characteristics": [
+    "Pseudo Combo"
+  ],
+  "colors": [
+    "White",
+    "Black",
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2018-03-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Doran, the Siege tower",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

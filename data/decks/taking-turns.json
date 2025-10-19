@@ -1,0 +1,22 @@
+{
+  "id": "recRumFAuDoaTusOt",
+  "slug": "taking-turns",
+  "name": "Taking Turns",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Pseudo Combo",
+  "characteristics": [
+    "Extra Turns"
+  ],
+  "colors": [
+    "Blue"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Time Warp",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

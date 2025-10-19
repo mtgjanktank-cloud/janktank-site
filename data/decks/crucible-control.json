@@ -1,0 +1,22 @@
+{
+  "id": "recQ94QobwwVQM5jq",
+  "slug": "crucible-control",
+  "name": "Crucible Control",
+  "author": "Randall Thompson",
+  "format": "Modern",
+  "archetype": "Prison",
+  "characteristics": [
+    "Artifact Based"
+  ],
+  "colors": [
+    "Black"
+  ],
+  "updatedAt": "2017-04-01T00:00:00.000Z",
+  "containsBannedCards": true,
+  "coverCard": "Crucible of Worlds",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

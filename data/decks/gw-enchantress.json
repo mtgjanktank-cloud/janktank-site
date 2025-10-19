@@ -1,0 +1,23 @@
+{
+  "id": "recfptXUjAB3faUiP",
+  "slug": "gw-enchantress",
+  "name": "GW Enchantress",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Midrange",
+  "characteristics": [
+    "Prison"
+  ],
+  "colors": [
+    "Green",
+    "White"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Leyline of Sanctity",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

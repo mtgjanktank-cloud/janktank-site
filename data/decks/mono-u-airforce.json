@@ -1,0 +1,22 @@
+{
+  "id": "recx5c5ftPbiwsvXa",
+  "slug": "mono-u-airforce",
+  "name": "Mono-U Airforce",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Aggro",
+  "characteristics": [
+    "Flyers"
+  ],
+  "colors": [
+    "Blue"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Favorable Wins",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

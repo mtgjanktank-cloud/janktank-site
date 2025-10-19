@@ -1,0 +1,24 @@
+{
+  "id": "recr4UuAoadDBOgAQ",
+  "slug": "unstorm",
+  "name": "Unstorm",
+  "author": "Marc Tobiasch",
+  "format": "Modern",
+  "archetype": "Combo",
+  "characteristics": [
+    "Storm, Control"
+  ],
+  "colors": [
+    "White",
+    "Blue",
+    "Red"
+  ],
+  "updatedAt": "2015-11-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Pyromancer's Ascension",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

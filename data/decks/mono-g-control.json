@@ -1,0 +1,22 @@
+{
+  "id": "rec75RU6rv0rUgxL5",
+  "slug": "mono-g-control",
+  "name": "Mono-G Control",
+  "author": "u/MarstheSoos",
+  "format": "Modern",
+  "archetype": "Control",
+  "characteristics": [
+    "Land Destruction"
+  ],
+  "colors": [
+    "Green"
+  ],
+  "updatedAt": "2019-06-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Primal Command",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

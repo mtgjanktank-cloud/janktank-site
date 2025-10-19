@@ -1,0 +1,23 @@
+{
+  "id": "recnIeNjegIsomdhl",
+  "slug": "blue-stax",
+  "name": "Blue Stax",
+  "author": "Plum",
+  "format": "Timeless",
+  "archetype": "Prison",
+  "characteristics": [
+    "Mana Denial"
+  ],
+  "colors": [
+    "Blue",
+    "Black"
+  ],
+  "updatedAt": "2024-12-07T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Harbinger of the Seas",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

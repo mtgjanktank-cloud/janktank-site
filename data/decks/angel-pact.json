@@ -1,0 +1,24 @@
+{
+  "id": "recoTyl5sk0fVlvgc",
+  "slug": "angel-pact",
+  "name": "Angel Pact",
+  "author": "u/MrRaeb",
+  "format": "Modern",
+  "archetype": "Pseudo Combo",
+  "characteristics": [
+    "Value"
+  ],
+  "colors": [
+    "White",
+    "Blue",
+    "Red"
+  ],
+  "updatedAt": "2018-10-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Platinum Angel",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

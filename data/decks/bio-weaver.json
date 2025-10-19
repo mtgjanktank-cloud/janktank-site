@@ -1,0 +1,23 @@
+{
+  "id": "recVrcw2x8yeCCfRb",
+  "slug": "bio-weaver",
+  "name": "Bio-Weaver",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Combo",
+  "characteristics": [
+    "Alternate Win Condition"
+  ],
+  "colors": [
+    "Blue",
+    "Green"
+  ],
+  "updatedAt": "2017-04-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Biovisonary",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

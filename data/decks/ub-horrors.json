@@ -1,0 +1,23 @@
+{
+  "id": "recGHvxqPZudN0qEy",
+  "slug": "ub-horrors",
+  "name": "UB Horrors",
+  "author": "u/Commanda_Panda",
+  "format": "Modern",
+  "archetype": "Midrange",
+  "characteristics": [
+    "Value"
+  ],
+  "colors": [
+    "Blue",
+    "Black"
+  ],
+  "updatedAt": "2018-02-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Thing in the Ice",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}

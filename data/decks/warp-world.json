@@ -1,0 +1,24 @@
+{
+  "id": "recPSObelf6c2zPwF",
+  "slug": "warp-world",
+  "name": "Warp World",
+  "author": "u/URLSweatshirt",
+  "format": "Modern",
+  "archetype": "Midrange",
+  "characteristics": [
+    "Value"
+  ],
+  "colors": [
+    "White",
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Warp World",
+  "decklist": {
+    "raw": "[object Object]",
+    "mainText": "[object Object]",
+    "sideText": ""
+  }
+}
