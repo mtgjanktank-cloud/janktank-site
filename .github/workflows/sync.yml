@@ -1,15 +1,19 @@
 name: Sync Airtable data & Deploy
 
+permissions:
+  contents: write   # allow pushing commits
+
 on:
   workflow_dispatch: {}
   schedule:
-    - cron: "30 09 * * *"   # 09:30 UTC nightly
+    - cron: "30 09 * * *"
   push:
     paths:
       - "tools/**"
       - ".github/workflows/sync.yml"
       - "package.json"
       - "package-lock.json"
+
 
 jobs:
   sync-and-deploy:
