@@ -17,8 +17,8 @@
   "containsBannedCards": false,
   "coverCard": "Platinum Angel",
   "decklist": {
-    "raw": "[object Object]",
-    "mainText": "[object Object]",
-    "sideText": ""
+    "raw": "3 Arid Mesa\r\n4 Chance for Glory\r\n2 Desolate Lighthouse\r\n3 Flooded Strand\r\n3 Gideon of the Trials\r\n2 Glacial Fortress\r\n2 Hallowed Fountain\r\n2 Island\r\n4 Lightning Bolt\r\n4 Madcap Experiment\r\n1 Mountain\r\n4 Pact of Negation\r\n1 Path to Exile\r\n4 Peek\r\n4 Peer Through Depths\r\n1 Plains\r\n2 Platinum Angel\r\n1 Sacred Foundry\r\n4 Scalding Tarn\r\n4 Serum Visions\r\n4 Snapcaster Mage\r\n1 Steam Vents\r\n\r\n2 Abrade\r\n1 Gideon of the Trials\r\n2 Gideon, Ally of Zendikar\r\n4 Meddling Mage\r\n1 Path to Exile\r\n2 Supreme Verdict\r\n1 Surgical Extraction\r\n2 Vendilion Clique\r\n",
+    "mainText": "3 Arid Mesa\n4 Chance for Glory\n2 Desolate Lighthouse\n3 Flooded Strand\n3 Gideon of the Trials\n2 Glacial Fortress\n2 Hallowed Fountain\n2 Island\n4 Lightning Bolt\n4 Madcap Experiment\n1 Mountain\n4 Pact of Negation\n1 Path to Exile\n4 Peek\n4 Peer Through Depths\n1 Plains\n2 Platinum Angel\n1 Sacred Foundry\n4 Scalding Tarn\n4 Serum Visions\n4 Snapcaster Mage\n1 Steam Vents",
+    "sideText": "2 Abrade\n1 Gideon of the Trials\n2 Gideon, Ally of Zendikar\n4 Meddling Mage\n1 Path to Exile\n2 Supreme Verdict\n1 Surgical Extraction\n2 Vendilion Clique"
   }
 }

@@ -16,8 +16,8 @@
   "containsBannedCards": true,
   "coverCard": "Recross the Paths",
   "decklist": {
-    "raw": "[object Object]",
-    "mainText": "[object Object]",
-    "sideText": ""
+    "raw": "4 Attune with Aether\n4 Caravan Vigil\n4 Chancellor of the Tangle\n4 Desperate Ritual\n4 Faithless Looting\n2 Forest\n4 Goblin Charbelcher\n2 Lay of the Land\n4 Manamorphose\n1 Mountain\n1 Pact of Negation\n3 Pyretic Ritual\n4 Recross the Paths\n2 Reforge the Soul\n4 Renegade Map\n4 Simian Spirit Guide\n1 Street Wraith\n4 Traverse the Ulvenwald\n4 Wild Cantor\n\nSideboard:\n4 Blood Moon\n1 Ingot Chewer\n3 Lightning Bolt\n2 Magus of the Moon\n1 Mountain\n1 Nature's Claim\n1 Pact of Negation\n1 Pyretic Ritual\n1 Slaughter Pact\n\n",
+    "mainText": "4 Attune with Aether\n4 Caravan Vigil\n4 Chancellor of the Tangle\n4 Desperate Ritual\n4 Faithless Looting\n2 Forest\n4 Goblin Charbelcher\n2 Lay of the Land\n4 Manamorphose\n1 Mountain\n1 Pact of Negation\n3 Pyretic Ritual\n4 Recross the Paths\n2 Reforge the Soul\n4 Renegade Map\n4 Simian Spirit Guide\n1 Street Wraith\n4 Traverse the Ulvenwald\n4 Wild Cantor",
+    "sideText": "4 Blood Moon\n1 Ingot Chewer\n3 Lightning Bolt\n2 Magus of the Moon\n1 Mountain\n1 Nature's Claim\n1 Pact of Negation\n1 Pyretic Ritual\n1 Slaughter Pact"
   }
 }

@@ -15,8 +15,8 @@
   "containsBannedCards": false,
   "coverCard": "Primal Surge",
   "decklist": {
-    "raw": "[object Object]",
-    "mainText": "[object Object]",
-    "sideText": ""
+    "raw": "4 Abundant Growth\r\n1 Akroma's Memorial\r\n4 Arbor Elf\r\n4 Courser of Kruphix\r\n4 Eidolon of Blossoms\r\n1 Emrakul, the Aeons Torn\r\n10 Forest\r\n4 Garruk Wildspeaker\r\n2 Ghost Quarter\r\n1 Kessig Wolf Run\r\n4 Nykthos, Shrine to Nyx\r\n4 Overgrowth\r\n2 Primal Surge\r\n1 Stomping Ground\r\n2 Ulamog, the Ceaseless Hunger\r\n4 Utopia Sprawl\r\n4 Voyaging Satyr\r\n4 Wooded Foothills\r\n\r\n2 Acidic Slime\r\n3 Choke\r\n3 Melira, Sylvok Outcast\r\n4 Nylea's Disciple\r\n3 Scavenging Ooze\r\n",
+    "mainText": "4 Abundant Growth\n1 Akroma's Memorial\n4 Arbor Elf\n4 Courser of Kruphix\n4 Eidolon of Blossoms\n1 Emrakul, the Aeons Torn\n10 Forest\n4 Garruk Wildspeaker\n2 Ghost Quarter\n1 Kessig Wolf Run\n4 Nykthos, Shrine to Nyx\n4 Overgrowth\n2 Primal Surge\n1 Stomping Ground\n2 Ulamog, the Ceaseless Hunger\n4 Utopia Sprawl\n4 Voyaging Satyr\n4 Wooded Foothills",
+    "sideText": "2 Acidic Slime\n3 Choke\n3 Melira, Sylvok Outcast\n4 Nylea's Disciple\n3 Scavenging Ooze"
   }
 }

@@ -17,8 +17,8 @@
   "containsBannedCards": false,
   "coverCard": "Haakon, Stromgald Scourge",
   "decklist": {
-    "raw": "[object Object]",
-    "mainText": "[object Object]",
-    "sideText": ""
+    "raw": "4 Aether Vial\r\n4 Basal Sliver\r\n2 Blood Crypt\r\n2 Bloodstained Mire\r\n4 Cavern of Souls\r\n4 Changeling Outcast\r\n4 Chart a Course\r\n2 Collective Brutality\r\n4 Haakon, Stromgald Scourge\r\n1 Hallowed Fountain\r\n1 Island\r\n1 Izzet Charm\r\n3 Mastermind's Acquisition\r\n2 Polluted Delta\r\n1 Sacred Foundry\r\n2 Scalding Tarn\r\n4 Skirk Prospector\r\n2 Steam Vents\r\n1 Swamp\r\n4 Universal Automaton\r\n2 Unsettled Mariner\r\n2 Watery Grave\r\n4 Zulaport Cutthroat\r\n\r\n1 Alpine Moon\r\n1 Ashiok, Dream Render\r\n1 Banefire\r\n1 Bitter Ordeal\r\n1 Defense Grid\r\n1 Echoing Truth\r\n1 Kolaghan's Command\r\n3 Leyline of the Void\r\n1 Liliana of the Veil\r\n1 Pact of Negation\r\n1 Pithing Needle\r\n1 Surgical Extraction\r\n1 Unmoored Ego\r\n",
+    "mainText": "4 Aether Vial\n4 Basal Sliver\n2 Blood Crypt\n2 Bloodstained Mire\n4 Cavern of Souls\n4 Changeling Outcast\n4 Chart a Course\n2 Collective Brutality\n4 Haakon, Stromgald Scourge\n1 Hallowed Fountain\n1 Island\n1 Izzet Charm\n3 Mastermind's Acquisition\n2 Polluted Delta\n1 Sacred Foundry\n2 Scalding Tarn\n4 Skirk Prospector\n2 Steam Vents\n1 Swamp\n4 Universal Automaton\n2 Unsettled Mariner\n2 Watery Grave\n4 Zulaport Cutthroat",
+    "sideText": "1 Alpine Moon\n1 Ashiok, Dream Render\n1 Banefire\n1 Bitter Ordeal\n1 Defense Grid\n1 Echoing Truth\n1 Kolaghan's Command\n3 Leyline of the Void\n1 Liliana of the Veil\n1 Pact of Negation\n1 Pithing Needle\n1 Surgical Extraction\n1 Unmoored Ego"
   }
 }

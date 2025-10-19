@@ -15,8 +15,8 @@
   "containsBannedCards": false,
   "coverCard": "Magus of the Tabernacle",
   "decklist": {
-    "raw": "[object Object]",
-    "mainText": "[object Object]",
-    "sideText": ""
+    "raw": "1 Ajani Goldmane\n1 Archangel of Tithes\n1 Baneslayer Angel\n2 Banishing Light\n2 Elspeth, Knight-Errant\n4 Flagstones of Trokair\n4 Ghost Quarter\n4 Ghostly Prison\n1 Gideon of the Trials\n1 Gideon, Ally of Zendikar\n4 Leonin Arbiter\n3 Magus of the Tabernacle\n4 Mutavault\n3 Nevermore\n1 Oblivion Ring\n3 Path to Exile\n12 Plains\n4 Runed Halo\n1 Scepter of Dominance\n1 Storage Matrix\n3 Wrath of God\n\nSideboard:\n2 Blessed Alliance\n2 Defense Grid\n1 Kataki, War's Wage\n2 Kor Firewalker\n1 Linvala, Keeper of Silence\n1 Magus of the Moat\n2 Mirran Crusader\n1 Path to Exile\n1 Rest in Peace\n2 Stony Silence\n\n",
+    "mainText": "1 Ajani Goldmane\n1 Archangel of Tithes\n1 Baneslayer Angel\n2 Banishing Light\n2 Elspeth, Knight-Errant\n4 Flagstones of Trokair\n4 Ghost Quarter\n4 Ghostly Prison\n1 Gideon of the Trials\n1 Gideon, Ally of Zendikar\n4 Leonin Arbiter\n3 Magus of the Tabernacle\n4 Mutavault\n3 Nevermore\n1 Oblivion Ring\n3 Path to Exile\n12 Plains\n4 Runed Halo\n1 Scepter of Dominance\n1 Storage Matrix\n3 Wrath of God",
+    "sideText": "2 Blessed Alliance\n2 Defense Grid\n1 Kataki, War's Wage\n2 Kor Firewalker\n1 Linvala, Keeper of Silence\n1 Magus of the Moat\n2 Mirran Crusader\n1 Path to Exile\n1 Rest in Peace\n2 Stony Silence"
   }
 }

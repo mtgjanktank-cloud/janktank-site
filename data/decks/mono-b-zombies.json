@@ -15,8 +15,8 @@
   "containsBannedCards": false,
   "coverCard": "Gravecrawler",
   "decklist": {
-    "raw": "[object Object]",
-    "mainText": "[object Object]",
-    "sideText": ""
+    "raw": "4 Bloodghast\r\n4 Bloodstained Mire\r\n2 Collective Brutality\r\n3 Cryptbreaker\r\n2 Dismember\r\n4 Fatal Push\r\n3 Geralf's Messenger\r\n4 Gifted Aetherborn\r\n4 Gravecrawler\r\n1 Gray Merchant of Asphodel\r\n1 Kalitas, Traitor of Ghet\r\n1 Liliana of the Veil\r\n3 Mutavault\r\n4 Relentless Dead\r\n14 Swamp\r\n4 Thoughtseize\r\n2 Urborg, Tomb of Yawgmoth\r\n\r\n2 Collective Brutality\r\n2 Damnation\r\n4 Ghost Quarter\r\n2 Lashwrithe\r\n2 Phyrexian Obliterator\r\n1 Ratchet Bomb\r\n2 Surgical Extraction\r\n",
+    "mainText": "4 Bloodghast\n4 Bloodstained Mire\n2 Collective Brutality\n3 Cryptbreaker\n2 Dismember\n4 Fatal Push\n3 Geralf's Messenger\n4 Gifted Aetherborn\n4 Gravecrawler\n1 Gray Merchant of Asphodel\n1 Kalitas, Traitor of Ghet\n1 Liliana of the Veil\n3 Mutavault\n4 Relentless Dead\n14 Swamp\n4 Thoughtseize\n2 Urborg, Tomb of Yawgmoth",
+    "sideText": "2 Collective Brutality\n2 Damnation\n4 Ghost Quarter\n2 Lashwrithe\n2 Phyrexian Obliterator\n1 Ratchet Bomb\n2 Surgical Extraction"
   }
 }

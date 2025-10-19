@@ -18,8 +18,8 @@
   "containsBannedCards": false,
   "coverCard": "Doran, the Siege tower",
   "decklist": {
-    "raw": "[object Object]",
-    "mainText": "[object Object]",
-    "sideText": ""
+    "raw": "3 Abrupt Decay\r\n3 Assault Formation\r\n4 Birds of Paradise\r\n4 Disowned Ancestor\r\n3 Doran, the Siege Tower\r\n1 Forbidding Watchtower\r\n2 Forest\r\n1 Gavony Township\r\n1 Kolaghan's Command\r\n4 Lagonna-Band Trailblazer\r\n1 Maelstrom Pulse\r\n3 Mardu Ascendancy\r\n3 Murmuring Bosk\r\n3 Nyx-Fleece Ram\r\n2 Overgrown Tomb\r\n2 Path to Exile\r\n1 Plains\r\n1 Reflecting Pool\r\n1 Sacred Foundry\r\n4 Spellskite\r\n1 Stomping Ground\r\n1 Temple Garden\r\n4 Treefolk Harbinger\r\n4 Windswept Heath\r\n3 Wooded Foothills\r\n\r\n2 Crackling Doom\r\n3 Firespout\r\n4 Leyline of Sanctity\r\n1 Path to Exile\r\n2 Relic of Progenitus\r\n3 Thoughtseize\r\n",
+    "mainText": "3 Abrupt Decay\n3 Assault Formation\n4 Birds of Paradise\n4 Disowned Ancestor\n3 Doran, the Siege Tower\n1 Forbidding Watchtower\n2 Forest\n1 Gavony Township\n1 Kolaghan's Command\n4 Lagonna-Band Trailblazer\n1 Maelstrom Pulse\n3 Mardu Ascendancy\n3 Murmuring Bosk\n3 Nyx-Fleece Ram\n2 Overgrown Tomb\n2 Path to Exile\n1 Plains\n1 Reflecting Pool\n1 Sacred Foundry\n4 Spellskite\n1 Stomping Ground\n1 Temple Garden\n4 Treefolk Harbinger\n4 Windswept Heath\n3 Wooded Foothills",
+    "sideText": "2 Crackling Doom\n3 Firespout\n4 Leyline of Sanctity\n1 Path to Exile\n2 Relic of Progenitus\n3 Thoughtseize"
   }
 }

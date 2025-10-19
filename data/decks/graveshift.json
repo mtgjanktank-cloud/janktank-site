@@ -16,8 +16,8 @@
   "containsBannedCards": true,
   "coverCard": "Splendid Reclamation",
   "decklist": {
-    "raw": "[object Object]",
-    "mainText": "[object Object]",
-    "sideText": ""
+    "raw": "1 Blood Crypt\r\n4 Cinder Glade\r\n1 Conflagrate\r\n4 Faithless Looting\r\n1 Forest\r\n4 Golgari Thug\r\n4 Insolent Neonate\r\n3 Life from the Loam\r\n2 Lightning Axe\r\n9 Mountain\r\n2 Mystic Retrieval\r\n4 Splendid Reclamation\r\n1 Steam Vents\r\n4 Stinkweed Imp\r\n4 Stomping Ground\r\n4 Tormenting Voice\r\n4 Valakut, the Molten Pinnacle\r\n4 Wooded Foothills\r\n\r\n2 Ancient Grudge\r\n1 Boseiju, Who Shelters All\r\n1 Cavern of Souls\r\n1 Crumble to Dust\r\n1 Explore\r\n2 Lightning Axe\r\n1 Oracle of Mul Daya\r\n3 Primeval Titan\r\n2 Ray of Revelation\r\n1 Slaughter Games\r\n",
+    "mainText": "1 Blood Crypt\n4 Cinder Glade\n1 Conflagrate\n4 Faithless Looting\n1 Forest\n4 Golgari Thug\n4 Insolent Neonate\n3 Life from the Loam\n2 Lightning Axe\n9 Mountain\n2 Mystic Retrieval\n4 Splendid Reclamation\n1 Steam Vents\n4 Stinkweed Imp\n4 Stomping Ground\n4 Tormenting Voice\n4 Valakut, the Molten Pinnacle\n4 Wooded Foothills",
+    "sideText": "2 Ancient Grudge\n1 Boseiju, Who Shelters All\n1 Cavern of Souls\n1 Crumble to Dust\n1 Explore\n2 Lightning Axe\n1 Oracle of Mul Daya\n3 Primeval Titan\n2 Ray of Revelation\n1 Slaughter Games"
   }
 }

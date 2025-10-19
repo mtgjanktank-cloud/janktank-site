@@ -17,8 +17,8 @@
   "containsBannedCards": false,
   "coverCard": "Ashiok, Nighmare Weaver",
   "decklist": {
-    "raw": "[object Object]",
-    "mainText": "[object Object]",
-    "sideText": ""
+    "raw": "2 Ashiok, Nightmare Weaver\r\n4 Celestial Colonnade\r\n4 Dawn Charm\r\n4 Dictate of Kruphix\r\n4 Ethereal Haze\r\n4 Flooded Strand\r\n2 Ghost Quarter\r\n2 Gideon Jura\r\n1 Godless Shrine\r\n2 Hallowed Fountain\r\n1 Holy Day\r\n2 Island\r\n1 Jace Beleren\r\n1 Jace, Memory Adept\r\n1 Marsh Flats\r\n2 Plains\r\n4 Pollen Lullaby\r\n4 Polluted Delta\r\n4 Serum Visions\r\n2 Snapcaster Mage\r\n2 Spreading Seas\r\n4 Supreme Verdict\r\n1 Swamp\r\n1 Tamiyo, the Moon Sage\r\n1 Watery Grave\r\n\r\n1 Ashiok, Nightmare Weaver\r\n3 Leyline of Sanctity\r\n2 Pithing Needle\r\n2 Sphinx's Tutelage\r\n1 Stony Silence\r\n3 Sun Droplet\r\n3 Surgical Extraction\r\n",
+    "mainText": "2 Ashiok, Nightmare Weaver\n4 Celestial Colonnade\n4 Dawn Charm\n4 Dictate of Kruphix\n4 Ethereal Haze\n4 Flooded Strand\n2 Ghost Quarter\n2 Gideon Jura\n1 Godless Shrine\n2 Hallowed Fountain\n1 Holy Day\n2 Island\n1 Jace Beleren\n1 Jace, Memory Adept\n1 Marsh Flats\n2 Plains\n4 Pollen Lullaby\n4 Polluted Delta\n4 Serum Visions\n2 Snapcaster Mage\n2 Spreading Seas\n4 Supreme Verdict\n1 Swamp\n1 Tamiyo, the Moon Sage\n1 Watery Grave",
+    "sideText": "1 Ashiok, Nightmare Weaver\n3 Leyline of Sanctity\n2 Pithing Needle\n2 Sphinx's Tutelage\n1 Stony Silence\n3 Sun Droplet\n3 Surgical Extraction"
   }
 }

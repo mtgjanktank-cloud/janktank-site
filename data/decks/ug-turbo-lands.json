@@ -16,8 +16,8 @@
   "containsBannedCards": false,
   "coverCard": "Oracle of Mul Daya",
   "decklist": {
-    "raw": "[object Object]",
-    "mainText": "[object Object]",
-    "sideText": ""
+    "raw": "4 Arbor Elf\r\n3 Breeding Pool\r\n3 Courser of Kruphix\r\n6 Forest\r\n2 Island\r\n4 Jace, the Mind Sculptor\r\n4 Lotus Cobra\r\n2 Lumbering Falls\r\n4 Misty Rainforest\r\n1 Nissa, Steward of Elements\r\n4 Oracle of Mul Daya\r\n2 Scalding Tarn\r\n2 Serum Visions\r\n1 Stomping Ground\r\n4 Temporal Mastery\r\n4 Tireless Tracker\r\n4 Utopia Sprawl\r\n2 Windswept Heath\r\n4 Wooded Foothills\r\n\r\n3 Ancient Grudge\r\n1 Blood Moon\r\n1 Dismember\r\n1 Dispel\r\n3 Engineered Explosives\r\n2 Lightning Bolt\r\n2 Negate\r\n1 Obstinate Baloth\r\n1 Thrun, the Last Troll\r\n",
+    "mainText": "4 Arbor Elf\n3 Breeding Pool\n3 Courser of Kruphix\n6 Forest\n2 Island\n4 Jace, the Mind Sculptor\n4 Lotus Cobra\n2 Lumbering Falls\n4 Misty Rainforest\n1 Nissa, Steward of Elements\n4 Oracle of Mul Daya\n2 Scalding Tarn\n2 Serum Visions\n1 Stomping Ground\n4 Temporal Mastery\n4 Tireless Tracker\n4 Utopia Sprawl\n2 Windswept Heath\n4 Wooded Foothills",
+    "sideText": "3 Ancient Grudge\n1 Blood Moon\n1 Dismember\n1 Dispel\n3 Engineered Explosives\n2 Lightning Bolt\n2 Negate\n1 Obstinate Baloth\n1 Thrun, the Last Troll"
   }
 }

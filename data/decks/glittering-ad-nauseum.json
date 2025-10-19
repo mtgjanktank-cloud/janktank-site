@@ -19,8 +19,8 @@
   "containsBannedCards": true,
   "coverCard": "Ad Nauseam",
   "decklist": {
-    "raw": "[object Object]",
-    "mainText": "[object Object]",
-    "sideText": ""
+    "raw": "4 Ad Nauseam\n4 Angel's Grace\n2 Botanical Sanctum\n1 Breeding Pool\n4 City of Brass\n1 Forest\n3 Gemstone Mine\n4 Glittering Wish\n1 Godless Shrine\n1 Laboratory Maniac\n1 Lightning Storm\n4 Lotus Bloom\n1 Overgrown Tomb\n2 Pact of Negation\n4 Pentad Prism\n3 Phyrexian Unlife\n1 Plains\n1 Sacred Foundry\n2 Seachrome Coast\n4 Serum Visions\n4 Simian Spirit Guide\n4 Sleight of Hand\n4 Windswept Heath\n\nSideboard:\n1 Bring to Light\n1 Grafdigger's Cage\n1 Jund Charm\n4 Leyline of Sanctity\n1 Pact of Negation\n1 Sigarda, Heron's Grace\n1 Slaughter Games\n1 Supreme Verdict\n1 Thoughtseize\n1 Vexing Shusher\n1 Wargate\n1 Wear / Tear\n\n",
+    "mainText": "4 Ad Nauseam\n4 Angel's Grace\n2 Botanical Sanctum\n1 Breeding Pool\n4 City of Brass\n1 Forest\n3 Gemstone Mine\n4 Glittering Wish\n1 Godless Shrine\n1 Laboratory Maniac\n1 Lightning Storm\n4 Lotus Bloom\n1 Overgrown Tomb\n2 Pact of Negation\n4 Pentad Prism\n3 Phyrexian Unlife\n1 Plains\n1 Sacred Foundry\n2 Seachrome Coast\n4 Serum Visions\n4 Simian Spirit Guide\n4 Sleight of Hand\n4 Windswept Heath",
+    "sideText": "1 Bring to Light\n1 Grafdigger's Cage\n1 Jund Charm\n4 Leyline of Sanctity\n1 Pact of Negation\n1 Sigarda, Heron's Grace\n1 Slaughter Games\n1 Supreme Verdict\n1 Thoughtseize\n1 Vexing Shusher\n1 Wargate\n1 Wear / Tear"
   }
 }

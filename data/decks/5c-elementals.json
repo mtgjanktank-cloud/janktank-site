@@ -19,8 +19,8 @@
   "containsBannedCards": false,
   "coverCard": "Voice of Resurgance",
   "decklist": {
-    "raw": "[object Object]",
-    "mainText": "[object Object]",
-    "sideText": ""
+    "raw": "4 Aether Vial\r\n4 Ancient Ziggurat\r\n4 Cavern of Souls\r\n4 Flamekin Harbinger\r\n3 Flickerwisp\r\n4 Lightning Skelemental\r\n1 Mountain\r\n1 Omnath, Locus of the Roil\r\n4 Phantasmal Image\r\n1 Plains\r\n4 Primal Beyond\r\n2 Reflecting Pool\r\n4 Risen Reef\r\n4 Thunderkin Awakener\r\n4 Unclaimed Territory\r\n4 Unsettled Mariner\r\n4 Vesperlark\r\n4 Voice of Resurgence\r\n\r\n2 Dismember\r\n1 Flickerwisp\r\n3 Fulminator Mage\r\n1 Horde of Notions\r\n1 Ingot Chewer\r\n4 Leyline of the Void\r\n1 Shriekmaw\r\n1 Spitebellows\r\n1 Wispmare\r\n",
+    "mainText": "4 Aether Vial\n4 Ancient Ziggurat\n4 Cavern of Souls\n4 Flamekin Harbinger\n3 Flickerwisp\n4 Lightning Skelemental\n1 Mountain\n1 Omnath, Locus of the Roil\n4 Phantasmal Image\n1 Plains\n4 Primal Beyond\n2 Reflecting Pool\n4 Risen Reef\n4 Thunderkin Awakener\n4 Unclaimed Territory\n4 Unsettled Mariner\n4 Vesperlark\n4 Voice of Resurgence",
+    "sideText": "2 Dismember\n1 Flickerwisp\n3 Fulminator Mage\n1 Horde of Notions\n1 Ingot Chewer\n4 Leyline of the Void\n1 Shriekmaw\n1 Spitebellows\n1 Wispmare"
   }
 }

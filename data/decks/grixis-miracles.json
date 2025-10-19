@@ -17,8 +17,8 @@
   "containsBannedCards": false,
   "coverCard": "Bonfire of the Damned",
   "decklist": {
-    "raw": "[object Object]",
-    "mainText": "[object Object]",
-    "sideText": ""
+    "raw": "1 Blood Crypt\r\n1 Bloodstained Mire\r\n4 Bonfire of the Damned\r\n2 Countersquall\r\n3 Creeping Tar Pit\r\n2 Cruel Ultimatum\r\n3 Cryptic Command\r\n2 Dreadbore\r\n2 Drowned Catacomb\r\n2 Fatal Push\r\n2 Hieroglyphic Illumination\r\n3 Island\r\n3 Jace, the Mind Sculptor\r\n3 Lightning Bolt\r\n2 Liliana Vess\r\n1 Logic Knot\r\n1 Mountain\r\n4 Polluted Delta\r\n3 Scalding Tarn\r\n2 Search for Azcanta\r\n4 Snapcaster Mage\r\n1 Spell Snare\r\n2 Steam Vents\r\n1 Sulfur Falls\r\n2 Swamp\r\n1 Temporal Mastery\r\n3 Watery Grave\r\n\r\n1 Anger of the Gods\r\n1 Fatal Push\r\n2 Fulminator Mage\r\n3 Kolaghan's Command\r\n4 Leyline of the Void\r\n1 Liliana, the Last Hope\r\n3 Thoughtseize\r\n",
+    "mainText": "1 Blood Crypt\n1 Bloodstained Mire\n4 Bonfire of the Damned\n2 Countersquall\n3 Creeping Tar Pit\n2 Cruel Ultimatum\n3 Cryptic Command\n2 Dreadbore\n2 Drowned Catacomb\n2 Fatal Push\n2 Hieroglyphic Illumination\n3 Island\n3 Jace, the Mind Sculptor\n3 Lightning Bolt\n2 Liliana Vess\n1 Logic Knot\n1 Mountain\n4 Polluted Delta\n3 Scalding Tarn\n2 Search for Azcanta\n4 Snapcaster Mage\n1 Spell Snare\n2 Steam Vents\n1 Sulfur Falls\n2 Swamp\n1 Temporal Mastery\n3 Watery Grave",
+    "sideText": "1 Anger of the Gods\n1 Fatal Push\n2 Fulminator Mage\n3 Kolaghan's Command\n4 Leyline of the Void\n1 Liliana, the Last Hope\n3 Thoughtseize"
   }
 }

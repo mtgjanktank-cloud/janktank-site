@@ -16,8 +16,8 @@
   "containsBannedCards": false,
   "coverCard": "Coiling Oracle",
   "decklist": {
-    "raw": "[object Object]",
-    "mainText": "[object Object]",
-    "sideText": ""
+    "raw": "4 Arbor Elf\r\n3 Botanical Sanctum\r\n3 Breeding Pool\r\n4 Coiling Oracle\r\n4 Courser of Kruphix\r\n4 Field of Ruin\r\n4 Forest\r\n2 Island\r\n3 Jace, the Mind Sculptor\r\n3 Lumbering Falls\r\n3 Mana Leak\r\n4 Misty Rainforest\r\n4 Mystic Snake\r\n3 Nissa, Steward of Elements\r\n4 Noble Hierarch\r\n4 Revenge of the Hunted\r\n2 Scavenging Ooze\r\n2 Wooded Foothills\r\n\r\n2 Dispel\r\n1 Engineered Explosives\r\n1 Evacuation\r\n2 Fracturing Gust\r\n1 Nature's Claim\r\n2 Obstinate Baloth\r\n3 Relic of Progenitus\r\n3 Spreading Seas\r\n",
+    "mainText": "4 Arbor Elf\n3 Botanical Sanctum\n3 Breeding Pool\n4 Coiling Oracle\n4 Courser of Kruphix\n4 Field of Ruin\n4 Forest\n2 Island\n3 Jace, the Mind Sculptor\n3 Lumbering Falls\n3 Mana Leak\n4 Misty Rainforest\n4 Mystic Snake\n3 Nissa, Steward of Elements\n4 Noble Hierarch\n4 Revenge of the Hunted\n2 Scavenging Ooze\n2 Wooded Foothills",
+    "sideText": "2 Dispel\n1 Engineered Explosives\n1 Evacuation\n2 Fracturing Gust\n1 Nature's Claim\n2 Obstinate Baloth\n3 Relic of Progenitus\n3 Spreading Seas"
   }
 }

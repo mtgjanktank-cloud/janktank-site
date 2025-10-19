@@ -16,8 +16,8 @@
   "containsBannedCards": false,
   "coverCard": "Worship",
   "decklist": {
-    "raw": "[object Object]",
-    "mainText": "[object Object]",
-    "sideText": ""
+    "raw": "3 Birds of Paradise\r\n1 Courser of Kruphix\r\n4 Dryad Arbor\r\n2 Forest\r\n4 Heroic Intervention\r\n4 Idyllic Tutor\r\n4 Leyline of Sanctity\r\n1 Mistveil Plains\r\n4 Misty Rainforest\r\n4 Noble Hierarch\r\n4 Privileged Position\r\n4 Sylvan Caryatid\r\n2 Temple Garden\r\n3 Wall of Roots\r\n4 Westvale Abbey\r\n4 Windswept Heath\r\n4 Wooded Foothills\r\n4 Worship\r\n\r\n3 Beast Within\r\n3 Greater Auramancy\r\n3 Rest in Peace\r\n3 Sigarda, Host of Herons\r\n3 Solemnity\r\n",
+    "mainText": "3 Birds of Paradise\n1 Courser of Kruphix\n4 Dryad Arbor\n2 Forest\n4 Heroic Intervention\n4 Idyllic Tutor\n4 Leyline of Sanctity\n1 Mistveil Plains\n4 Misty Rainforest\n4 Noble Hierarch\n4 Privileged Position\n4 Sylvan Caryatid\n2 Temple Garden\n3 Wall of Roots\n4 Westvale Abbey\n4 Windswept Heath\n4 Wooded Foothills\n4 Worship",
+    "sideText": "3 Beast Within\n3 Greater Auramancy\n3 Rest in Peace\n3 Sigarda, Host of Herons\n3 Solemnity"
   }
 }

@@ -16,8 +16,8 @@
   "containsBannedCards": false,
   "coverCard": "The Gitrog Monster",
   "decklist": {
-    "raw": "[object Object]",
-    "mainText": "[object Object]",
-    "sideText": ""
+    "raw": "4 Assassin's Trophy\n1 Azusa, Lost but Seeking\n2 Collective Brutality\n3 Fatal Push\n5 Forest\n4 Ghost Quarter\n4 Heartless Summoning\n2 Horizon Canopy\n2 Ob Nixilis, the Fallen\n2 Oracle of Mul Daya\n2 Overgrown Tomb\n3 Ramunap Excavator\n3 Swamp\n3 The Gitrog Monster\n4 Tireless Tracker\n1 Underrealm Lich\n4 Utopia Sprawl\n4 Verdant Catacombs\n3 Wayward Swordtooth\n4 Windswept Heath\n\nSideboard:\n1 Chameleon Colossus\n2 Engineered Explosives\n1 Grafdigger's Cage\n2 Grazing Gladehart\n1 Liliana, the Last Hope\n1 Lost Legacy\n1 Maelstrom Pulse\n2 Obstinate Baloth\n2 Scavenging Ooze\n1 Thragtusk\n1 Whisperwood Elemental\n\n",
+    "mainText": "4 Assassin's Trophy\n1 Azusa, Lost but Seeking\n2 Collective Brutality\n3 Fatal Push\n5 Forest\n4 Ghost Quarter\n4 Heartless Summoning\n2 Horizon Canopy\n2 Ob Nixilis, the Fallen\n2 Oracle of Mul Daya\n2 Overgrown Tomb\n3 Ramunap Excavator\n3 Swamp\n3 The Gitrog Monster\n4 Tireless Tracker\n1 Underrealm Lich\n4 Utopia Sprawl\n4 Verdant Catacombs\n3 Wayward Swordtooth\n4 Windswept Heath",
+    "sideText": "1 Chameleon Colossus\n2 Engineered Explosives\n1 Grafdigger's Cage\n2 Grazing Gladehart\n1 Liliana, the Last Hope\n1 Lost Legacy\n1 Maelstrom Pulse\n2 Obstinate Baloth\n2 Scavenging Ooze\n1 Thragtusk\n1 Whisperwood Elemental"
   }
 }

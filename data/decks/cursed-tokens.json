@@ -17,8 +17,8 @@
   "containsBannedCards": false,
   "coverCard": "Bitterheart Witch",
   "decklist": {
-    "raw": "[object Object]",
-    "mainText": "[object Object]",
-    "sideText": ""
+    "raw": "4 Bitterheart Witch\r\n1 Blood Crypt\r\n4 Bloodstained Mire\r\n4 Caves of Koilos\r\n1 Cruel Reality\r\n4 Cryptbreaker\r\n1 Curse of Death's Hold\r\n1 Curse of Exhaustion\r\n2 Curse of Misfortunes\r\n4 Fatal Push\r\n4 Footsteps of the Goryo\r\n2 Godless Shrine\r\n4 Inquisition of Kozilek\r\n4 Insolent Neonate\r\n4 Isolated Chapel\r\n4 Lingering Souls\r\n1 Mountain\r\n2 Overwhelming Splendor\r\n1 Plains\r\n2 Sacred Foundry\r\n2 Swamp\r\n4 Wooded Foothills\r\n\r\n3 Honor of the Pure\r\n4 Intangible Virtue\r\n4 Raise the Alarm\r\n4 Spectral Procession\r\n",
+    "mainText": "4 Bitterheart Witch\n1 Blood Crypt\n4 Bloodstained Mire\n4 Caves of Koilos\n1 Cruel Reality\n4 Cryptbreaker\n1 Curse of Death's Hold\n1 Curse of Exhaustion\n2 Curse of Misfortunes\n4 Fatal Push\n4 Footsteps of the Goryo\n2 Godless Shrine\n4 Inquisition of Kozilek\n4 Insolent Neonate\n4 Isolated Chapel\n4 Lingering Souls\n1 Mountain\n2 Overwhelming Splendor\n1 Plains\n2 Sacred Foundry\n2 Swamp\n4 Wooded Foothills",
+    "sideText": "3 Honor of the Pure\n4 Intangible Virtue\n4 Raise the Alarm\n4 Spectral Procession"
   }
 }

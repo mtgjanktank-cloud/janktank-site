@@ -15,8 +15,8 @@
   "containsBannedCards": false,
   "coverCard": "Metalwork Colossus",
   "decklist": {
-    "raw": "[object Object]",
-    "mainText": "[object Object]",
-    "sideText": ""
+    "raw": "3 Aetherflux Reservoir\n4 Alchemist's Vial\n4 Ancient Stirrings\n4 Cloud Key\n4 Elsewhere Flask\n4 Forest\n1 Ghirapur AEther Grid\n4 Grove of the Burnwillows\n4 Ichor Wellspring\n3 Inventors' Fair\n4 Metalwork Colossus\n4 Mind Stone\n4 Phyrexia's Core\n4 Prophetic Prism\n4 Sanctum of Ugin\n1 Scrap Trawler\n4 Semblance Anvil\n\nSideboard:\n2 Defense Grid\n3 Firespout\n2 Grafdigger's Cage\n2 Guttural Response\n3 Nature's Claim\n2 Nihil Spellbomb\n1 Sorcerous Spyglass\n\n",
+    "mainText": "3 Aetherflux Reservoir\n4 Alchemist's Vial\n4 Ancient Stirrings\n4 Cloud Key\n4 Elsewhere Flask\n4 Forest\n1 Ghirapur AEther Grid\n4 Grove of the Burnwillows\n4 Ichor Wellspring\n3 Inventors' Fair\n4 Metalwork Colossus\n4 Mind Stone\n4 Phyrexia's Core\n4 Prophetic Prism\n4 Sanctum of Ugin\n1 Scrap Trawler\n4 Semblance Anvil",
+    "sideText": "2 Defense Grid\n3 Firespout\n2 Grafdigger's Cage\n2 Guttural Response\n3 Nature's Claim\n2 Nihil Spellbomb\n1 Sorcerous Spyglass"
   }
 }

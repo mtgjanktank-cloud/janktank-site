@@ -15,8 +15,8 @@
   "containsBannedCards": false,
   "coverCard": "Primal Command",
   "decklist": {
-    "raw": "[object Object]",
-    "mainText": "[object Object]",
-    "sideText": ""
+    "raw": "3 Acidic Slime\n4 Arbor Elf\n3 Birds of Paradise\n2 Bonfire of the Damned\n2 Breeding Pool\n2 Cloudthresher\n4 Eternal Witness\n8 Forest\n2 Jace, the Mind Sculptor\n1 Kessig Wolf Run\n1 Misty Rainforest\n4 Mwonvuli Acid-Moss\n4 Oath of Nissa\n2 Plow Under\n4 Primal Command\n1 Reap and Sow\n2 Stomping Ground\n1 Tetsuko Umezawa, Fugitive\n4 Utopia Sprawl\n1 Verdant Catacombs\n1 Windswept Heath\n4 Wooded Foothills\n\nSideboard:\n3 Blood Moon\n2 Chameleon Colossus\n2 Creeping Corrosion\n2 Encase in Ice\n1 Fracturing Gust\n2 Primeval Light\n3 Relic of Progenitus\n\n",
+    "mainText": "3 Acidic Slime\n4 Arbor Elf\n3 Birds of Paradise\n2 Bonfire of the Damned\n2 Breeding Pool\n2 Cloudthresher\n4 Eternal Witness\n8 Forest\n2 Jace, the Mind Sculptor\n1 Kessig Wolf Run\n1 Misty Rainforest\n4 Mwonvuli Acid-Moss\n4 Oath of Nissa\n2 Plow Under\n4 Primal Command\n1 Reap and Sow\n2 Stomping Ground\n1 Tetsuko Umezawa, Fugitive\n4 Utopia Sprawl\n1 Verdant Catacombs\n1 Windswept Heath\n4 Wooded Foothills",
+    "sideText": "3 Blood Moon\n2 Chameleon Colossus\n2 Creeping Corrosion\n2 Encase in Ice\n1 Fracturing Gust\n2 Primeval Light\n3 Relic of Progenitus"
   }
 }

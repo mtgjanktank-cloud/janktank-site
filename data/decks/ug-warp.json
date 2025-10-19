@@ -16,8 +16,8 @@
   "containsBannedCards": false,
   "coverCard": "Walk the Aeons",
   "decklist": {
-    "raw": "[object Object]",
-    "mainText": "[object Object]",
-    "sideText": ""
+    "raw": "4 Arbor Elf\r\n4 Breeding Pool\r\n4 Coiling Oracle\r\n4 Courser of Kruphix\r\n1 Cryptic Command\r\n2 Eternal Witness\r\n4 Forest\r\n3 Garruk Wildspeaker\r\n2 Ghost Quarter\r\n2 Island\r\n1 Jace, Vryn's Prodigy\r\n1 Mikokoro, Center of the Sea\r\n4 Misty Rainforest\r\n1 Nissa, Steward of Elements\r\n2 Noble Hierarch\r\n1 Ramunap Excavator\r\n1 Repeal\r\n1 Scavenging Ooze\r\n4 Time Warp\r\n4 Tireless Tracker\r\n4 Utopia Sprawl\r\n2 Walk the Aeons\r\n4 Windswept Heath\r\n\r\n2 Creeping Corrosion\r\n2 Dispel\r\n2 Ghost Quarter\r\n2 Kitchen Finks\r\n1 Melira, Sylvok Outcast\r\n3 Scavenging Ooze\r\n1 Spell Pierce\r\n2 Vapor Snag\r\n",
+    "mainText": "4 Arbor Elf\n4 Breeding Pool\n4 Coiling Oracle\n4 Courser of Kruphix\n1 Cryptic Command\n2 Eternal Witness\n4 Forest\n3 Garruk Wildspeaker\n2 Ghost Quarter\n2 Island\n1 Jace, Vryn's Prodigy\n1 Mikokoro, Center of the Sea\n4 Misty Rainforest\n1 Nissa, Steward of Elements\n2 Noble Hierarch\n1 Ramunap Excavator\n1 Repeal\n1 Scavenging Ooze\n4 Time Warp\n4 Tireless Tracker\n4 Utopia Sprawl\n2 Walk the Aeons\n4 Windswept Heath",
+    "sideText": "2 Creeping Corrosion\n2 Dispel\n2 Ghost Quarter\n2 Kitchen Finks\n1 Melira, Sylvok Outcast\n3 Scavenging Ooze\n1 Spell Pierce\n2 Vapor Snag"
   }
 }

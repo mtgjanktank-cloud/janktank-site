@@ -19,8 +19,8 @@
   "containsBannedCards": false,
   "coverCard": "Liege of the Tangle",
   "decklist": {
-    "raw": "[object Object]",
-    "mainText": "[object Object]",
-    "sideText": ""
+    "raw": "1 Blood Crypt\r\n1 Breeding Pool\r\n4 Cavern of Souls\r\n4 Flamekin Harbinger\r\n2 Forest\r\n4 Generator Servant\r\n1 Horde of Notions\r\n4 Incandescent Soulstoke\r\n1 Island\r\n4 Liege of the Tangle\r\n4 Lightning Bolt\r\n2 Misty Rainforest\r\n1 Mountain\r\n4 Mulldrifter\r\n1 Raging Ravine\r\n4 Remand\r\n1 Sacred Foundry\r\n2 Scalding Tarn\r\n4 Smokebraider\r\n1 Steam Vents\r\n2 Stomping Ground\r\n4 Through the Breach\r\n4 Wooded Foothills\r\n\r\n1 Ancient Grudge\r\n1 Anger of the Gods\r\n1 Cloudthresher\r\n4 Fulminator Mage\r\n1 Horde of Notions\r\n2 Negate\r\n2 Relic of Progenitus\r\n1 Shatterstorm\r\n1 Surgical Extraction\r\n1 Wear/Tear\r\n",
+    "mainText": "1 Blood Crypt\n1 Breeding Pool\n4 Cavern of Souls\n4 Flamekin Harbinger\n2 Forest\n4 Generator Servant\n1 Horde of Notions\n4 Incandescent Soulstoke\n1 Island\n4 Liege of the Tangle\n4 Lightning Bolt\n2 Misty Rainforest\n1 Mountain\n4 Mulldrifter\n1 Raging Ravine\n4 Remand\n1 Sacred Foundry\n2 Scalding Tarn\n4 Smokebraider\n1 Steam Vents\n2 Stomping Ground\n4 Through the Breach\n4 Wooded Foothills",
+    "sideText": "1 Ancient Grudge\n1 Anger of the Gods\n1 Cloudthresher\n4 Fulminator Mage\n1 Horde of Notions\n2 Negate\n2 Relic of Progenitus\n1 Shatterstorm\n1 Surgical Extraction\n1 Wear/Tear"
   }
 }

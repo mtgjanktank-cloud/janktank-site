@@ -17,8 +17,8 @@
   "containsBannedCards": false,
   "coverCard": "Maralen of the Mornsong",
   "decklist": {
-    "raw": "[object Object]",
-    "mainText": "[object Object]",
-    "sideText": ""
+    "raw": "2 Arid Mesa\n3 Aven Mindcensor\n2 Bitterblossom\n1 Blackcleave Cliffs\n2 Blood Crypt\n2 Boros Charm\n2 Collective Brutality\n2 Concealed Courtyard\n4 Ghost Quarter\n2 Godless Shrine\n3 Inquisition of Kozilek\n1 Inspiring Vantage\n4 Leonin Arbiter\n4 Lightning Bolt\n4 Madcap Experiment\n3 Maralen of the Mornsong\n4 Marsh Flats\n1 Mountain\n4 Path to Exile\n1 Plains\n2 Platinum Emperion\n1 Sacred Foundry\n1 Shambling Vent\n1 Swamp\n3 Thoughtseize\n1 Urborg, Tomb of Yawgmoth\n\nSideboard:\n1 Anguished Unmaking\n1 Crackling Doom\n3 Fulminator Mage\n2 Kambal, Consul of Allocation\n2 Rakdos Charm\n2 Rest in Peace\n2 Settle the Wreckage\n2 Stony Silence\n\n",
+    "mainText": "2 Arid Mesa\n3 Aven Mindcensor\n2 Bitterblossom\n1 Blackcleave Cliffs\n2 Blood Crypt\n2 Boros Charm\n2 Collective Brutality\n2 Concealed Courtyard\n4 Ghost Quarter\n2 Godless Shrine\n3 Inquisition of Kozilek\n1 Inspiring Vantage\n4 Leonin Arbiter\n4 Lightning Bolt\n4 Madcap Experiment\n3 Maralen of the Mornsong\n4 Marsh Flats\n1 Mountain\n4 Path to Exile\n1 Plains\n2 Platinum Emperion\n1 Sacred Foundry\n1 Shambling Vent\n1 Swamp\n3 Thoughtseize\n1 Urborg, Tomb of Yawgmoth",
+    "sideText": "1 Anguished Unmaking\n1 Crackling Doom\n3 Fulminator Mage\n2 Kambal, Consul of Allocation\n2 Rakdos Charm\n2 Rest in Peace\n2 Settle the Wreckage\n2 Stony Silence"
   }
 }

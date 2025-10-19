@@ -19,8 +19,8 @@
   "containsBannedCards": false,
   "coverCard": "Unexpected Results",
   "decklist": {
-    "raw": "[object Object]",
-    "mainText": "[object Object]",
-    "sideText": ""
+    "raw": "3 Breeding Pool\r\n1 Chromatic Lantern\r\n1 Door to Nothingness\r\n1 Emrakul, the Aeons Torn\r\n4 Farseek\r\n4 Glacial Fortress\r\n1 Godless Shrine\r\n1 Griselbrand\r\n4 Hallowed Fountain\r\n3 Hinterland Harbor\r\n1 Kiora, the Crashing Wave\r\n1 Nicol Bolas, Planeswalker\r\n3 Oblivion Ring\r\n3 Omniscience\r\n1 Overgrown Tomb\r\n1 Ral Zarek\r\n1 Steam Vents\r\n1 Stomping Ground\r\n2 Sunpetal Grove\r\n4 Supreme Verdict\r\n4 Temple Garden\r\n2 Temporal Mastery\r\n4 Thragtusk\r\n4 Unexpected Results\r\n4 Urban Evolution\r\n1 Watery Grave\r\n\r\n2 Dispel\r\n4 Natural State\r\n3 Negate\r\n3 Relic of Progenitus\r\n3 Vapor Snag\r\n",
+    "mainText": "3 Breeding Pool\n1 Chromatic Lantern\n1 Door to Nothingness\n1 Emrakul, the Aeons Torn\n4 Farseek\n4 Glacial Fortress\n1 Godless Shrine\n1 Griselbrand\n4 Hallowed Fountain\n3 Hinterland Harbor\n1 Kiora, the Crashing Wave\n1 Nicol Bolas, Planeswalker\n3 Oblivion Ring\n3 Omniscience\n1 Overgrown Tomb\n1 Ral Zarek\n1 Steam Vents\n1 Stomping Ground\n2 Sunpetal Grove\n4 Supreme Verdict\n4 Temple Garden\n2 Temporal Mastery\n4 Thragtusk\n4 Unexpected Results\n4 Urban Evolution\n1 Watery Grave",
+    "sideText": "2 Dispel\n4 Natural State\n3 Negate\n3 Relic of Progenitus\n3 Vapor Snag"
   }
 }

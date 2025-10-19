@@ -17,8 +17,8 @@
   "containsBannedCards": false,
   "coverCard": "Deathcloud",
   "decklist": {
-    "raw": "[object Object]",
-    "mainText": "[object Object]",
-    "sideText": ""
+    "raw": "3 Abrupt Decay\r\n1 Breeding Pool\r\n2 Creeping Tar Pit\r\n2 Damnation\r\n3 Death Cloud\r\n3 Forest\r\n4 Fulminator Mage\r\n2 Garruk Wildspeaker\r\n3 Goryo's Vengeance\r\n4 Inquisition of Kozilek\r\n1 Island\r\n4 Jace, Vryn's Prodigy\r\n4 Liliana, Heretical Healer\r\n1 Maelstrom Pulse\r\n4 Misty Rainforest\r\n2 Overgrown Tomb\r\n1 Polluted Delta\r\n4 Sakura-Tribe Elder\r\n1 Shriekmaw\r\n3 Swamp\r\n2 Thoughtseize\r\n1 Twilight Mire\r\n4 Verdant Catacombs\r\n1 Watery Grave\r\n\r\n1 Beast Within\r\n1 Duress\r\n2 Nature's Claim\r\n2 Negate\r\n2 Night of Souls' Betrayal\r\n2 Nihil Spellbomb\r\n4 Obstinate Baloth\r\n1 Shriekmaw\r\n",
+    "mainText": "3 Abrupt Decay\n1 Breeding Pool\n2 Creeping Tar Pit\n2 Damnation\n3 Death Cloud\n3 Forest\n4 Fulminator Mage\n2 Garruk Wildspeaker\n3 Goryo's Vengeance\n4 Inquisition of Kozilek\n1 Island\n4 Jace, Vryn's Prodigy\n4 Liliana, Heretical Healer\n1 Maelstrom Pulse\n4 Misty Rainforest\n2 Overgrown Tomb\n1 Polluted Delta\n4 Sakura-Tribe Elder\n1 Shriekmaw\n3 Swamp\n2 Thoughtseize\n1 Twilight Mire\n4 Verdant Catacombs\n1 Watery Grave",
+    "sideText": "1 Beast Within\n1 Duress\n2 Nature's Claim\n2 Negate\n2 Night of Souls' Betrayal\n2 Nihil Spellbomb\n4 Obstinate Baloth\n1 Shriekmaw"
   }
 }

@@ -17,8 +17,8 @@
   "containsBannedCards": false,
   "coverCard": "Venser, the Sojourner",
   "decklist": {
-    "raw": "[object Object]",
-    "mainText": "[object Object]",
-    "sideText": ""
+    "raw": "1 Archangel of Thune\r\n4 Birds of Paradise\r\n2 Breeding Pool\r\n4 Chord of Calling\r\n1 Eternal Witness\r\n3 Forest\r\n1 Island\r\n4 Kitchen Finks\r\n4 Misty Rainforest\r\n4 Noble Hierarch\r\n1 Plains\r\n4 Razorverge Thicket\r\n4 Restoration Angel\r\n1 Spellskite\r\n1 Spike Feeder\r\n3 Stonehorn Dignitary\r\n3 Temple Garden\r\n2 Thragtusk\r\n3 Venser, the Sojourner\r\n4 Wall of Omens\r\n2 Wall of Roots\r\n4 Windswept Heath\r\n\r\n1 Aven Mindcensor\r\n1 Burrenton Forge-Tender\r\n1 Dismember\r\n1 Dispel\r\n1 Eidolon of Rhetoric\r\n2 Negate\r\n2 Path to Exile\r\n1 Qasali Pridemage\r\n1 Reclamation Sage\r\n1 Scavenging Ooze\r\n2 Stony Silence\r\n1 Thrun, the Last Troll\r\n",
+    "mainText": "1 Archangel of Thune\n4 Birds of Paradise\n2 Breeding Pool\n4 Chord of Calling\n1 Eternal Witness\n3 Forest\n1 Island\n4 Kitchen Finks\n4 Misty Rainforest\n4 Noble Hierarch\n1 Plains\n4 Razorverge Thicket\n4 Restoration Angel\n1 Spellskite\n1 Spike Feeder\n3 Stonehorn Dignitary\n3 Temple Garden\n2 Thragtusk\n3 Venser, the Sojourner\n4 Wall of Omens\n2 Wall of Roots\n4 Windswept Heath",
+    "sideText": "1 Aven Mindcensor\n1 Burrenton Forge-Tender\n1 Dismember\n1 Dispel\n1 Eidolon of Rhetoric\n2 Negate\n2 Path to Exile\n1 Qasali Pridemage\n1 Reclamation Sage\n1 Scavenging Ooze\n2 Stony Silence\n1 Thrun, the Last Troll"
   }
 }

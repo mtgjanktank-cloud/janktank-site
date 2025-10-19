@@ -19,8 +19,8 @@
   "containsBannedCards": true,
   "coverCard": "Dragonstorm",
   "decklist": {
-    "raw": "[object Object]",
-    "mainText": "[object Object]",
-    "sideText": ""
+    "raw": "4 Aether Hub\r\n4 Aetherworks Marvel\r\n1 Atarka, World Render\r\n4 Attune with Aether\r\n2 Bogardan Hellkite\r\n1 Breeding Pool\r\n1 Dragonlord Atarka\r\n1 Dragonlord Dromoka\r\n1 Dragonlord Kolaghan\r\n1 Dragonlord Ojutai\r\n4 Dragonstorm\r\n3 Faithless Looting\r\n1 Forest\r\n1 Godless Shrine\r\n1 Island\r\n1 Karrthus, Tyrant of Jund\r\n4 Lotus Bloom\r\n3 Misty Rainforest\r\n1 Mountain\r\n1 Nicol Bolas\r\n1 Plains\r\n1 Sins of the Past\r\n2 Spelltwine\r\n1 Steam Vents\r\n1 Stomping Ground\r\n1 Swamp\r\n1 Temple Garden\r\n4 Thirst for Knowledge\r\n4 Wooded Foothills\r\n4 Woodweaver's Puzzleknot\r\n\r\n2 Ancient Grudge\r\n3 Bring to Light\r\n2 Foul-Tongue Invocation\r\n1 Gifts Ungiven\r\n1 Goblin Dark-Dwellers\r\n2 Stormbreath Dragon\r\n1 Thunderbreak Regent\r\n1 Unburial Rites\r\n2 Vendilion Clique\r\n",
+    "mainText": "4 Aether Hub\n4 Aetherworks Marvel\n1 Atarka, World Render\n4 Attune with Aether\n2 Bogardan Hellkite\n1 Breeding Pool\n1 Dragonlord Atarka\n1 Dragonlord Dromoka\n1 Dragonlord Kolaghan\n1 Dragonlord Ojutai\n4 Dragonstorm\n3 Faithless Looting\n1 Forest\n1 Godless Shrine\n1 Island\n1 Karrthus, Tyrant of Jund\n4 Lotus Bloom\n3 Misty Rainforest\n1 Mountain\n1 Nicol Bolas\n1 Plains\n1 Sins of the Past\n2 Spelltwine\n1 Steam Vents\n1 Stomping Ground\n1 Swamp\n1 Temple Garden\n4 Thirst for Knowledge\n4 Wooded Foothills\n4 Woodweaver's Puzzleknot",
+    "sideText": "2 Ancient Grudge\n3 Bring to Light\n2 Foul-Tongue Invocation\n1 Gifts Ungiven\n1 Goblin Dark-Dwellers\n2 Stormbreath Dragon\n1 Thunderbreak Regent\n1 Unburial Rites\n2 Vendilion Clique"
   }
 }

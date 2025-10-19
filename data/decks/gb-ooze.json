@@ -16,8 +16,8 @@
   "containsBannedCards": false,
   "coverCard": "Necrotic Ooze",
   "decklist": {
-    "raw": "[object Object]",
-    "mainText": "[object Object]",
-    "sideText": ""
+    "raw": "2 Abrupt Decay\r\n1 Big Game Hunter\r\n3 Blooming Marsh\r\n1 Butcher of the Horde\r\n1 Cavern of Souls\r\n2 Collective Brutality\r\n4 Devoted Druid\r\n1 Dryad Arbor\r\n2 Eldritch Evolution\r\n4 Fauna Shaman\r\n3 Forest\r\n1 Ghost Quarter\r\n2 Grapple with the Past\r\n1 Grim Poppet\r\n3 Grisly Salvage\r\n3 Inquisition of Kozilek\r\n1 Kitchen Finks\r\n1 Lotleth Troll\r\n1 Maelstrom Pulse\r\n1 Molten-Tail Masticore\r\n3 Necrotic Ooze\r\n1 Noose Constrictor\r\n2 Overgrown Tomb\r\n1 Prognostic Sphinx\r\n1 Quillspike\r\n1 Spellskite\r\n1 Stinkweed Imp\r\n3 Swamp\r\n1 Thornling\r\n1 Urborg, Tomb of Yawgmoth\r\n4 Verdant Catacombs\r\n1 Windswept Heath\r\n2 Woodland Cemetery\r\n\r\n1 Chalice of the Void\r\n1 Engineered Explosives\r\n1 Extirpate\r\n1 Faerie Macabre\r\n3 Fog\r\n1 Fulminator Mage\r\n1 Golgari Charm\r\n1 Ground Seal\r\n1 Melira, Sylvok Outcast\r\n1 Minister of Pain\r\n1 Reclamation Sage\r\n1 Shriekmaw\r\n1 Vampire Hexmage\r\n",
+    "mainText": "2 Abrupt Decay\n1 Big Game Hunter\n3 Blooming Marsh\n1 Butcher of the Horde\n1 Cavern of Souls\n2 Collective Brutality\n4 Devoted Druid\n1 Dryad Arbor\n2 Eldritch Evolution\n4 Fauna Shaman\n3 Forest\n1 Ghost Quarter\n2 Grapple with the Past\n1 Grim Poppet\n3 Grisly Salvage\n3 Inquisition of Kozilek\n1 Kitchen Finks\n1 Lotleth Troll\n1 Maelstrom Pulse\n1 Molten-Tail Masticore\n3 Necrotic Ooze\n1 Noose Constrictor\n2 Overgrown Tomb\n1 Prognostic Sphinx\n1 Quillspike\n1 Spellskite\n1 Stinkweed Imp\n3 Swamp\n1 Thornling\n1 Urborg, Tomb of Yawgmoth\n4 Verdant Catacombs\n1 Windswept Heath\n2 Woodland Cemetery",
+    "sideText": "1 Chalice of the Void\n1 Engineered Explosives\n1 Extirpate\n1 Faerie Macabre\n3 Fog\n1 Fulminator Mage\n1 Golgari Charm\n1 Ground Seal\n1 Melira, Sylvok Outcast\n1 Minister of Pain\n1 Reclamation Sage\n1 Shriekmaw\n1 Vampire Hexmage"
   }
 }

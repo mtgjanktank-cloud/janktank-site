@@ -15,8 +15,8 @@
   "containsBannedCards": false,
   "coverCard": "Genesis Wave",
   "decklist": {
-    "raw": "[object Object]",
-    "mainText": "[object Object]",
-    "sideText": ""
+    "raw": "4 Arbor Elf\r\n4 Burning-Tree Emissary\r\n4 Courser of Kruphix\r\n1 Craterhoof Behemoth\r\n2 Emblem of the Warmind\r\n1 Emrakul, the Aeons Torn\r\n10 Forest\r\n4 Garruk Wildspeaker\r\n4 Genesis Wave\r\n1 Kessig Wolf Run\r\n1 Mountain\r\n4 Nykthos, Shrine to Nyx\r\n4 Oath of Nissa\r\n4 Primeval Titan\r\n4 Utopia Sprawl\r\n4 Voyaging Satyr\r\n4 Wistful Selkie\r\n\r\n2 Abrupt Decay\r\n2 Grafdigger's Cage\r\n3 Natural State\r\n4 Pact of Negation\r\n2 Pithing Needle\r\n2 Windstorm\r\n",
+    "mainText": "4 Arbor Elf\n4 Burning-Tree Emissary\n4 Courser of Kruphix\n1 Craterhoof Behemoth\n2 Emblem of the Warmind\n1 Emrakul, the Aeons Torn\n10 Forest\n4 Garruk Wildspeaker\n4 Genesis Wave\n1 Kessig Wolf Run\n1 Mountain\n4 Nykthos, Shrine to Nyx\n4 Oath of Nissa\n4 Primeval Titan\n4 Utopia Sprawl\n4 Voyaging Satyr\n4 Wistful Selkie",
+    "sideText": "2 Abrupt Decay\n2 Grafdigger's Cage\n3 Natural State\n4 Pact of Negation\n2 Pithing Needle\n2 Windstorm"
   }
 }

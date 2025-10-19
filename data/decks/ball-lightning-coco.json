@@ -17,8 +17,8 @@
   "containsBannedCards": false,
   "coverCard": "Ball Lightning",
   "decklist": {
-    "raw": "[object Object]",
-    "mainText": "[object Object]",
-    "sideText": ""
+    "raw": "4 Ball Lightning\r\n4 Birds of Paradise\r\n2 Blood Crypt\r\n4 Bloodbraid Elf\r\n3 Bloodstained Mire\r\n4 Collected Company\r\n4 Copperline Gorge\r\n1 Forest\r\n3 Graven Cairns\r\n4 Hellspark Elemental\r\n4 Lightning Bolt\r\n4 Lightning Skelemental\r\n1 Overgrown Tomb\r\n3 Primal Forcemage\r\n3 Stomping Ground\r\n4 Thunderkin Awakener\r\n4 Unearth\r\n4 Wooded Foothills\r\n\r\n1 Choke\r\n4 Cindervines\r\n2 Dosan the Falling Leaf\r\n2 Life Goes On\r\n3 Rancor\r\n3 Tormod's Crypt\r\n",
+    "mainText": "4 Ball Lightning\n4 Birds of Paradise\n2 Blood Crypt\n4 Bloodbraid Elf\n3 Bloodstained Mire\n4 Collected Company\n4 Copperline Gorge\n1 Forest\n3 Graven Cairns\n4 Hellspark Elemental\n4 Lightning Bolt\n4 Lightning Skelemental\n1 Overgrown Tomb\n3 Primal Forcemage\n3 Stomping Ground\n4 Thunderkin Awakener\n4 Unearth\n4 Wooded Foothills",
+    "sideText": "1 Choke\n4 Cindervines\n2 Dosan the Falling Leaf\n2 Life Goes On\n3 Rancor\n3 Tormod's Crypt"
   }
 }

@@ -17,8 +17,8 @@
   "containsBannedCards": false,
   "coverCard": "Flickerwisp",
   "decklist": {
-    "raw": "[object Object]",
-    "mainText": "[object Object]",
-    "sideText": ""
+    "raw": "3 Adarkar Wastes\r\n4 Aether Vial\r\n3 Caves of Koilos\r\n4 Delay\r\n1 Eerie Interlude\r\n3 Eldrazi Displacer\r\n4 Eldrazi Temple\r\n4 Flickerwisp\r\n2 Flooded Strand\r\n2 Godless Shrine\r\n1 Hallowed Fountain\r\n1 Island\r\n4 Path to Exile\r\n1 Plains\r\n3 Polluted Delta\r\n2 Reality Shift\r\n3 Snapcaster Mage\r\n1 Swamp\r\n4 Tidehollow Sculler\r\n2 Ulamog's Nullifier\r\n1 Venser, Shaper Savant\r\n2 Wall of Omens\r\n4 Wasteland Strangler\r\n1 Watery Grave\r\n\r\n2 Ashiok, Nightmare Weaver\r\n3 Hallowed Moonlight\r\n2 Leonin Relic-Warder\r\n2 Lone Missionary\r\n4 Meddling Mage\r\n2 Ojutai's Command\r\n",
+    "mainText": "3 Adarkar Wastes\n4 Aether Vial\n3 Caves of Koilos\n4 Delay\n1 Eerie Interlude\n3 Eldrazi Displacer\n4 Eldrazi Temple\n4 Flickerwisp\n2 Flooded Strand\n2 Godless Shrine\n1 Hallowed Fountain\n1 Island\n4 Path to Exile\n1 Plains\n3 Polluted Delta\n2 Reality Shift\n3 Snapcaster Mage\n1 Swamp\n4 Tidehollow Sculler\n2 Ulamog's Nullifier\n1 Venser, Shaper Savant\n2 Wall of Omens\n4 Wasteland Strangler\n1 Watery Grave",
+    "sideText": "2 Ashiok, Nightmare Weaver\n3 Hallowed Moonlight\n2 Leonin Relic-Warder\n2 Lone Missionary\n4 Meddling Mage\n2 Ojutai's Command"
   }
 }

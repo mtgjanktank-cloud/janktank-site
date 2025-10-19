@@ -16,8 +16,8 @@
   "containsBannedCards": false,
   "coverCard": "Hamlet Captain",
   "decklist": {
-    "raw": "[object Object]",
-    "mainText": "[object Object]",
-    "sideText": ""
+    "raw": "4 Cavern of Souls\r\n4 Champion of the Parish\r\n4 Collected Company\r\n4 Experiment One\r\n3 Forest\r\n4 Hamlet Captain\r\n4 Mayor of Avabruck\r\n4 Mutavault\r\n3 Path to Exile\r\n5 Plains\r\n2 Saffi Eriksdotter\r\n4 Soldier of the Pantheon\r\n4 Temple Garden\r\n4 Thalia's Lieutenant\r\n3 Thalia, Guardian of Thraben\r\n4 Windswept Heath\r\n\r\n4 Leyline of Sanctity\r\n2 Melira, Sylvok Outcast\r\n3 Mirran Crusader\r\n1 Qasali Pridemage\r\n2 Rest in Peace\r\n3 Stony Silence\r\n",
+    "mainText": "4 Cavern of Souls\n4 Champion of the Parish\n4 Collected Company\n4 Experiment One\n3 Forest\n4 Hamlet Captain\n4 Mayor of Avabruck\n4 Mutavault\n3 Path to Exile\n5 Plains\n2 Saffi Eriksdotter\n4 Soldier of the Pantheon\n4 Temple Garden\n4 Thalia's Lieutenant\n3 Thalia, Guardian of Thraben\n4 Windswept Heath",
+    "sideText": "4 Leyline of Sanctity\n2 Melira, Sylvok Outcast\n3 Mirran Crusader\n1 Qasali Pridemage\n2 Rest in Peace\n3 Stony Silence"
   }
 }

@@ -15,8 +15,8 @@
   "containsBannedCards": false,
   "coverCard": "Door to Nothingness",
   "decklist": {
-    "raw": "[object Object]",
-    "mainText": "[object Object]",
-    "sideText": ""
+    "raw": "4 Arbor Elf\r\n3 Birds of Paradise\r\n3 Blood Moon\r\n3 Chromatic Lantern\r\n3 Door to Nothingness\r\n1 Eternal Witness\r\n12 Forest\r\n4 Garruk Wildspeaker\r\n1 Liliana Vess\r\n2 Overgrown Tomb\r\n1 Primal Surge\r\n4 Primeval Titan\r\n4 Rune-Scarred Demon\r\n1 Seal of Primordium\r\n2 Stomping Ground\r\n1 Swamp\r\n1 Ugin's Nexus\r\n4 Utopia Sprawl\r\n2 Verdant Catacombs\r\n4 Wooded Foothills\r\n\r\n1 Boseiju, Who Shelters All\r\n2 Brain Maggot\r\n4 Curse of Death's Hold\r\n2 Fulminator Mage\r\n1 Grafdigger's Cage\r\n2 Leyline of the Void\r\n3 Shriekmaw\r\n",
+    "mainText": "4 Arbor Elf\n3 Birds of Paradise\n3 Blood Moon\n3 Chromatic Lantern\n3 Door to Nothingness\n1 Eternal Witness\n12 Forest\n4 Garruk Wildspeaker\n1 Liliana Vess\n2 Overgrown Tomb\n1 Primal Surge\n4 Primeval Titan\n4 Rune-Scarred Demon\n1 Seal of Primordium\n2 Stomping Ground\n1 Swamp\n1 Ugin's Nexus\n4 Utopia Sprawl\n2 Verdant Catacombs\n4 Wooded Foothills",
+    "sideText": "1 Boseiju, Who Shelters All\n2 Brain Maggot\n4 Curse of Death's Hold\n2 Fulminator Mage\n1 Grafdigger's Cage\n2 Leyline of the Void\n3 Shriekmaw"
   }
 }

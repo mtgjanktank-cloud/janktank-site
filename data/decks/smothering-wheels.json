@@ -18,8 +18,8 @@
   "containsBannedCards": false,
   "coverCard": "Molten Psyche",
   "decklist": {
-    "raw": "[object Object]",
-    "mainText": "[object Object]",
-    "sideText": ""
+    "raw": "4 Aether Hub\r\n2 Commit/Memory\r\n2 Echoing Truth\r\n4 Gigadrowse\r\n3 Hallowed Fountain\r\n3 Island\r\n4 Marsh Flats\r\n4 Mind Stone\r\n4 Molten Psyche\r\n4 Pentad Prism\r\n1 Plains\r\n4 Reforge the Soul\r\n4 Smothering Tithe\r\n4 Steam Vents\r\n4 Time Reversal\r\n4 Vision Skeins\r\n1 Watery Grave\r\n4 Whispering Madness\r\n\r\n2 Aetherize\r\n1 Dispel\r\n3 Greater Auramancy\r\n4 Leyline of Sanctity\r\n4 Leyline of the Void\r\n1 Surgical Extraction\r\n",
+    "mainText": "4 Aether Hub\n2 Commit/Memory\n2 Echoing Truth\n4 Gigadrowse\n3 Hallowed Fountain\n3 Island\n4 Marsh Flats\n4 Mind Stone\n4 Molten Psyche\n4 Pentad Prism\n1 Plains\n4 Reforge the Soul\n4 Smothering Tithe\n4 Steam Vents\n4 Time Reversal\n4 Vision Skeins\n1 Watery Grave\n4 Whispering Madness",
+    "sideText": "2 Aetherize\n1 Dispel\n3 Greater Auramancy\n4 Leyline of Sanctity\n4 Leyline of the Void\n1 Surgical Extraction"
   }
 }

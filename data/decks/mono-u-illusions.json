@@ -15,8 +15,8 @@
   "containsBannedCards": false,
   "coverCard": "Lord of the Unreal",
   "decklist": {
-    "raw": "[object Object]",
-    "mainText": "[object Object]",
-    "sideText": ""
+    "raw": "3 Adaptive Automaton\r\n4 Aether Vial\r\n2 Dismember\r\n3 Illusory Angel\r\n14 Island\r\n4 Jace's Phantasm\r\n2 Kira, Great Glass-Spinner\r\n4 Krovikan Mist\r\n4 Lord of the Unreal\r\n1 Minamo, School at Water's Edge\r\n2 Monastery Siege\r\n4 Mutavault\r\n1 Oboro, Palace in the Clouds\r\n4 Phantasmal Bear\r\n4 Phantasmal Image\r\n4 Vapor Snag\r\n\r\n2 Dispel\r\n2 Grafdigger's Cage\r\n3 Hurkyl's Recall\r\n2 Spellskite\r\n2 Spreading Seas\r\n4 Unified Will\r\n",
+    "mainText": "3 Adaptive Automaton\n4 Aether Vial\n2 Dismember\n3 Illusory Angel\n14 Island\n4 Jace's Phantasm\n2 Kira, Great Glass-Spinner\n4 Krovikan Mist\n4 Lord of the Unreal\n1 Minamo, School at Water's Edge\n2 Monastery Siege\n4 Mutavault\n1 Oboro, Palace in the Clouds\n4 Phantasmal Bear\n4 Phantasmal Image\n4 Vapor Snag",
+    "sideText": "2 Dispel\n2 Grafdigger's Cage\n3 Hurkyl's Recall\n2 Spellskite\n2 Spreading Seas\n4 Unified Will"
   }
 }

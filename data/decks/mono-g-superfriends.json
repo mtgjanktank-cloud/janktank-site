@@ -15,8 +15,8 @@
   "containsBannedCards": false,
   "coverCard": "Oath of Nissa",
   "decklist": {
-    "raw": "[object Object]",
-    "mainText": "[object Object]",
-    "sideText": ""
+    "raw": "1 Ajani Goldmane\r\n1 Ajani Vengeant\r\n4 Arbor Elf\r\n1 Arlinn Kord\r\n3 Doubling Season\r\n1 Fertile Ground\r\n11 Forest\r\n2 Garruk Wildspeaker\r\n1 Garruk, Apex Predator\r\n2 Genesis Wave\r\n1 Kiora, the Crashing Wave\r\n3 Nissa, Voice of Zendikar\r\n1 Nissa, Worldwaker\r\n4 Nykthos, Shrine to Nyx\r\n4 Oath of Nissa\r\n1 Ral Zarek\r\n4 Stomping Ground\r\n4 Sylvan Caryatid\r\n1 Ugin, the Spirit Dragon\r\n4 Utopia Sprawl\r\n2 Voyaging Satyr\r\n4 Wooded Foothills\r\n\r\n1 Back to Nature\r\n3 Blood Moon\r\n2 Choke\r\n1 Elspeth, Sun's Champion\r\n1 Emrakul, the Aeons Torn\r\n2 Grafdigger's Cage\r\n3 Nahiri, the Harbinger\r\n2 Nature's Claim\r\n",
+    "mainText": "1 Ajani Goldmane\n1 Ajani Vengeant\n4 Arbor Elf\n1 Arlinn Kord\n3 Doubling Season\n1 Fertile Ground\n11 Forest\n2 Garruk Wildspeaker\n1 Garruk, Apex Predator\n2 Genesis Wave\n1 Kiora, the Crashing Wave\n3 Nissa, Voice of Zendikar\n1 Nissa, Worldwaker\n4 Nykthos, Shrine to Nyx\n4 Oath of Nissa\n1 Ral Zarek\n4 Stomping Ground\n4 Sylvan Caryatid\n1 Ugin, the Spirit Dragon\n4 Utopia Sprawl\n2 Voyaging Satyr\n4 Wooded Foothills",
+    "sideText": "1 Back to Nature\n3 Blood Moon\n2 Choke\n1 Elspeth, Sun's Champion\n1 Emrakul, the Aeons Torn\n2 Grafdigger's Cage\n3 Nahiri, the Harbinger\n2 Nature's Claim"
   }
 }

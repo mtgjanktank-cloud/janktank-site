@@ -17,8 +17,8 @@
   "containsBannedCards": false,
   "coverCard": "Feather, the Redeemed",
   "decklist": {
-    "raw": "[object Object]",
-    "mainText": "[object Object]",
-    "sideText": ""
+    "raw": "3 Arid Mesa\r\n2 Blessed Alliance\r\n4 Feather, the Redeemed\r\n4 Fiery Justice\r\n1 Forest\r\n4 Grove of the Burnwillows\r\n4 Kavu Predator\r\n3 Life from the Loam\r\n4 Lightning Bolt\r\n3 Lightning Helix\r\n2 Plains\r\n3 Sacred Foundry\r\n4 Seismic Assault\r\n3 Stomping Ground\r\n4 Swans of Bryn Argoll\r\n4 Tarmogoyf\r\n1 Temple Garden\r\n3 Windswept Heath\r\n4 Wooded Foothills\r\n\r\n3 Damping Sphere\r\n2 Gaddock Teeg\r\n1 Knight of the Reliquary\r\n2 Rest in Peace\r\n2 Surgical Extraction\r\n3 Wear/Tear\r\n2 Worm Harvest\r\n",
+    "mainText": "3 Arid Mesa\n2 Blessed Alliance\n4 Feather, the Redeemed\n4 Fiery Justice\n1 Forest\n4 Grove of the Burnwillows\n4 Kavu Predator\n3 Life from the Loam\n4 Lightning Bolt\n3 Lightning Helix\n2 Plains\n3 Sacred Foundry\n4 Seismic Assault\n3 Stomping Ground\n4 Swans of Bryn Argoll\n4 Tarmogoyf\n1 Temple Garden\n3 Windswept Heath\n4 Wooded Foothills",
+    "sideText": "3 Damping Sphere\n2 Gaddock Teeg\n1 Knight of the Reliquary\n2 Rest in Peace\n2 Surgical Extraction\n3 Wear/Tear\n2 Worm Harvest"
   }
 }

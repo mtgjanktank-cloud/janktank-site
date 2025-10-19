@@ -16,8 +16,8 @@
   "containsBannedCards": false,
   "coverCard": "Notion Thief",
   "decklist": {
-    "raw": "[object Object]",
-    "mainText": "[object Object]",
-    "sideText": ""
+    "raw": "2 Commandeer\r\n1 Commit/Memory\r\n4 Day's Undoing\r\n4 Disrupting Shoal\r\n1 Engulf the Shore\r\n2 Geier Reach Sanitarium\r\n9 Island\r\n4 Lore Broker\r\n1 Mikokoro, Center of the Sea\r\n4 Mistvein Borderpost\r\n4 Narset, Parter of Veils\r\n3 Notion Thief\r\n4 Polluted Delta\r\n2 Remand\r\n2 Snapback\r\n3 Spell Pierce\r\n2 Spell Snare\r\n2 Unsubstantiate\r\n1 Vapor Snag\r\n3 Vendilion Clique\r\n2 Watery Grave\r\n\r\n2 Ashiok, Dream Render\r\n2 Blast Zone\r\n2 Commandeer\r\n1 Damnation\r\n1 Engulf the Shore\r\n1 Notion Thief\r\n2 Relic of Progenitus\r\n1 Spell Snare\r\n1 Tyrant's Scorn\r\n2 Unmoored Ego\r\n",
+    "mainText": "2 Commandeer\n1 Commit/Memory\n4 Day's Undoing\n4 Disrupting Shoal\n1 Engulf the Shore\n2 Geier Reach Sanitarium\n9 Island\n4 Lore Broker\n1 Mikokoro, Center of the Sea\n4 Mistvein Borderpost\n4 Narset, Parter of Veils\n3 Notion Thief\n4 Polluted Delta\n2 Remand\n2 Snapback\n3 Spell Pierce\n2 Spell Snare\n2 Unsubstantiate\n1 Vapor Snag\n3 Vendilion Clique\n2 Watery Grave",
+    "sideText": "2 Ashiok, Dream Render\n2 Blast Zone\n2 Commandeer\n1 Damnation\n1 Engulf the Shore\n1 Notion Thief\n2 Relic of Progenitus\n1 Spell Snare\n1 Tyrant's Scorn\n2 Unmoored Ego"
   }
 }

@@ -16,8 +16,8 @@
   "containsBannedCards": false,
   "coverCard": "Spark Trooper",
   "decklist": {
-    "raw": "[object Object]",
-    "mainText": "[object Object]",
-    "sideText": ""
+    "raw": "2 Ajani Vengeant\r\n4 Arid Mesa\r\n4 Assault Strobe\r\n4 Boros Charm\r\n4 Clifftop Retreat\r\n4 Flamekin Harbinger\r\n4 Incandescent Soulstoke\r\n4 Inspiring Vantage\r\n4 Lightning Bolt\r\n2 Lightning Helix\r\n5 Mountain\r\n4 Nova Chaser\r\n1 Plains\r\n4 Sacred Foundry\r\n4 Smokebraider\r\n4 Spark Trooper\r\n2 Swiftfoot Boots\r\n\r\n3 Fling\r\n4 Oblivion Ring\r\n4 Wild Slash\r\n4 wear//tear\r\n",
+    "mainText": "2 Ajani Vengeant\n4 Arid Mesa\n4 Assault Strobe\n4 Boros Charm\n4 Clifftop Retreat\n4 Flamekin Harbinger\n4 Incandescent Soulstoke\n4 Inspiring Vantage\n4 Lightning Bolt\n2 Lightning Helix\n5 Mountain\n4 Nova Chaser\n1 Plains\n4 Sacred Foundry\n4 Smokebraider\n4 Spark Trooper\n2 Swiftfoot Boots",
+    "sideText": "3 Fling\n4 Oblivion Ring\n4 Wild Slash\n4 wear//tear"
   }
 }

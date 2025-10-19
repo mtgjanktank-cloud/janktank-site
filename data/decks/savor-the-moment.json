@@ -17,8 +17,8 @@
   "containsBannedCards": false,
   "coverCard": "Savor the Moment",
   "decklist": {
-    "raw": "[object Object]",
-    "mainText": "[object Object]",
-    "sideText": ""
+    "raw": "2 Arid Mesa\r\n1 Balefire Liege\r\n3 Brimaz, King of Oreskos\r\n4 Flooded Strand\r\n2 Hallowed Fountain\r\n1 Island\r\n4 Lightning Angel\r\n4 Lightning Bolt\r\n3 Lightning Helix\r\n4 Mantis Rider\r\n1 Mountain\r\n4 Path to Exile\r\n1 Plains\r\n4 Relentless Raptor\r\n2 Sacred Foundry\r\n4 Savor the Moment\r\n2 Scalding Tarn\r\n2 Seachrome Coast\r\n4 Serum Visions\r\n2 Snapcaster Mage\r\n4 Spirebluff Canal\r\n2 Steam Vents\r\n\r\n2 Blessed Alliance\r\n1 Ceremonious Rejection\r\n3 Damping Sphere\r\n1 Dispel\r\n1 Engineered Explosives\r\n1 Izzet Staticaster\r\n2 Negate\r\n2 Pyroclasm\r\n2 Wear/Tear\r\n",
+    "mainText": "2 Arid Mesa\n1 Balefire Liege\n3 Brimaz, King of Oreskos\n4 Flooded Strand\n2 Hallowed Fountain\n1 Island\n4 Lightning Angel\n4 Lightning Bolt\n3 Lightning Helix\n4 Mantis Rider\n1 Mountain\n4 Path to Exile\n1 Plains\n4 Relentless Raptor\n2 Sacred Foundry\n4 Savor the Moment\n2 Scalding Tarn\n2 Seachrome Coast\n4 Serum Visions\n2 Snapcaster Mage\n4 Spirebluff Canal\n2 Steam Vents",
+    "sideText": "2 Blessed Alliance\n1 Ceremonious Rejection\n3 Damping Sphere\n1 Dispel\n1 Engineered Explosives\n1 Izzet Staticaster\n2 Negate\n2 Pyroclasm\n2 Wear/Tear"
   }
 }

@@ -18,8 +18,8 @@
   "containsBannedCards": false,
   "coverCard": "Arbor Elf",
   "decklist": {
-    "raw": "[object Object]",
-    "mainText": "[object Object]",
-    "sideText": ""
+    "raw": "4 Arbor Elf\r\n4 Birds of Paradise\r\n1 Elspeth, Sun's Champion\r\n4 Eternal Witness\r\n4 Fertile Ground\r\n8 Forest\r\n4 Garruk Wildspeaker\r\n1 Kessig Wolf Run\r\n1 Kitchen Finks\r\n2 Knight of the Reliquary\r\n2 Nykthos, Shrine to Nyx\r\n1 Overgrown Tomb\r\n2 Painful Truths\r\n4 Primal Command\r\n1 Stomping Ground\r\n2 Sylvan Caryatid\r\n1 Temple Garden\r\n1 Thragtusk\r\n1 Ugin, the Spirit Dragon\r\n4 Utopia Sprawl\r\n4 Windswept Heath\r\n2 Wooded Foothills\r\n1 Woodland Bellower\r\n1 Xenagos, the Reveler\r\n\r\n1 Batterskull\r\n2 Bonfire of the Damned\r\n4 Duress\r\n4 Reclamation Sage\r\n4 Scavenging Ooze\r\n",
+    "mainText": "4 Arbor Elf\n4 Birds of Paradise\n1 Elspeth, Sun's Champion\n4 Eternal Witness\n4 Fertile Ground\n8 Forest\n4 Garruk Wildspeaker\n1 Kessig Wolf Run\n1 Kitchen Finks\n2 Knight of the Reliquary\n2 Nykthos, Shrine to Nyx\n1 Overgrown Tomb\n2 Painful Truths\n4 Primal Command\n1 Stomping Ground\n2 Sylvan Caryatid\n1 Temple Garden\n1 Thragtusk\n1 Ugin, the Spirit Dragon\n4 Utopia Sprawl\n4 Windswept Heath\n2 Wooded Foothills\n1 Woodland Bellower\n1 Xenagos, the Reveler",
+    "sideText": "1 Batterskull\n2 Bonfire of the Damned\n4 Duress\n4 Reclamation Sage\n4 Scavenging Ooze"
   }
 }

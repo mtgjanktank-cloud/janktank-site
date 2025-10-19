@@ -17,8 +17,8 @@
   "containsBannedCards": false,
   "coverCard": "Helix Pinnacle",
   "decklist": {
-    "raw": "[object Object]",
-    "mainText": "[object Object]",
-    "sideText": ""
+    "raw": "1 Breeding Pool\r\n3 Celestial Colonnade\r\n3 Condescend\r\n4 Curse of Exhaustion\r\n1 Detention Sphere\r\n4 Flooded Strand\r\n1 Forest\r\n4 Ghost Quarter\r\n2 Hallowed Fountain\r\n4 Helix Pinnacle\r\n1 Island\r\n3 Knowledge Pool\r\n4 Mana Leak\r\n4 Path to Exile\r\n2 Plains\r\n4 Remand\r\n1 Rule of Law\r\n4 Serum Visions\r\n1 Stirring Wildwood\r\n3 Supreme Verdict\r\n2 Temple Garden\r\n4 Windswept Heath\r\n\r\n1 Dispel\r\n1 Ghostly Prison\r\n1 Krosan Grip\r\n2 Leyline of Sanctity\r\n2 Negate\r\n2 Rest in Peace\r\n1 Silence\r\n2 Stony Silence\r\n1 Supreme Verdict\r\n2 Timely Reinforcements\r\n",
+    "mainText": "1 Breeding Pool\n3 Celestial Colonnade\n3 Condescend\n4 Curse of Exhaustion\n1 Detention Sphere\n4 Flooded Strand\n1 Forest\n4 Ghost Quarter\n2 Hallowed Fountain\n4 Helix Pinnacle\n1 Island\n3 Knowledge Pool\n4 Mana Leak\n4 Path to Exile\n2 Plains\n4 Remand\n1 Rule of Law\n4 Serum Visions\n1 Stirring Wildwood\n3 Supreme Verdict\n2 Temple Garden\n4 Windswept Heath",
+    "sideText": "1 Dispel\n1 Ghostly Prison\n1 Krosan Grip\n2 Leyline of Sanctity\n2 Negate\n2 Rest in Peace\n1 Silence\n2 Stony Silence\n1 Supreme Verdict\n2 Timely Reinforcements"
   }
 }

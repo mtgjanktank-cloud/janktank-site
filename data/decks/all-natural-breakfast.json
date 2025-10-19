@@ -18,8 +18,8 @@
   "containsBannedCards": false,
   "coverCard": "Mana Seism",
   "decklist": {
-    "raw": "[object Object]",
-    "mainText": "[object Object]",
-    "sideText": ""
+    "raw": "4 Amulet of Vigor\n3 Bring to Light\n4 Crumbling Vestige\n4 Faith's Reward\n1 Fiery Islet\n1 Forest\n3 Gemstone Mine\n1 Grove of the Burnwillows\n4 Horizon Canopy\n4 Lotus Cobra\n4 Mana Seism\n1 Mountain\n4 Sacred Foundry\n4 Scapeshift\n2 Seismic Assault\n1 Simic Growth Chamber\n4 Splendid Reclamation\n2 Steam Vents\n4 Stomping Ground\n2 Sunbaked Canyon\n1 Tireless Tracker\n2 Trade Routes\n\nSideboard:\n4 Autumn's Veil\n3 Boseiju, Who Shelters All\n2 Tunneling Geopede\n\n",
+    "mainText": "4 Amulet of Vigor\n3 Bring to Light\n4 Crumbling Vestige\n4 Faith's Reward\n1 Fiery Islet\n1 Forest\n3 Gemstone Mine\n1 Grove of the Burnwillows\n4 Horizon Canopy\n4 Lotus Cobra\n4 Mana Seism\n1 Mountain\n4 Sacred Foundry\n4 Scapeshift\n2 Seismic Assault\n1 Simic Growth Chamber\n4 Splendid Reclamation\n2 Steam Vents\n4 Stomping Ground\n2 Sunbaked Canyon\n1 Tireless Tracker\n2 Trade Routes",
+    "sideText": "4 Autumn's Veil\n3 Boseiju, Who Shelters All\n2 Tunneling Geopede"
   }
 }

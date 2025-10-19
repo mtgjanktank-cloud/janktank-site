@@ -19,8 +19,8 @@
   "containsBannedCards": true,
   "coverCard": "Chancellor of the Tangle",
   "decklist": {
-    "raw": "[object Object]",
-    "mainText": "[object Object]",
-    "sideText": ""
+    "raw": "4 Caravan Vigil\r\n4 Chancellor of the Tangle\r\n4 Desperate Ritual\r\n1 Dryad Arbor\r\n3 Faithless Looting\r\n1 Forest\r\n4 Goblin Charbelcher\r\n4 Infernal Plunge\r\n2 Lay of the Land\r\n4 Magus of the Vineyard\r\n4 Manamorphose\r\n1 Mountain\r\n4 Pyretic Ritual\r\n4 Safewright Quest\r\n4 Simian Spirit Guide\r\n4 Street Wraith\r\n4 Traverse the Ulvenwald\r\n4 Wild Cantor\r\n\r\n1 Alchemist's Apprentice\r\n1 Angel of Glory's Rise\r\n1 Azami, Lady of Scrolls\r\n4 Balustrade Spy\r\n1 Fiend Hunter\r\n1 Laboratory Maniac\r\n1 Swamp\r\n1 Unburial Rites\r\n4 Undercity Informer\r\n",
+    "mainText": "4 Caravan Vigil\n4 Chancellor of the Tangle\n4 Desperate Ritual\n1 Dryad Arbor\n3 Faithless Looting\n1 Forest\n4 Goblin Charbelcher\n4 Infernal Plunge\n2 Lay of the Land\n4 Magus of the Vineyard\n4 Manamorphose\n1 Mountain\n4 Pyretic Ritual\n4 Safewright Quest\n4 Simian Spirit Guide\n4 Street Wraith\n4 Traverse the Ulvenwald\n4 Wild Cantor",
+    "sideText": "1 Alchemist's Apprentice\n1 Angel of Glory's Rise\n1 Azami, Lady of Scrolls\n4 Balustrade Spy\n1 Fiend Hunter\n1 Laboratory Maniac\n1 Swamp\n1 Unburial Rites\n4 Undercity Informer"
   }
 }

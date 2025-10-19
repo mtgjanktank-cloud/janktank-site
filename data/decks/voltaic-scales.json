@@ -16,8 +16,8 @@
   "containsBannedCards": true,
   "coverCard": "Voltaic Servant",
   "decklist": {
-    "raw": "[object Object]",
-    "mainText": "[object Object]",
-    "sideText": ""
+    "raw": "4 Aether Vial\r\n1 Animation Module\r\n4 Arcbound Ravager\r\n4 Arcbound Worker\r\n4 Darksteel Citadel\r\n1 Forest\r\n4 Hangarback Walker\r\n4 Hardened Scales\r\n4 Horizon Canopy\r\n4 Inkmoth Nexus\r\n2 Life's Legacy\r\n3 Metallic Mimic\r\n4 Mox Opal\r\n1 Pendelhaven\r\n4 Razorverge Thicket\r\n4 Steel Overseer\r\n3 Voltaic Servant\r\n4 Walking Ballista\r\n1 Welding Jar\r\n\r\n4 Chalice of the Void\r\n2 Dromoka's Command\r\n2 Ethersworn Canonist\r\n2 Phyrexian Revoker\r\n2 Qasali Pridemage\r\n1 Spellskite\r\n1 Torpor Orb\r\n1 Welding Jar\r\n",
+    "mainText": "4 Aether Vial\n1 Animation Module\n4 Arcbound Ravager\n4 Arcbound Worker\n4 Darksteel Citadel\n1 Forest\n4 Hangarback Walker\n4 Hardened Scales\n4 Horizon Canopy\n4 Inkmoth Nexus\n2 Life's Legacy\n3 Metallic Mimic\n4 Mox Opal\n1 Pendelhaven\n4 Razorverge Thicket\n4 Steel Overseer\n3 Voltaic Servant\n4 Walking Ballista\n1 Welding Jar",
+    "sideText": "4 Chalice of the Void\n2 Dromoka's Command\n2 Ethersworn Canonist\n2 Phyrexian Revoker\n2 Qasali Pridemage\n1 Spellskite\n1 Torpor Orb\n1 Welding Jar"
   }
 }

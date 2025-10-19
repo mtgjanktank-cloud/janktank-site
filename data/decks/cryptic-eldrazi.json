@@ -15,8 +15,8 @@
   "containsBannedCards": false,
   "coverCard": "Matter Reshaper",
   "decklist": {
-    "raw": "[object Object]",
-    "mainText": "[object Object]",
-    "sideText": ""
+    "raw": "1 Cavern of Souls\n3 Cryptic Command\n4 Eldrazi Temple\n1 Ghost Quarter\n9 Island\n4 Matter Reshaper\n2 Mulldrifter\n4 Opt\n4 Phantasmal Image\n4 Reality Smasher\n4 Remand\n4 Serum Visions\n4 Spreading Seas\n3 Sunken Ruins\n4 Thought-Knot Seer\n4 Underground River\n1 Wastes\n\nSideboard:\n1 Bribery\n2 Disdainful Stroke\n2 Dismember\n3 Engineered Explosives\n2 Fleetwheel Cruiser\n2 Negate\n3 Relic of Progenitus\n\n",
+    "mainText": "1 Cavern of Souls\n3 Cryptic Command\n4 Eldrazi Temple\n1 Ghost Quarter\n9 Island\n4 Matter Reshaper\n2 Mulldrifter\n4 Opt\n4 Phantasmal Image\n4 Reality Smasher\n4 Remand\n4 Serum Visions\n4 Spreading Seas\n3 Sunken Ruins\n4 Thought-Knot Seer\n4 Underground River\n1 Wastes",
+    "sideText": "1 Bribery\n2 Disdainful Stroke\n2 Dismember\n3 Engineered Explosives\n2 Fleetwheel Cruiser\n2 Negate\n3 Relic of Progenitus"
   }
 }

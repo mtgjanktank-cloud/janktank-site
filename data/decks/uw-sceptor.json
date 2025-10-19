@@ -16,8 +16,8 @@
   "containsBannedCards": false,
   "coverCard": "Isochron Sceptor",
   "decklist": {
-    "raw": "[object Object]",
-    "mainText": "[object Object]",
-    "sideText": ""
+    "raw": "4 Deprive\r\n4 Flooded Strand\r\n4 Hallowed Fountain\r\n8 Island\r\n4 Isochron Scepter\r\n4 Judge's Familiar\r\n4 Mana Leak\r\n4 Meddling Mage\r\n1 Plains\r\n4 Reflecting Pool\r\n4 Surrakar Spellblade\r\n4 Tandem Lookout\r\n3 Unsummon\r\n4 Vapor Snag\r\n4 Voidmage Prodigy\r\n\r\n2 Angel's Grace\r\n2 Negate\r\n3 Psychic Barrier\r\n3 Psychic Rebuttal\r\n2 Redirect\r\n1 Squelch\r\n2 Trickbind\r\n",
+    "mainText": "4 Deprive\n4 Flooded Strand\n4 Hallowed Fountain\n8 Island\n4 Isochron Scepter\n4 Judge's Familiar\n4 Mana Leak\n4 Meddling Mage\n1 Plains\n4 Reflecting Pool\n4 Surrakar Spellblade\n4 Tandem Lookout\n3 Unsummon\n4 Vapor Snag\n4 Voidmage Prodigy",
+    "sideText": "2 Angel's Grace\n2 Negate\n3 Psychic Barrier\n3 Psychic Rebuttal\n2 Redirect\n1 Squelch\n2 Trickbind"
   }
 }

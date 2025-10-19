@@ -18,8 +18,8 @@
   "containsBannedCards": false,
   "coverCard": "Enigmatic Incarnation",
   "decklist": {
-    "raw": "[object Object]",
-    "mainText": "[object Object]",
-    "sideText": ""
+    "raw": "2 Breeding Pool\r\n1 Deputy of Detention\r\n3 Enigmatic Incarnation\r\n4 Flooded Strand\r\n4 Force of Negation\r\n2 Glacial Fortress\r\n4 Glittering Wish\r\n1 Godless Shrine\r\n2 Hallowed Fountain\r\n3 Hatching Plans\r\n2 Hinterland Harbor\r\n2 Island\r\n1 Kambal, Consul of Allocation\r\n2 Mirror Image\r\n4 Misty Rainforest\r\n4 Path to Exile\r\n1 Plague Engineer\r\n1 Plains\r\n1 Reflector Mage\r\n3 Renegade Rallier\r\n1 Skaab Ruinator\r\n4 Spreading Seas\r\n1 Temple Garden\r\n4 Trial of Ambition\r\n1 Watery Grave\r\n2 Windswept Heath\r\n\r\n1 Anafenza, the Foremost\r\n1 Detention Sphere\r\n1 Enigmatic Incarnation\r\n1 Fracturing Gust\r\n1 Heroes' Reunion\r\n4 Journey to Nowhere\r\n1 Kambal, Consul of Allocation\r\n1 Merieke Ri Berit\r\n1 Sigarda, Host of Herons\r\n1 Supreme Verdict\r\n1 Trygon Predator\r\n1 Wheel of Sun and Moon\r\n",
+    "mainText": "2 Breeding Pool\n1 Deputy of Detention\n3 Enigmatic Incarnation\n4 Flooded Strand\n4 Force of Negation\n2 Glacial Fortress\n4 Glittering Wish\n1 Godless Shrine\n2 Hallowed Fountain\n3 Hatching Plans\n2 Hinterland Harbor\n2 Island\n1 Kambal, Consul of Allocation\n2 Mirror Image\n4 Misty Rainforest\n4 Path to Exile\n1 Plague Engineer\n1 Plains\n1 Reflector Mage\n3 Renegade Rallier\n1 Skaab Ruinator\n4 Spreading Seas\n1 Temple Garden\n4 Trial of Ambition\n1 Watery Grave\n2 Windswept Heath",
+    "sideText": "1 Anafenza, the Foremost\n1 Detention Sphere\n1 Enigmatic Incarnation\n1 Fracturing Gust\n1 Heroes' Reunion\n4 Journey to Nowhere\n1 Kambal, Consul of Allocation\n1 Merieke Ri Berit\n1 Sigarda, Host of Herons\n1 Supreme Verdict\n1 Trygon Predator\n1 Wheel of Sun and Moon"
   }
 }

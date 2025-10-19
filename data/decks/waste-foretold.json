@@ -17,8 +17,8 @@
   "containsBannedCards": true,
   "coverCard": "Whispering Madness",
   "decklist": {
-    "raw": "[object Object]",
-    "mainText": "[object Object]",
-    "sideText": ""
+    "raw": "4 As Foretold\r\n4 Burning Inquiry\r\n2 Darkslick Shores\r\n4 Darksteel Citadel\r\n2 Dimir Signet\r\n4 Dream Salvage\r\n1 Geier Reach Sanitarium\r\n1 Gemstone Caverns\r\n4 Izzet Signet\r\n3 Mana Confluence\r\n1 Mikokoro, Center of the Sea\r\n2 Molten Psyche\r\n3 Mox Opal\r\n1 Past in Flames\r\n1 Rakdos Signet\r\n1 Reforge the Soul\r\n2 Shadow of the Grave\r\n4 Simian Spirit Guide\r\n1 Spire of Industry\r\n2 Spirebluff Canal\r\n1 Urborg, Tomb of Yawgmoth\r\n4 Waste Not\r\n4 Wheel of Fate\r\n4 Whispering Madness\r\n\r\n1 Commit/Memory\r\n3 Defense Grid\r\n1 Goblin Dark-Dwellers\r\n2 Nihil Spellbomb\r\n3 Restore Balance\r\n1 Shadow of the Grave\r\n4 Thoughtseize\r\n",
+    "mainText": "4 As Foretold\n4 Burning Inquiry\n2 Darkslick Shores\n4 Darksteel Citadel\n2 Dimir Signet\n4 Dream Salvage\n1 Geier Reach Sanitarium\n1 Gemstone Caverns\n4 Izzet Signet\n3 Mana Confluence\n1 Mikokoro, Center of the Sea\n2 Molten Psyche\n3 Mox Opal\n1 Past in Flames\n1 Rakdos Signet\n1 Reforge the Soul\n2 Shadow of the Grave\n4 Simian Spirit Guide\n1 Spire of Industry\n2 Spirebluff Canal\n1 Urborg, Tomb of Yawgmoth\n4 Waste Not\n4 Wheel of Fate\n4 Whispering Madness",
+    "sideText": "1 Commit/Memory\n3 Defense Grid\n1 Goblin Dark-Dwellers\n2 Nihil Spellbomb\n3 Restore Balance\n1 Shadow of the Grave\n4 Thoughtseize"
   }
 }

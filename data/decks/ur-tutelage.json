@@ -16,8 +16,8 @@
   "containsBannedCards": true,
   "coverCard": "Sphinx's Tutelage",
   "decklist": {
-    "raw": "[object Object]",
-    "mainText": "[object Object]",
-    "sideText": ""
+    "raw": "4 Ensnaring Bridge\r\n4 Faithless Looting\r\n1 Flooded Strand\r\n5 Island\r\n4 Mesmeric Orb\r\n2 Misty Rainforest\r\n2 Mountain\r\n1 Polluted Delta\r\n1 Psychic Spiral\r\n4 Pyroclasm\r\n4 Remand\r\n4 Scalding Tarn\r\n4 Serum Visions\r\n4 Sphinx's Tutelage\r\n1 Steam Vents\r\n4 Street Wraith\r\n1 Sulfur Falls\r\n1 Surgical Extraction\r\n4 Thought Scour\r\n4 Tormenting Voice\r\n1 Watery Grave\r\n\r\n4 Dispel\r\n3 Negate\r\n4 Sun Droplet\r\n2 Surgical Extraction\r\n2 Tormod's Crypt\r\n",
+    "mainText": "4 Ensnaring Bridge\n4 Faithless Looting\n1 Flooded Strand\n5 Island\n4 Mesmeric Orb\n2 Misty Rainforest\n2 Mountain\n1 Polluted Delta\n1 Psychic Spiral\n4 Pyroclasm\n4 Remand\n4 Scalding Tarn\n4 Serum Visions\n4 Sphinx's Tutelage\n1 Steam Vents\n4 Street Wraith\n1 Sulfur Falls\n1 Surgical Extraction\n4 Thought Scour\n4 Tormenting Voice\n1 Watery Grave",
+    "sideText": "4 Dispel\n3 Negate\n4 Sun Droplet\n2 Surgical Extraction\n2 Tormod's Crypt"
   }
 }

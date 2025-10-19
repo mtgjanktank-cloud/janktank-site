@@ -17,8 +17,8 @@
   "containsBannedCards": false,
   "coverCard": "Monastery Swiftspear",
   "decklist": {
-    "raw": "[object Object]",
-    "mainText": "[object Object]",
-    "sideText": ""
+    "raw": "3 Delver of Secrets\n2 Island\n4 Lava Spike\n4 Lightning Bolt\n4 Mishra's Bauble\n3 Misty Rainforest\n4 Monastery Swiftspear\n1 Mountain\n1 Mutagenic Growth\n4 Opt\n3 Rift Bolt\n4 Scalding Tarn\n4 Serum Visions\n4 Soul-Scar Mage\n4 Spirebluff Canal\n2 Steam Vents\n1 Stomping Ground\n4 Stormchaser Mage\n2 The Royal Scions\n2 Wizard's Lightning\n\nSideboard:\n3 Blossoming Defense\n4 Cindervines\n1 Destructive Revelry\n1 Search for Azcanta\n4 Searing Blaze\n2 Vapor Snag\n\n",
+    "mainText": "3 Delver of Secrets\n2 Island\n4 Lava Spike\n4 Lightning Bolt\n4 Mishra's Bauble\n3 Misty Rainforest\n4 Monastery Swiftspear\n1 Mountain\n1 Mutagenic Growth\n4 Opt\n3 Rift Bolt\n4 Scalding Tarn\n4 Serum Visions\n4 Soul-Scar Mage\n4 Spirebluff Canal\n2 Steam Vents\n1 Stomping Ground\n4 Stormchaser Mage\n2 The Royal Scions\n2 Wizard's Lightning",
+    "sideText": "3 Blossoming Defense\n4 Cindervines\n1 Destructive Revelry\n1 Search for Azcanta\n4 Searing Blaze\n2 Vapor Snag"
   }
 }

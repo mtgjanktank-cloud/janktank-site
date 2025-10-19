@@ -15,8 +15,8 @@
   "containsBannedCards": false,
   "coverCard": "Bump in the Night",
   "decklist": {
-    "raw": "[object Object]",
-    "mainText": "[object Object]",
-    "sideText": ""
+    "raw": "4 Alms of the Vein\r\n4 Asylum Visitor\r\n4 Bloodstained Mire\r\n4 Bump in the Night\r\n4 Collective Brutality\r\n4 Fatal Push\r\n4 Geralf's Messenger\r\n1 Leechridden Swamp\r\n1 Marsh Flats\r\n4 Phyrexian Obliterator\r\n1 Smoldering Marsh\r\n3 Stromkirk Condemned\r\n14 Swamp\r\n4 Thrull Parasite\r\n4 Vampire Cutthroat\r\n\r\n4 Disfigure\r\n4 Inquisition of Kozilek\r\n4 Relic of Progenitus\r\n3 Thoughtseize\r\n",
+    "mainText": "4 Alms of the Vein\n4 Asylum Visitor\n4 Bloodstained Mire\n4 Bump in the Night\n4 Collective Brutality\n4 Fatal Push\n4 Geralf's Messenger\n1 Leechridden Swamp\n1 Marsh Flats\n4 Phyrexian Obliterator\n1 Smoldering Marsh\n3 Stromkirk Condemned\n14 Swamp\n4 Thrull Parasite\n4 Vampire Cutthroat",
+    "sideText": "4 Disfigure\n4 Inquisition of Kozilek\n4 Relic of Progenitus\n3 Thoughtseize"
   }
 }

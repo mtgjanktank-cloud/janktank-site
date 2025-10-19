@@ -16,8 +16,8 @@
   "containsBannedCards": false,
   "coverCard": "Archive Trap",
   "decklist": {
-    "raw": "[object Object]",
-    "mainText": "[object Object]",
-    "sideText": ""
+    "raw": "4 Archive Trap\r\n2 Bloodstained Mire\r\n2 Breaking/Entering\r\n4 Field of Ruin\r\n4 Flooded Strand\r\n4 Fraying Sanity\r\n4 Glimpse the Unthinkable\r\n4 Hedron Crab\r\n2 Infernal Tutor\r\n3 Island\r\n4 Merchant Scroll\r\n4 Polluted Delta\r\n4 Serum Visions\r\n4 Sleight of Hand\r\n1 Swamp\r\n4 Tolaria West\r\n4 Trapmaker's Snare\r\n2 Watery Grave\r\n\r\n1 Ceremonious Rejection\r\n4 Drown in Sorrow\r\n3 Echoing Truth\r\n1 Hibernation\r\n1 Hurkyl's Recall\r\n1 Mindbreak Trap\r\n2 Ravenous Trap\r\n1 Shifting Borders\r\n1 Tormod's Crypt\r\n",
+    "mainText": "4 Archive Trap\n2 Bloodstained Mire\n2 Breaking/Entering\n4 Field of Ruin\n4 Flooded Strand\n4 Fraying Sanity\n4 Glimpse the Unthinkable\n4 Hedron Crab\n2 Infernal Tutor\n3 Island\n4 Merchant Scroll\n4 Polluted Delta\n4 Serum Visions\n4 Sleight of Hand\n1 Swamp\n4 Tolaria West\n4 Trapmaker's Snare\n2 Watery Grave",
+    "sideText": "1 Ceremonious Rejection\n4 Drown in Sorrow\n3 Echoing Truth\n1 Hibernation\n1 Hurkyl's Recall\n1 Mindbreak Trap\n2 Ravenous Trap\n1 Shifting Borders\n1 Tormod's Crypt"
   }
 }

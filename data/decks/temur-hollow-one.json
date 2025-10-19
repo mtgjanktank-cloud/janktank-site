@@ -17,8 +17,8 @@
   "containsBannedCards": true,
   "coverCard": "Rekindling Phoenix",
   "decklist": {
-    "raw": "[object Object]",
-    "mainText": "[object Object]",
-    "sideText": ""
+    "raw": "4 Burning Inquiry\r\n2 Cathartic Reunion\r\n4 Faithless Looting\r\n4 Flameblade Adept\r\n4 Flamewake Phoenix\r\n1 Forest\r\n1 Hazoret the Fervent\r\n4 Hollow One\r\n2 Hooting Mandrills\r\n1 Island\r\n4 Lightning Bolt\r\n4 Misty Rainforest\r\n2 Mountain\r\n1 Scalding Tarn\r\n3 Squee, Goblin Nabob\r\n2 Steam Vents\r\n2 Stomping Ground\r\n4 Street Wraith\r\n3 Stubborn Denial\r\n4 Tarmogoyf\r\n4 Wooded Foothills\r\n\r\n2 Ancient Grudge\r\n1 Basilisk Collar\r\n3 Blood Moon\r\n1 Flame Jab\r\n2 Just the Wind\r\n2 Lightning Axe\r\n2 Natural State\r\n1 Pyroclasm\r\n1 Stubborn Denial\r\n",
+    "mainText": "4 Burning Inquiry\n2 Cathartic Reunion\n4 Faithless Looting\n4 Flameblade Adept\n4 Flamewake Phoenix\n1 Forest\n1 Hazoret the Fervent\n4 Hollow One\n2 Hooting Mandrills\n1 Island\n4 Lightning Bolt\n4 Misty Rainforest\n2 Mountain\n1 Scalding Tarn\n3 Squee, Goblin Nabob\n2 Steam Vents\n2 Stomping Ground\n4 Street Wraith\n3 Stubborn Denial\n4 Tarmogoyf\n4 Wooded Foothills",
+    "sideText": "2 Ancient Grudge\n1 Basilisk Collar\n3 Blood Moon\n1 Flame Jab\n2 Just the Wind\n2 Lightning Axe\n2 Natural State\n1 Pyroclasm\n1 Stubborn Denial"
   }
 }

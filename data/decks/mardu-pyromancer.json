@@ -17,8 +17,8 @@
   "containsBannedCards": false,
   "coverCard": "Young Pyromancer",
   "decklist": {
-    "raw": "[object Object]",
-    "mainText": "[object Object]",
-    "sideText": ""
+    "raw": "1 Arid Mesa\r\n3 Blackcleave Cliffs\r\n1 Blood Crypt\r\n4 Bloodstained Mire\r\n3 Collective Brutality\r\n1 Concealed Courtyard\r\n3 Fatal Push\r\n3 Gideon, Ally of Zendikar\r\n2 Godless Shrine\r\n3 Inquisition of Kozilek\r\n1 Kolaghan's Command\r\n2 Lightning Helix\r\n4 Lingering Souls\r\n4 Marsh Flats\r\n4 Monastery Mentor\r\n2 Night's Whisper\r\n1 Painful Truths\r\n3 Path to Exile\r\n1 Plains\r\n1 Sacred Foundry\r\n2 Shambling Vent\r\n2 Swamp\r\n4 Thoughtseize\r\n1 Vault of the Archangel\r\n4 Young Pyromancer\r\n\r\n1 Celestial Purge\r\n1 Gideon, Ally of Zendikar\r\n1 Grim Lavamancer\r\n3 Monastery Swiftspear\r\n2 Nihil Spellbomb\r\n1 Path to Exile\r\n1 Raven's Crime\r\n1 Runed Halo\r\n1 Stony Silence\r\n1 Wear/Tear\r\n2 Zealous Persecution\r\n",
+    "mainText": "1 Arid Mesa\n3 Blackcleave Cliffs\n1 Blood Crypt\n4 Bloodstained Mire\n3 Collective Brutality\n1 Concealed Courtyard\n3 Fatal Push\n3 Gideon, Ally of Zendikar\n2 Godless Shrine\n3 Inquisition of Kozilek\n1 Kolaghan's Command\n2 Lightning Helix\n4 Lingering Souls\n4 Marsh Flats\n4 Monastery Mentor\n2 Night's Whisper\n1 Painful Truths\n3 Path to Exile\n1 Plains\n1 Sacred Foundry\n2 Shambling Vent\n2 Swamp\n4 Thoughtseize\n1 Vault of the Archangel\n4 Young Pyromancer",
+    "sideText": "1 Celestial Purge\n1 Gideon, Ally of Zendikar\n1 Grim Lavamancer\n3 Monastery Swiftspear\n2 Nihil Spellbomb\n1 Path to Exile\n1 Raven's Crime\n1 Runed Halo\n1 Stony Silence\n1 Wear/Tear\n2 Zealous Persecution"
   }
 }

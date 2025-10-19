@@ -17,8 +17,8 @@
   "containsBannedCards": true,
   "coverCard": "Dragon Tempest",
   "decklist": {
-    "raw": "[object Object]",
-    "mainText": "[object Object]",
-    "sideText": ""
+    "raw": "3 Chronic Flooding\r\n3 City of Brass\r\n4 Dragon Egg\r\n4 Dragon Hatchling\r\n4 Dragon Tempest\r\n4 Faithless Looting\r\n3 Fatestitcher\r\n4 Flooded Strand\r\n4 Forbidden Alchemy\r\n4 Forbidden Orchard\r\n4 Intruder Alarm\r\n3 Mana Confluence\r\n2 Plains\r\n4 Rally the Ancestors\r\n4 Slumbering Dragon\r\n2 Steam Vents\r\n4 Thought Scour\r\n\r\n3 Banefire\r\n4 Emrakul, the Aeons Torn\r\n4 Polymorph\r\n4 Raise the Alarm\r\n",
+    "mainText": "3 Chronic Flooding\n3 City of Brass\n4 Dragon Egg\n4 Dragon Hatchling\n4 Dragon Tempest\n4 Faithless Looting\n3 Fatestitcher\n4 Flooded Strand\n4 Forbidden Alchemy\n4 Forbidden Orchard\n4 Intruder Alarm\n3 Mana Confluence\n2 Plains\n4 Rally the Ancestors\n4 Slumbering Dragon\n2 Steam Vents\n4 Thought Scour",
+    "sideText": "3 Banefire\n4 Emrakul, the Aeons Torn\n4 Polymorph\n4 Raise the Alarm"
   }
 }

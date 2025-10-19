@@ -17,8 +17,8 @@
   "containsBannedCards": false,
   "coverCard": "Steppe Lynx",
   "decklist": {
-    "raw": "[object Object]",
-    "mainText": "[object Object]",
-    "sideText": ""
+    "raw": "3 Arid Mesa\r\n3 Atarka's Command\r\n1 Forest\r\n1 Ghost Quarter\r\n2 Horizon Canopy\r\n1 Kessig Wolf Run\r\n3 Knight of the Reliquary\r\n4 Lightning Bolt\r\n1 Mountain\r\n3 Path to Exile\r\n1 Plains\r\n4 Plated Geopede\r\n4 Renegade Rallier\r\n2 Sacred Foundry\r\n2 Scapeshift\r\n1 Scavenging Ooze\r\n4 Steppe Lynx\r\n2 Stomping Ground\r\n1 Temple Garden\r\n3 Tireless Tracker\r\n2 Voice of Resurgence\r\n4 Wild Nacatl\r\n4 Windswept Heath\r\n4 Wooded Foothills\r\n\r\n2 Damping Sphere\r\n2 Destructive Revelry\r\n1 Grim Lavamancer\r\n1 Kataki, War's Wage\r\n3 Kor Firewalker\r\n1 Qasali Pridemage\r\n2 Rest in Peace\r\n1 Rule of Law\r\n2 Stony Silence\r\n",
+    "mainText": "3 Arid Mesa\n3 Atarka's Command\n1 Forest\n1 Ghost Quarter\n2 Horizon Canopy\n1 Kessig Wolf Run\n3 Knight of the Reliquary\n4 Lightning Bolt\n1 Mountain\n3 Path to Exile\n1 Plains\n4 Plated Geopede\n4 Renegade Rallier\n2 Sacred Foundry\n2 Scapeshift\n1 Scavenging Ooze\n4 Steppe Lynx\n2 Stomping Ground\n1 Temple Garden\n3 Tireless Tracker\n2 Voice of Resurgence\n4 Wild Nacatl\n4 Windswept Heath\n4 Wooded Foothills",
+    "sideText": "2 Damping Sphere\n2 Destructive Revelry\n1 Grim Lavamancer\n1 Kataki, War's Wage\n3 Kor Firewalker\n1 Qasali Pridemage\n2 Rest in Peace\n1 Rule of Law\n2 Stony Silence"
   }
 }

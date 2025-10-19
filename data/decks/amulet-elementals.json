@@ -17,8 +17,8 @@
   "containsBannedCards": false,
   "coverCard": "Risen Reef",
   "decklist": {
-    "raw": "[object Object]",
-    "mainText": "[object Object]",
-    "sideText": ""
+    "raw": "4 Amulet of Vigor\r\n4 Arboreal Grazer\r\n4 Botanical Sanctum\r\n3 Cavern of Souls\r\n1 Crumbling Vestige\r\n3 Flamekin Harbinger\r\n2 Forest\r\n4 Gruul Turf\r\n2 Halimar Depths\r\n1 Izzet Boilerworks\r\n3 Mulldrifter\r\n1 Omnath, Locus of the Roil\r\n4 Phantasmal Image\r\n4 Risen Reef\r\n4 Scampering Scorcher\r\n4 Serum Visions\r\n4 Simic Growth Chamber\r\n2 Spirebluff Canal\r\n2 Trinket Mage\r\n4 Waterlogged Grove\r\n\r\n2 Dismember\r\n2 Force of Negation\r\n1 Fulminator Mage\r\n1 Grafdigger's Cage\r\n3 Nature's Claim\r\n3 Spellskite\r\n3 Veil of Summer\r\n",
+    "mainText": "4 Amulet of Vigor\n4 Arboreal Grazer\n4 Botanical Sanctum\n3 Cavern of Souls\n1 Crumbling Vestige\n3 Flamekin Harbinger\n2 Forest\n4 Gruul Turf\n2 Halimar Depths\n1 Izzet Boilerworks\n3 Mulldrifter\n1 Omnath, Locus of the Roil\n4 Phantasmal Image\n4 Risen Reef\n4 Scampering Scorcher\n4 Serum Visions\n4 Simic Growth Chamber\n2 Spirebluff Canal\n2 Trinket Mage\n4 Waterlogged Grove",
+    "sideText": "2 Dismember\n2 Force of Negation\n1 Fulminator Mage\n1 Grafdigger's Cage\n3 Nature's Claim\n3 Spellskite\n3 Veil of Summer"
   }
 }

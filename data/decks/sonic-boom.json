@@ -15,8 +15,8 @@
   "containsBannedCards": false,
   "coverCard": "Plumeveil",
   "decklist": {
-    "raw": "[object Object]",
-    "mainText": "[object Object]",
-    "sideText": ""
+    "raw": "4 Condescend\r\n2 Confirm Suspicions\r\n4 Cryptic Command\r\n2 Guile\r\n20 Island\r\n2 Pact of Negation\r\n4 Plumeveil\r\n4 Remand\r\n4 Spell Snare\r\n4 Stubborn Denial\r\n4 Tectonic Edge\r\n4 Vedalken Shackles\r\n2 Warmonger's Chariot\r\n\r\n1 Bribery\r\n4 Master of Waves\r\n4 Spellskite\r\n4 Spreading Seas\r\n2 Vendilion Clique\r\n",
+    "mainText": "4 Condescend\n2 Confirm Suspicions\n4 Cryptic Command\n2 Guile\n20 Island\n2 Pact of Negation\n4 Plumeveil\n4 Remand\n4 Spell Snare\n4 Stubborn Denial\n4 Tectonic Edge\n4 Vedalken Shackles\n2 Warmonger's Chariot",
+    "sideText": "1 Bribery\n4 Master of Waves\n4 Spellskite\n4 Spreading Seas\n2 Vendilion Clique"
   }
 }

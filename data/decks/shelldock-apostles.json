@@ -16,8 +16,8 @@
   "containsBannedCards": false,
   "coverCard": "Shelldock Isle",
   "decklist": {
-    "raw": "[object Object]",
-    "mainText": "[object Object]",
-    "sideText": ""
+    "raw": "3 Emrakul, the Aeons Torn\r\n3 Extirpate\r\n4 Polluted Delta\r\n38 Shadowborn Apostle\r\n2 Shelldock Isle\r\n4 Spoils of the Vault\r\n4 Surgical Extraction\r\n2 Watery Grave\r\n\r\n3 Bloodstained Mire\r\n1 Griselbrand\r\n3 Marsh Flats\r\n1 Ob Nixilis, Unshackled\r\n1 Shadowborn Demon\r\n4 Swamp\r\n2 Xathrid Necromancer\r\n",
+    "mainText": "3 Emrakul, the Aeons Torn\n3 Extirpate\n4 Polluted Delta\n38 Shadowborn Apostle\n2 Shelldock Isle\n4 Spoils of the Vault\n4 Surgical Extraction\n2 Watery Grave",
+    "sideText": "3 Bloodstained Mire\n1 Griselbrand\n3 Marsh Flats\n1 Ob Nixilis, Unshackled\n1 Shadowborn Demon\n4 Swamp\n2 Xathrid Necromancer"
   }
 }

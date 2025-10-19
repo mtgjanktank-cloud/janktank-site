@@ -17,8 +17,8 @@
   "containsBannedCards": true,
   "coverCard": "Dubious Challenge",
   "decklist": {
-    "raw": "[object Object]",
-    "mainText": "[object Object]",
-    "sideText": ""
+    "raw": "1 Arid Mesa\r\n4 Birds of Paradise\r\n1 Boseiju, Who Shelters All\r\n1 Breeding Pool\r\n4 Dubious Challenge\r\n1 Elesh Norn, Grand Cenobite\r\n4 Emrakul, the Aeons Torn\r\n4 Flickerwisp\r\n3 Flooded Strand\r\n1 Forest\r\n4 Glimmerpoint Stag\r\n3 Griselbrand\r\n2 Hallowed Fountain\r\n2 Noble Hierarch\r\n2 Overgrown Tomb\r\n3 Path to Exile\r\n1 Plains\r\n1 Platinum Emperion\r\n1 Sacred Foundry\r\n4 Simian Spirit Guide\r\n1 Steam Vents\r\n1 Stomping Ground\r\n1 Swamp\r\n3 Temple Garden\r\n3 Through the Breach\r\n4 Windswept Heath\r\n\r\n1 Anger of the Gods\r\n1 Celestial Purge\r\n2 Ceremonious Rejection\r\n1 Dispel\r\n3 Leyline of Sanctity\r\n2 Madcap Experiment\r\n2 Rest in Peace\r\n1 Slaughter Games\r\n2 Stony Silence\r\n",
+    "mainText": "1 Arid Mesa\n4 Birds of Paradise\n1 Boseiju, Who Shelters All\n1 Breeding Pool\n4 Dubious Challenge\n1 Elesh Norn, Grand Cenobite\n4 Emrakul, the Aeons Torn\n4 Flickerwisp\n3 Flooded Strand\n1 Forest\n4 Glimmerpoint Stag\n3 Griselbrand\n2 Hallowed Fountain\n2 Noble Hierarch\n2 Overgrown Tomb\n3 Path to Exile\n1 Plains\n1 Platinum Emperion\n1 Sacred Foundry\n4 Simian Spirit Guide\n1 Steam Vents\n1 Stomping Ground\n1 Swamp\n3 Temple Garden\n3 Through the Breach\n4 Windswept Heath",
+    "sideText": "1 Anger of the Gods\n1 Celestial Purge\n2 Ceremonious Rejection\n1 Dispel\n3 Leyline of Sanctity\n2 Madcap Experiment\n2 Rest in Peace\n1 Slaughter Games\n2 Stony Silence"
   }
 }

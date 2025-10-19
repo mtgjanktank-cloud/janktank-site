@@ -16,8 +16,8 @@
   "containsBannedCards": false,
   "coverCard": "Treasure Hunt",
   "decklist": {
-    "raw": "[object Object]",
-    "mainText": "[object Object]",
-    "sideText": ""
+    "raw": "3 Dismal Backwater\r\n3 Faerie Conclave\r\n24 Island\r\n4 Reliquary Tower\r\n20 Swamp\r\n4 Treasure Hunt\r\n2 Zombie Infestation\r\n\r\n4 Dispel\r\n4 Duress\r\n7 Island\r\n",
+    "mainText": "3 Dismal Backwater\n3 Faerie Conclave\n24 Island\n4 Reliquary Tower\n20 Swamp\n4 Treasure Hunt\n2 Zombie Infestation",
+    "sideText": "4 Dispel\n4 Duress\n7 Island"
   }
 }

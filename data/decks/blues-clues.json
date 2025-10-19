@@ -16,8 +16,8 @@
   "containsBannedCards": true,
   "coverCard": "Trail of Evidence",
   "decklist": {
-    "raw": "[object Object]",
-    "mainText": "[object Object]",
-    "sideText": ""
+    "raw": "1 Aetherspouts\r\n1 Confirm Suspicions\r\n1 Detection Tower\r\n1 Echoing Truth\r\n1 Electrolyze\r\n2 Faerie Conclave\r\n1 Faithless Looting\r\n1 Flame Slash\r\n1 Ghirapur Aether Grid\r\n1 Hour of Devastation\r\n6 Island\r\n1 Izzet Charm\r\n4 Lightning Bolt\r\n1 Mechanized Production\r\n2 Metallic Rebuke\r\n1 Mission Briefing\r\n5 Mountain\r\n1 Nivix, Aerie of the Firemind\r\n4 Opt\r\n4 Remand\r\n1 Roast\r\n4 Serum Visions\r\n4 Shivan Reef\r\n3 Sweltering Suns\r\n4 Temple of Epiphany\r\n4 Trail of Evidence\r\n\r\n2 Alpine Moon\r\n1 Dragon's Claw\r\n1 Izzet Staticaster\r\n1 Jace, Architect of Thought\r\n2 Negate\r\n1 Niblis of Frost\r\n1 Pia and Kiran Nalaar\r\n2 Relic of Progenitus\r\n1 Vandalblast\r\n3 Young Pyromancer\r\n",
+    "mainText": "1 Aetherspouts\n1 Confirm Suspicions\n1 Detection Tower\n1 Echoing Truth\n1 Electrolyze\n2 Faerie Conclave\n1 Faithless Looting\n1 Flame Slash\n1 Ghirapur Aether Grid\n1 Hour of Devastation\n6 Island\n1 Izzet Charm\n4 Lightning Bolt\n1 Mechanized Production\n2 Metallic Rebuke\n1 Mission Briefing\n5 Mountain\n1 Nivix, Aerie of the Firemind\n4 Opt\n4 Remand\n1 Roast\n4 Serum Visions\n4 Shivan Reef\n3 Sweltering Suns\n4 Temple of Epiphany\n4 Trail of Evidence",
+    "sideText": "2 Alpine Moon\n1 Dragon's Claw\n1 Izzet Staticaster\n1 Jace, Architect of Thought\n2 Negate\n1 Niblis of Frost\n1 Pia and Kiran Nalaar\n2 Relic of Progenitus\n1 Vandalblast\n3 Young Pyromancer"
   }
 }

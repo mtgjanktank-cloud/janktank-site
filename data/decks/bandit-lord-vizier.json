@@ -16,8 +16,8 @@
   "containsBannedCards": false,
   "coverCard": "Devoted Druid",
   "decklist": {
-    "raw": "[object Object]",
-    "mainText": "[object Object]",
-    "sideText": ""
+    "raw": "4 Adventurous Impulse\r\n4 Ancient Stirrings\r\n2 Commune with Nature\r\n1 Conjurer's Bauble\r\n1 Deadshot Minotaur\r\n4 Devoted Druid\r\n1 Duskwatch Recruiter\r\n1 Forest\r\n4 Hall of the Bandit Lord\r\n2 Horizon Canopy\r\n1 Manamorphose\r\n4 Mishra's Bauble\r\n1 Misty Rainforest\r\n4 Pact of Negation\r\n1 Postmortem Lunge\r\n4 Street Wraith\r\n4 Summoner's Pact\r\n2 Temple Garden\r\n4 Traverse the Ulvenwald\r\n2 Verdant Catacombs\r\n4 Vizier of Remedies\r\n2 Walking Ballista\r\n1 Wild Cantor\r\n2 Wooded Foothills\r\n\r\n1 Defense Grid\r\n1 Dissenter's Deliverance\r\n4 Mystic Enforcer\r\n4 Path to Exile\r\n2 Postmortem Lunge\r\n2 Reclamation Sage\r\n1 Slaughter Pact\r\n",
+    "mainText": "4 Adventurous Impulse\n4 Ancient Stirrings\n2 Commune with Nature\n1 Conjurer's Bauble\n1 Deadshot Minotaur\n4 Devoted Druid\n1 Duskwatch Recruiter\n1 Forest\n4 Hall of the Bandit Lord\n2 Horizon Canopy\n1 Manamorphose\n4 Mishra's Bauble\n1 Misty Rainforest\n4 Pact of Negation\n1 Postmortem Lunge\n4 Street Wraith\n4 Summoner's Pact\n2 Temple Garden\n4 Traverse the Ulvenwald\n2 Verdant Catacombs\n4 Vizier of Remedies\n2 Walking Ballista\n1 Wild Cantor\n2 Wooded Foothills",
+    "sideText": "1 Defense Grid\n1 Dissenter's Deliverance\n4 Mystic Enforcer\n4 Path to Exile\n2 Postmortem Lunge\n2 Reclamation Sage\n1 Slaughter Pact"
   }
 }

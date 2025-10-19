@@ -16,8 +16,8 @@
   "containsBannedCards": false,
   "coverCard": "Sarkhan, Fireblood",
   "decklist": {
-    "raw": "[object Object]",
-    "mainText": "[object Object]",
-    "sideText": ""
+    "raw": "4 Blackcleave Cliffs\n3 Blood Crypt\n1 Bloodghast\n4 Bloodstained Mire\n4 Collective Brutality\n4 Emrakul, the Aeons Torn\n4 Faithless Looting\n4 Goryo's Vengeance\n3 Lightning Axe\n1 Malfegor\n1 Marsh Flats\n2 Mountain\n1 Polluted Delta\n4 Sarkhan, Fireblood\n4 Simian Spirit Guide\n4 Squee, Goblin Nabob\n1 Swamp\n4 Temple of Malice\n4 Thoughtseize\n2 Tormenting Voice\n1 Wooded Foothills\n\nSideboard:\n4 Chandra, Torch of Defiance\n4 Ensnaring Bridge\n2 Grim Lavamancer\n3 Leyline of Sanctity\n2 Torpor Orb\n\n",
+    "mainText": "4 Blackcleave Cliffs\n3 Blood Crypt\n1 Bloodghast\n4 Bloodstained Mire\n4 Collective Brutality\n4 Emrakul, the Aeons Torn\n4 Faithless Looting\n4 Goryo's Vengeance\n3 Lightning Axe\n1 Malfegor\n1 Marsh Flats\n2 Mountain\n1 Polluted Delta\n4 Sarkhan, Fireblood\n4 Simian Spirit Guide\n4 Squee, Goblin Nabob\n1 Swamp\n4 Temple of Malice\n4 Thoughtseize\n2 Tormenting Voice\n1 Wooded Foothills",
+    "sideText": "4 Chandra, Torch of Defiance\n4 Ensnaring Bridge\n2 Grim Lavamancer\n3 Leyline of Sanctity\n2 Torpor Orb"
   }
 }

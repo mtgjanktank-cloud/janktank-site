@@ -19,8 +19,8 @@
   "containsBannedCards": false,
   "coverCard": "Jeskai Charm",
   "decklist": {
-    "raw": "[object Object]",
-    "mainText": "[object Object]",
-    "sideText": ""
+    "raw": "1 Abzan Charm\r\n4 Birds of Paradise\r\n4 Bloodbraid Elf\r\n3 Forest\r\n1 Geist of Saint Traft\r\n4 Gemstone Mine\r\n3 Jeskai Charm\r\n4 Kolaghan's Command\r\n3 Lightning Helix\r\n4 Mana Confluence\r\n4 Mantis Rider\r\n4 Pillar of the Paruns\r\n2 Plains\r\n4 Reflecting Pool\r\n4 Siege Rhino\r\n1 Sultai Charm\r\n1 Swamp\r\n4 Tidehollow Sculler\r\n1 Urborg, Tomb of Yawgmoth\r\n4 Voice of Resurgence\r\n\r\n2 Abrupt Decay\r\n2 Dromoka's Command\r\n2 Fiery Justice\r\n1 Gaddock Teeg\r\n1 Geist of Saint Traft\r\n1 Jund Charm\r\n2 Kitchen Finks\r\n2 Maelstrom Pulse\r\n2 Qasali Pridemage\r\n",
+    "mainText": "1 Abzan Charm\n4 Birds of Paradise\n4 Bloodbraid Elf\n3 Forest\n1 Geist of Saint Traft\n4 Gemstone Mine\n3 Jeskai Charm\n4 Kolaghan's Command\n3 Lightning Helix\n4 Mana Confluence\n4 Mantis Rider\n4 Pillar of the Paruns\n2 Plains\n4 Reflecting Pool\n4 Siege Rhino\n1 Sultai Charm\n1 Swamp\n4 Tidehollow Sculler\n1 Urborg, Tomb of Yawgmoth\n4 Voice of Resurgence",
+    "sideText": "2 Abrupt Decay\n2 Dromoka's Command\n2 Fiery Justice\n1 Gaddock Teeg\n1 Geist of Saint Traft\n1 Jund Charm\n2 Kitchen Finks\n2 Maelstrom Pulse\n2 Qasali Pridemage"
   }
 }

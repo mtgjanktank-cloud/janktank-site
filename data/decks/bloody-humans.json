@@ -15,8 +15,8 @@
   "containsBannedCards": true,
   "coverCard": "Magus of the Moon",
   "decklist": {
-    "raw": "[object Object]",
-    "mainText": "[object Object]",
-    "sideText": ""
+    "raw": "4 Blood Moon\r\n4 Cavern of Souls\r\n4 Chalice of the Void\r\n4 Desperate Ritual\r\n4 Gemstone Caverns\r\n4 Kargan Dragonlord\r\n2 Koth of the Hammer\r\n4 Magus of the Moon\r\n13 Mountain\r\n4 Prophetic Flamespeaker\r\n3 Pyretic Ritual\r\n4 Simian Spirit Guide\r\n2 Sword of War and Peace\r\n4 Wild Cantor\r\n\r\n3 Damping Matrix\r\n3 Pyroclasm\r\n2 Ratchet Bomb\r\n2 Relic of Progenitus\r\n3 Shatterstorm\r\n2 Trinisphere\r\n",
+    "mainText": "4 Blood Moon\n4 Cavern of Souls\n4 Chalice of the Void\n4 Desperate Ritual\n4 Gemstone Caverns\n4 Kargan Dragonlord\n2 Koth of the Hammer\n4 Magus of the Moon\n13 Mountain\n4 Prophetic Flamespeaker\n3 Pyretic Ritual\n4 Simian Spirit Guide\n2 Sword of War and Peace\n4 Wild Cantor",
+    "sideText": "3 Damping Matrix\n3 Pyroclasm\n2 Ratchet Bomb\n2 Relic of Progenitus\n3 Shatterstorm\n2 Trinisphere"
   }
 }

@@ -17,8 +17,8 @@
   "containsBannedCards": false,
   "coverCard": "Pyromancer's Ascension",
   "decklist": {
-    "raw": "[object Object]",
-    "mainText": "[object Object]",
-    "sideText": ""
+    "raw": "3 Cryptic Command\r\n3 Flooded Strand\r\n1 Hallowed Fountain\r\n4 Island\r\n3 Lightning Bolt\r\n4 Manamorphose\r\n1 Mountain\r\n3 Noxious Revival\r\n4 Opt\r\n3 Path to Exile\r\n4 Pyromancer Ascension\r\n4 Remand\r\n1 Sacred Foundry\r\n4 Scalding Tarn\r\n4 Serum Visions\r\n3 Snapcaster Mage\r\n2 Spirebluff Canal\r\n2 Steam Vents\r\n4 Thought Scour\r\n3 Visions of Beyond\r\n\r\n2 Ceremonious Rejection\r\n2 Dispel\r\n3 Lightning Helix\r\n3 Monastery Mentor\r\n1 Snapcaster Mage\r\n2 Stony Silence\r\n2 Wear/Tear\r\n",
+    "mainText": "3 Cryptic Command\n3 Flooded Strand\n1 Hallowed Fountain\n4 Island\n3 Lightning Bolt\n4 Manamorphose\n1 Mountain\n3 Noxious Revival\n4 Opt\n3 Path to Exile\n4 Pyromancer Ascension\n4 Remand\n1 Sacred Foundry\n4 Scalding Tarn\n4 Serum Visions\n3 Snapcaster Mage\n2 Spirebluff Canal\n2 Steam Vents\n4 Thought Scour\n3 Visions of Beyond",
+    "sideText": "2 Ceremonious Rejection\n2 Dispel\n3 Lightning Helix\n3 Monastery Mentor\n1 Snapcaster Mage\n2 Stony Silence\n2 Wear/Tear"
   }
 }

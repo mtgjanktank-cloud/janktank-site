@@ -15,8 +15,8 @@
   "containsBannedCards": false,
   "coverCard": "Liliana of the Veil",
   "decklist": {
-    "raw": "[object Object]",
-    "mainText": "[object Object]",
-    "sideText": ""
+    "raw": "4 Bloodstained Mire\r\n3 Damnation\r\n4 Fatal Push\r\n1 Fulminator Mage\r\n3 Gifted Aetherborn\r\n3 Gray Merchant of Asphodel\r\n3 Inquisition of Kozilek\r\n2 Liliana Vess\r\n3 Liliana of the Dark Realms\r\n4 Liliana of the Veil\r\n2 Liliana, Death's Majesty\r\n3 Liliana, the Last Hope\r\n2 Marsh Flats\r\n4 Mutavault\r\n1 Relic of Progenitus\r\n1 Sign in Blood\r\n8 Swamp\r\n3 Thoughtseize\r\n2 Untaidake, the Cloud Keeper\r\n4 Urborg, Tomb of Yawgmoth\r\n\r\n2 Bontu's Last Reckoning\r\n2 Collective Brutality\r\n3 Fulminator Mage\r\n2 Pithing Needle\r\n2 Ratchet Bomb\r\n2 Relic of Progenitus\r\n2 Surgical Extraction\r\n",
+    "mainText": "4 Bloodstained Mire\n3 Damnation\n4 Fatal Push\n1 Fulminator Mage\n3 Gifted Aetherborn\n3 Gray Merchant of Asphodel\n3 Inquisition of Kozilek\n2 Liliana Vess\n3 Liliana of the Dark Realms\n4 Liliana of the Veil\n2 Liliana, Death's Majesty\n3 Liliana, the Last Hope\n2 Marsh Flats\n4 Mutavault\n1 Relic of Progenitus\n1 Sign in Blood\n8 Swamp\n3 Thoughtseize\n2 Untaidake, the Cloud Keeper\n4 Urborg, Tomb of Yawgmoth",
+    "sideText": "2 Bontu's Last Reckoning\n2 Collective Brutality\n3 Fulminator Mage\n2 Pithing Needle\n2 Ratchet Bomb\n2 Relic of Progenitus\n2 Surgical Extraction"
   }
 }

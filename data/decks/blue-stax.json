@@ -16,8 +16,8 @@
   "containsBannedCards": false,
   "coverCard": "Harbinger of the Seas",
   "decklist": {
-    "raw": "[object Object]",
-    "mainText": "[object Object]",
-    "sideText": ""
+    "raw": "2 Brazen Borrower\r\n3 Chalice of the Void\r\n4 Commandeer\r\n4 Dark Ritual\r\n2 Darkslick Shores\r\n3 Frost Titan\r\n4 Harbinger of the Seas\r\n4 Hydroelectric Specimen\r\n3 Island\r\n4 Mana Drain\r\n1 Otawara, Soaring City\r\n4 Polluted Delta\r\n4 Sink into Stupor\r\n4 Spreading Seas\r\n4 Stifle\r\n1 Swamp\r\n4 The One Ring\r\n1 Undercity Sewers\r\n4 Watery Grave\r\n\r\n1 Cling to Dust\r\n2 Disruptor Flute\r\n1 Narset, Parter of Veils\r\n3 Orcish Bowmasters\r\n1 Subtlety\r\n2 Surgical Extraction\r\n2 Test of Talents\r\n3 Toxic Deluge\r\n",
+    "mainText": "2 Brazen Borrower\n3 Chalice of the Void\n4 Commandeer\n4 Dark Ritual\n2 Darkslick Shores\n3 Frost Titan\n4 Harbinger of the Seas\n4 Hydroelectric Specimen\n3 Island\n4 Mana Drain\n1 Otawara, Soaring City\n4 Polluted Delta\n4 Sink into Stupor\n4 Spreading Seas\n4 Stifle\n1 Swamp\n4 The One Ring\n1 Undercity Sewers\n4 Watery Grave",
+    "sideText": "1 Cling to Dust\n2 Disruptor Flute\n1 Narset, Parter of Veils\n3 Orcish Bowmasters\n1 Subtlety\n2 Surgical Extraction\n2 Test of Talents\n3 Toxic Deluge"
   }
 }

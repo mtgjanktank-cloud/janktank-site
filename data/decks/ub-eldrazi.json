@@ -16,8 +16,8 @@
   "containsBannedCards": false,
   "coverCard": "Wasteland Strangler",
   "decklist": {
-    "raw": "[object Object]",
-    "mainText": "[object Object]",
-    "sideText": ""
+    "raw": "2 Ashiok, Nightmare Weaver\r\n4 Blight Herder\r\n1 Bojuka Bog\r\n2 Cavern of Souls\r\n4 Delay\r\n4 Eldrazi Temple\r\n4 Fatal Push\r\n4 Ghost Quarter\r\n1 Go for the Throat\r\n1 Island\r\n4 Opt\r\n3 Polluted Delta\r\n4 Relic of Progenitus\r\n1 Sea Gate Wreckage\r\n1 Swamp\r\n4 Thought-Knot Seer\r\n3 Ulamog's Nullifier\r\n4 Underground River\r\n2 Warping Wail\r\n4 Wasteland Strangler\r\n1 Wastes\r\n2 Watery Grave\r\n\r\n2 Ceremonious Rejection\r\n2 Chalice of the Void\r\n1 Damnation\r\n2 Essence Depleter\r\n1 Flaying Tendrils\r\n1 Mindlock Orb\r\n1 Pithing Needle\r\n2 Ratchet Bomb\r\n1 Spell Pierce\r\n2 Surgical Extraction\r\n",
+    "mainText": "2 Ashiok, Nightmare Weaver\n4 Blight Herder\n1 Bojuka Bog\n2 Cavern of Souls\n4 Delay\n4 Eldrazi Temple\n4 Fatal Push\n4 Ghost Quarter\n1 Go for the Throat\n1 Island\n4 Opt\n3 Polluted Delta\n4 Relic of Progenitus\n1 Sea Gate Wreckage\n1 Swamp\n4 Thought-Knot Seer\n3 Ulamog's Nullifier\n4 Underground River\n2 Warping Wail\n4 Wasteland Strangler\n1 Wastes\n2 Watery Grave",
+    "sideText": "2 Ceremonious Rejection\n2 Chalice of the Void\n1 Damnation\n2 Essence Depleter\n1 Flaying Tendrils\n1 Mindlock Orb\n1 Pithing Needle\n2 Ratchet Bomb\n1 Spell Pierce\n2 Surgical Extraction"
   }
 }
