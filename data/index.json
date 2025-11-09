@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-11-08T09:39:49.229Z",
+  "updatedAt": "2025-11-09T09:38:24.265Z",
   "decks": [
     {
       "slug": "3-in-1-gyruda-combo",
@@ -3563,6 +3563,1016 @@
         "Red"
       ],
       "updatedAt": "2015-11-01T00:00:00.000Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "field-reanimator",
+      "name": "Field Reanimator",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.399Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "mono-u-upheaval",
+      "name": "Mono-U Upheaval",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "8-whack",
+      "name": "8-Whack",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "basking-scrapling-combo",
+      "name": "Basking Scrapling Combo",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "zomument",
+      "name": "Zomument",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "turbo-crabs",
+      "name": "Turbo Crabs",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "lamplight-combo",
+      "name": "Lamplight Combo",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "redrazi",
+      "name": "Redrazi",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "menace-tribal",
+      "name": "Menace Tribal",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "ug-emerge",
+      "name": "UG Emerge",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "gw-teyo",
+      "name": "GW Teyo",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "lancer-devotion",
+      "name": "Lancer Devotion",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "lutri-taxes",
+      "name": "Lutri Taxes",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "scion-soulflayer",
+      "name": "Scion Soulflayer",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "crop-rotation-tifa",
+      "name": "Crop Rotation Tifa",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "shelldock-slimes",
+      "name": "Shelldock Slimes",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "grist-cauldron",
+      "name": "Grist Cauldron",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "superfriends-mill",
+      "name": "Superfriends Mill",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "sup3rfri3nds",
+      "name": "Sup3rfri3nds",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "life-death-ascendancy-combo",
+      "name": "Life/Death Ascendancy Combo",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "lazav-turns",
+      "name": "Lazav Turns",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "simic-beans",
+      "name": "Simic Beans",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "united-pillow-fort",
+      "name": "United Pillow Fort",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "abzan-archivist",
+      "name": "Abzan Archivist",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "ignoble-shamans",
+      "name": "Ignoble Shamans",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "urzarator",
+      "name": "Urzarator",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "relic-warder-combo",
+      "name": "Relic-Warder Combo",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "tezzerator",
+      "name": "Tezzerator",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "mox-slivers",
+      "name": "Mox Slivers",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "mono-b-ghalta",
+      "name": "Mono-B Ghalta",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "brightglass-black",
+      "name": "Brightglass Black",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "gr-rampage",
+      "name": "GR Rampage",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "plagon-oracle",
+      "name": "Plagon Oracle",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "greenie-weenie",
+      "name": "Greenie Weenie",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "bant-bogles",
+      "name": "Bant Bogles",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "blue-steel",
+      "name": "Blue Steel",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "mono-g-bogles",
+      "name": "Mono-G Bogles",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "storm-herald-combo",
+      "name": "Storm Herald Combo",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "celebrant-combo",
+      "name": "Celebrant Combo",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "lab-man-devotion",
+      "name": "Lab Man Devotion",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "crystal-woodlands",
+      "name": "Crystal Woodlands",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "16-silence",
+      "name": "16-Silence",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "uw-monument",
+      "name": "UW Monument",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "skredless-red",
+      "name": "Skredless Red",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "minstrelementals",
+      "name": "Minstrelementals",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "hull-walls",
+      "name": "Hull Walls",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "golbez-tezzerator",
+      "name": "Golbez Tezzerator",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "utopia-storm",
+      "name": "Utopia Storm",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "monument-twister",
+      "name": "Monument Twister",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "dragonfire-blade-zoo",
+      "name": "Dragonfire Blade Zoo",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "cecil-humans",
+      "name": "Cecil Humans",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "white-weenie-legends",
+      "name": "White Weenie Legends",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "simic-woodlands",
+      "name": "Simic Woodlands",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "timeless-command",
+      "name": "Timeless Command",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "crawler-combo",
+      "name": "Crawler Combo",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "astro-combo",
+      "name": "Astro Combo",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "tiger-storm",
+      "name": "Tiger Storm",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "phoenix-101",
+      "name": "Phoenix 101",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "sibsig-zombie-sac",
+      "name": "Sibsig Zombie Sac",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "5c-rectangles",
+      "name": "5c Rectangles",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "8-hymn-rack",
+      "name": "8-Hymn Rack",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "bestow-bonds",
+      "name": "Bestow Bonds",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "titan-twin",
+      "name": "Titan Twin",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "body-double-combo",
+      "name": "Body Double Combo",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "orzhov-shadow",
+      "name": "Orzhov Shadow",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "gr-valakut-exploration",
+      "name": "GR Valakut Exploration",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "mana-flare-storm",
+      "name": "Mana Flare Storm",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "bombardment-prison",
+      "name": "Bombardment Prison",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "mono-u-8-class",
+      "name": "Mono-U 8-Class",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "otter-combo",
+      "name": "Otter Combo",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "esper-tezzerator",
+      "name": "Esper Tezzerator",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "vesperlark-reanimator",
+      "name": "Vesperlark Reanimator",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "spinner-cheerios",
+      "name": "Spinner Cheerios",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "12-shark-cycling",
+      "name": "12-Shark Cycling",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "mono-u-proft",
+      "name": "Mono-U Proft",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "sorin-gnaw-combo",
+      "name": "Sorin-Gnaw Combo",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "bant-greenshell",
+      "name": "Bant Greenshell",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "party-beans",
+      "name": "Party Beans",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "mardu-party",
+      "name": "Mardu Party",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "esper-turbo-fog",
+      "name": "Esper Turbo Fog",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "rakdos-auras",
+      "name": "Rakdos Auras",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "lupelines",
+      "name": "Lupelines",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "uw-turns",
+      "name": "UW Turns",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "80-card-warriors",
+      "name": "80-Card Warriors",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "mardu-vesper",
+      "name": "Mardu Vesper",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "razorkin-red",
+      "name": "Razorkin Red",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "rockin-oxen",
+      "name": "Rockin' Oxen",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "goggle-combo",
+      "name": "Goggle Combo",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "koll-combo",
+      "name": "Koll Combo",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "leap-frogs",
+      "name": "Leap Frogs",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "10-land-stompy",
+      "name": "10-Land Stompy",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "10-land-red",
+      "name": "10-Land Red",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "kami-kaze",
+      "name": "Kami-Kaze",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "10-land-black",
+      "name": "10-Land Black",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "raptor-rhinos",
+      "name": "Raptor Rhinos",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "reptile-dysfunction",
+      "name": "Reptile Dysfunction",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "sarkhans-shadow",
+      "name": "Sarkhan's Shadow",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "squee-blade",
+      "name": "Squee-Blade",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "fang-gang",
+      "name": "Fang Gang",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "naru-chord",
+      "name": "Naru Chord",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
+      "containsBannedCards": false
+    },
+    {
+      "slug": "7-land-belcher",
+      "name": "7-Land Belcher",
+      "author": "",
+      "format": "",
+      "archetype": "",
+      "colors": [],
+      "updatedAt": "2025-11-09T09:38:23.400Z",
       "containsBannedCards": false
     }
   ]

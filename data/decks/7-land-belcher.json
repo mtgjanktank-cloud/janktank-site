@@ -1,22 +1,18 @@
 {
-  "id": "recsNSrR2t5kUk27e",
+  "id": "rec0hmGWN86Vpqh7E",
   "slug": "7-land-belcher",
   "name": "7-Land Belcher",
-  "author": "---",
-  "format": "Modern",
-  "archetype": "Combo",
-  "characteristics": [
-    "Ramp"
-  ],
-  "colors": [
-    "Green"
-  ],
-  "updatedAt": "2017-12-01T00:00:00.000Z",
+  "author": "",
+  "format": "",
+  "archetype": "",
+  "characteristics": [],
+  "colors": [],
+  "updatedAt": "2025-11-09T09:38:23.400Z",
   "containsBannedCards": false,
-  "coverCard": "Goblin Charbelcher",
+  "coverCard": "Overgrown Battlement",
   "decklist": {
-    "raw": "4 Arbor Elf\r\n4 Assault Formation\r\n4 Caravan Vigil\r\n4 Chancellor of the Tangle\r\n6 Forest\r\n4 Goblin Charbelcher\r\n4 Overgrown Battlement\r\n1 Rampant Growth\r\n4 Safewright Quest\r\n4 Sakura-Tribe Elder\r\n1 Stomping Ground\r\n4 Sylvan Caryatid\r\n4 Traverse the Ulvenwald\r\n4 Utopia Sprawl\r\n4 Vessel of Nascency\r\n4 Wall of Roots\r\n\r\n2 Autumn's Veil\r\n2 Firespout\r\n1 Fracturing Gust\r\n3 Leyline of Sanctity\r\n3 Nature's Claim\r\n2 Relic of Progenitus\r\n1 Scavenging Ooze\r\n1 Vexing Shusher\r\n",
-    "mainText": "4 Arbor Elf\n4 Assault Formation\n4 Caravan Vigil\n4 Chancellor of the Tangle\n6 Forest\n4 Goblin Charbelcher\n4 Overgrown Battlement\n1 Rampant Growth\n4 Safewright Quest\n4 Sakura-Tribe Elder\n1 Stomping Ground\n4 Sylvan Caryatid\n4 Traverse the Ulvenwald\n4 Utopia Sprawl\n4 Vessel of Nascency\n4 Wall of Roots",
-    "sideText": "2 Autumn's Veil\n2 Firespout\n1 Fracturing Gust\n3 Leyline of Sanctity\n3 Nature's Claim\n2 Relic of Progenitus\n1 Scavenging Ooze\n1 Vexing Shusher"
+    "raw": "",
+    "mainText": "",
+    "sideText": ""
   }
 }
