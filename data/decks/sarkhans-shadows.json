@@ -1,0 +1,23 @@
+{
+  "id": "recirphSrpQgyyYlq",
+  "slug": "sarkhans-shadows",
+  "name": "Sarkhan's Shadows",
+  "author": "Plum",
+  "format": "Historic",
+  "archetype": "Midrange",
+  "characteristics": [
+    "Burn"
+  ],
+  "colors": [
+    "Black",
+    "Red"
+  ],
+  "updatedAt": "2024-12-08T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Sarkhan's Unsealing",
+  "decklist": {
+    "raw": "4 Agadeem's Awakening\n4 Blightstep Pathway\n4 Blood Crypt\n4 Bonecrusher Giant\n1 Castle Locthwain\n4 Death's Shadow\n2 Ifnir Deadlands\n2 Inquisition of Kozilek\n3 Kroxa, Titan of Death's Hunger\n1 Mountain\n3 Painful Bond\n2 Ramunap Ruins\n4 Rotting Regisaur\n4 Sarkhan's Unsealing\n4 Shadow of Mortality\n4 Shatterskull Smashing\n2 Swamp\n4 Sweltering Suns\n4 Thoughtseize",
+    "mainText": "4 Agadeem's Awakening\n4 Blightstep Pathway\n4 Blood Crypt\n4 Bonecrusher Giant\n1 Castle Locthwain\n4 Death's Shadow\n2 Ifnir Deadlands\n2 Inquisition of Kozilek\n3 Kroxa, Titan of Death's Hunger\n1 Mountain\n3 Painful Bond\n2 Ramunap Ruins\n4 Rotting Regisaur\n4 Sarkhan's Unsealing\n4 Shadow of Mortality\n4 Shatterskull Smashing\n2 Swamp\n4 Sweltering Suns\n4 Thoughtseize",
+    "sideText": ""
+  }
+}

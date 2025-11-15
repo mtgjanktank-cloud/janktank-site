@@ -2,17 +2,22 @@
   "id": "recvStbkanaPGOWOY",
   "slug": "utopia-storm",
   "name": "Utopia Storm",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.015Z",
+  "author": "Plum",
+  "format": "Historic",
+  "archetype": "Combo",
+  "characteristics": [
+    "Storm"
+  ],
+  "colors": [
+    "Blue",
+    "Green"
+  ],
+  "updatedAt": "2025-05-23T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "Utopia Sprawl",
   "decklist": {
-    "raw": "",
-    "mainText": "",
-    "sideText": ""
+    "raw": "4 Breeding Pool\n4 Eidolon of Blossoms\n4 Enchantress's Presence\n2 Fae of Wishes\n5 Forest\n4 Hidden Strings\n2 Island\n4 Nykthos, Shrine to Nyx\n3 Prismatic Vista\n4 Roiling Dragonstorm\n4 Runaway Growth\n4 Sanctum Weaver\n4 Stock Up\n4 Utopia Sprawl\n4 Vizier of Tumbling Sands\n4 Wolfwillow Haven\n\nSIDEBOARD:\n1 Approach of the Second Sun\n1 Banefire\n1 Banishing Light\n1 Energy Refractor\n1 Jace, Wielder of Mysteries\n1 Omen of the Sea\n1 Tendrils of Agony",
+    "mainText": "4 Breeding Pool\n4 Eidolon of Blossoms\n4 Enchantress's Presence\n2 Fae of Wishes\n5 Forest\n4 Hidden Strings\n2 Island\n4 Nykthos, Shrine to Nyx\n3 Prismatic Vista\n4 Roiling Dragonstorm\n4 Runaway Growth\n4 Sanctum Weaver\n4 Stock Up\n4 Utopia Sprawl\n4 Vizier of Tumbling Sands\n4 Wolfwillow Haven",
+    "sideText": "1 Approach of the Second Sun\n1 Banefire\n1 Banishing Light\n1 Energy Refractor\n1 Jace, Wielder of Mysteries\n1 Omen of the Sea\n1 Tendrils of Agony"
   }
 }

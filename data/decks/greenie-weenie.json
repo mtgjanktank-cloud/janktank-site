@@ -2,17 +2,21 @@
   "id": "recM7CtwUiQKaPC1o",
   "slug": "greenie-weenie",
   "name": "Greenie Weenie",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.015Z",
+  "author": "Plum",
+  "format": "Historic",
+  "archetype": "Aggro",
+  "characteristics": [
+    "Devotion"
+  ],
+  "colors": [
+    "Green"
+  ],
+  "updatedAt": "2025-07-29T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "Syr Faren, the Hengehammer",
   "decklist": {
-    "raw": "",
-    "mainText": "",
-    "sideText": ""
+    "raw": "4 Aspect of Hydra\n4 Audacity\n1 Boseiju, Who Endures\n4 Bridgeworks Battle\n4 Experiment One\n2 Forest\n4 Frenzied Baloth\n4 Hemosymbic Mite\n4 Hushwood Verge\n1 Lair of the Hydra\n4 Pelt Collector\n4 Ranger Class\n4 Razorverge Thicket\n4 Scale Up\n4 Syr Faren, the Hengehammer\n4 Temple Garden\n4 Werewolf Pack Leader\n\nSIDEBOARD:\n3 A-Haywire Mite\n1 Heroic Intervention\n1 Lurrus of the Dream-Den\n2 Path to Exile\n2 Pithing Needle\n2 Tormod's Crypt\n4 White Orchid Phantom",
+    "mainText": "4 Aspect of Hydra\n4 Audacity\n1 Boseiju, Who Endures\n4 Bridgeworks Battle\n4 Experiment One\n2 Forest\n4 Frenzied Baloth\n4 Hemosymbic Mite\n4 Hushwood Verge\n1 Lair of the Hydra\n4 Pelt Collector\n4 Ranger Class\n4 Razorverge Thicket\n4 Scale Up\n4 Syr Faren, the Hengehammer\n4 Temple Garden\n4 Werewolf Pack Leader",
+    "sideText": "3 A-Haywire Mite\n1 Heroic Intervention\n1 Lurrus of the Dream-Den\n2 Path to Exile\n2 Pithing Needle\n2 Tormod's Crypt\n4 White Orchid Phantom"
   }
 }

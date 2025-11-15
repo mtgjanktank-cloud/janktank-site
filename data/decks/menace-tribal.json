@@ -2,17 +2,22 @@
   "id": "recEdcmGFfjlpnf8m",
   "slug": "menace-tribal",
   "name": "Menace Tribal",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.015Z",
+  "author": "Plum",
+  "format": "Historic",
+  "archetype": "Aggro",
+  "characteristics": [
+    "Tribal"
+  ],
+  "colors": [
+    "Black",
+    "Red"
+  ],
+  "updatedAt": "2025-10-14T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "Labyrinth Raptor",
   "decklist": {
-    "raw": "",
-    "mainText": "",
+    "raw": "4 Blackcleave Cliffs\n4 Blood Crypt\n4 Chain Lightning\n3 Generous Plunderer\n4 Goblin Blast-Runner\n4 Kamachal, Ship's Mascot\n4 Labyrinth Raptor\n4 Lazlo, Enthusiastic Accuser\n4 Monstrous Rage\n3 Mountain\n4 Okiba Reckoner Raid\n4 Prismatic Vista\n4 Stalactite Stalker\n3 Stormfist Crusader\n4 Sunset Saboteur\n3 Swamp",
+    "mainText": "4 Blackcleave Cliffs\n4 Blood Crypt\n4 Chain Lightning\n3 Generous Plunderer\n4 Goblin Blast-Runner\n4 Kamachal, Ship's Mascot\n4 Labyrinth Raptor\n4 Lazlo, Enthusiastic Accuser\n4 Monstrous Rage\n3 Mountain\n4 Okiba Reckoner Raid\n4 Prismatic Vista\n4 Stalactite Stalker\n3 Stormfist Crusader\n4 Sunset Saboteur\n3 Swamp",
     "sideText": ""
   }
 }

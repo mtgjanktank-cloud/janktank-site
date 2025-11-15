@@ -2,17 +2,21 @@
   "id": "rectflFfLvixYiNdu",
   "slug": "zomument",
   "name": "Zomument",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.015Z",
+  "author": "Plum",
+  "format": "Historic",
+  "archetype": "Value",
+  "characteristics": [
+    "Discard Value"
+  ],
+  "colors": [
+    "Black"
+  ],
+  "updatedAt": "2025-10-24T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "Monument to Endurance",
   "decklist": {
-    "raw": "",
-    "mainText": "",
+    "raw": "4 Battle at the Big Bridge\n2 Castle Locthwain\n4 Champion of the Perished\n2 Collective Brutality\n4 Cryptbreaker\n4 Currency Converter\n1 Driven/Despair\n2 Geier Reach Sanitarium\n4 Liliana of the Veil\n4 Lingering Souls\n4 Monument to Endurance\n4 Ovalchase Daredevil\n1 Spymaster's Vault\n12 Swamp\n1 Takenuma, Abandoned Mire\n2 Urborg, Tomb of Yawgmoth\n1 Voldaren Pariah\n4 Zombie Infestation",
+    "mainText": "4 Battle at the Big Bridge\n2 Castle Locthwain\n4 Champion of the Perished\n2 Collective Brutality\n4 Cryptbreaker\n4 Currency Converter\n1 Driven/Despair\n2 Geier Reach Sanitarium\n4 Liliana of the Veil\n4 Lingering Souls\n4 Monument to Endurance\n4 Ovalchase Daredevil\n1 Spymaster's Vault\n12 Swamp\n1 Takenuma, Abandoned Mire\n2 Urborg, Tomb of Yawgmoth\n1 Voldaren Pariah\n4 Zombie Infestation",
     "sideText": ""
   }
 }

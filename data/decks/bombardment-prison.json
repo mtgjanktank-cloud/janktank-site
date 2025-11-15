@@ -2,17 +2,23 @@
   "id": "recqX7StF6LXz22jY",
   "slug": "bombardment-prison",
   "name": "Bombardment Prison",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.015Z",
+  "author": "Plum",
+  "format": "Historic",
+  "archetype": "Prison",
+  "characteristics": [
+    "Combo"
+  ],
+  "colors": [
+    "White",
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2025-04-12T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "Goblin Bombardment",
   "decklist": {
-    "raw": "",
-    "mainText": "",
+    "raw": "4 Chained to the Rocks\n1 Elegant Parlor\n1 Forest\n1 Goblin Bombardment\n4 Greater Auramancy\n2 Jetmir's Garden\n4 Malevolent Rumble\n2 March of Otherworldly Light\n2 Mountain\n4 Nine Lives\n4 Phyrexian Unlife\n3 Plains\n4 Prismatic Vista\n4 Sacred Foundry\n4 Solemnity\n4 Sterling Grove\n4 Temple Garden\n4 United Battlefront\n4 Young Wolf",
+    "mainText": "4 Chained to the Rocks\n1 Elegant Parlor\n1 Forest\n1 Goblin Bombardment\n4 Greater Auramancy\n2 Jetmir's Garden\n4 Malevolent Rumble\n2 March of Otherworldly Light\n2 Mountain\n4 Nine Lives\n4 Phyrexian Unlife\n3 Plains\n4 Prismatic Vista\n4 Sacred Foundry\n4 Solemnity\n4 Sterling Grove\n4 Temple Garden\n4 United Battlefront\n4 Young Wolf",
     "sideText": ""
   }
 }

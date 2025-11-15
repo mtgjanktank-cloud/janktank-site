@@ -2,17 +2,22 @@
   "id": "rec5LioXf08VcSOS2",
   "slug": "rockin-oxen",
   "name": "Rockin' Oxen",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.016Z",
+  "author": "Plum",
+  "format": "Historic",
+  "archetype": "Aggro",
+  "characteristics": [
+    "Vehicles"
+  ],
+  "colors": [
+    "White",
+    "Blue"
+  ],
+  "updatedAt": "2024-12-08T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "Giant Ox",
   "decklist": {
-    "raw": "",
-    "mainText": "",
+    "raw": "4 Adarkar Wastes\n2 Armed and Armored\n4 Colossal Plow\n2 Darksteel Citadel\n4 Experimental Pilot\n4 Giant Ox\n4 Hallowed Fountain\n4 Ingenious Smith\n2 Island\n4 Kayla's Reconstruction\n4 Mech Hangar\n1 Mechtitan Core\n4 Mobilizer Mech\n4 Peacewalker Colossus\n1 Plains\n4 Seachrome Coast\n1 The Blackstaff of Waterdeep\n3 Toolcraft Exemplar\n3 Unidentified Hovership\n1 Weatherlight Compleated",
+    "mainText": "4 Adarkar Wastes\n2 Armed and Armored\n4 Colossal Plow\n2 Darksteel Citadel\n4 Experimental Pilot\n4 Giant Ox\n4 Hallowed Fountain\n4 Ingenious Smith\n2 Island\n4 Kayla's Reconstruction\n4 Mech Hangar\n1 Mechtitan Core\n4 Mobilizer Mech\n4 Peacewalker Colossus\n1 Plains\n4 Seachrome Coast\n1 The Blackstaff of Waterdeep\n3 Toolcraft Exemplar\n3 Unidentified Hovership\n1 Weatherlight Compleated",
     "sideText": ""
   }
 }

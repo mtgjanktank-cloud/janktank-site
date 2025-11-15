@@ -2,17 +2,23 @@
   "id": "recnJv9DIyJPpko1o",
   "slug": "grist-cauldron",
   "name": "Grist Cauldron",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.015Z",
+  "author": "SaffronOlive",
+  "format": "Historic",
+  "archetype": "Combo",
+  "characteristics": [
+    "Activated Abilities"
+  ],
+  "colors": [
+    "Black",
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2025-09-21T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "Grist, the Hunger Tide",
   "decklist": {
-    "raw": "",
-    "mainText": "",
-    "sideText": ""
+    "raw": "4 Agatha's Soul Cauldron\n2 Blooming Marsh\n1 Boseiju, Who Endures\n2 Cache Grab\n2 Copperline Gorge\n4 Delighted Halfling\n1 Eternal Witness\n4 Fable of the Mirror-Breaker\n4 Faithless Looting\n4 Fatal Push\n4 First Day of Class\n3 Forest\n4 Grist, the Hunger Tide\n1 Grumgully, the Generous\n1 Ignoble Hierarch\n1 Karplusan Forest\n4 Malevolent Rumble\n1 Metallic Mimic\n1 Mountain\n3 Overgrown Tomb\n4 Prismatic Vista\n3 Stomping Ground\n1 Swamp\n1 Takenuma, Abandoned Mire\n\nSIDEBOARD:\n2 Abrupt Decay\n1 Assassin's Trophy\n2 Brotherhood's End\n1 Containment Breach\n1 Damping Sphere\n2 Ghost Vacuum\n1 Haywire Mite\n1 Pithing Needle\n1 Sheoldred's Edict\n3 Thoughtseize",
+    "mainText": "4 Agatha's Soul Cauldron\n2 Blooming Marsh\n1 Boseiju, Who Endures\n2 Cache Grab\n2 Copperline Gorge\n4 Delighted Halfling\n1 Eternal Witness\n4 Fable of the Mirror-Breaker\n4 Faithless Looting\n4 Fatal Push\n4 First Day of Class\n3 Forest\n4 Grist, the Hunger Tide\n1 Grumgully, the Generous\n1 Ignoble Hierarch\n1 Karplusan Forest\n4 Malevolent Rumble\n1 Metallic Mimic\n1 Mountain\n3 Overgrown Tomb\n4 Prismatic Vista\n3 Stomping Ground\n1 Swamp\n1 Takenuma, Abandoned Mire",
+    "sideText": "2 Abrupt Decay\n1 Assassin's Trophy\n2 Brotherhood's End\n1 Containment Breach\n1 Damping Sphere\n2 Ghost Vacuum\n1 Haywire Mite\n1 Pithing Needle\n1 Sheoldred's Edict\n3 Thoughtseize"
   }
 }

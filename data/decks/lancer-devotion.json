@@ -2,17 +2,21 @@
   "id": "recP7txuj2xzZWsFt",
   "slug": "lancer-devotion",
   "name": "Lancer Devotion",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.015Z",
+  "author": "Plum",
+  "format": "Historic",
+  "archetype": "Midrange",
+  "characteristics": [
+    "Value"
+  ],
+  "colors": [
+    "White"
+  ],
+  "updatedAt": "2025-09-23T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "Thalia's Lancers",
   "decklist": {
-    "raw": "",
-    "mainText": "",
-    "sideText": ""
+    "raw": "4 A-Guide of Souls\n1 A-Haywire Mite\n4 A-Ocelot Pride\n2 A-The One Ring\n1 Castle Ardenvale\n3 Charming Prince\n1 Eiganjo, Seat of the Empire\n1 Elesh Norn, Grand Cenobite\n1 Elesh Norn, Mother of Machines\n1 Emrakul, the Aeons Torn\n4 Esper Sentinel\n4 Fragment Reality\n4 Gallant Citizen\n1 Giant Killer\n4 Nykthos, Shrine to Nyx\n18 Plains\n4 Ranger-Captain of Eos\n4 Seam Rip\n3 Skyclave Apparition\n3 Sun Titan\n4 Temple Garden\n1 Teyo, Aegis Adept\n4 Thalia's Lancers\n1 Thraben Inspector\n1 Urban Retreat\n1 Verilax the Havenskin\n\nSIDEBOARD:\n1 Back to Nature\n1 Grand Abolisher\n2 Loran of the Third Path\n3 Rest in Peace\n2 Runed Halo\n4 White Orchid Phantom\n1 Wrath of God\n1 Yorion, Sky Nomad",
+    "mainText": "4 A-Guide of Souls\n1 A-Haywire Mite\n4 A-Ocelot Pride\n2 A-The One Ring\n1 Castle Ardenvale\n3 Charming Prince\n1 Eiganjo, Seat of the Empire\n1 Elesh Norn, Grand Cenobite\n1 Elesh Norn, Mother of Machines\n1 Emrakul, the Aeons Torn\n4 Esper Sentinel\n4 Fragment Reality\n4 Gallant Citizen\n1 Giant Killer\n4 Nykthos, Shrine to Nyx\n18 Plains\n4 Ranger-Captain of Eos\n4 Seam Rip\n3 Skyclave Apparition\n3 Sun Titan\n4 Temple Garden\n1 Teyo, Aegis Adept\n4 Thalia's Lancers\n1 Thraben Inspector\n1 Urban Retreat\n1 Verilax the Havenskin",
+    "sideText": "1 Back to Nature\n1 Grand Abolisher\n2 Loran of the Third Path\n3 Rest in Peace\n2 Runed Halo\n4 White Orchid Phantom\n1 Wrath of God\n1 Yorion, Sky Nomad"
   }
 }

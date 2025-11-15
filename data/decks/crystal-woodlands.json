@@ -2,17 +2,22 @@
   "id": "rec5YPBPTKbVnW8tY",
   "slug": "crystal-woodlands",
   "name": "Crystal Woodlands",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.015Z",
+  "author": "---",
+  "format": "Historic",
+  "archetype": "Pseudo Combo",
+  "characteristics": [
+    "Mill"
+  ],
+  "colors": [
+    "Blue",
+    "Green"
+  ],
+  "updatedAt": "2025-07-27T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "The Water Crystal",
   "decklist": {
-    "raw": "",
-    "mainText": "",
-    "sideText": ""
+    "raw": "1 Boseiju, Who Endures\n4 Breeding Pool\n4 Cache Grab\n4 Consider\n4 Fallaji Archaeologist\n3 Forest\n2 Hedge Maze\n3 Island\n1 Karn, the Great Creator\n4 Malevolent Rumble\n3 Omniscience\n4 Oracle of Tragedy\n4 Prismatic Vista\n4 Shifting Woodland\n4 Sphinx's Tutelage\n4 Stock Up\n3 The Water Crystal\n4 Utopia Sprawl\n\nSIDEBOARD:\n1 Aetherflux Reservoir\n1 Ancestral Statue\n1 The Water Crystal",
+    "mainText": "1 Boseiju, Who Endures\n4 Breeding Pool\n4 Cache Grab\n4 Consider\n4 Fallaji Archaeologist\n3 Forest\n2 Hedge Maze\n3 Island\n1 Karn, the Great Creator\n4 Malevolent Rumble\n3 Omniscience\n4 Oracle of Tragedy\n4 Prismatic Vista\n4 Shifting Woodland\n4 Sphinx's Tutelage\n4 Stock Up\n3 The Water Crystal\n4 Utopia Sprawl",
+    "sideText": "1 Aetherflux Reservoir\n1 Ancestral Statue\n1 The Water Crystal"
   }
 }

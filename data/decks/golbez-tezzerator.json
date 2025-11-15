@@ -2,17 +2,22 @@
   "id": "recrkdii6D8iawm9p",
   "slug": "golbez-tezzerator",
   "name": "Golbez Tezzerator",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.015Z",
+  "author": "Plum",
+  "format": "Historic",
+  "archetype": "Midrange",
+  "characteristics": [
+    "Artifact Value"
+  ],
+  "colors": [
+    "Blue",
+    "Black"
+  ],
+  "updatedAt": "2025-07-10T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "Golbez, Crystal Collector",
   "decklist": {
-    "raw": "",
-    "mainText": "",
-    "sideText": ""
+    "raw": "4 Baleful Strix\n4 Battle at the Bridge\n3 Demonic Junker\n4 Emry, Lurker of the Loch\n3 Golbez, Crystal Collector\n3 Island\n4 Kappa Cannoneer\n4 Karn, the Great Creator\n4 Mox Amber\n4 Prismatic Vista\n4 Seat of the Synod\n3 Swamp\n4 Tamiyo, Inquisitive Student\n4 Tezzeret the Schemer\n4 Vault of Whispers\n4 Watery Grave\n\nSIDEBOARD:\n1 A-The One Ring\n1 Chalice of the Void\n1 Cityscape Leveler\n3 Consign to Memory\n1 Liquimetal Coating\n1 Pithing Needle\n1 Platinum Angel\n1 Stone of Erech\n1 The Stone Brain\n3 Thoughtseize\n1 Tormod's Crypt",
+    "mainText": "4 Baleful Strix\n4 Battle at the Bridge\n3 Demonic Junker\n4 Emry, Lurker of the Loch\n3 Golbez, Crystal Collector\n3 Island\n4 Kappa Cannoneer\n4 Karn, the Great Creator\n4 Mox Amber\n4 Prismatic Vista\n4 Seat of the Synod\n3 Swamp\n4 Tamiyo, Inquisitive Student\n4 Tezzeret the Schemer\n4 Vault of Whispers\n4 Watery Grave",
+    "sideText": "1 A-The One Ring\n1 Chalice of the Void\n1 Cityscape Leveler\n3 Consign to Memory\n1 Liquimetal Coating\n1 Pithing Needle\n1 Platinum Angel\n1 Stone of Erech\n1 The Stone Brain\n3 Thoughtseize\n1 Tormod's Crypt"
   }
 }

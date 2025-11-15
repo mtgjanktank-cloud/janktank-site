@@ -2,17 +2,25 @@
   "id": "rec5imImSZiHxYLhs",
   "slug": "scion-soulflayer",
   "name": "Scion Soulflayer",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.015Z",
+  "author": "Plum",
+  "format": "Historic",
+  "archetype": "Pseudo Combo",
+  "characteristics": [
+    "Aggro"
+  ],
+  "colors": [
+    "White",
+    "Blue",
+    "Black",
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2025-09-28T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "Soulflayer",
   "decklist": {
-    "raw": "",
-    "mainText": "",
-    "sideText": ""
+    "raw": "4 Blooming Marsh\n1 Castle Locthwain\n2 Collective Brutality\n4 Grisly Salvage\n4 Lotleth Troll\n4 Malevolent Rumble\n4 Mana Confluence\n4 Overgrown Tomb\n4 Priest of Possibility\n3 Questing Beast\n3 Samut, Voice of Dissent\n4 Scions of the Ur-Spider\n4 Soulflayer\n4 Starting Town\n2 Swamp\n4 Sylvan Caryatid\n1 Urborg, Tomb of Yawgmoth\n4 Zetalpa, Primal Dawn\n\nSIDEBOARD:\n1 Ashiok, Dream Render\n2 Assassin's Trophy\n1 Awaken the Honored Dead\n2 Battle at the Big Bridge\n2 Culling Ritual\n3 Deep-Cavern Bat\n2 Stubborn Denial\n2 Surgical Extraction",
+    "mainText": "4 Blooming Marsh\n1 Castle Locthwain\n2 Collective Brutality\n4 Grisly Salvage\n4 Lotleth Troll\n4 Malevolent Rumble\n4 Mana Confluence\n4 Overgrown Tomb\n4 Priest of Possibility\n3 Questing Beast\n3 Samut, Voice of Dissent\n4 Scions of the Ur-Spider\n4 Soulflayer\n4 Starting Town\n2 Swamp\n4 Sylvan Caryatid\n1 Urborg, Tomb of Yawgmoth\n4 Zetalpa, Primal Dawn",
+    "sideText": "1 Ashiok, Dream Render\n2 Assassin's Trophy\n1 Awaken the Honored Dead\n2 Battle at the Big Bridge\n2 Culling Ritual\n3 Deep-Cavern Bat\n2 Stubborn Denial\n2 Surgical Extraction"
   }
 }

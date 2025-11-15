@@ -2,17 +2,23 @@
   "id": "recaUpQRTi6po7qQK",
   "slug": "crop-rotation-tifa",
   "name": "Crop Rotation Tifa",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.015Z",
+  "author": "Plum",
+  "format": "Historic",
+  "archetype": "Aggro",
+  "characteristics": [
+    "Landfall"
+  ],
+  "colors": [
+    "Black",
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2025-09-21T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "Tifa Lockhart",
   "decklist": {
-    "raw": "",
-    "mainText": "",
-    "sideText": ""
+    "raw": "4 Akoum Hellhound\n4 Assault Strobe\n1 Bojuka Bog\n4 Crop Rotation\n1 Escape Tunnel\n1 Fabled Passage\n4 Forest\n4 Groundswell\n4 Iridescent Vinelasher\n4 Mountain\n4 Prismatic Vista\n4 Sazh's Chocobo\n4 Scythecat Cub\n4 Skyclave Pick-Axe\n4 Starting Town\n4 Stomping Ground\n1 Swamp\n4 Tifa Lockhart\n\nSIDEBOARD:\n1 Lurrus of the Dream-Den",
+    "mainText": "4 Akoum Hellhound\n4 Assault Strobe\n1 Bojuka Bog\n4 Crop Rotation\n1 Escape Tunnel\n1 Fabled Passage\n4 Forest\n4 Groundswell\n4 Iridescent Vinelasher\n4 Mountain\n4 Prismatic Vista\n4 Sazh's Chocobo\n4 Scythecat Cub\n4 Skyclave Pick-Axe\n4 Starting Town\n4 Stomping Ground\n1 Swamp\n4 Tifa Lockhart",
+    "sideText": "1 Lurrus of the Dream-Den"
   }
 }

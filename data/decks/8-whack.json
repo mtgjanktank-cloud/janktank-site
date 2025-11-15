@@ -2,17 +2,21 @@
   "id": "recZe2gdDe2SjLIP8",
   "slug": "8-whack",
   "name": "8-Whack",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.015Z",
+  "author": "Plum",
+  "format": "Historic",
+  "archetype": "Aggro",
+  "characteristics": [
+    "Tribal"
+  ],
+  "colors": [
+    "Red"
+  ],
+  "updatedAt": "2025-10-28T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "Goblin Buchwhacker",
   "decklist": {
-    "raw": "",
-    "mainText": "",
+    "raw": "4 Bomat Courier\n4 Darksteel Citadel\n4 Foundry Street Denizen\n4 Galvanic Blast\n4 Gleeful Demolition\n4 Goblin Bushwhacker\n4 Goblin Grenade\n4 Great Furnace\n4 Kuldotha Rebirth\n3 Legion Loyalist\n5 Mountain\n4 Ornithopter\n4 Ramunap Ruins\n4 Reckless Bushwhacker\n4 Voldaren Epicure",
+    "mainText": "4 Bomat Courier\n4 Darksteel Citadel\n4 Foundry Street Denizen\n4 Galvanic Blast\n4 Gleeful Demolition\n4 Goblin Bushwhacker\n4 Goblin Grenade\n4 Great Furnace\n4 Kuldotha Rebirth\n3 Legion Loyalist\n5 Mountain\n4 Ornithopter\n4 Ramunap Ruins\n4 Reckless Bushwhacker\n4 Voldaren Epicure",
     "sideText": ""
   }
 }

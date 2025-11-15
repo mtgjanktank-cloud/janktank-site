@@ -2,17 +2,22 @@
   "id": "recZjtYZj81E7vnIY",
   "slug": "gw-teyo",
   "name": "GW Teyo",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.015Z",
+  "author": "Plum",
+  "format": "Historic",
+  "archetype": "Value",
+  "characteristics": [
+    "Recursion"
+  ],
+  "colors": [
+    "White",
+    "Green"
+  ],
+  "updatedAt": "2025-10-05T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "Teyo, Aegis Adept",
   "decklist": {
-    "raw": "",
-    "mainText": "",
-    "sideText": ""
+    "raw": "1 Boseiju, Who Endures\n2 Canopy Vista\n3 Day of Judgment\n1 Eiganjo, Seat of the Empire\n2 Emergency Eject\n4 Flickerwisp\n3 Forest\n4 Ghost Quarter\n1 Icetill Explorer\n4 Knight of Autumn\n4 Path to Exile\n4 Plains\n4 Prismatic Vista\n2 Renegade Rallier\n4 Sun Titan\n4 Temple Garden\n4 Teyo, Aegis Adept\n4 The Imperial City of Archades\n1 Timeless Witness\n4 Wall of Blossoms\n\nSIDEBOARD:\n2 A-Haywire Mite\n2 Blessed Alliance\n3 Fragment Reality\n1 Ghostly Prison\n2 Pithing Needle\n2 Runed Halo\n3 Scavenging Ooze",
+    "mainText": "1 Boseiju, Who Endures\n2 Canopy Vista\n3 Day of Judgment\n1 Eiganjo, Seat of the Empire\n2 Emergency Eject\n4 Flickerwisp\n3 Forest\n4 Ghost Quarter\n1 Icetill Explorer\n4 Knight of Autumn\n4 Path to Exile\n4 Plains\n4 Prismatic Vista\n2 Renegade Rallier\n4 Sun Titan\n4 Temple Garden\n4 Teyo, Aegis Adept\n4 The Imperial City of Archades\n1 Timeless Witness\n4 Wall of Blossoms",
+    "sideText": "2 A-Haywire Mite\n2 Blessed Alliance\n3 Fragment Reality\n1 Ghostly Prison\n2 Pithing Needle\n2 Runed Halo\n3 Scavenging Ooze"
   }
 }

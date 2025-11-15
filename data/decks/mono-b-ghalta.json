@@ -2,17 +2,22 @@
   "id": "rec0PBPoXvjhjN17x",
   "slug": "mono-b-ghalta",
   "name": "Mono-B Ghalta",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.015Z",
+  "author": "---",
+  "format": "Historic",
+  "archetype": "Aggro",
+  "characteristics": [
+    "Big Beaters"
+  ],
+  "colors": [
+    "Black",
+    "Green"
+  ],
+  "updatedAt": "2025-08-14T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "Rotting Regisaur",
   "decklist": {
-    "raw": "",
-    "mainText": "",
+    "raw": "4 Audacity\n4 Blooming Marsh\n4 Cecil, Dark Knight\n1 Forest\n4 Ghalta, Primal Hunger\n3 Hunter's Talent\n2 Kalakscion, Hunger Tyrant\n4 Monoist Sentry\n4 Overgrown Tomb\n2 Prismatic Vista\n4 Razor Demon\n1 Rhonas the Indomitable\n4 Rot-Curse Rakshasa\n4 Rotting Regisaur\n4 Sunset Saboteur\n3 Swamp\n4 Unearth\n4 Wastewood Verge",
+    "mainText": "4 Audacity\n4 Blooming Marsh\n4 Cecil, Dark Knight\n1 Forest\n4 Ghalta, Primal Hunger\n3 Hunter's Talent\n2 Kalakscion, Hunger Tyrant\n4 Monoist Sentry\n4 Overgrown Tomb\n2 Prismatic Vista\n4 Razor Demon\n1 Rhonas the Indomitable\n4 Rot-Curse Rakshasa\n4 Rotting Regisaur\n4 Sunset Saboteur\n3 Swamp\n4 Unearth\n4 Wastewood Verge",
     "sideText": ""
   }
 }

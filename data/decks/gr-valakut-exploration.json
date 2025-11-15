@@ -2,17 +2,22 @@
   "id": "rec7qelMFMfPeMqWK",
   "slug": "gr-valakut-exploration",
   "name": "GR Valakut Exploration",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.015Z",
+  "author": "Plum",
+  "format": "Historic",
+  "archetype": "Pseudo Combo",
+  "characteristics": [
+    "Land Based"
+  ],
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2025-04-26T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "Valakut Exploration",
   "decklist": {
-    "raw": "",
-    "mainText": "",
-    "sideText": ""
+    "raw": "4 Cragcrown Pathway\n4 Explore\n2 Forgotten Cave\n4 Goblin Anarchomancer\n3 Into the North\n4 Lotus Cobra\n1 Nissa, Resurgent Animist\n2 Prismatic Vista\n4 Radiant Fountain\n3 Scapeshift\n5 Snow-Covered Forest\n5 Snow-Covered Mountain\n4 Stomping Ground\n3 Tireless Provisioner\n2 Tranquil Thicket\n3 Valakut Exploration\n4 Wish\n\nSIDEBOARD:\n1 Anger of the Gods\n1 Banefire\n1 Jace, Wielder of Mysteries\n1 Marionette Master\n1 Scapeshift\n1 Splendid Reclamation\n1 Valakut Exploration",
+    "mainText": "4 Cragcrown Pathway\n4 Explore\n2 Forgotten Cave\n4 Goblin Anarchomancer\n3 Into the North\n4 Lotus Cobra\n1 Nissa, Resurgent Animist\n2 Prismatic Vista\n4 Radiant Fountain\n3 Scapeshift\n5 Snow-Covered Forest\n5 Snow-Covered Mountain\n4 Stomping Ground\n3 Tireless Provisioner\n2 Tranquil Thicket\n3 Valakut Exploration\n4 Wish",
+    "sideText": "1 Anger of the Gods\n1 Banefire\n1 Jace, Wielder of Mysteries\n1 Marionette Master\n1 Scapeshift\n1 Splendid Reclamation\n1 Valakut Exploration"
   }
 }

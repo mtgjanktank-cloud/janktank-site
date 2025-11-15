@@ -2,17 +2,22 @@
   "id": "recPxGyt6XnLW6BMG",
   "slug": "lutri-taxes",
   "name": "Lutri Taxes",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.015Z",
+  "author": "---",
+  "format": "Historic",
+  "archetype": "Attrition",
+  "characteristics": [
+    "Taxes"
+  ],
+  "colors": [
+    "White",
+    "Blue"
+  ],
+  "updatedAt": "2025-09-29T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "Lutri, the Spellchaser",
   "decklist": {
-    "raw": "",
-    "mainText": "",
-    "sideText": ""
+    "raw": "1 Apostle of Purifying Light\n1 Brazen Borrower\n1 Dennick, Pious Apprentice\n1 Deputy of Detention\n1 Dryad Militant\n1 Eiganjo, Seat of the Empire\n1 Faerie Mastermind\n2 Floodfarm Verge\n1 Fragment Reality\n1 Giver of Runes\n1 Grand Abolisher\n4 Hallowed Fountain\n1 Imposing Sovereign\n3 Island\n1 Lavinia, Azorius Renegade\n1 Ledger Shredder\n1 Makdee and Itla, Skysnarers\n1 Mana Leak\n1 March of Otherworldly Light\n1 Meddling Mage\n1 Otawara, Soaring City\n1 Path to Exile\n1 Pippin, Guard of the Citadel\n3 Plains\n1 Ponder\n1 Portable Hole\n1 Prismatic Ending\n4 Prismatic Vista\n1 Reprieve\n2 Restless Anchorage\n1 Rona, Herald of Invasion\n4 Seachrome Coast\n1 Seam Rip\n1 Shadowbringers\n1 Sheltered by Ghosts\n1 Skrelv, Defector Mite\n1 Skyclave Apparition\n1 Snapcaster Mage\n1 Spell Queller\n1 Spirit of the Labyrinth\n1 Stern Scolding\n1 Stock Up\n1 Unable to Scream\n1 Voice of Victory\n1 Wild Rose Rebellion\n\nSIDEBOARD:\n1 Archon of Emeria\n1 Ashiok, Dream Render\n1 Cathar Commando\n1 Clarion Conqueror\n1 Confounding Conundrum\n1 Containment Priest\n1 Deafening Silence\n1 Leonin Relic-Warder\n1 Lutri, the Spellchaser\n1 Phyrexian Revoker\n1 Pithing Needle\n1 Rest in Peace\n1 Sungold Sentinel\n1 Thought Partition\n1 White Orchid Phantom",
+    "mainText": "1 Apostle of Purifying Light\n1 Brazen Borrower\n1 Dennick, Pious Apprentice\n1 Deputy of Detention\n1 Dryad Militant\n1 Eiganjo, Seat of the Empire\n1 Faerie Mastermind\n2 Floodfarm Verge\n1 Fragment Reality\n1 Giver of Runes\n1 Grand Abolisher\n4 Hallowed Fountain\n1 Imposing Sovereign\n3 Island\n1 Lavinia, Azorius Renegade\n1 Ledger Shredder\n1 Makdee and Itla, Skysnarers\n1 Mana Leak\n1 March of Otherworldly Light\n1 Meddling Mage\n1 Otawara, Soaring City\n1 Path to Exile\n1 Pippin, Guard of the Citadel\n3 Plains\n1 Ponder\n1 Portable Hole\n1 Prismatic Ending\n4 Prismatic Vista\n1 Reprieve\n2 Restless Anchorage\n1 Rona, Herald of Invasion\n4 Seachrome Coast\n1 Seam Rip\n1 Shadowbringers\n1 Sheltered by Ghosts\n1 Skrelv, Defector Mite\n1 Skyclave Apparition\n1 Snapcaster Mage\n1 Spell Queller\n1 Spirit of the Labyrinth\n1 Stern Scolding\n1 Stock Up\n1 Unable to Scream\n1 Voice of Victory\n1 Wild Rose Rebellion",
+    "sideText": "1 Archon of Emeria\n1 Ashiok, Dream Render\n1 Cathar Commando\n1 Clarion Conqueror\n1 Confounding Conundrum\n1 Containment Priest\n1 Deafening Silence\n1 Leonin Relic-Warder\n1 Lutri, the Spellchaser\n1 Phyrexian Revoker\n1 Pithing Needle\n1 Rest in Peace\n1 Sungold Sentinel\n1 Thought Partition\n1 White Orchid Phantom"
   }
 }

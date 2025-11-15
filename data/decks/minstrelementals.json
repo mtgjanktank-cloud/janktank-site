@@ -2,17 +2,24 @@
   "id": "recrfA7xDwYhuLJPj",
   "slug": "minstrelementals",
   "name": "Minstrelementals",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.015Z",
+  "author": "Plum",
+  "format": "Historic",
+  "archetype": "Tribal",
+  "characteristics": [
+    "Aggro"
+  ],
+  "colors": [
+    "White",
+    "Blue",
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2025-07-17T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "The Wandering Minstrel",
   "decklist": {
-    "raw": "",
-    "mainText": "",
+    "raw": "4 Birds of Paradise\n1 Boseiju, Who Endures\n4 Botanical Sanctum\n4 Breeding Pool\n2 Cavern of Souls\n4 Copperline Gorge\n4 Delighted Halfling\n1 Forest\n2 Omnath, Locus of Rage\n4 Omnath, Locus of the Roil\n4 Risen Reef\n4 Scampering Scorcher\n4 Starting Town\n4 Stomping Ground\n2 Sylvan Tutor\n4 The Wandering Minstrel\n4 Thunderkin Awakener\n4 Vesperlark",
+    "mainText": "4 Birds of Paradise\n1 Boseiju, Who Endures\n4 Botanical Sanctum\n4 Breeding Pool\n2 Cavern of Souls\n4 Copperline Gorge\n4 Delighted Halfling\n1 Forest\n2 Omnath, Locus of Rage\n4 Omnath, Locus of the Roil\n4 Risen Reef\n4 Scampering Scorcher\n4 Starting Town\n4 Stomping Ground\n2 Sylvan Tutor\n4 The Wandering Minstrel\n4 Thunderkin Awakener\n4 Vesperlark",
     "sideText": ""
   }
 }

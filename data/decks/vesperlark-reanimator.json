@@ -2,17 +2,24 @@
   "id": "rec1qEc4HxK7r7XZb",
   "slug": "vesperlark-reanimator",
   "name": "Vesperlark Reanimator",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.015Z",
+  "author": "Plum",
+  "format": "Historic",
+  "archetype": "Other",
+  "characteristics": [
+    "Reanimator"
+  ],
+  "colors": [
+    "White",
+    "Blue",
+    "Black",
+    "Red"
+  ],
+  "updatedAt": "2025-02-24T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "Vesperlark",
   "decklist": {
-    "raw": "",
-    "mainText": "",
+    "raw": "4 Blackcleave Cliffs\n4 Blood Crypt\n4 Body Double\n4 Bone Shards\n4 Faithless Looting\n2 Insolent Neonate\n4 Inspiring Vantage\n4 Mana Confluence\n4 Persist\n4 Sacred Foundry\n4 Stitcher's Supplier\n4 Tajic, Legion's Valor\n4 Teysa of the Ghost Council\n4 Ulamog, the Ceaseless Hunger\n2 Unburial Rites\n4 Vesperlark",
+    "mainText": "4 Blackcleave Cliffs\n4 Blood Crypt\n4 Body Double\n4 Bone Shards\n4 Faithless Looting\n2 Insolent Neonate\n4 Inspiring Vantage\n4 Mana Confluence\n4 Persist\n4 Sacred Foundry\n4 Stitcher's Supplier\n4 Tajic, Legion's Valor\n4 Teysa of the Ghost Council\n4 Ulamog, the Ceaseless Hunger\n2 Unburial Rites\n4 Vesperlark",
     "sideText": ""
   }
 }

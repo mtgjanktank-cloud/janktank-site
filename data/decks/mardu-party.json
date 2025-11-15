@@ -2,17 +2,23 @@
   "id": "recfC54VZfglRHQSf",
   "slug": "mardu-party",
   "name": "Mardu Party",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.015Z",
+  "author": "Plum",
+  "format": "Historic",
+  "archetype": "Midrange",
+  "characteristics": [
+    "Aggro"
+  ],
+  "colors": [
+    "White",
+    "Black",
+    "Red"
+  ],
+  "updatedAt": "2025-01-06T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "Outlaws' Merriment",
   "decklist": {
-    "raw": "",
-    "mainText": "",
-    "sideText": ""
+    "raw": "4 Acquisitions Expert\n4 Ajani, Nacatl Pariah\n4 Archpriest of Iona\n4 Blood Crypt\n4 Bloodsoaked Champion\n3 Concealed Courtyard\n4 Dark Confidant\n3 Deadly Alliance\n4 Godless Shrine\n3 Inspiring Vantage\n4 Journey to Oblivion\n4 Malakir Blood-Priest\n1 Mutavault\n4 Nurturing Pixie\n1 Outlaws' Merriment\n4 Party Thrasher\n1 Plains\n3 Sacred Foundry\n1 Swamp\n\nSIDEBOARD:\n2 Alpine Moon\n1 Cathar Commando\n3 Darkstar Banisher\n2 Pithing Needle\n2 Remorseful Cleric\n1 Selfless Spirit\n2 Stone of Erech\n2 Surgical Extraction",
+    "mainText": "4 Acquisitions Expert\n4 Ajani, Nacatl Pariah\n4 Archpriest of Iona\n4 Blood Crypt\n4 Bloodsoaked Champion\n3 Concealed Courtyard\n4 Dark Confidant\n3 Deadly Alliance\n4 Godless Shrine\n3 Inspiring Vantage\n4 Journey to Oblivion\n4 Malakir Blood-Priest\n1 Mutavault\n4 Nurturing Pixie\n1 Outlaws' Merriment\n4 Party Thrasher\n1 Plains\n3 Sacred Foundry\n1 Swamp",
+    "sideText": "2 Alpine Moon\n1 Cathar Commando\n3 Darkstar Banisher\n2 Pithing Needle\n2 Remorseful Cleric\n1 Selfless Spirit\n2 Stone of Erech\n2 Surgical Extraction"
   }
 }

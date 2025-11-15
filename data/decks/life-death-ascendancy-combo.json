@@ -2,17 +2,25 @@
   "id": "recbwfHJeO7JjHW32",
   "slug": "life-death-ascendancy-combo",
   "name": "Life/Death Ascendancy Combo",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.015Z",
+  "author": "Plum",
+  "format": "Historic",
+  "archetype": "Combo",
+  "characteristics": [
+    "Storm"
+  ],
+  "colors": [
+    "White",
+    "Blue",
+    "Black",
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2025-08-29T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "Jeskai Ascendancy",
   "decklist": {
-    "raw": "",
-    "mainText": "",
+    "raw": "4 Abundant Harvest\n4 Assemble the Team\n4 Birds of Paradise\n4 Botanical Sanctum\n4 Breeding Pool\n4 Consider\n2 Expressive Iteration\n1 Hallowed Fountain\n4 Ignoble Hierarch\n4 Jeskai Ascendancy\n4 Life/Death\n4 Opt\n4 Perilous Iteration\n4 Starting Town\n1 Steam Vents\n1 Stomping Ground\n1 Temple Garden\n4 Unbridled Growth\n2 Underworld Breach",
+    "mainText": "4 Abundant Harvest\n4 Assemble the Team\n4 Birds of Paradise\n4 Botanical Sanctum\n4 Breeding Pool\n4 Consider\n2 Expressive Iteration\n1 Hallowed Fountain\n4 Ignoble Hierarch\n4 Jeskai Ascendancy\n4 Life/Death\n4 Opt\n4 Perilous Iteration\n4 Starting Town\n1 Steam Vents\n1 Stomping Ground\n1 Temple Garden\n4 Unbridled Growth\n2 Underworld Breach",
     "sideText": ""
   }
 }

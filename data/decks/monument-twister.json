@@ -2,17 +2,23 @@
   "id": "recHmDbOFrzkNc5UZ",
   "slug": "monument-twister",
   "name": "Monument Twister",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.015Z",
+  "author": "Plum",
+  "format": "Historic",
+  "archetype": "Midrange",
+  "characteristics": [
+    "Discard Value"
+  ],
+  "colors": [
+    "Red",
+    "Green",
+    "Black"
+  ],
+  "updatedAt": "2025-06-24T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "Living Twister",
   "decklist": {
-    "raw": "",
-    "mainText": "",
+    "raw": "2 Boseiju, Who Endures\n4 Chalice of the Void\n2 Commercial District\n4 Copperline Gorge\n2 Dismember\n4 Forest\n4 Generous Ent\n4 Groundskeeper\n4 Living Twister\n4 Malevolent Rumble\n4 Monument to Endurance\n4 Seed of Hope\n2 Shifting Woodland\n4 Stomping Ground\n2 Titania, Voice of Gaea\n4 Tranquil Thicket\n4 Webstrike Elite",
+    "mainText": "2 Boseiju, Who Endures\n4 Chalice of the Void\n2 Commercial District\n4 Copperline Gorge\n2 Dismember\n4 Forest\n4 Generous Ent\n4 Groundskeeper\n4 Living Twister\n4 Malevolent Rumble\n4 Monument to Endurance\n4 Seed of Hope\n2 Shifting Woodland\n4 Stomping Ground\n2 Titania, Voice of Gaea\n4 Tranquil Thicket\n4 Webstrike Elite",
     "sideText": ""
   }
 }

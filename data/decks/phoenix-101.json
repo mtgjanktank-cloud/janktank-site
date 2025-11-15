@@ -2,17 +2,22 @@
   "id": "recPSr2bADbPgICVa",
   "slug": "phoenix-101",
   "name": "Phoenix 101",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.015Z",
+  "author": "Plum",
+  "format": "Historic",
+  "archetype": "Aggro",
+  "characteristics": [
+    "Graveyard Based"
+  ],
+  "colors": [
+    "White",
+    "Red"
+  ],
+  "updatedAt": "2025-05-24T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "Retriever Phoenix",
   "decklist": {
-    "raw": "",
-    "mainText": "",
-    "sideText": ""
+    "raw": "4 A-Dragon's Rage Channeler\n4 Academic Dispute\n4 Arclight Phoenix\n4 Boltwave\n2 Boros Charm\n4 Faithless Looting\n4 Guiding Voice\n4 Highway Robbery\n4 Inspiring Vantage\n4 Light Up the Stage\n6 Mountain\n4 Needleverge Pathway\n4 Professor of Symbology\n4 Retriever Phoenix\n4 Sacred Foundry\n\nSIDEBOARD:\n1 Environmental Sciences\n2 Illuminate History\n1 Inkling Summoning\n1 Introduction to Annihilation\n1 Introduction to Prophecy\n1 Start from Scratch",
+    "mainText": "4 A-Dragon's Rage Channeler\n4 Academic Dispute\n4 Arclight Phoenix\n4 Boltwave\n2 Boros Charm\n4 Faithless Looting\n4 Guiding Voice\n4 Highway Robbery\n4 Inspiring Vantage\n4 Light Up the Stage\n6 Mountain\n4 Needleverge Pathway\n4 Professor of Symbology\n4 Retriever Phoenix\n4 Sacred Foundry",
+    "sideText": "1 Environmental Sciences\n2 Illuminate History\n1 Inkling Summoning\n1 Introduction to Annihilation\n1 Introduction to Prophecy\n1 Start from Scratch"
   }
 }

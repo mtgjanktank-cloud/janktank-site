@@ -2,17 +2,23 @@
   "id": "recSaeMZCqQLrvMOl",
   "slug": "bant-bogles",
   "name": "Bant Bogles",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.015Z",
+  "author": "Plum",
+  "format": "Historic",
+  "archetype": "Aggro",
+  "characteristics": [
+    "Voltron"
+  ],
+  "colors": [
+    "White",
+    "Blue",
+    "Green"
+  ],
+  "updatedAt": "2025-07-29T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "Ethereal Armor",
   "decklist": {
-    "raw": "",
-    "mainText": "",
-    "sideText": ""
+    "raw": "3 All That Glitters\n4 Audacity\n2 Botanical Sanctum\n4 Curious Obsession\n4 Ethereal Armor\n4 Gladecover Scout\n4 Invisible Stalker\n4 Lion Umbra\n4 Mana Confluence\n4 Meltstrider's Resolve\n4 Razorverge Thicket\n4 Sheltered by Ghosts\n3 Staggering Insight\n4 Starting Town\n4 Temple Garden\n4 Toadstool Admirer\n\nSIDEBOARD:\n1 Lurrus of the Dream-Den",
+    "mainText": "3 All That Glitters\n4 Audacity\n2 Botanical Sanctum\n4 Curious Obsession\n4 Ethereal Armor\n4 Gladecover Scout\n4 Invisible Stalker\n4 Lion Umbra\n4 Mana Confluence\n4 Meltstrider's Resolve\n4 Razorverge Thicket\n4 Sheltered by Ghosts\n3 Staggering Insight\n4 Starting Town\n4 Temple Garden\n4 Toadstool Admirer",
+    "sideText": "1 Lurrus of the Dream-Den"
   }
 }

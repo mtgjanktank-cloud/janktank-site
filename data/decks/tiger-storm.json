@@ -2,17 +2,23 @@
   "id": "recBU34vcq38Yqaju",
   "slug": "tiger-storm",
   "name": "Tiger Storm",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.015Z",
+  "author": "Plum",
+  "format": "Historic",
+  "archetype": "Combo",
+  "characteristics": [
+    "Storm`"
+  ],
+  "colors": [
+    "Blue",
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2025-06-04T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "Iridescent Tiger",
   "decklist": {
-    "raw": "",
-    "mainText": "",
+    "raw": "2 Aeve, Progenitor Ooze\n4 Birds of Paradise\n4 Botanical Sanctum\n4 Breeding Pool\n4 Bring to Light\n2 Copperline Gorge\n4 Explore\n4 Forest\n4 Hymn to the Ages\n4 Iridescent Tiger\n4 Mana Confluence\n4 Planar Genesis\n4 Release to the Wind\n4 Stock Up\n4 Stomping Ground\n4 Utopia Sprawl",
+    "mainText": "2 Aeve, Progenitor Ooze\n4 Birds of Paradise\n4 Botanical Sanctum\n4 Breeding Pool\n4 Bring to Light\n2 Copperline Gorge\n4 Explore\n4 Forest\n4 Hymn to the Ages\n4 Iridescent Tiger\n4 Mana Confluence\n4 Planar Genesis\n4 Release to the Wind\n4 Stock Up\n4 Stomping Ground\n4 Utopia Sprawl",
     "sideText": ""
   }
 }

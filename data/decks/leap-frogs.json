@@ -2,17 +2,22 @@
   "id": "recupqllp25GBdcgO",
   "slug": "leap-frogs",
   "name": "Leap Frogs",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.016Z",
+  "author": "Plum",
+  "format": "Historic",
+  "archetype": "Aggro",
+  "characteristics": [
+    "Value"
+  ],
+  "colors": [
+    "Blue",
+    "Green"
+  ],
+  "updatedAt": "2024-12-08T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "Leaf-Leap Guide",
   "decklist": {
-    "raw": "",
-    "mainText": "",
+    "raw": "4 Audacity\n4 Botanical Sanctum\n4 Breeding Pool\n4 Cavern of Souls\n4 Dour Port-Mage\n4 Ephemerate\n4 Leaf-Leap Guide\n4 Mockingbird\n4 Polliwallop\n4 Pond Prophet\n4 Razorverge Thicket\n4 Sunshower Druid\n4 Temple Garden\n4 Three Tree Scribe\n4 Valley Mightcaller",
+    "mainText": "4 Audacity\n4 Botanical Sanctum\n4 Breeding Pool\n4 Cavern of Souls\n4 Dour Port-Mage\n4 Ephemerate\n4 Leaf-Leap Guide\n4 Mockingbird\n4 Polliwallop\n4 Pond Prophet\n4 Razorverge Thicket\n4 Sunshower Druid\n4 Temple Garden\n4 Three Tree Scribe\n4 Valley Mightcaller",
     "sideText": ""
   }
 }

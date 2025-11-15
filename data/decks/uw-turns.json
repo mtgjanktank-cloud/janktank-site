@@ -1,18 +1,23 @@
 {
-  "id": "recOn8ca1ooubQ33H",
+  "id": "rec6n7TbC9sZikKFC",
   "slug": "uw-turns",
   "name": "UW Turns",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.016Z",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Pseudo Combo",
+  "characteristics": [
+    "Extra Turns"
+  ],
+  "colors": [
+    "White",
+    "Blue"
+  ],
+  "updatedAt": "2017-09-01T00:00:00.000Z",
   "containsBannedCards": false,
-  "coverCard": "Alrund's Epiphany",
+  "coverCard": "Temporal Mastery",
   "decklist": {
-    "raw": "",
-    "mainText": "",
-    "sideText": ""
+    "raw": "4 Ancestral Vision\r\n3 Celestial Colonnade\r\n2 Cryptic Command\r\n4 Dictate of Kruphix\r\n4 Flooded Strand\r\n1 Glacial Fortress\r\n2 Hallowed Fountain\r\n6 Island\r\n1 Mikokoro, Center of the Sea\r\n1 Narset Transcendent\r\n3 Path to Exile\r\n1 Plains\r\n1 Polluted Delta\r\n1 Prairie Stream\r\n4 Remand\r\n4 Scalding Tarn\r\n4 Serum Visions\r\n1 Snapcaster Mage\r\n1 Talisman of Progress\r\n4 Temporal Mastery\r\n1 Temporal Trespass\r\n4 Time Warp\r\n2 Timely Reinforcements\r\n1 Walk the Aeons\r\n\r\n1 Celestial Purge\r\n2 Dispel\r\n1 Gideon Jura\r\n2 Jace, Vryn's Prodigy\r\n1 Path to Exile\r\n3 Stony Silence\r\n2 Supreme Verdict\r\n2 Timely Reinforcements\r\n1 Vendilion Clique\r\n",
+    "mainText": "4 Ancestral Vision\n3 Celestial Colonnade\n2 Cryptic Command\n4 Dictate of Kruphix\n4 Flooded Strand\n1 Glacial Fortress\n2 Hallowed Fountain\n6 Island\n1 Mikokoro, Center of the Sea\n1 Narset Transcendent\n3 Path to Exile\n1 Plains\n1 Polluted Delta\n1 Prairie Stream\n4 Remand\n4 Scalding Tarn\n4 Serum Visions\n1 Snapcaster Mage\n1 Talisman of Progress\n4 Temporal Mastery\n1 Temporal Trespass\n4 Time Warp\n2 Timely Reinforcements\n1 Walk the Aeons",
+    "sideText": "1 Celestial Purge\n2 Dispel\n1 Gideon Jura\n2 Jace, Vryn's Prodigy\n1 Path to Exile\n3 Stony Silence\n2 Supreme Verdict\n2 Timely Reinforcements\n1 Vendilion Clique"
   }
 }

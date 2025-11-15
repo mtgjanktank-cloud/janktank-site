@@ -2,17 +2,22 @@
   "id": "recjs15hllGCxTku8",
   "slug": "spinner-cheerios",
   "name": "Spinner Cheerios",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.015Z",
+  "author": "Plum",
+  "format": "Historic",
+  "archetype": "Combo",
+  "characteristics": [
+    "Glass Cannon"
+  ],
+  "colors": [
+    "Green",
+    "Black"
+  ],
+  "updatedAt": "2025-03-02T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "Spinner of Souls",
   "decklist": {
-    "raw": "",
-    "mainText": "",
+    "raw": "4 A-The Meathook Massacre\n4 Assemble the Team\n4 Blooming Marsh\n1 Boseiju, Who Endures\n4 Chamber Sentry\n4 Darkbore Pathway\n1 Forest\n4 Funeral Room/Awakening Hall\n4 Hangarback Walker\n4 Marketback Walker\n4 Overgrown Tomb\n2 Prismatic Vista\n4 Scheming Symmetry\n2 Spinner of Souls\n4 Stonecoil Serpent\n4 Swamp\n4 Ugin's Conjurant\n2 Wishclaw Talisman",
+    "mainText": "4 A-The Meathook Massacre\n4 Assemble the Team\n4 Blooming Marsh\n1 Boseiju, Who Endures\n4 Chamber Sentry\n4 Darkbore Pathway\n1 Forest\n4 Funeral Room/Awakening Hall\n4 Hangarback Walker\n4 Marketback Walker\n4 Overgrown Tomb\n2 Prismatic Vista\n4 Scheming Symmetry\n2 Spinner of Souls\n4 Stonecoil Serpent\n4 Swamp\n4 Ugin's Conjurant\n2 Wishclaw Talisman",
     "sideText": ""
   }
 }

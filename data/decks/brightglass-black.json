@@ -2,17 +2,21 @@
   "id": "rec2KttrMfgl9Kref",
   "slug": "brightglass-black",
   "name": "Brightglass Black",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.015Z",
+  "author": "---",
+  "format": "Historic",
+  "archetype": "Value",
+  "characteristics": [
+    "Recursion"
+  ],
+  "colors": [
+    "Black"
+  ],
+  "updatedAt": "2025-08-12T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "Brightglass Gearhulk",
   "decklist": {
-    "raw": "",
-    "mainText": "",
+    "raw": "4 A-Cauldron Familiar\n4 Beseech the Mirror\n4 Brightglass Gearhulk\n4 Deadly Dispute\n2 Jet Medallion\n4 Kaya's Ghostform\n4 Marionette Apprentice\n4 Prismatic Vista\n4 Scavenger's Talent\n2 Spymaster's Vault\n1 Susurian Voidborn\n9 Swamp\n1 Takenuma, Abandoned Mire\n4 Tasteful Offering\n4 Vault of Whispers\n1 Witch's Cottage\n4 Witch's Oven",
+    "mainText": "4 A-Cauldron Familiar\n4 Beseech the Mirror\n4 Brightglass Gearhulk\n4 Deadly Dispute\n2 Jet Medallion\n4 Kaya's Ghostform\n4 Marionette Apprentice\n4 Prismatic Vista\n4 Scavenger's Talent\n2 Spymaster's Vault\n1 Susurian Voidborn\n9 Swamp\n1 Takenuma, Abandoned Mire\n4 Tasteful Offering\n4 Vault of Whispers\n1 Witch's Cottage\n4 Witch's Oven",
     "sideText": ""
   }
 }

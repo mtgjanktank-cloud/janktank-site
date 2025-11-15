@@ -1,18 +1,23 @@
 {
-  "id": "recP3imDeh51Uovi3",
+  "id": "rec6v2HS3dbgriHKn",
   "slug": "uw-monument",
   "name": "UW Monument",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.015Z",
+  "author": "---",
+  "format": "Modern",
+  "archetype": "Value",
+  "characteristics": [
+    "Tokens"
+  ],
+  "colors": [
+    "White",
+    "Blue"
+  ],
+  "updatedAt": "2017-09-01T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "Oketra's Monument",
   "decklist": {
-    "raw": "",
-    "mainText": "",
-    "sideText": ""
+    "raw": "1 Arid Mesa\r\n2 Dusk/Dawn\r\n4 Flooded Strand\r\n2 Glacial Fortress\r\n2 Hallowed Fountain\r\n1 Island\r\n4 Judge's Familiar\r\n1 Marsh Flats\r\n4 Oketra's Monument\r\n2 Path to Exile\r\n7 Plains\r\n4 Reflector Mage\r\n2 Seachrome Coast\r\n3 Sky Hussar\r\n4 Spell Queller\r\n4 Squadron Hawk\r\n4 Thraben Inspector\r\n4 Wall of Omens\r\n2 Westvale Abbey\r\n3 Whitemane Lion\r\n\r\n1 Celestial Purge\r\n2 Gideon, Ally of Zendikar\r\n1 Kataki, War's Wage\r\n1 Pithing Needle\r\n3 Rest in Peace\r\n2 Runed Halo\r\n3 Stony Silence\r\n2 Thalia, Guardian of Thraben\r\n",
+    "mainText": "1 Arid Mesa\n2 Dusk/Dawn\n4 Flooded Strand\n2 Glacial Fortress\n2 Hallowed Fountain\n1 Island\n4 Judge's Familiar\n1 Marsh Flats\n4 Oketra's Monument\n2 Path to Exile\n7 Plains\n4 Reflector Mage\n2 Seachrome Coast\n3 Sky Hussar\n4 Spell Queller\n4 Squadron Hawk\n4 Thraben Inspector\n4 Wall of Omens\n2 Westvale Abbey\n3 Whitemane Lion",
+    "sideText": "1 Celestial Purge\n2 Gideon, Ally of Zendikar\n1 Kataki, War's Wage\n1 Pithing Needle\n3 Rest in Peace\n2 Runed Halo\n3 Stony Silence\n2 Thalia, Guardian of Thraben"
   }
 }

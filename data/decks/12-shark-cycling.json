@@ -2,17 +2,22 @@
   "id": "rec73yQl4TxWflhKZ",
   "slug": "12-shark-cycling",
   "name": "12-Shark Cycling",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.015Z",
+  "author": "Plum",
+  "format": "Historic",
+  "archetype": "Value",
+  "characteristics": [
+    "Cycling"
+  ],
+  "colors": [
+    "White",
+    "Red"
+  ],
+  "updatedAt": "2025-02-27T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "Marauding Mako",
   "decklist": {
-    "raw": "",
-    "mainText": "",
-    "sideText": ""
+    "raw": "3 Drannith Stinger\n4 Flameblade Adept\n4 Flourishing Fox\n4 Footfall Crater\n4 Go for Blood\n4 Inspiring Vantage\n4 Marauding Mako\n1 Mountain\n4 Needleverge Pathway\n1 Plains\n3 Radiant Smite\n3 Raking Claws\n4 Resolute Rejection\n4 Sacred Foundry\n2 Sunbaked Canyon\n3 Valiant Rescuer\n4 Zenith Flare\n\nSIDEBOARD:\n1 Lurrus of the Dream-Den",
+    "mainText": "3 Drannith Stinger\n4 Flameblade Adept\n4 Flourishing Fox\n4 Footfall Crater\n4 Go for Blood\n4 Inspiring Vantage\n4 Marauding Mako\n1 Mountain\n4 Needleverge Pathway\n1 Plains\n3 Radiant Smite\n3 Raking Claws\n4 Resolute Rejection\n4 Sacred Foundry\n2 Sunbaked Canyon\n3 Valiant Rescuer\n4 Zenith Flare",
+    "sideText": "1 Lurrus of the Dream-Den"
   }
 }

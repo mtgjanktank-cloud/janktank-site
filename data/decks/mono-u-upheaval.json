@@ -2,17 +2,21 @@
   "id": "recrW9sJ4zs83PaSK",
   "slug": "mono-u-upheaval",
   "name": "Mono-U Upheaval",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.015Z",
+  "author": "Plum",
+  "format": "Historic",
+  "archetype": "Value",
+  "characteristics": [
+    "Artifact Ramp"
+  ],
+  "colors": [
+    "Blue"
+  ],
+  "updatedAt": "2025-11-06T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "Upheaval",
   "decklist": {
-    "raw": "",
-    "mainText": "",
-    "sideText": ""
+    "raw": "4 A-The One Ring\n2 Azorius Signet\n4 Cascading Cataracts\n2 Dimir Signet\n4 Fomori Vault\n2 Golos, Tireless Pilgrim\n1 Hall of Storm Giants\n5 Island\n4 Izzet Signet\n4 Mirrorshell Crab\n4 Omen Hawker\n2 Otawara, Soaring City\n1 Rise and Shine\n2 Simic Signet\n4 Steam Vents\n3 Sunken Citadel\n4 Terra Branford\n4 The Enigma Jewel\n\nSIDEBOARD:\n4 Consign to Memory\n1 Grafdigger's Cage\n2 Pithing Needle\n3 Pyroclasm\n2 Soul-Guide Lantern\n1 Torpor Orb\n2 Whirlwind Denial",
+    "mainText": "4 A-The One Ring\n2 Azorius Signet\n4 Cascading Cataracts\n2 Dimir Signet\n4 Fomori Vault\n2 Golos, Tireless Pilgrim\n1 Hall of Storm Giants\n5 Island\n4 Izzet Signet\n4 Mirrorshell Crab\n4 Omen Hawker\n2 Otawara, Soaring City\n1 Rise and Shine\n2 Simic Signet\n4 Steam Vents\n3 Sunken Citadel\n4 Terra Branford\n4 The Enigma Jewel",
+    "sideText": "4 Consign to Memory\n1 Grafdigger's Cage\n2 Pithing Needle\n3 Pyroclasm\n2 Soul-Guide Lantern\n1 Torpor Orb\n2 Whirlwind Denial"
   }
 }

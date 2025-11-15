@@ -2,17 +2,22 @@
   "id": "rec5NS3m3Kc1BFbbc",
   "slug": "raptor-rhinos",
   "name": "Raptor Rhinos",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.016Z",
+  "author": "---",
+  "format": "Timeless",
+  "archetype": "Pseudo Combo",
+  "characteristics": [
+    "Free Spells"
+  ],
+  "colors": [
+    "Green",
+    "Red"
+  ],
+  "updatedAt": "2024-12-08T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "Bloodbraid Marauder",
   "decklist": {
-    "raw": "",
-    "mainText": "",
+    "raw": "4 Amped Raptor\n4 Barbarian Ring\n4 Bloodbraid Marauder\n1 Bloodstained Mire\n4 Burning-Tree Emissary\n1 Commercial District\n4 Crashing Footfalls\n4 Flare of Duplication\n1 Forest\n4 Goblin Anarchomancer\n4 Incubation/Incongruity\n3 Laelia, the Blade Reforged\n1 Mountain\n4 Questing Druid\n4 Runaway Steam-Kin\n4 Scalding Tarn\n3 Stomping Ground\n2 Thrash/Threat\n4 Wooded Foothills",
+    "mainText": "4 Amped Raptor\n4 Barbarian Ring\n4 Bloodbraid Marauder\n1 Bloodstained Mire\n4 Burning-Tree Emissary\n1 Commercial District\n4 Crashing Footfalls\n4 Flare of Duplication\n1 Forest\n4 Goblin Anarchomancer\n4 Incubation/Incongruity\n3 Laelia, the Blade Reforged\n1 Mountain\n4 Questing Druid\n4 Runaway Steam-Kin\n4 Scalding Tarn\n3 Stomping Ground\n2 Thrash/Threat\n4 Wooded Foothills",
     "sideText": ""
   }
 }

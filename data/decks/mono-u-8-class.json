@@ -2,17 +2,21 @@
   "id": "recZXOo0g07n60Qd9",
   "slug": "mono-u-8-class",
   "name": "Mono-U 8-Class",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.015Z",
+  "author": "Plum",
+  "format": "Historic",
+  "archetype": "Combo",
+  "characteristics": [
+    "Infinite Loop"
+  ],
+  "colors": [
+    "Blue"
+  ],
+  "updatedAt": "2025-03-30T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "Wizard Class",
   "decklist": {
-    "raw": "",
-    "mainText": "",
+    "raw": "4 A-Wizard Class\n3 Benthic Biomancer\n1 Hall of Storm Giants\n12 Island\n4 Mox Amber\n4 Nykthos, Shrine to Nyx\n4 Omen Hawker\n1 Otawara, Soaring City\n4 Retraction Helix\n4 Rona, Herald of Invasion\n4 Stock Up\n4 Stormchaser's Talent\n4 Tamiyo, Inquisitive Student\n3 The Enigma Jewel\n4 This Town Ain't Big Enough",
+    "mainText": "4 A-Wizard Class\n3 Benthic Biomancer\n1 Hall of Storm Giants\n12 Island\n4 Mox Amber\n4 Nykthos, Shrine to Nyx\n4 Omen Hawker\n1 Otawara, Soaring City\n4 Retraction Helix\n4 Rona, Herald of Invasion\n4 Stock Up\n4 Stormchaser's Talent\n4 Tamiyo, Inquisitive Student\n3 The Enigma Jewel\n4 This Town Ain't Big Enough",
     "sideText": ""
   }
 }

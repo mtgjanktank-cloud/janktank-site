@@ -2,17 +2,22 @@
   "id": "rech2I6ZFTq3y9vuj",
   "slug": "simic-beans",
   "name": "Simic Beans",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.015Z",
+  "author": "Plum",
+  "format": "Historic",
+  "archetype": "Value",
+  "characteristics": [
+    "Spell Based"
+  ],
+  "colors": [
+    "Blue",
+    "Green"
+  ],
+  "updatedAt": "2025-08-24T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "Tolarian Terror",
   "decklist": {
-    "raw": "",
-    "mainText": "",
-    "sideText": ""
+    "raw": "4 Abundant Harvest\n1 Boseiju, Who Endures\n4 Botanical Sanctum\n4 Breeding Pool\n4 Consider\n4 Decisive Denial\n4 Eddymurk Crab\n2 Elder Deep-Fiend\n1 Forest\n4 Incubation/Incongruity\n3 Island\n4 Ledger Shredder\n1 Otawara, Soaring City\n4 Stormwing Entity\n1 Stubborn Denial\n1 Tamiyo, Inquisitive Student\n4 Thought Scour\n4 Tolarian Terror\n4 Up the Beanstalk\n2 Waterlogged Grove\n\nSIDEBOARD:\n3 Consign to Memory\n1 Croaking Counterpart\n1 Disruptor Flute\n3 Pick Your Poison\n3 Surgical Extraction\n2 Tail Swipe\n2 Test of Talents",
+    "mainText": "4 Abundant Harvest\n1 Boseiju, Who Endures\n4 Botanical Sanctum\n4 Breeding Pool\n4 Consider\n4 Decisive Denial\n4 Eddymurk Crab\n2 Elder Deep-Fiend\n1 Forest\n4 Incubation/Incongruity\n3 Island\n4 Ledger Shredder\n1 Otawara, Soaring City\n4 Stormwing Entity\n1 Stubborn Denial\n1 Tamiyo, Inquisitive Student\n4 Thought Scour\n4 Tolarian Terror\n4 Up the Beanstalk\n2 Waterlogged Grove",
+    "sideText": "3 Consign to Memory\n1 Croaking Counterpart\n1 Disruptor Flute\n3 Pick Your Poison\n3 Surgical Extraction\n2 Tail Swipe\n2 Test of Talents"
   }
 }

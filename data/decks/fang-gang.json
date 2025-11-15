@@ -2,17 +2,24 @@
   "id": "reczJw3X4vyuTRgJE",
   "slug": "fang-gang",
   "name": "Fang Gang",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.016Z",
+  "author": "Plum",
+  "format": "Historic",
+  "archetype": "Tribal",
+  "characteristics": [
+    "Aggro"
+  ],
+  "colors": [
+    "White",
+    "Black",
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2024-12-08T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "Vampire Socialite",
   "decklist": {
-    "raw": "",
-    "mainText": "",
+    "raw": "3 Bloodtithe Harvester\n4 Blooming Marsh\n4 Collected Company\n4 Cordial Vampire\n4 Dominating Vampire\n4 Dusk Legion Duelist\n4 Indulgent Aristocrat\n4 Knight of the Ebon Legion\n4 Mana Confluence\n2 Overgrown Tomb\n4 Secluded Courtyard\n4 Unclaimed Territory\n4 Vampire Socialite\n4 Voldaren Epicure\n4 Voldaren Estate\n3 Yahenni, Undying Partisan",
+    "mainText": "3 Bloodtithe Harvester\n4 Blooming Marsh\n4 Collected Company\n4 Cordial Vampire\n4 Dominating Vampire\n4 Dusk Legion Duelist\n4 Indulgent Aristocrat\n4 Knight of the Ebon Legion\n4 Mana Confluence\n2 Overgrown Tomb\n4 Secluded Courtyard\n4 Unclaimed Territory\n4 Vampire Socialite\n4 Voldaren Epicure\n4 Voldaren Estate\n3 Yahenni, Undying Partisan",
     "sideText": ""
   }
 }

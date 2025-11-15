@@ -2,17 +2,23 @@
   "id": "recrjU7SuKTlQjtxf",
   "slug": "hull-walls",
   "name": "Hull Walls",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.015Z",
+  "author": "Plum",
+  "format": "Historic",
+  "archetype": "Aggro",
+  "characteristics": [
+    "Defender tribal"
+  ],
+  "colors": [
+    "White",
+    "Blue",
+    "Green"
+  ],
+  "updatedAt": "2025-07-17T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "Pride of the Hull Clade",
   "decklist": {
-    "raw": "",
-    "mainText": "",
-    "sideText": ""
+    "raw": "4 A-Teferi, Time Raveler\n4 Arcades, the Strategist\n1 Boseiju, Who Endures\n4 Botanical Sanctum\n4 Breeding Pool\n4 Chord of Calling\n1 Forest\n4 Overgrown Battlement\n2 Plagon, Lord of the Beach\n4 Razorverge Thicket\n4 Saruli Caretaker\n4 Starting Town\n4 Sylvan Caryatid\n4 The Imperial City of Archades\n4 The Pride of Hull Clade\n4 Walking Bulwark\n4 Wall of Blossoms\n\nSIDEBOARD:\n1 Crystal Barricade\n1 Knight of Autumn\n4 Pick Your Poison\n3 Pithing Needle\n1 Rest in Peace\n2 Surgical Extraction\n3 Yasharn, Implacable Earth",
+    "mainText": "4 A-Teferi, Time Raveler\n4 Arcades, the Strategist\n1 Boseiju, Who Endures\n4 Botanical Sanctum\n4 Breeding Pool\n4 Chord of Calling\n1 Forest\n4 Overgrown Battlement\n2 Plagon, Lord of the Beach\n4 Razorverge Thicket\n4 Saruli Caretaker\n4 Starting Town\n4 Sylvan Caryatid\n4 The Imperial City of Archades\n4 The Pride of Hull Clade\n4 Walking Bulwark\n4 Wall of Blossoms",
+    "sideText": "1 Crystal Barricade\n1 Knight of Autumn\n4 Pick Your Poison\n3 Pithing Needle\n1 Rest in Peace\n2 Surgical Extraction\n3 Yasharn, Implacable Earth"
   }
 }

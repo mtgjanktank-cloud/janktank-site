@@ -2,17 +2,21 @@
   "id": "rece4qxg4Jpqe663c",
   "slug": "mono-u-proft",
   "name": "Mono-U Proft",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.015Z",
+  "author": "---",
+  "format": "Historic",
+  "archetype": "Aggro",
+  "characteristics": [
+    "Card Draw"
+  ],
+  "colors": [
+    "Blue"
+  ],
+  "updatedAt": "2025-01-09T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "Proft's Eidetic Memory",
   "decklist": {
-    "raw": "",
-    "mainText": "",
+    "raw": "4 Brainsurge\n4 Duelist of the Mind\n3 Fading Hope\n4 Gingerbrute\n4 Hymn to the Ages\n13 Island\n4 Ledger Shredder\n3 Oracle of the Alpha\n1 Otawara, Soaring City\n4 Piece It Together\n4 Proft's Eidetic Memory\n4 Sapphire Medallion\n4 Sink into Stupor\n4 Tamiyo, Inquisitive Student",
+    "mainText": "4 Brainsurge\n4 Duelist of the Mind\n3 Fading Hope\n4 Gingerbrute\n4 Hymn to the Ages\n13 Island\n4 Ledger Shredder\n3 Oracle of the Alpha\n1 Otawara, Soaring City\n4 Piece It Together\n4 Proft's Eidetic Memory\n4 Sapphire Medallion\n4 Sink into Stupor\n4 Tamiyo, Inquisitive Student",
     "sideText": ""
   }
 }

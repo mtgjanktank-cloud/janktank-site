@@ -2,17 +2,23 @@
   "id": "rec5LJ0PaRxispDeO",
   "slug": "astro-combo",
   "name": "Astro Combo",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.015Z",
+  "author": "---",
+  "format": "Historic",
+  "archetype": "Combo",
+  "characteristics": [
+    "Counters"
+  ],
+  "colors": [
+    "Blue",
+    "Black",
+    "Green"
+  ],
+  "updatedAt": "2025-06-12T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "Astrologian's Planisphere",
   "decklist": {
-    "raw": "",
-    "mainText": "",
+    "raw": "4 Astrologian's Planisphere\n4 Basking Broodscale\n1 Boseiju, Who Endures\n1 Breeding Pool\n4 Emry, Lurker of the Loch\n4 Evolution Witness\n1 Forest\n4 Ghost Lantern\n4 Glaring Fleshraker\n1 Island\n4 Kozilek's Command\n4 Llanowar Wastes\n4 Malevolent Rumble\n4 Mox Amber\n2 Overgrown Tomb\n4 Spire of Industry\n4 Tamiyo, Inquisitive Student\n2 Watery Grave\n4 Yavimaya Coast",
+    "mainText": "4 Astrologian's Planisphere\n4 Basking Broodscale\n1 Boseiju, Who Endures\n1 Breeding Pool\n4 Emry, Lurker of the Loch\n4 Evolution Witness\n1 Forest\n4 Ghost Lantern\n4 Glaring Fleshraker\n1 Island\n4 Kozilek's Command\n4 Llanowar Wastes\n4 Malevolent Rumble\n4 Mox Amber\n2 Overgrown Tomb\n4 Spire of Industry\n4 Tamiyo, Inquisitive Student\n2 Watery Grave\n4 Yavimaya Coast",
     "sideText": ""
   }
 }

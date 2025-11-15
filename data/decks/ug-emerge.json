@@ -2,17 +2,23 @@
   "id": "rec9NcsEwOLs2W45E",
   "slug": "ug-emerge",
   "name": "UG Emerge",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.015Z",
+  "author": "Plum",
+  "format": "Historic",
+  "archetype": "Attrition",
+  "characteristics": [
+    "Tribal, Mana Denial"
+  ],
+  "colors": [
+    "Blue",
+    "Green",
+    "Colorless"
+  ],
+  "updatedAt": "2025-10-07T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "Twisted Riddlekeeper",
   "decklist": {
-    "raw": "",
-    "mainText": "",
-    "sideText": ""
+    "raw": "4 Breeding Pool\n2 Cavern of Souls\n2 Dismember\n4 Elder Deep-Fiend\n3 Eldrazi Repurposer\n4 Eldrazi Temple\n4 Kozilek's Command\n4 Matter Reshaper\n4 Noble Hierarch\n4 Nulldrifter\n4 Sanctum of Ugin\n1 Snapping Voidcraw\n4 Thought-Knot Seer\n4 Twisted Riddlekeeper\n3 Ugin's Binding\n4 Ugin's Labyrinth\n1 Wretched Gryff\n4 Yavimaya Coast\n\nSIDEBOARD:\n2 Chalice of the Void\n3 Consign to Memory\n2 Pithing Needle\n2 Rapid Hybridization\n2 Stubborn Denial\n1 Torpor Orb\n3 Wastescape Battlemage",
+    "mainText": "4 Breeding Pool\n2 Cavern of Souls\n2 Dismember\n4 Elder Deep-Fiend\n3 Eldrazi Repurposer\n4 Eldrazi Temple\n4 Kozilek's Command\n4 Matter Reshaper\n4 Noble Hierarch\n4 Nulldrifter\n4 Sanctum of Ugin\n1 Snapping Voidcraw\n4 Thought-Knot Seer\n4 Twisted Riddlekeeper\n3 Ugin's Binding\n4 Ugin's Labyrinth\n1 Wretched Gryff\n4 Yavimaya Coast",
+    "sideText": "2 Chalice of the Void\n3 Consign to Memory\n2 Pithing Needle\n2 Rapid Hybridization\n2 Stubborn Denial\n1 Torpor Orb\n3 Wastescape Battlemage"
   }
 }

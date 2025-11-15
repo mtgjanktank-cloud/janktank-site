@@ -2,17 +2,23 @@
   "id": "reclnjtWDSi0UayQe",
   "slug": "titan-twin",
   "name": "Titan Twin",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.015Z",
+  "author": "Plum",
+  "format": "Historic",
+  "archetype": "Pseudo Combo",
+  "characteristics": [
+    "Graveyard Based"
+  ],
+  "colors": [
+    "Blue",
+    "Black",
+    "Green"
+  ],
+  "updatedAt": "2025-05-19T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "Titans' Nest",
   "decklist": {
-    "raw": "",
-    "mainText": "",
+    "raw": "3 Bitter Triumph\n3 Blooming Marsh\n1 Breeding Pool\n4 Commune with the Gods\n4 Deathrite Shaman\n3 Forest\n3 Grist, Voracious Larva\n1 Island\n4 Overgrown Tomb\n4 Prismatic Vista\n4 Psychic Frog\n4 Satyr Wayfinder\n1 Six\n2 Squirming Emergence\n4 Stitcher's Supplier\n3 Swamp\n3 Titans' Nest\n4 Unearth\n1 Watery Grave\n4 Willow Geist",
+    "mainText": "3 Bitter Triumph\n3 Blooming Marsh\n1 Breeding Pool\n4 Commune with the Gods\n4 Deathrite Shaman\n3 Forest\n3 Grist, Voracious Larva\n1 Island\n4 Overgrown Tomb\n4 Prismatic Vista\n4 Psychic Frog\n4 Satyr Wayfinder\n1 Six\n2 Squirming Emergence\n4 Stitcher's Supplier\n3 Swamp\n3 Titans' Nest\n4 Unearth\n1 Watery Grave\n4 Willow Geist",
     "sideText": ""
   }
 }

@@ -2,17 +2,22 @@
   "id": "rec1s7Hb6LOn0o1We",
   "slug": "kami-kaze",
   "name": "Kami-Kaze",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.016Z",
+  "author": "Plum",
+  "format": "Historic",
+  "archetype": "Value",
+  "characteristics": [
+    "Sacrifice Value"
+  ],
+  "colors": [
+    "Black",
+    "Red"
+  ],
+  "updatedAt": "2024-12-08T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "Kami of Mourning",
   "decklist": {
-    "raw": "",
-    "mainText": "",
-    "sideText": ""
+    "raw": "2 Agadeem's Awakening\n3 Balduvian Atrocity\n4 Blackcleave Cliffs\n4 Blightstep Pathway\n4 Blood Crypt\n1 Chthonian Nightmare\n1 Den of the Bugbear\n4 Eaten Alive\n4 Goblin Trapfinder\n4 Kami of Mourning\n4 Kroxa, Titan of Death's Hunger\n1 Phyrexian Tower\n4 Priest of Forgotten Gods\n3 Riveteers Provocateur\n2 Shatterskull Smashing\n4 Skirk Prospector\n1 Sokenzan, Crucible of Defiance\n2 Swamp\n1 Takenuma, Abandoned Mire\n3 Unearth\n4 Village Rites\n\nSIDEBOARD:\n2 Bloodchief's Thirst\n2 Feed the Swarm\n2 Liliana's Steward\n3 Night Clubber\n2 Pithing Needle\n2 Shrapnel Slinger\n2 Unlicensed Hearse",
+    "mainText": "2 Agadeem's Awakening\n3 Balduvian Atrocity\n4 Blackcleave Cliffs\n4 Blightstep Pathway\n4 Blood Crypt\n1 Chthonian Nightmare\n1 Den of the Bugbear\n4 Eaten Alive\n4 Goblin Trapfinder\n4 Kami of Mourning\n4 Kroxa, Titan of Death's Hunger\n1 Phyrexian Tower\n4 Priest of Forgotten Gods\n3 Riveteers Provocateur\n2 Shatterskull Smashing\n4 Skirk Prospector\n1 Sokenzan, Crucible of Defiance\n2 Swamp\n1 Takenuma, Abandoned Mire\n3 Unearth\n4 Village Rites",
+    "sideText": "2 Bloodchief's Thirst\n2 Feed the Swarm\n2 Liliana's Steward\n3 Night Clubber\n2 Pithing Needle\n2 Shrapnel Slinger\n2 Unlicensed Hearse"
   }
 }

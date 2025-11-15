@@ -2,17 +2,23 @@
   "id": "recVSBoGQPIobxcbg",
   "slug": "cecil-humans",
   "name": "Cecil Humans",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.015Z",
+  "author": "Tiago_Cygnus",
+  "format": "Pioneer",
+  "archetype": "Tribal",
+  "characteristics": [
+    "Aggro"
+  ],
+  "colors": [
+    "White",
+    "Black",
+    "Red"
+  ],
+  "updatedAt": "2025-06-19T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "Cecil, Dark Knight",
   "decklist": {
-    "raw": "",
-    "mainText": "",
-    "sideText": ""
+    "raw": "4 Adeline, Resplendent Cathar\n3 Alesha, Who Laughs at Fate\n4 Cavern of Souls\n4 Cecil, Dark Knight\n1 Concealed Courtyard\n4 Coppercoat Vanguard\n2 Declaration in Stone\n3 Eiganjo, Seat of the Empire\n2 Jirina, Dauntless General\n2 Joshua, Phoenix's Dominant\n2 Kellan, Planar Trailblazer\n2 Kytheon, Hero of Akros\n4 Mana Confluence\n4 Mox Amber\n2 Mutavault\n1 Plains\n4 Plaza of Heroes\n1 Sokenzan, Crucible of Defiance\n1 Takenuma, Abandoned Mire\n4 Thalia, Guardian of Thraben\n4 Thalia's Lieutenant\n2 Zack Fair\n\nSIDEBOARD:\n3 Containment Priest\n2 Destroy Evil\n2 Get Lost\n4 Portable Hole\n1 Requisition Raid\n1 Tomik, Distinguished Advokist\n2 Wedding Announcement",
+    "mainText": "4 Adeline, Resplendent Cathar\n3 Alesha, Who Laughs at Fate\n4 Cavern of Souls\n4 Cecil, Dark Knight\n1 Concealed Courtyard\n4 Coppercoat Vanguard\n2 Declaration in Stone\n3 Eiganjo, Seat of the Empire\n2 Jirina, Dauntless General\n2 Joshua, Phoenix's Dominant\n2 Kellan, Planar Trailblazer\n2 Kytheon, Hero of Akros\n4 Mana Confluence\n4 Mox Amber\n2 Mutavault\n1 Plains\n4 Plaza of Heroes\n1 Sokenzan, Crucible of Defiance\n1 Takenuma, Abandoned Mire\n4 Thalia, Guardian of Thraben\n4 Thalia's Lieutenant\n2 Zack Fair",
+    "sideText": "3 Containment Priest\n2 Destroy Evil\n2 Get Lost\n4 Portable Hole\n1 Requisition Raid\n1 Tomik, Distinguished Advokist\n2 Wedding Announcement"
   }
 }

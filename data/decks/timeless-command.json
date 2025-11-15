@@ -2,17 +2,23 @@
   "id": "rec9O1orJfSCVvM8t",
   "slug": "timeless-command",
   "name": "Timeless Command",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.015Z",
+  "author": "Plum",
+  "format": "Historic",
+  "archetype": "Control",
+  "characteristics": [
+    "Soft Lock"
+  ],
+  "colors": [
+    "Blue",
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2025-06-10T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "Cryptic Command",
   "decklist": {
-    "raw": "",
-    "mainText": "",
+    "raw": "4 A-Galvanic Discharge\n4 Aether Hub\n4 Aether Spike\n4 Archmage's Charm\n3 As Foretold\n1 Breeding Pool\n4 Hymn to the Ages\n4 Island\n1 Mountain\n1 Mystic Sanctuary\n3 Prismatic Vista\n4 Ribald Shanty\n4 Riverpyre Verge\n4 Snapcaster Mage\n4 Steam Vents\n3 Timeless Witness\n4 To the Crystal Tower\n4 Tune the Narrative",
+    "mainText": "4 A-Galvanic Discharge\n4 Aether Hub\n4 Aether Spike\n4 Archmage's Charm\n3 As Foretold\n1 Breeding Pool\n4 Hymn to the Ages\n4 Island\n1 Mountain\n1 Mystic Sanctuary\n3 Prismatic Vista\n4 Ribald Shanty\n4 Riverpyre Verge\n4 Snapcaster Mage\n4 Steam Vents\n3 Timeless Witness\n4 To the Crystal Tower\n4 Tune the Narrative",
     "sideText": ""
   }
 }

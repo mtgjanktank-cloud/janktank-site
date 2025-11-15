@@ -2,17 +2,23 @@
   "id": "recgN64ShDMacryHE",
   "slug": "ignoble-shamans",
   "name": "Ignoble Shamans",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.015Z",
+  "author": "Plum",
+  "format": "Historic",
+  "archetype": "Tribal",
+  "characteristics": [
+    "Aggro"
+  ],
+  "colors": [
+    "Black",
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2025-08-19T00:00:00.000Z",
   "containsBannedCards": false,
-  "coverCard": "Ig noble Hierarch",
+  "coverCard": "Ignoble Hierarch",
   "decklist": {
-    "raw": "",
-    "mainText": "",
-    "sideText": ""
+    "raw": "1 Boseiju, Who Endures\n4 Burning-Tree Emissary\n4 Cavern of Souls\n4 Collected Company\n4 Copperline Gorge\n4 Elvish Visionary\n1 Eternal Witness\n3 Forest\n4 Goblin Anarchomancer\n4 Harmonic Prodigy\n4 Ignoble Hierarch\n4 Judith, the Scourge Diva\n1 Llanowar Elves\n1 Mountain\n4 Rage Forger\n2 Seasoned Pyromancer\n4 Secluded Courtyard\n1 Sokenzan, Crucible of Defiance\n4 Stomping Ground\n2 Stump Stomp\n\nSIDEBOARD:\n2 Bonecrusher Giant\n2 Dismember\n3 Goblin Ruinblaster\n2 Heroic Intervention\n1 Klothys, God of Destiny\n1 Loaming Shaman\n2 Reclamation Sage\n2 Relic of Progenitus",
+    "mainText": "1 Boseiju, Who Endures\n4 Burning-Tree Emissary\n4 Cavern of Souls\n4 Collected Company\n4 Copperline Gorge\n4 Elvish Visionary\n1 Eternal Witness\n3 Forest\n4 Goblin Anarchomancer\n4 Harmonic Prodigy\n4 Ignoble Hierarch\n4 Judith, the Scourge Diva\n1 Llanowar Elves\n1 Mountain\n4 Rage Forger\n2 Seasoned Pyromancer\n4 Secluded Courtyard\n1 Sokenzan, Crucible of Defiance\n4 Stomping Ground\n2 Stump Stomp",
+    "sideText": "2 Bonecrusher Giant\n2 Dismember\n3 Goblin Ruinblaster\n2 Heroic Intervention\n1 Klothys, God of Destiny\n1 Loaming Shaman\n2 Reclamation Sage\n2 Relic of Progenitus"
   }
 }

@@ -2,17 +2,21 @@
   "id": "recx68jzmE54Fjmn1",
   "slug": "10-land-stompy",
   "name": "10-Land Stompy",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.016Z",
+  "author": "Plum",
+  "format": "Timeless",
+  "archetype": "Aggro",
+  "characteristics": [
+    "Low Land Count"
+  ],
+  "colors": [
+    "Green"
+  ],
+  "updatedAt": "2024-12-08T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "Pelt Collector",
   "decklist": {
-    "raw": "",
-    "mainText": "",
-    "sideText": ""
+    "raw": "2 Appeal/Authority\n4 Attune with Aether\n4 Audacity\n4 Deathrite Shaman\n3 Forest\n4 Greenbelt Rampager\n4 Longtusk Stalker\n4 Mistbreath Elder\n4 Old-Growth Dryads\n4 Once Upon a Time\n1 Overgrown Tomb\n4 Pawpatch Recruit\n1 Stomping Ground\n4 Sunshower Druid\n1 Temple Garden\n4 Valley Mightcaller\n4 Wild Nacatl\n4 Windswept Heath\n\nSIDEBOARD:\n1 Lurrus of the Dream-Den",
+    "mainText": "2 Appeal/Authority\n4 Attune with Aether\n4 Audacity\n4 Deathrite Shaman\n3 Forest\n4 Greenbelt Rampager\n4 Longtusk Stalker\n4 Mistbreath Elder\n4 Old-Growth Dryads\n4 Once Upon a Time\n1 Overgrown Tomb\n4 Pawpatch Recruit\n1 Stomping Ground\n4 Sunshower Druid\n1 Temple Garden\n4 Valley Mightcaller\n4 Wild Nacatl\n4 Windswept Heath",
+    "sideText": "1 Lurrus of the Dream-Den"
   }
 }

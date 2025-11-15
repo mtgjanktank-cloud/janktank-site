@@ -2,17 +2,22 @@
   "id": "rechNqjD5K62iLXQa",
   "slug": "reptile-dysfunction",
   "name": "Reptile Dysfunction",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.016Z",
+  "author": "Plum",
+  "format": "Timeless",
+  "archetype": "Attrition",
+  "characteristics": [
+    "Taxes"
+  ],
+  "colors": [
+    "White",
+    "Red"
+  ],
+  "updatedAt": "2025-12-08T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "Magebane Lizard",
   "decklist": {
-    "raw": "",
-    "mainText": "",
+    "raw": "4 Cemetery Gatekeeper\n4 Eidolon of the Great Revel\n1 Elegant Parlor\n3 Extraction Specialist\n1 Fiery Islet\n4 Flooded Strand\n4 Giver of Runes\n4 Inspiring Vantage\n4 Lightning Bolt\n4 Magebane Lizard\n3 Ojer Axonil, Deepest Might\n1 Plains\n4 Ragavan, Nimble Pilferer\n3 Sacred Foundry\n4 Scalding Viper\n2 Spirebluff Canal\n1 Steam Vents\n3 Surge of Salvation\n1 Taii Wakeen, Perfect Shot\n1 Thundering Falls\n4 Windswept Heath",
+    "mainText": "4 Cemetery Gatekeeper\n4 Eidolon of the Great Revel\n1 Elegant Parlor\n3 Extraction Specialist\n1 Fiery Islet\n4 Flooded Strand\n4 Giver of Runes\n4 Inspiring Vantage\n4 Lightning Bolt\n4 Magebane Lizard\n3 Ojer Axonil, Deepest Might\n1 Plains\n4 Ragavan, Nimble Pilferer\n3 Sacred Foundry\n4 Scalding Viper\n2 Spirebluff Canal\n1 Steam Vents\n3 Surge of Salvation\n1 Taii Wakeen, Perfect Shot\n1 Thundering Falls\n4 Windswept Heath",
     "sideText": ""
   }
 }

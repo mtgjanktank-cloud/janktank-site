@@ -2,17 +2,22 @@
   "id": "recn6pgyUdhoaTZwW",
   "slug": "gr-rampage",
   "name": "GR Rampage",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.015Z",
+  "author": "Plum",
+  "format": "Historic",
+  "archetype": "Pseudo Combo",
+  "characteristics": [
+    "Artifact Value"
+  ],
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2025-08-13T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "Rampage of the Clans",
   "decklist": {
-    "raw": "",
-    "mainText": "",
+    "raw": "4 A Golden Opportunity\n4 A-Galvanic Discharge\n4 Birds of Paradise\n4 Copperline Gorge\n4 Demand Answers\n7 Forest\n4 Galvanic Blast\n4 Giant Opportunity\n4 Gilded Goose\n1 Gingerbread Cabin\n4 Rampage of the Clans\n4 Stomping Ground\n4 Thornspire Verge\n4 Trail of Crumbs\n4 Wish Good Luck",
+    "mainText": "4 A Golden Opportunity\n4 A-Galvanic Discharge\n4 Birds of Paradise\n4 Copperline Gorge\n4 Demand Answers\n7 Forest\n4 Galvanic Blast\n4 Giant Opportunity\n4 Gilded Goose\n1 Gingerbread Cabin\n4 Rampage of the Clans\n4 Stomping Ground\n4 Thornspire Verge\n4 Trail of Crumbs\n4 Wish Good Luck",
     "sideText": ""
   }
 }

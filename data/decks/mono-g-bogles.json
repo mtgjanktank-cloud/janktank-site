@@ -2,17 +2,21 @@
   "id": "rech4JJSxMZKxAedc",
   "slug": "mono-g-bogles",
   "name": "Mono-G Bogles",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.015Z",
+  "author": "Plum",
+  "format": "Historic",
+  "archetype": "Aggro",
+  "characteristics": [
+    "Voltron"
+  ],
+  "colors": [
+    "Green"
+  ],
+  "updatedAt": "2025-07-29T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "Toadstool Admirer",
   "decklist": {
-    "raw": "",
-    "mainText": "",
+    "raw": "4 Ancestral Mask\n4 Aspect of Hydra\n4 Audacity\n4 Bassara Tower Archer\n3 Boseiju, Who Endures\n4 Bridgeworks Battle\n9 Forest\n4 Gladecover Scout\n3 Hashep Oasis\n1 Lair of the Hydra\n4 Lion Umbra\n4 Meltstrider's Resolve\n4 Rune of Might\n4 Sixth Sense\n4 Toadstool Admirer",
+    "mainText": "4 Ancestral Mask\n4 Aspect of Hydra\n4 Audacity\n4 Bassara Tower Archer\n3 Boseiju, Who Endures\n4 Bridgeworks Battle\n9 Forest\n4 Gladecover Scout\n3 Hashep Oasis\n1 Lair of the Hydra\n4 Lion Umbra\n4 Meltstrider's Resolve\n4 Rune of Might\n4 Sixth Sense\n4 Toadstool Admirer",
     "sideText": ""
   }
 }

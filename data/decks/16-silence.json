@@ -2,17 +2,21 @@
   "id": "rechB0UXaNu3u1Cys",
   "slug": "16-silence",
   "name": "16-Silence",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.015Z",
+  "author": "Plum",
+  "format": "Historic",
+  "archetype": "Prison",
+  "characteristics": [
+    "Lock Out"
+  ],
+  "colors": [
+    "White"
+  ],
+  "updatedAt": "2025-07-27T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "Silence",
   "decklist": {
-    "raw": "",
-    "mainText": "",
+    "raw": "4 A-The One Ring\n2 Approach of the Second Sun\n3 Calamity's Wake\n4 Day of Judgment\n2 Eiganjo, Seat of the Empire\n4 Flamescroll Celebrant\n4 Fragment Reality\n4 Howling Mine\n4 Orim's Chant\n16 Plains\n4 Radiant Fountain\n3 Reprieve\n4 Silence\n2 Union of the Third Path",
+    "mainText": "4 A-The One Ring\n2 Approach of the Second Sun\n3 Calamity's Wake\n4 Day of Judgment\n2 Eiganjo, Seat of the Empire\n4 Flamescroll Celebrant\n4 Fragment Reality\n4 Howling Mine\n4 Orim's Chant\n16 Plains\n4 Radiant Fountain\n3 Reprieve\n4 Silence\n2 Union of the Third Path",
     "sideText": ""
   }
 }

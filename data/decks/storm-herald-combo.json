@@ -2,17 +2,24 @@
   "id": "recFIx6RDzLk4sRXf",
   "slug": "storm-herald-combo",
   "name": "Storm Herald Combo",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.015Z",
+  "author": "Plum",
+  "format": "Historic",
+  "archetype": "Pseudo Combo",
+  "characteristics": [
+    "Enchantments"
+  ],
+  "colors": [
+    "Blue",
+    "Black",
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2025-07-29T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "Storm Herald",
   "decklist": {
-    "raw": "",
-    "mainText": "",
+    "raw": "4 Blackcleave Cliffs\n4 Colossification\n4 Darkslick Shores\n4 Faithless Looting\n4 Founding the Third Path\n4 Glimpse the Unthinkable\n4 Izzet Charm\n4 Mana Confluence\n2 Noxious Revival\n4 Pain for All\n4 Spirebluff Canal\n4 Starting Town\n2 Steam Vents\n4 Storm Herald\n4 Tome Scour\n4 Unearth",
+    "mainText": "4 Blackcleave Cliffs\n4 Colossification\n4 Darkslick Shores\n4 Faithless Looting\n4 Founding the Third Path\n4 Glimpse the Unthinkable\n4 Izzet Charm\n4 Mana Confluence\n2 Noxious Revival\n4 Pain for All\n4 Spirebluff Canal\n4 Starting Town\n2 Steam Vents\n4 Storm Herald\n4 Tome Scour\n4 Unearth",
     "sideText": ""
   }
 }

@@ -1,18 +1,25 @@
 {
-  "id": "recA6T5ZmIuuAf1E3",
+  "id": "reccmYkt8GuA6naIb",
   "slug": "field-reanimator",
   "name": "Field Reanimator",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.015Z",
-  "containsBannedCards": false,
+  "author": "SGCYRUS",
+  "format": "Modern",
+  "archetype": "Control",
+  "characteristics": [
+    "Gifts Ungiven"
+  ],
+  "colors": [
+    "White",
+    "Blue",
+    "Black",
+    "Green"
+  ],
+  "updatedAt": "2019-12-01T00:00:00.000Z",
+  "containsBannedCards": true,
   "coverCard": "Field of the Dead",
   "decklist": {
-    "raw": "",
-    "mainText": "",
-    "sideText": ""
+    "raw": "1 Abrupt Decay\r\n4 Arcum's Astrolabe\r\n1 Breeding Pool\r\n1 Damnation\r\n1 Fatal Push\r\n2 Field of the Dead\r\n4 Gifts Ungiven\r\n1 Go for the Throat\r\n1 Godless Shrine\r\n1 Hallowed Fountain\r\n3 Inquisition of Kozilek\r\n1 Iona, Shield of Emeria\r\n1 Liliana of the Veil\r\n2 Mana Leak\r\n3 Marsh Flats\r\n1 Murderous Cut\r\n2 Oko, Thief of Crowns\r\n1 Overgrown Tomb\r\n4 Polluted Delta\r\n1 Primeval Titan\r\n2 Serum Visions\r\n1 Snapcaster Mage\r\n1 Snow-Covered Forest\r\n2 Snow-Covered Island\r\n1 Snow-Covered Plains\r\n2 Snow-Covered Swamp\r\n1 Supreme Verdict\r\n1 Swamp\r\n1 Tectonic Edge\r\n2 Teferi, Time Raveler\r\n1 Temple Garden\r\n3 Thoughtseize\r\n1 Unburial Rites\r\n3 Verdant Catacombs\r\n1 Watery Grave\r\n1 Wrath of God\r\n\r\n4 Ceremonious Rejection\r\n2 Collective Brutality\r\n1 Dispel\r\n1 Elesh Norn, Grand Cenobite\r\n2 Field of Ruin\r\n1 Life from the Loam\r\n1 Surgical Extraction\r\n",
+    "mainText": "1 Abrupt Decay\n4 Arcum's Astrolabe\n1 Breeding Pool\n1 Damnation\n1 Fatal Push\n2 Field of the Dead\n4 Gifts Ungiven\n1 Go for the Throat\n1 Godless Shrine\n1 Hallowed Fountain\n3 Inquisition of Kozilek\n1 Iona, Shield of Emeria\n1 Liliana of the Veil\n2 Mana Leak\n3 Marsh Flats\n1 Murderous Cut\n2 Oko, Thief of Crowns\n1 Overgrown Tomb\n4 Polluted Delta\n1 Primeval Titan\n2 Serum Visions\n1 Snapcaster Mage\n1 Snow-Covered Forest\n2 Snow-Covered Island\n1 Snow-Covered Plains\n2 Snow-Covered Swamp\n1 Supreme Verdict\n1 Swamp\n1 Tectonic Edge\n2 Teferi, Time Raveler\n1 Temple Garden\n3 Thoughtseize\n1 Unburial Rites\n3 Verdant Catacombs\n1 Watery Grave\n1 Wrath of God",
+    "sideText": "4 Ceremonious Rejection\n2 Collective Brutality\n1 Dispel\n1 Elesh Norn, Grand Cenobite\n2 Field of Ruin\n1 Life from the Loam\n1 Surgical Extraction"
   }
 }

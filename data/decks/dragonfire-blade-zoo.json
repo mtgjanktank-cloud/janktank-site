@@ -2,17 +2,25 @@
   "id": "recJrSHYupPRt0A8G",
   "slug": "dragonfire-blade-zoo",
   "name": "Dragonfire Blade Zoo",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.015Z",
+  "author": "Plum",
+  "format": "Timeless",
+  "archetype": "Aggro",
+  "characteristics": [
+    "Zoo"
+  ],
+  "colors": [
+    "White",
+    "Blue",
+    "Black",
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2025-04-11T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "Dragonfire Blade",
   "decklist": {
-    "raw": "",
-    "mainText": "",
+    "raw": "2 Arena of Glory\n4 Arid Mesa\n1 Blood Crypt\n1 Case of the Shattered Pact\n1 Cori-Steel Cutter\n1 Cryptic Coat\n2 Dragonfire Blade\n4 Flooded Strand\n1 Indatha Triome\n4 Leyline Binding\n4 Leyline of the Guildpact\n4 Lightning Bolt\n1 Mountain\n3 Nishoba Brawler\n4 Phlage, Titan of Fire's Fury\n1 Plains\n4 Ragavan, Nimble Pilferer\n1 Sacred Foundry\n1 Steam Vents\n4 Stoneforge Mystic\n1 Temple Garden\n4 Territorial Kavu\n1 Thundering Falls\n2 Winternight Stories\n4 Wooded Foothills",
+    "mainText": "2 Arena of Glory\n4 Arid Mesa\n1 Blood Crypt\n1 Case of the Shattered Pact\n1 Cori-Steel Cutter\n1 Cryptic Coat\n2 Dragonfire Blade\n4 Flooded Strand\n1 Indatha Triome\n4 Leyline Binding\n4 Leyline of the Guildpact\n4 Lightning Bolt\n1 Mountain\n3 Nishoba Brawler\n4 Phlage, Titan of Fire's Fury\n1 Plains\n4 Ragavan, Nimble Pilferer\n1 Sacred Foundry\n1 Steam Vents\n4 Stoneforge Mystic\n1 Temple Garden\n4 Territorial Kavu\n1 Thundering Falls\n2 Winternight Stories\n4 Wooded Foothills",
     "sideText": ""
   }
 }

@@ -2,17 +2,22 @@
   "id": "recj8IOMoQX3g0Ivg",
   "slug": "basking-scrapling-combo",
   "name": "Basking Scrapling Combo",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.015Z",
+  "author": "Plum",
+  "format": "Historic",
+  "archetype": "Combo",
+  "characteristics": [
+    "Value"
+  ],
+  "colors": [
+    "Black",
+    "Green"
+  ],
+  "updatedAt": "2025-10-26T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "Basking Broodscale",
   "decklist": {
-    "raw": "",
-    "mainText": "",
-    "sideText": ""
+    "raw": "1 A-Haywire Mite\n1 Altar of the Brood\n2 Assemble the Team\n4 Basking Broodscale\n1 Boseiju, Who Endures\n4 Delighted Halfling\n4 Evolution Witness\n2 Forest\n2 Ghost Lantern\n4 Glaring Fleshraker\n2 Honest Rutstein\n4 Llanowar Wastes\n4 Malevolent Rumble\n3 Myr Scrapling\n4 Overgrown Tomb\n2 Prismatic Vista\n1 Shadowspear\n2 Shifting Woodland\n1 Soul-Guide Lantern\n1 Springleaf Drum\n4 Starting Town\n2 Swamp\n1 Takenuma, Abandoned Mire\n1 Tarrian's Soulcleaver\n3 Tezzeret, Cruel Captain\n\nSIDEBOARD:\n2 A-Haywire Mite\n3 Assassin's Trophy\n2 Battle at the Big Bridge\n1 Jegantha, the Wellspring\n2 Pithing Needle\n3 Thoughtseize\n1 Toxic Deluge\n1 Vexing Bauble",
+    "mainText": "1 A-Haywire Mite\n1 Altar of the Brood\n2 Assemble the Team\n4 Basking Broodscale\n1 Boseiju, Who Endures\n4 Delighted Halfling\n4 Evolution Witness\n2 Forest\n2 Ghost Lantern\n4 Glaring Fleshraker\n2 Honest Rutstein\n4 Llanowar Wastes\n4 Malevolent Rumble\n3 Myr Scrapling\n4 Overgrown Tomb\n2 Prismatic Vista\n1 Shadowspear\n2 Shifting Woodland\n1 Soul-Guide Lantern\n1 Springleaf Drum\n4 Starting Town\n2 Swamp\n1 Takenuma, Abandoned Mire\n1 Tarrian's Soulcleaver\n3 Tezzeret, Cruel Captain",
+    "sideText": "2 A-Haywire Mite\n3 Assassin's Trophy\n2 Battle at the Big Bridge\n1 Jegantha, the Wellspring\n2 Pithing Needle\n3 Thoughtseize\n1 Toxic Deluge\n1 Vexing Bauble"
   }
 }

@@ -2,17 +2,23 @@
   "id": "recv1lOqH6DYvLhuQ",
   "slug": "bant-greenshell",
   "name": "Bant Greenshell",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.015Z",
+  "author": "Kelprs",
+  "format": "Historic",
+  "archetype": "Value",
+  "characteristics": [
+    "Ramp"
+  ],
+  "colors": [
+    "White",
+    "Blue",
+    "Green"
+  ],
+  "updatedAt": "2025-01-13T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "Fecund Greenshell",
   "decklist": {
-    "raw": "",
-    "mainText": "",
-    "sideText": ""
+    "raw": "4 Birds of Paradise\n1 Boseiju, Who Endures\n3 Breeding Pool\n4 Brushland\n1 Cavern of Souls\n4 Delighted Halfling\n1 Emrakul, the Promised End\n4 Fanatic of Rhonas\n3 Fecund Greenshell\n1 Forest\n2 Fountainport Charmer\n2 Fragment Reality\n1 Gilded Goose\n1 Hushwood Verge\n4 Kozilek's Command\n4 Malevolent Rumble\n2 Nykthos, Shrine to Nyx\n2 Orim's Chant\n1 Phantasmal Image\n4 Plagon, Lord of the Beach\n1 Shifting Woodland\n3 Six\n3 Temple Garden\n4 Yavimaya Coast\n\nSIDEBOARD:\n1 A-Haywire Mite\n1 Flusterstorm\n1 Fragment Reality\n1 Get Lost\n2 Mystical Dispute\n1 Orim's Chant\n2 Pithing Needle\n1 Reprieve\n2 Rest in Peace\n1 Silverback Elder\n1 Surgical Extraction\n1 The Wandering Emperor",
+    "mainText": "4 Birds of Paradise\n1 Boseiju, Who Endures\n3 Breeding Pool\n4 Brushland\n1 Cavern of Souls\n4 Delighted Halfling\n1 Emrakul, the Promised End\n4 Fanatic of Rhonas\n3 Fecund Greenshell\n1 Forest\n2 Fountainport Charmer\n2 Fragment Reality\n1 Gilded Goose\n1 Hushwood Verge\n4 Kozilek's Command\n4 Malevolent Rumble\n2 Nykthos, Shrine to Nyx\n2 Orim's Chant\n1 Phantasmal Image\n4 Plagon, Lord of the Beach\n1 Shifting Woodland\n3 Six\n3 Temple Garden\n4 Yavimaya Coast",
+    "sideText": "1 A-Haywire Mite\n1 Flusterstorm\n1 Fragment Reality\n1 Get Lost\n2 Mystical Dispute\n1 Orim's Chant\n2 Pithing Needle\n1 Reprieve\n2 Rest in Peace\n1 Silverback Elder\n1 Surgical Extraction\n1 The Wandering Emperor"
   }
 }

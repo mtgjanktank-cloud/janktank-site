@@ -2,17 +2,22 @@
   "id": "recQ7YvsJlp7NvtKj",
   "slug": "lamplight-combo",
   "name": "Lamplight Combo",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.015Z",
+  "author": "GrippingBeasts",
+  "format": "Historic",
+  "archetype": "Combo",
+  "characteristics": [
+    "Midrange"
+  ],
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2025-10-16T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "Lamplight Phoenix",
   "decklist": {
-    "raw": "",
-    "mainText": "",
-    "sideText": ""
+    "raw": "1 A-Minsc & Boo, Timeless Heroes\n4 A-The One Ring\n4 Altar of Dementia\n4 Bloodbraid Elf\n1 Chandra, Torch of Defiance\n1 Commercial District\n4 Disciple of Freyalise\n4 Fable of the Mirror-Breaker\n4 Flame Slash\n4 Forceful Cultivator\n2 Forest\n4 Generous Ent\n4 Lamplight Phoenix\n4 Malevolent Rumble\n4 Molten Impact\n2 Mountain\n4 Oliphaunt\n2 Pinnacle Monk\n3 Stomping Ground\n\nSIDEBOARD:\n2 Damping Sphere\n2 Disruptor Flute\n3 Fire Magic\n2 Grafdigger's Cage\n2 Heritage Reclamation\n2 Meltdown\n2 Surgical Extraction",
+    "mainText": "1 A-Minsc & Boo, Timeless Heroes\n4 A-The One Ring\n4 Altar of Dementia\n4 Bloodbraid Elf\n1 Chandra, Torch of Defiance\n1 Commercial District\n4 Disciple of Freyalise\n4 Fable of the Mirror-Breaker\n4 Flame Slash\n4 Forceful Cultivator\n2 Forest\n4 Generous Ent\n4 Lamplight Phoenix\n4 Malevolent Rumble\n4 Molten Impact\n2 Mountain\n4 Oliphaunt\n2 Pinnacle Monk\n3 Stomping Ground",
+    "sideText": "2 Damping Sphere\n2 Disruptor Flute\n3 Fire Magic\n2 Grafdigger's Cage\n2 Heritage Reclamation\n2 Meltdown\n2 Surgical Extraction"
   }
 }

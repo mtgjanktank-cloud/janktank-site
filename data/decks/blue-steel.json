@@ -1,18 +1,22 @@
 {
-  "id": "recXt77nSDuz6w1wz",
+  "id": "recWVvuiM1iBEm3u8",
   "slug": "blue-steel",
   "name": "Blue Steel",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.015Z",
+  "author": "Zac Elsik",
+  "format": "Modern",
+  "archetype": "Value",
+  "characteristics": [
+    "Aggro"
+  ],
+  "colors": [
+    "Blue"
+  ],
+  "updatedAt": "2018-05-01T00:00:00.000Z",
   "containsBannedCards": false,
-  "coverCard": "Renowned Weaponsmith",
+  "coverCard": "Grand Architect",
   "decklist": {
-    "raw": "",
-    "mainText": "",
-    "sideText": ""
+    "raw": "1 Academy Ruins\r\n4 Artificer's Assistant\r\n4 Blinkmoth Nexus\r\n4 Chief Engineer\r\n4 Etherium Sculptor\r\n4 Grand Architect\r\n14 Island\r\n4 Lodestone Golem\r\n4 Mausoleum Wanderer\r\n2 Minamo, School at Water's Edge\r\n1 Oboro, Palace in the Clouds\r\n4 Smuggler's Copter\r\n2 Throne of the God-Pharaoh\r\n3 Traxos, Scourge of Kroog\r\n4 Walking Ballista\r\n1 Wurmcoil Engine\r\n\r\n1 Basilisk Collar\r\n2 Ceremonious Rejection\r\n2 Dismember\r\n1 Grafdigger's Cage\r\n2 Karn, Scion of Urza\r\n1 Pithing Needle\r\n1 Relic of Progenitus\r\n2 Thorn of Amethyst\r\n2 Trinket Mage\r\n1 Wurmcoil Engine\r\n",
+    "mainText": "1 Academy Ruins\n4 Artificer's Assistant\n4 Blinkmoth Nexus\n4 Chief Engineer\n4 Etherium Sculptor\n4 Grand Architect\n14 Island\n4 Lodestone Golem\n4 Mausoleum Wanderer\n2 Minamo, School at Water's Edge\n1 Oboro, Palace in the Clouds\n4 Smuggler's Copter\n2 Throne of the God-Pharaoh\n3 Traxos, Scourge of Kroog\n4 Walking Ballista\n1 Wurmcoil Engine",
+    "sideText": "1 Basilisk Collar\n2 Ceremonious Rejection\n2 Dismember\n1 Grafdigger's Cage\n2 Karn, Scion of Urza\n1 Pithing Needle\n1 Relic of Progenitus\n2 Thorn of Amethyst\n2 Trinket Mage\n1 Wurmcoil Engine"
   }
 }

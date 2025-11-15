@@ -2,17 +2,22 @@
   "id": "reckOBXgP8QS6VTT8",
   "slug": "redrazi",
   "name": "Redrazi",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.015Z",
+  "author": "Plum",
+  "format": "Historic",
+  "archetype": "Aggro",
+  "characteristics": [
+    "Tribal"
+  ],
+  "colors": [
+    "Red",
+    "Colorless"
+  ],
+  "updatedAt": "2025-10-10T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "Eldrazi Linebreaker",
   "decklist": {
-    "raw": "",
-    "mainText": "",
-    "sideText": ""
+    "raw": "4 Bonecrusher Giant\n4 Cavern of Souls\n4 Chain Lightning\n4 Devourer of Destiny\n4 Eldrazi Linebreaker\n4 Eldrazi Temple\n4 Glaring Fleshraker\n2 Herigast, Erupting Nullkite\n4 Kozilek's Command\n5 Mountain\n4 Ramunap Ruins\n4 Sire of Seven Deaths\n1 Sokenzan, Crucible of Defiance\n4 Thought-Knot Seer\n4 Ugin's Labyrinth\n4 Voidpouncer\n\nSIDEBOARD:\n2 Abrade\n3 Chalice of the Void\n2 Dismember\n3 Magebane Lizard\n3 Pyroclasm\n2 Unlicensed Hearse",
+    "mainText": "4 Bonecrusher Giant\n4 Cavern of Souls\n4 Chain Lightning\n4 Devourer of Destiny\n4 Eldrazi Linebreaker\n4 Eldrazi Temple\n4 Glaring Fleshraker\n2 Herigast, Erupting Nullkite\n4 Kozilek's Command\n5 Mountain\n4 Ramunap Ruins\n4 Sire of Seven Deaths\n1 Sokenzan, Crucible of Defiance\n4 Thought-Knot Seer\n4 Ugin's Labyrinth\n4 Voidpouncer",
+    "sideText": "2 Abrade\n3 Chalice of the Void\n2 Dismember\n3 Magebane Lizard\n3 Pyroclasm\n2 Unlicensed Hearse"
   }
 }

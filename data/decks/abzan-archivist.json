@@ -2,17 +2,23 @@
   "id": "recb5wv0iW3nxo2AH",
   "slug": "abzan-archivist",
   "name": "Abzan Archivist",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.015Z",
+  "author": "Plum",
+  "format": "Historic",
+  "archetype": "Value",
+  "characteristics": [
+    "Artifacts & Enchantments"
+  ],
+  "colors": [
+    "White",
+    "Black",
+    "Green"
+  ],
+  "updatedAt": "2025-08-23T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "Elvish Archivist",
   "decklist": {
-    "raw": "",
-    "mainText": "",
+    "raw": "4 A-Cauldron Familiar\n3 Blooming Marsh\n4 Dredger's Insight\n4 Elvish Archivist\n1 Forest\n4 Gilded Goose\n3 Godless Shrine\n4 Hardlight Containment\n4 Kami of Transmutation\n4 Overgrown Tomb\n4 Portable Hole\n4 Scavenger's Talent\n4 Starting Town\n1 Swamp\n4 Temple Garden\n2 Trail of Crumbs\n4 Witch's Oven\n2 Ygra, Eater of All",
+    "mainText": "4 A-Cauldron Familiar\n3 Blooming Marsh\n4 Dredger's Insight\n4 Elvish Archivist\n1 Forest\n4 Gilded Goose\n3 Godless Shrine\n4 Hardlight Containment\n4 Kami of Transmutation\n4 Overgrown Tomb\n4 Portable Hole\n4 Scavenger's Talent\n4 Starting Town\n1 Swamp\n4 Temple Garden\n2 Trail of Crumbs\n4 Witch's Oven\n2 Ygra, Eater of All",
     "sideText": ""
   }
 }

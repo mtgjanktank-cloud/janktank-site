@@ -2,17 +2,21 @@
   "id": "rec0OJvqn8cvgBJRh",
   "slug": "razorkin-red",
   "name": "Razorkin Red",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.016Z",
+  "author": "Plum",
+  "format": "Historic",
+  "archetype": "Attrition",
+  "characteristics": [
+    "Card Draw"
+  ],
+  "colors": [
+    "Red"
+  ],
+  "updatedAt": "2024-12-08T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "Razorkin Needlhead",
   "decklist": {
-    "raw": "",
-    "mainText": "",
-    "sideText": ""
+    "raw": "4 A-Galvanic Discharge\n4 Aether Hub\n4 Amped Raptor\n4 Burst Lightning\n4 Collective Defiance\n4 Darksteel Citadel\n4 Howling Mine\n4 Molten Psyche\n5 Mountain\n4 Razorkin Needlehead\n2 Roaring Furnace/Steaming Sauna\n4 Scrawling Crawler\n4 Shatterskull Smashing\n1 Shrapnel Blast\n4 Silverbluff Bridge\n4 Unstable Amulet\n\nSIDEBOARD:\n2 Abrade\n2 Pithing Needle\n3 Pyroclasm\n2 Roaring Furnace/Steaming Sauna\n2 Screaming Nemesis\n3 Tormod's Crypt\n1 Vexing Bauble",
+    "mainText": "4 A-Galvanic Discharge\n4 Aether Hub\n4 Amped Raptor\n4 Burst Lightning\n4 Collective Defiance\n4 Darksteel Citadel\n4 Howling Mine\n4 Molten Psyche\n5 Mountain\n4 Razorkin Needlehead\n2 Roaring Furnace/Steaming Sauna\n4 Scrawling Crawler\n4 Shatterskull Smashing\n1 Shrapnel Blast\n4 Silverbluff Bridge\n4 Unstable Amulet",
+    "sideText": "2 Abrade\n2 Pithing Needle\n3 Pyroclasm\n2 Roaring Furnace/Steaming Sauna\n2 Screaming Nemesis\n3 Tormod's Crypt\n1 Vexing Bauble"
   }
 }

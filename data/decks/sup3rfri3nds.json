@@ -2,17 +2,24 @@
   "id": "recb0eiwYKrgj31MX",
   "slug": "sup3rfri3nds",
   "name": "Sup3rfri3nds",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.015Z",
+  "author": "Plum",
+  "format": "Historic",
+  "archetype": "Planeswalkers",
+  "characteristics": [
+    "Value"
+  ],
+  "colors": [
+    "White",
+    "Blue",
+    "Black",
+    "Green"
+  ],
+  "updatedAt": "2025-09-12T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "Ashiok, Nightmare Weaver",
   "decklist": {
-    "raw": "",
-    "mainText": "",
+    "raw": "4 A-Sorin, Imperious Bloodlord\n2 Ashiok, Dream Render\n4 Ashiok, Nightmare Weaver\n1 Boseiju, Who Endures\n4 Delighted Halfling\n1 Forest\n4 Grist, the Hunger Tide\n4 Ignoble Hierarch\n4 Interplanar Beacon\n4 Kaya, Orzhov Usurper\n4 Liliana of the Veil\n1 Liliana, the Last Hope\n4 Mana Confluence\n1 Nissa, Voice of Zendikar\n4 Oath of Nissa\n2 Overgrown Tomb\n4 Plaza of Heroes\n4 Starting Town\n4 Vein Ripper",
+    "mainText": "4 A-Sorin, Imperious Bloodlord\n2 Ashiok, Dream Render\n4 Ashiok, Nightmare Weaver\n1 Boseiju, Who Endures\n4 Delighted Halfling\n1 Forest\n4 Grist, the Hunger Tide\n4 Ignoble Hierarch\n4 Interplanar Beacon\n4 Kaya, Orzhov Usurper\n4 Liliana of the Veil\n1 Liliana, the Last Hope\n4 Mana Confluence\n1 Nissa, Voice of Zendikar\n4 Oath of Nissa\n2 Overgrown Tomb\n4 Plaza of Heroes\n4 Starting Town\n4 Vein Ripper",
     "sideText": ""
   }
 }

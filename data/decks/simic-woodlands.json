@@ -2,17 +2,22 @@
   "id": "recyNFG5BkJiK0y6B",
   "slug": "simic-woodlands",
   "name": "Simic Woodlands",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.015Z",
+  "author": "Plum",
+  "format": "Historic",
+  "archetype": "Combo",
+  "characteristics": [
+    "Infinite Loop"
+  ],
+  "colors": [
+    "Blue",
+    "Green"
+  ],
+  "updatedAt": "2025-06-22T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "Bramble Familiar",
   "decklist": {
-    "raw": "",
-    "mainText": "",
-    "sideText": ""
+    "raw": "1 Atraxa, Grand Unifier\n1 Boseiju, Who Endures\n4 Bramble Familiar\n4 Breeding Pool\n4 Fallaji Archaeologist\n3 Forest\n2 Hedge Maze\n3 Island\n4 Karn, the Great Creator\n4 Kiora, the Rising Tide\n3 Lórien Revealed\n4 Malevolent Rumble\n4 Omniscience\n4 Oracle of Tragedy\n3 Prismatic Vista\n4 Release to the Wind\n4 Shifting Woodland\n4 Traverse the Ulvenwald\n\nSIDEBOARD:\n3 A-Haywire Mite\n1 A-The One Ring\n1 Aetherflux Reservoir\n1 Ancestral Statue\n1 Cityscape Leveler\n4 Consign to Memory\n1 Essence Reliquary\n1 Paradox Engine\n1 Pithing Needle\n1 Tormod's Crypt",
+    "mainText": "1 Atraxa, Grand Unifier\n1 Boseiju, Who Endures\n4 Bramble Familiar\n4 Breeding Pool\n4 Fallaji Archaeologist\n3 Forest\n2 Hedge Maze\n3 Island\n4 Karn, the Great Creator\n4 Kiora, the Rising Tide\n3 Lórien Revealed\n4 Malevolent Rumble\n4 Omniscience\n4 Oracle of Tragedy\n3 Prismatic Vista\n4 Release to the Wind\n4 Shifting Woodland\n4 Traverse the Ulvenwald",
+    "sideText": "3 A-Haywire Mite\n1 A-The One Ring\n1 Aetherflux Reservoir\n1 Ancestral Statue\n1 Cityscape Leveler\n4 Consign to Memory\n1 Essence Reliquary\n1 Paradox Engine\n1 Pithing Needle\n1 Tormod's Crypt"
   }
 }

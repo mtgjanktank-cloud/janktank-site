@@ -2,17 +2,23 @@
   "id": "recSnEHpIuvN1sBZz",
   "slug": "esper-tezzerator",
   "name": "Esper Tezzerator",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.015Z",
+  "author": "Plum",
+  "format": "Historic",
+  "archetype": "Midrange",
+  "characteristics": [
+    "Artifact Value, Tool Box"
+  ],
+  "colors": [
+    "White",
+    "Blue",
+    "Black"
+  ],
+  "updatedAt": "2025-02-24T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "Perilous Snare",
   "decklist": {
-    "raw": "",
-    "mainText": "",
-    "sideText": ""
+    "raw": "4 A-The One Ring\n1 Assimilation Aegis\n1 Colossal Dreadmask\n1 Eiganjo, Seat of the Empire\n2 Emry, Lurker of the Loch\n4 Godless Shrine\n4 Goldmire Bridge\n4 Grim Bauble\n4 Hallowed Fountain\n2 Island\n4 Karn, the Great Creator\n1 Lion Sash\n1 Nettlecyst\n1 Otawara, Soaring City\n4 Perilous Snare\n2 Plains\n4 Portable Hole\n4 Prismatic Vista\n2 Raffine's Tower\n4 Razortide Bridge\n4 Spire of Industry\n4 Stoneforge Mystic\n4 Supreme Verdict\n2 Swamp\n1 Sword of Fire and Ice\n4 Tezzeret the Schemer\n2 Tezzeret, Master of the Bridge\n1 The Aetherspark\n4 Voyage Home\n\nSIDEBOARD:\n1 A-Haywire Mite\n1 Chalice of the Void\n1 Dusk Rose Reliquary\n1 Grafdigger's Cage\n1 Karn's Sylex\n1 Liquimetal Coating\n1 Pithing Needle\n1 Platinum Angel\n1 Portal to Phyrexia\n1 Stone of Erech\n1 The Blackstaff of Waterdeep\n1 The Stone Brain\n1 Tormod's Crypt\n1 Wurmcoil Engine\n1 Yorion, Sky Nomad",
+    "mainText": "4 A-The One Ring\n1 Assimilation Aegis\n1 Colossal Dreadmask\n1 Eiganjo, Seat of the Empire\n2 Emry, Lurker of the Loch\n4 Godless Shrine\n4 Goldmire Bridge\n4 Grim Bauble\n4 Hallowed Fountain\n2 Island\n4 Karn, the Great Creator\n1 Lion Sash\n1 Nettlecyst\n1 Otawara, Soaring City\n4 Perilous Snare\n2 Plains\n4 Portable Hole\n4 Prismatic Vista\n2 Raffine's Tower\n4 Razortide Bridge\n4 Spire of Industry\n4 Stoneforge Mystic\n4 Supreme Verdict\n2 Swamp\n1 Sword of Fire and Ice\n4 Tezzeret the Schemer\n2 Tezzeret, Master of the Bridge\n1 The Aetherspark\n4 Voyage Home",
+    "sideText": "1 A-Haywire Mite\n1 Chalice of the Void\n1 Dusk Rose Reliquary\n1 Grafdigger's Cage\n1 Karn's Sylex\n1 Liquimetal Coating\n1 Pithing Needle\n1 Platinum Angel\n1 Portal to Phyrexia\n1 Stone of Erech\n1 The Blackstaff of Waterdeep\n1 The Stone Brain\n1 Tormod's Crypt\n1 Wurmcoil Engine\n1 Yorion, Sky Nomad"
   }
 }

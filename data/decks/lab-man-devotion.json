@@ -2,17 +2,21 @@
   "id": "recRUSfpPQ6i0CqCw",
   "slug": "lab-man-devotion",
   "name": "Lab Man Devotion",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.015Z",
+  "author": "Plum",
+  "format": "Historic",
+  "archetype": "Combo",
+  "characteristics": [
+    "Infinite Draw"
+  ],
+  "colors": [
+    "Blue"
+  ],
+  "updatedAt": "2025-07-21T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "Laboratory Maniac",
   "decklist": {
-    "raw": "",
-    "mainText": "",
-    "sideText": ""
+    "raw": "4 A-Wizard Class\n4 Benthic Biomancer\n4 Brazen Borrower\n2 Fiery Islet\n16 Island\n4 Leyline of Anticipation\n4 Nykthos, Shrine to Nyx\n4 Omen Hawker\n1 Otawara, Soaring City\n4 Shark Typhoon\n2 The Enigma Jewel\n4 Trackhand Trainer\n4 Unable to Scream\n3 Vana'diel Adventurers\n\nSIDEBOARD:\n1 Consign to Memory\n1 Cyclonic Rift\n1 Dismember\n3 Fog Bank\n2 Pithing Needle\n2 Tishana's Tidebinder\n2 Tormod's Crypt\n3 Wild Rose Rebellion",
+    "mainText": "4 A-Wizard Class\n4 Benthic Biomancer\n4 Brazen Borrower\n2 Fiery Islet\n16 Island\n4 Leyline of Anticipation\n4 Nykthos, Shrine to Nyx\n4 Omen Hawker\n1 Otawara, Soaring City\n4 Shark Typhoon\n2 The Enigma Jewel\n4 Trackhand Trainer\n4 Unable to Scream\n3 Vana'diel Adventurers",
+    "sideText": "1 Consign to Memory\n1 Cyclonic Rift\n1 Dismember\n3 Fog Bank\n2 Pithing Needle\n2 Tishana's Tidebinder\n2 Tormod's Crypt\n3 Wild Rose Rebellion"
   }
 }

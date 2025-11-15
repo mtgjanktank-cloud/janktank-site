@@ -2,17 +2,23 @@
   "id": "recWKayHnCJVPaNV4",
   "slug": "lazav-turns",
   "name": "Lazav Turns",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.015Z",
+  "author": "---",
+  "format": "Historic",
+  "archetype": "Combo",
+  "characteristics": [
+    "Extra Turns"
+  ],
+  "colors": [
+    "White",
+    "Blue",
+    "Black"
+  ],
+  "updatedAt": "2025-08-31T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "Medomai the Ageless",
   "decklist": {
-    "raw": "",
-    "mainText": "",
-    "sideText": ""
+    "raw": "4 Abhorrent Oculus\n2 Battle at the Big Bridge\n4 Bitter Triumph\n3 Concealed Courtyard\n4 Consider\n3 Darkslick Shores\n4 Fragment Reality\n2 Godless Shrine\n2 Hallowed Fountain\n1 Island\n4 Lazav, Wearer of Faces\n4 Medomai the Ageless\n1 Plains\n1 Prismatic Vista\n4 Psychic Frog\n3 Seachrome Coast\n1 Swamp\n1 Takenuma, Abandoned Mire\n4 Thoughtseize\n1 Toxic Deluge\n1 Treasure Cruise\n4 Unearth\n2 Watery Grave\n\nSIDEBOARD:\n1 Battle at the Big Bridge\n1 Disruptor Flute\n4 Hushbringer\n1 Inquisition of Kozilek\n1 Pithing Needle\n2 Prismatic Ending\n3 Spell Snare\n2 Stone of Erech",
+    "mainText": "4 Abhorrent Oculus\n2 Battle at the Big Bridge\n4 Bitter Triumph\n3 Concealed Courtyard\n4 Consider\n3 Darkslick Shores\n4 Fragment Reality\n2 Godless Shrine\n2 Hallowed Fountain\n1 Island\n4 Lazav, Wearer of Faces\n4 Medomai the Ageless\n1 Plains\n1 Prismatic Vista\n4 Psychic Frog\n3 Seachrome Coast\n1 Swamp\n1 Takenuma, Abandoned Mire\n4 Thoughtseize\n1 Toxic Deluge\n1 Treasure Cruise\n4 Unearth\n2 Watery Grave",
+    "sideText": "1 Battle at the Big Bridge\n1 Disruptor Flute\n4 Hushbringer\n1 Inquisition of Kozilek\n1 Pithing Needle\n2 Prismatic Ending\n3 Spell Snare\n2 Stone of Erech"
   }
 }

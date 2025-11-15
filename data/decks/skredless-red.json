@@ -2,17 +2,21 @@
   "id": "rec67Hj83zzWGIZKd",
   "slug": "skredless-red",
   "name": "Skredless Red",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.015Z",
+  "author": "Plum",
+  "format": "Historic",
+  "archetype": "Midrange",
+  "characteristics": [
+    "Value"
+  ],
+  "colors": [
+    "Red"
+  ],
+  "updatedAt": "2025-06-26T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "Koth, Fire of Resistance",
   "decklist": {
-    "raw": "",
-    "mainText": "",
-    "sideText": ""
+    "raw": "4 A-Galvanic Discharge\n4 Aether Hub\n4 Amped Raptor\n3 Anger of the Gods\n4 Blood Sun\n3 Chandra, Torch of Defiance\n1 Fire Magic\n2 Glorybringer\n3 Koth, Fire of Resistance\n10 Mountain\n4 Pinnacle Monk\n4 Ribald Shanty\n4 Shatterskull Smashing\n4 Solar Transformer\n2 Stormbreath Dragon\n4 Unstable Amulet\n\nSIDEBOARD:\n3 Alpine Moon",
+    "mainText": "4 A-Galvanic Discharge\n4 Aether Hub\n4 Amped Raptor\n3 Anger of the Gods\n4 Blood Sun\n3 Chandra, Torch of Defiance\n1 Fire Magic\n2 Glorybringer\n3 Koth, Fire of Resistance\n10 Mountain\n4 Pinnacle Monk\n4 Ribald Shanty\n4 Shatterskull Smashing\n4 Solar Transformer\n2 Stormbreath Dragon\n4 Unstable Amulet",
+    "sideText": "3 Alpine Moon"
   }
 }

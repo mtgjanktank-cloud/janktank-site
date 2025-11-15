@@ -2,17 +2,22 @@
   "id": "recMByqLiV4CdQUnd",
   "slug": "sorin-gnaw-combo",
   "name": "Sorin-Gnaw Combo",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.015Z",
+  "author": "Plum",
+  "format": "Historic",
+  "archetype": "Pseudo Combo",
+  "characteristics": [
+    "Graveyard Based"
+  ],
+  "colors": [
+    "Black",
+    "Green"
+  ],
+  "updatedAt": "2025-01-14T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "Gnaw to the Bone",
   "decklist": {
-    "raw": "",
-    "mainText": "",
+    "raw": "4 Blooming Marsh\n2 Boggart Trawler\n1 Cling to Dust\n4 Enduring Tenacity\n2 Forest\n4 Gnaw to the Bone\n4 Horror of the Broken Lands\n4 Malevolent Rumble\n4 Overgrown Tomb\n4 Overlord of the Balemurk\n1 Phyrexian Tower\n1 Shifting Woodland\n4 Sorin of House Markov\n1 Spymaster's Vault\n4 Stitcher's Supplier\n3 Swamp\n4 Thoughtseize\n4 Troll of Khazad-dûm\n1 Underground Mortuary\n4 Wight of the Reliquary",
+    "mainText": "4 Blooming Marsh\n2 Boggart Trawler\n1 Cling to Dust\n4 Enduring Tenacity\n2 Forest\n4 Gnaw to the Bone\n4 Horror of the Broken Lands\n4 Malevolent Rumble\n4 Overgrown Tomb\n4 Overlord of the Balemurk\n1 Phyrexian Tower\n1 Shifting Woodland\n4 Sorin of House Markov\n1 Spymaster's Vault\n4 Stitcher's Supplier\n3 Swamp\n4 Thoughtseize\n4 Troll of Khazad-dûm\n1 Underground Mortuary\n4 Wight of the Reliquary",
     "sideText": ""
   }
 }

@@ -2,17 +2,23 @@
   "id": "reckXre6TtCxNWzXm",
   "slug": "relic-warder-combo",
   "name": "Relic-Warder Combo",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.015Z",
+  "author": "Plum",
+  "format": "Historic",
+  "archetype": "Combo",
+  "characteristics": [
+    "Infinite Loop"
+  ],
+  "colors": [
+    "White",
+    "Blue",
+    "Red"
+  ],
+  "updatedAt": "2025-08-21T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "Leonin Relic-Warder",
   "decklist": {
-    "raw": "",
-    "mainText": "",
+    "raw": "4 Altar of the Brood\n4 Faithless Looting\n4 Fragment Reality\n2 Hallowed Fountain\n4 Inspiring Vantage\n4 Into the Flood Maw\n4 Kami of Transmutation\n4 Leonin Relic-Warder\n1 Luxior, Giada's Gift\n4 Mana Confluence\n4 Phyrexian Metamorph\n3 Plunderer's Prize\n1 Reckless Fireweaver\n2 Sacred Foundry\n4 Saheeli Rai\n4 Seachrome Coast\n4 Starting Town\n3 Tezzeret, Cruel Captain",
+    "mainText": "4 Altar of the Brood\n4 Faithless Looting\n4 Fragment Reality\n2 Hallowed Fountain\n4 Inspiring Vantage\n4 Into the Flood Maw\n4 Kami of Transmutation\n4 Leonin Relic-Warder\n1 Luxior, Giada's Gift\n4 Mana Confluence\n4 Phyrexian Metamorph\n3 Plunderer's Prize\n1 Reckless Fireweaver\n2 Sacred Foundry\n4 Saheeli Rai\n4 Seachrome Coast\n4 Starting Town\n3 Tezzeret, Cruel Captain",
     "sideText": ""
   }
 }

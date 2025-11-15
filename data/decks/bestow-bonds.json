@@ -2,17 +2,22 @@
   "id": "recyxSuBQGSnaJYoT",
   "slug": "bestow-bonds",
   "name": "Bestow Bonds",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.015Z",
+  "author": "Plum",
+  "format": "Historic",
+  "archetype": "Aggro",
+  "characteristics": [
+    "Enchantment Based"
+  ],
+  "colors": [
+    "White",
+    "Green"
+  ],
+  "updatedAt": "2025-05-23T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "Hardened Bonds",
   "decklist": {
-    "raw": "",
-    "mainText": "",
+    "raw": "4 Audacity\n4 Boon Satyr\n1 Boseiju, Who Endures\n1 Eiganjo, Seat of the Empire\n4 Ethereal Armor\n3 Forest\n4 Generous Visitor\n4 Glyph Elemental\n4 Hardened Bonds\n4 Nyxborn Hydra\n4 Optimistic Scavenger\n3 Plains\n4 Prismatic Vista\n4 Razorverge Thicket\n4 Sheltered by Ghosts\n4 Springheart Nantuko\n4 Temple Garden",
+    "mainText": "4 Audacity\n4 Boon Satyr\n1 Boseiju, Who Endures\n1 Eiganjo, Seat of the Empire\n4 Ethereal Armor\n3 Forest\n4 Generous Visitor\n4 Glyph Elemental\n4 Hardened Bonds\n4 Nyxborn Hydra\n4 Optimistic Scavenger\n3 Plains\n4 Prismatic Vista\n4 Razorverge Thicket\n4 Sheltered by Ghosts\n4 Springheart Nantuko\n4 Temple Garden",
     "sideText": ""
   }
 }

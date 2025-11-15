@@ -2,17 +2,21 @@
   "id": "recmIWfkewGvlUugA",
   "slug": "8-hymn-rack",
   "name": "8-Hymn Rack",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.015Z",
+  "author": "Plum",
+  "format": "Historic",
+  "archetype": "Attrition",
+  "characteristics": [
+    "Discard"
+  ],
+  "colors": [
+    "Black"
+  ],
+  "updatedAt": "2025-06-01T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "Mind Rake",
   "decklist": {
-    "raw": "",
-    "mainText": "",
-    "sideText": ""
+    "raw": "4 Bandit's Talent\n2 Castle Locthwain\n4 Consuming Corruption\n2 Davriel, Rogue Shadowmage\n4 Fatal Push\n4 Inquisition of Kozilek\n4 Liliana of the Veil\n4 Mind Rake\n4 Mutavault\n4 Prismatic Vista\n8 Swamp\n4 Thoughtseize\n4 Toxic Deluge\n4 Undercity Plunder\n4 Urborg, Tomb of Yawgmoth\n\nSIDEBOARD:\n2 Illness in the Ranks\n1 Infernal Reckoning\n4 Leyline of the Void\n2 Lithoform Blight\n2 Pithing Needle\n2 Sheoldred's Edict\n2 Surgical Extraction",
+    "mainText": "4 Bandit's Talent\n2 Castle Locthwain\n4 Consuming Corruption\n2 Davriel, Rogue Shadowmage\n4 Fatal Push\n4 Inquisition of Kozilek\n4 Liliana of the Veil\n4 Mind Rake\n4 Mutavault\n4 Prismatic Vista\n8 Swamp\n4 Thoughtseize\n4 Toxic Deluge\n4 Undercity Plunder\n4 Urborg, Tomb of Yawgmoth",
+    "sideText": "2 Illness in the Ranks\n1 Infernal Reckoning\n4 Leyline of the Void\n2 Lithoform Blight\n2 Pithing Needle\n2 Sheoldred's Edict\n2 Surgical Extraction"
   }
 }

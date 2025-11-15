@@ -2,17 +2,22 @@
   "id": "recc9XOC7Im9Hj9RY",
   "slug": "rakdos-auras",
   "name": "Rakdos Auras",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.016Z",
+  "author": "Plum",
+  "format": "Historic",
+  "archetype": "Aggro",
+  "characteristics": [
+    "Enchantments"
+  ],
+  "colors": [
+    "Black",
+    "Red"
+  ],
+  "updatedAt": "2024-12-08T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "Hateful Eidolon",
   "decklist": {
-    "raw": "",
-    "mainText": "",
-    "sideText": ""
+    "raw": "4 Akki War Paint\n4 Blackcleave Cliffs\n4 Blood Crypt\n4 Cartouche of Zeal\n4 Changeling Outcast\n4 Demonic Ruckus\n4 Demonic Vigor\n4 Furor of the Bitten\n4 Gift of Fangs\n4 Hateful Eidolon\n4 Immolation\n1 Mountain\n1 Sokenzan, Crucible of Defiance\n4 Sulfurous Springs\n1 Swamp\n1 Takenuma, Abandoned Mire\n4 Valentin, Dean of the Vein\n4 Vampire of the Dire Moon\n\nSIDEBOARD:\n1 Lurrus of the Dream-Den",
+    "mainText": "4 Akki War Paint\n4 Blackcleave Cliffs\n4 Blood Crypt\n4 Cartouche of Zeal\n4 Changeling Outcast\n4 Demonic Ruckus\n4 Demonic Vigor\n4 Furor of the Bitten\n4 Gift of Fangs\n4 Hateful Eidolon\n4 Immolation\n1 Mountain\n1 Sokenzan, Crucible of Defiance\n4 Sulfurous Springs\n1 Swamp\n1 Takenuma, Abandoned Mire\n4 Valentin, Dean of the Vein\n4 Vampire of the Dire Moon",
+    "sideText": "1 Lurrus of the Dream-Den"
   }
 }

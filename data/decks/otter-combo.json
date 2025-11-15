@@ -2,17 +2,21 @@
   "id": "rec7ilXAj1L0gXyuL",
   "slug": "otter-combo",
   "name": "Otter Combo",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.015Z",
+  "author": "---",
+  "format": "Pioneer",
+  "archetype": "Combo",
+  "characteristics": [
+    "Infinite Loop"
+  ],
+  "colors": [
+    "Blue"
+  ],
+  "updatedAt": "2025-03-26T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "Retraction Helix",
   "decklist": {
-    "raw": "",
-    "mainText": "",
-    "sideText": ""
+    "raw": "1 Hall of Storm Giants\n14 Island\n2 Kitsa, Otterball Elite\n4 Mox Amber\n4 Mutavault\n1 Otawara, Soaring City\n4 Retraction Helix\n4 Rona, Herald of Invasion\n4 Sleight of Hand\n4 Stock Up\n4 Stormchaser's Talent\n4 This Town Ain't Big Enough\n4 Thundertrap Trainer\n2 Treasure Cruise\n4 Valley Floodcaller\n\nSIDEBOARD:\n4 Floodpits Drowner\n3 Mystical Dispute\n2 Spell Pierce\n2 Unlicensed Hearse\n4 Witness Protection",
+    "mainText": "1 Hall of Storm Giants\n14 Island\n2 Kitsa, Otterball Elite\n4 Mox Amber\n4 Mutavault\n1 Otawara, Soaring City\n4 Retraction Helix\n4 Rona, Herald of Invasion\n4 Sleight of Hand\n4 Stock Up\n4 Stormchaser's Talent\n4 This Town Ain't Big Enough\n4 Thundertrap Trainer\n2 Treasure Cruise\n4 Valley Floodcaller",
+    "sideText": "4 Floodpits Drowner\n3 Mystical Dispute\n2 Spell Pierce\n2 Unlicensed Hearse\n4 Witness Protection"
   }
 }

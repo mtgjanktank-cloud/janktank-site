@@ -2,17 +2,22 @@
   "id": "recRFFyn0XS036vAW",
   "slug": "crawler-combo",
   "name": "Crawler Combo",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.015Z",
+  "author": "Plum",
+  "format": "Historic",
+  "archetype": "Combo",
+  "characteristics": [
+    "Graveyard Value"
+  ],
+  "colors": [
+    "Black",
+    "Green"
+  ],
+  "updatedAt": "2025-06-04T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "Chitinous Crawler",
   "decklist": {
-    "raw": "",
-    "mainText": "",
+    "raw": "2 A-The Meathook Massacre\n4 Altar of the Brood\n2 Beseech the Mirror\n1 Boseiju, Who Endures\n4 Chitinous Crawler\n2 Dredger's Insight\n4 Fatal Push\n2 Forest\n4 Malevolent Rumble\n4 Marketback Walker\n4 Overgrown Tomb\n4 Prismatic Vista\n4 Shifting Woodland\n4 Stitcher's Supplier\n4 Stonecoil Serpent\n4 Swamp\n1 Takenuma, Abandoned Mire\n2 Urborg, Tomb of Yawgmoth\n4 Vessel of Nascency",
+    "mainText": "2 A-The Meathook Massacre\n4 Altar of the Brood\n2 Beseech the Mirror\n1 Boseiju, Who Endures\n4 Chitinous Crawler\n2 Dredger's Insight\n4 Fatal Push\n2 Forest\n4 Malevolent Rumble\n4 Marketback Walker\n4 Overgrown Tomb\n4 Prismatic Vista\n4 Shifting Woodland\n4 Stitcher's Supplier\n4 Stonecoil Serpent\n4 Swamp\n1 Takenuma, Abandoned Mire\n2 Urborg, Tomb of Yawgmoth\n4 Vessel of Nascency",
     "sideText": ""
   }
 }

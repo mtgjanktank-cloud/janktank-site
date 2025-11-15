@@ -2,17 +2,22 @@
   "id": "recCrB5WOnzGxGkwQ",
   "slug": "united-pillow-fort",
   "name": "United Pillow Fort",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.015Z",
+  "author": "Plum",
+  "format": "Historic",
+  "archetype": "Prison",
+  "characteristics": [
+    "Enchantments"
+  ],
+  "colors": [
+    "White",
+    "Blue"
+  ],
+  "updatedAt": "2025-09-04T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "United Battlefront",
   "decklist": {
-    "raw": "",
-    "mainText": "",
-    "sideText": ""
+    "raw": "1 Boseiju, Who Endures\n1 Cast Out\n1 Castle Ardenvale\n1 Dawn of Hope\n4 Detention Sphere\n1 Eiganjo, Seat of the Empire\n4 Enchantress's Presence\n1 Forest\n4 Fragment Reality\n4 Gate to the Citadel\n1 Gideon's Intervention\n1 Greater Auramancy\n4 Hallowed Fountain\n1 Island\n4 Leyline of Sanctity\n4 Nykthos, Shrine to Nyx\n1 Otawara, Soaring City\n4 Phyrexian Unlife\n4 Plains\n4 Prismatic Vista\n4 Runed Halo\n4 Seam Rip\n4 Solemnity\n4 Spara's Headquarters\n1 Sphere of Safety\n1 Sphinx's Tutelage\n4 Sterling Grove\n4 Temple Garden\n4 United Battlefront\n\nSIDEBOARD:\n1 Destiny Spinner\n2 Disruptor Flute\n2 Greater Auramancy\n2 High Noon\n2 Rest in Peace\n4 Shadowbringers\n1 Supreme Verdict\n1 Yorion, Sky Nomad",
+    "mainText": "1 Boseiju, Who Endures\n1 Cast Out\n1 Castle Ardenvale\n1 Dawn of Hope\n4 Detention Sphere\n1 Eiganjo, Seat of the Empire\n4 Enchantress's Presence\n1 Forest\n4 Fragment Reality\n4 Gate to the Citadel\n1 Gideon's Intervention\n1 Greater Auramancy\n4 Hallowed Fountain\n1 Island\n4 Leyline of Sanctity\n4 Nykthos, Shrine to Nyx\n1 Otawara, Soaring City\n4 Phyrexian Unlife\n4 Plains\n4 Prismatic Vista\n4 Runed Halo\n4 Seam Rip\n4 Solemnity\n4 Spara's Headquarters\n1 Sphere of Safety\n1 Sphinx's Tutelage\n4 Sterling Grove\n4 Temple Garden\n4 United Battlefront",
+    "sideText": "1 Destiny Spinner\n2 Disruptor Flute\n2 Greater Auramancy\n2 High Noon\n2 Rest in Peace\n4 Shadowbringers\n1 Supreme Verdict\n1 Yorion, Sky Nomad"
   }
 }

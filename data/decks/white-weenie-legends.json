@@ -2,17 +2,21 @@
   "id": "rec5DwawVVMvzutqJ",
   "slug": "white-weenie-legends",
   "name": "White Weenie Legends",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.015Z",
+  "author": "Plum",
+  "format": "Historic",
+  "archetype": "Aggro",
+  "characteristics": [
+    "Legendaries"
+  ],
+  "colors": [
+    "White"
+  ],
+  "updatedAt": "2025-06-14T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "Kytheon, Hero of Akros",
   "decklist": {
-    "raw": "",
-    "mainText": "",
-    "sideText": ""
+    "raw": "4 A-Guide of Souls\n4 A-Ocelot Pride\n4 Ajani, Nacatl Pariah\n4 Basri, Tomorrow's Champion\n4 Brave the Elements\n4 Eiganjo, Seat of the Empire\n4 Flowering of the White Tree\n4 Isamaru, Hound of Konda\n4 Kytheon, Hero of Akros\n4 Minas Tirith\n4 Mox Amber\n4 Plains\n4 Razorgrass Ambush\n4 You're Not Alone\n4 Zack Fair\n\nSIDEBOARD:\n1 Lurrus of the Dream-Den",
+    "mainText": "4 A-Guide of Souls\n4 A-Ocelot Pride\n4 Ajani, Nacatl Pariah\n4 Basri, Tomorrow's Champion\n4 Brave the Elements\n4 Eiganjo, Seat of the Empire\n4 Flowering of the White Tree\n4 Isamaru, Hound of Konda\n4 Kytheon, Hero of Akros\n4 Minas Tirith\n4 Mox Amber\n4 Plains\n4 Razorgrass Ambush\n4 You're Not Alone\n4 Zack Fair",
+    "sideText": "1 Lurrus of the Dream-Den"
   }
 }

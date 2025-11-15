@@ -2,17 +2,25 @@
   "id": "recYKVjOHkw0gmIYI",
   "slug": "mox-slivers",
   "name": "Mox Slivers",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.015Z",
+  "author": "Plum",
+  "format": "Historic",
+  "archetype": "Tribal",
+  "characteristics": [
+    "Aggro"
+  ],
+  "colors": [
+    "White",
+    "Blue",
+    "Black",
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2025-08-03T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "Silver Hivepool",
   "decklist": {
-    "raw": "",
-    "mainText": "",
+    "raw": "4 Cavern of Souls\n4 Changeling Outcast\n4 Cloudshredder Sliver\n4 Diffusion Sliver\n2 Dregscape Sliver\n4 Leeching Sliver\n4 Metallic Mimic\n4 Mox Jasper\n4 Predatory Sliver\n2 Realmwalker\n4 Secluded Courtyard\n4 Sliver Hive\n4 Starting Town\n4 Striking Sliver\n4 Thrumming Hivepool\n2 Unclaimed Territory\n4 Universal Automaton",
+    "mainText": "4 Cavern of Souls\n4 Changeling Outcast\n4 Cloudshredder Sliver\n4 Diffusion Sliver\n2 Dregscape Sliver\n4 Leeching Sliver\n4 Metallic Mimic\n4 Mox Jasper\n4 Predatory Sliver\n2 Realmwalker\n4 Secluded Courtyard\n4 Sliver Hive\n4 Starting Town\n4 Striking Sliver\n4 Thrumming Hivepool\n2 Unclaimed Territory\n4 Universal Automaton",
     "sideText": ""
   }
 }

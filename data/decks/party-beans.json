@@ -2,17 +2,25 @@
   "id": "recA2yJgM5uBgPhOu",
   "slug": "party-beans",
   "name": "Party Beans",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.015Z",
+  "author": "Plum",
+  "format": "Historic",
+  "archetype": "Midrange",
+  "characteristics": [
+    "Aggro"
+  ],
+  "colors": [
+    "White",
+    "Blue",
+    "Black",
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2025-01-02T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "Archpriest of Iona",
   "decklist": {
-    "raw": "",
-    "mainText": "",
-    "sideText": ""
+    "raw": "4 A-Base Camp\n4 Acquisitions Expert\n4 Ajani, Nacatl Pariah\n4 Archpriest of Iona\n4 Brazen Borrower\n4 Dark Confidant\n2 Darkstar Banisher\n4 Deputy of Detention\n1 Forest\n2 Giver of Runes\n4 Godless Shrine\n4 Hallowed Fountain\n1 Indatha Triome\n2 Island\n4 Journey to Oblivion\n2 Kutzil's Flanker\n4 Leyline Binding\n1 Mountain\n3 Plains\n4 Prismatic Vista\n1 Raffine's Tower\n1 Spara's Headquarters\n4 Spoils of Adventure\n1 Swamp\n2 Tazri, Beacon of Unity\n4 Up the Beanstalk\n4 Watery Grave\n1 Zagoth Triome\n\nSIDEBOARD:\n1 Yorion, Sky Nomad",
+    "mainText": "4 A-Base Camp\n4 Acquisitions Expert\n4 Ajani, Nacatl Pariah\n4 Archpriest of Iona\n4 Brazen Borrower\n4 Dark Confidant\n2 Darkstar Banisher\n4 Deputy of Detention\n1 Forest\n2 Giver of Runes\n4 Godless Shrine\n4 Hallowed Fountain\n1 Indatha Triome\n2 Island\n4 Journey to Oblivion\n2 Kutzil's Flanker\n4 Leyline Binding\n1 Mountain\n3 Plains\n4 Prismatic Vista\n1 Raffine's Tower\n1 Spara's Headquarters\n4 Spoils of Adventure\n1 Swamp\n2 Tazri, Beacon of Unity\n4 Up the Beanstalk\n4 Watery Grave\n1 Zagoth Triome",
+    "sideText": "1 Yorion, Sky Nomad"
   }
 }

@@ -2,17 +2,22 @@
   "id": "recNjpHV9SCU2O4NP",
   "slug": "celebrant-combo",
   "name": "Celebrant Combo",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.015Z",
+  "author": "Plum",
+  "format": "Historic",
+  "archetype": "Combo",
+  "characteristics": [
+    "Infinite Attack Phases"
+  ],
+  "colors": [
+    "White",
+    "Red"
+  ],
+  "updatedAt": "2025-07-27T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "Combat Celebrant",
   "decklist": {
-    "raw": "",
-    "mainText": "",
+    "raw": "4 A-Galvanic Discharge\n4 Amped Raptor\n4 Arena of Glory\n4 Burning-Tree Emissary\n4 Combat Celebrant\n4 Fable of the Mirror-Breaker\n4 Fear of Missing Out\n4 Magda, Brazen Outlaw\n4 Mass Hysteria\n4 Mountain\n2 Plains\n4 Prismatic Vista\n4 Sacred Foundry\n4 Shove Aside\n2 Sunbillow Verge\n4 The Jolly Balloon Man",
+    "mainText": "4 A-Galvanic Discharge\n4 Amped Raptor\n4 Arena of Glory\n4 Burning-Tree Emissary\n4 Combat Celebrant\n4 Fable of the Mirror-Breaker\n4 Fear of Missing Out\n4 Magda, Brazen Outlaw\n4 Mass Hysteria\n4 Mountain\n2 Plains\n4 Prismatic Vista\n4 Sacred Foundry\n4 Shove Aside\n2 Sunbillow Verge\n4 The Jolly Balloon Man",
     "sideText": ""
   }
 }

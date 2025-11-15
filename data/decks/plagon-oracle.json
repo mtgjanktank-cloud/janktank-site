@@ -2,17 +2,21 @@
   "id": "recuOIYn13Fg6Je6i",
   "slug": "plagon-oracle",
   "name": "Plagon Oracle",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.015Z",
+  "author": "Plum",
+  "format": "Historic",
+  "archetype": "Pseudo Combo",
+  "characteristics": [
+    "Extra Turns"
+  ],
+  "colors": [
+    "Blue"
+  ],
+  "updatedAt": "2025-08-03T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "Oracle of the Alpha",
   "decklist": {
-    "raw": "",
-    "mainText": "",
+    "raw": "4 Cavern of Souls\n4 Consult the Star Charts\n4 Into the Flood Maw\n9 Island\n4 Narset, Parter of Veils\n4 Oracle of the Alpha\n1 Otawara, Soaring City\n4 Piece It Together\n4 Plagon, Lord of the Beach\n4 Prismatic Vista\n4 Sink into Stupor\n2 Snapcaster Mage\n4 Stock Up\n4 Tamiyo, Inquisitive Student\n4 Thundertrap Trainer",
+    "mainText": "4 Cavern of Souls\n4 Consult the Star Charts\n4 Into the Flood Maw\n9 Island\n4 Narset, Parter of Veils\n4 Oracle of the Alpha\n1 Otawara, Soaring City\n4 Piece It Together\n4 Plagon, Lord of the Beach\n4 Prismatic Vista\n4 Sink into Stupor\n2 Snapcaster Mage\n4 Stock Up\n4 Tamiyo, Inquisitive Student\n4 Thundertrap Trainer",
     "sideText": ""
   }
 }

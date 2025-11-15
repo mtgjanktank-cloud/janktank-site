@@ -2,17 +2,22 @@
   "id": "recHLyviS48GFiJ5G",
   "slug": "urzarator",
   "name": "Urzarator",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.015Z",
+  "author": "Plum",
+  "format": "Historic",
+  "archetype": "Midrange",
+  "characteristics": [
+    "Artifacts, Tool Box"
+  ],
+  "colors": [
+    "White",
+    "Blue"
+  ],
+  "updatedAt": "2025-08-18T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "Urza, Lord Protector",
   "decklist": {
-    "raw": "",
-    "mainText": "",
-    "sideText": ""
+    "raw": "1 A-Haywire Mite\n3 A-The One Ring\n1 Aether Spellbomb\n1 Buried Ruin\n1 Eiganjo, Seat of the Empire\n1 Elixir\n1 Esper Sentinel\n4 Hallowed Fountain\n1 Inventors' Fair\n6 Island\n4 Karn, the Great Creator\n3 Metallic Rebuke\n1 Moonsnare Prototype\n1 Otawara, Soaring City\n4 Perilous Snare\n2 Pinnacle Starcage\n1 Pithing Needle\n4 Plains\n4 Portable Hole\n4 Prismatic Vista\n2 Razortide Bridge\n4 Seat of the Synod\n4 Spire of Industry\n1 Stone of Erech\n4 Supreme Verdict\n1 Terra Branford\n3 Tezzeret, Cruel Captain\n2 The Mightstone and Weakstone\n2 Urza, Lord Protector\n4 Whir of Invention\n4 Wild Rose Rebellion\n1 Witching Well\n\nSIDEBOARD:\n1 A-Cosmos Elixir\n1 A-The One Ring\n1 Damping Sphere\n1 Glass Casket\n1 Grafdigger's Cage\n1 Karn's Sylex\n1 Liquimetal Coating\n1 Pithing Needle\n1 Platinum Angel\n1 Portal to Phyrexia\n1 The Mightstone and Weakstone\n1 The Stone Brain\n1 Tormod's Crypt\n1 Wurmcoil Engine\n1 Yorion, Sky Nomad",
+    "mainText": "1 A-Haywire Mite\n3 A-The One Ring\n1 Aether Spellbomb\n1 Buried Ruin\n1 Eiganjo, Seat of the Empire\n1 Elixir\n1 Esper Sentinel\n4 Hallowed Fountain\n1 Inventors' Fair\n6 Island\n4 Karn, the Great Creator\n3 Metallic Rebuke\n1 Moonsnare Prototype\n1 Otawara, Soaring City\n4 Perilous Snare\n2 Pinnacle Starcage\n1 Pithing Needle\n4 Plains\n4 Portable Hole\n4 Prismatic Vista\n2 Razortide Bridge\n4 Seat of the Synod\n4 Spire of Industry\n1 Stone of Erech\n4 Supreme Verdict\n1 Terra Branford\n3 Tezzeret, Cruel Captain\n2 The Mightstone and Weakstone\n2 Urza, Lord Protector\n4 Whir of Invention\n4 Wild Rose Rebellion\n1 Witching Well",
+    "sideText": "1 A-Cosmos Elixir\n1 A-The One Ring\n1 Damping Sphere\n1 Glass Casket\n1 Grafdigger's Cage\n1 Karn's Sylex\n1 Liquimetal Coating\n1 Pithing Needle\n1 Platinum Angel\n1 Portal to Phyrexia\n1 The Mightstone and Weakstone\n1 The Stone Brain\n1 Tormod's Crypt\n1 Wurmcoil Engine\n1 Yorion, Sky Nomad"
   }
 }

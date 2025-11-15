@@ -2,17 +2,24 @@
   "id": "rec9Nhyf1lZqJK5vx",
   "slug": "body-double-combo",
   "name": "Body Double Combo",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.015Z",
+  "author": "Plum",
+  "format": "Historic",
+  "archetype": "Other",
+  "characteristics": [
+    "Reanimator"
+  ],
+  "colors": [
+    "White",
+    "Blue",
+    "Black",
+    "Red"
+  ],
+  "updatedAt": "2025-04-29T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "Body Double",
   "decklist": {
-    "raw": "",
-    "mainText": "",
+    "raw": "2 Altar of Dementia\n4 Ashen Rider\n4 Blood Crypt\n4 Body Double\n2 Deep Analysis\n4 Faithless Looting\n1 Goblin Bombardment\n1 Godless Shrine\n2 Island\n1 Mountain\n4 Otherworldly Gaze\n4 Persist\n1 Plains\n3 Prismatic Ending\n3 Prismatic Vista\n4 Psychic Frog\n1 Savai Triome\n3 Spell Pierce\n2 Steam Vents\n1 Swamp\n1 Troll of Khazad-dûm\n4 Vesperlark\n4 Watery Grave",
+    "mainText": "2 Altar of Dementia\n4 Ashen Rider\n4 Blood Crypt\n4 Body Double\n2 Deep Analysis\n4 Faithless Looting\n1 Goblin Bombardment\n1 Godless Shrine\n2 Island\n1 Mountain\n4 Otherworldly Gaze\n4 Persist\n1 Plains\n3 Prismatic Ending\n3 Prismatic Vista\n4 Psychic Frog\n1 Savai Triome\n3 Spell Pierce\n2 Steam Vents\n1 Swamp\n1 Troll of Khazad-dûm\n4 Vesperlark\n4 Watery Grave",
     "sideText": ""
   }
 }

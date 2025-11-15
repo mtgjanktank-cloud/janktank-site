@@ -2,17 +2,22 @@
   "id": "recz2xgstlCtvRpRB",
   "slug": "squee-blade",
   "name": "Squee-Blade",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.016Z",
+  "author": "Plum",
+  "format": "Historic",
+  "archetype": "Midrange",
+  "characteristics": [
+    "Squee!!!"
+  ],
+  "colors": [
+    "Black",
+    "Red"
+  ],
+  "updatedAt": "2024-12-08T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "Squee, the Immortal",
   "decklist": {
-    "raw": "",
-    "mainText": "",
-    "sideText": ""
+    "raw": "4 Baleful Mastery\n4 Bedevil\n1 Blast Zone\n4 Blightstep Pathway\n4 Blood Crypt\n3 Bloodchief's Thirst\n1 Bojuka Bog\n2 Castle Locthwain\n1 Chandra, Torch of Defiance\n1 Cling to Dust\n1 Crawling Barrens\n3 Dragonskull Summit\n4 Extinction Event\n1 Feed the Swarm\n1 Hive of the Eye Tyrant\n1 Inquisition of Kozilek\n4 Karn, the Great Creator\n4 Mazemind Tome\n3 Mountain\n2 Shadows' Verdict\n2 Squee, the Immortal\n5 Swamp\n4 Thoughtseize\n\nSIDEBOARD:\n1 Blackblade Reforged\n2 Chandra, Awakened Inferno\n1 Cityscape Leveler\n1 Cosmos Elixir\n1 God-Pharaoh's Statue\n2 Grafdigger's Cage\n1 Liquimetal Coating\n1 Meteor Golem\n1 Pithing Needle\n1 Shadowspear\n1 Sorcerous Spyglass\n1 The Filigree Sylex\n1 Tormod's Crypt",
+    "mainText": "4 Baleful Mastery\n4 Bedevil\n1 Blast Zone\n4 Blightstep Pathway\n4 Blood Crypt\n3 Bloodchief's Thirst\n1 Bojuka Bog\n2 Castle Locthwain\n1 Chandra, Torch of Defiance\n1 Cling to Dust\n1 Crawling Barrens\n3 Dragonskull Summit\n4 Extinction Event\n1 Feed the Swarm\n1 Hive of the Eye Tyrant\n1 Inquisition of Kozilek\n4 Karn, the Great Creator\n4 Mazemind Tome\n3 Mountain\n2 Shadows' Verdict\n2 Squee, the Immortal\n5 Swamp\n4 Thoughtseize",
+    "sideText": "1 Blackblade Reforged\n2 Chandra, Awakened Inferno\n1 Cityscape Leveler\n1 Cosmos Elixir\n1 God-Pharaoh's Statue\n2 Grafdigger's Cage\n1 Liquimetal Coating\n1 Meteor Golem\n1 Pithing Needle\n1 Shadowspear\n1 Sorcerous Spyglass\n1 The Filigree Sylex\n1 Tormod's Crypt"
   }
 }

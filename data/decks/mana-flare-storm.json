@@ -2,17 +2,22 @@
   "id": "recSIYd5zJljQ8bxq",
   "slug": "mana-flare-storm",
   "name": "Mana Flare Storm",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.015Z",
+  "author": "Plum",
+  "format": "Historic",
+  "archetype": "Pseudo Combo",
+  "characteristics": [
+    "Ramp"
+  ],
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2025-04-23T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "Mana Flare",
   "decklist": {
-    "raw": "",
-    "mainText": "",
+    "raw": "4 Arboreal Grazer\n1 Banefire\n4 Escape to the Wilds\n4 Explore\n8 Forest\n1 Gaea's Blessing\n4 Goblin Anarchomancer\n2 Harmonize\n4 Mana Flare\n2 Mountain\n2 Nissa, Who Shakes the World\n4 Prismatic Vista\n4 Reckless Impulse\n4 Stomping Ground\n4 Thornspire Verge\n4 Utopia Sprawl",
+    "mainText": "4 Arboreal Grazer\n1 Banefire\n4 Escape to the Wilds\n4 Explore\n8 Forest\n1 Gaea's Blessing\n4 Goblin Anarchomancer\n2 Harmonize\n4 Mana Flare\n2 Mountain\n2 Nissa, Who Shakes the World\n4 Prismatic Vista\n4 Reckless Impulse\n4 Stomping Ground\n4 Thornspire Verge\n4 Utopia Sprawl",
     "sideText": ""
   }
 }

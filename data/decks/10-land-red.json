@@ -2,17 +2,21 @@
   "id": "recfYIaAowkTEqyF5",
   "slug": "10-land-red",
   "name": "10-Land Red",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.016Z",
+  "author": "Plum",
+  "format": "Timeless",
+  "archetype": "Aggro",
+  "characteristics": [
+    "Low Land Count"
+  ],
+  "colors": [
+    "Red"
+  ],
+  "updatedAt": "2024-12-08T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "Wayward Guide-Beast",
   "decklist": {
-    "raw": "",
-    "mainText": "",
-    "sideText": ""
+    "raw": "2 Blackcleave Cliffs\n3 Blood Crypt\n3 Bloodstained Mire\n4 Bomat Courier\n4 Dragon's Rage Channeler\n2 Furor of the Bitten\n4 Kumano Faces Kakkazan\n4 Light Up the Stage\n4 Lightning Bolt\n4 Mishra's Bauble\n4 Monastery Swiftspear\n4 Monstrous Rage\n2 Mountain\n4 Ragavan, Nimble Pilferer\n4 Skewer the Critics\n4 Spear Spewer\n4 Wayward Guide-Beast\n\nSIDEBOARD:\n3 Alpine Moon\n2 End the Festivities\n1 Lurrus of the Dream-Den\n2 Pithing Needle\n3 Roiling Vortex\n4 Tormod's Crypt",
+    "mainText": "2 Blackcleave Cliffs\n3 Blood Crypt\n3 Bloodstained Mire\n4 Bomat Courier\n4 Dragon's Rage Channeler\n2 Furor of the Bitten\n4 Kumano Faces Kakkazan\n4 Light Up the Stage\n4 Lightning Bolt\n4 Mishra's Bauble\n4 Monastery Swiftspear\n4 Monstrous Rage\n2 Mountain\n4 Ragavan, Nimble Pilferer\n4 Skewer the Critics\n4 Spear Spewer\n4 Wayward Guide-Beast",
+    "sideText": "3 Alpine Moon\n2 End the Festivities\n1 Lurrus of the Dream-Den\n2 Pithing Needle\n3 Roiling Vortex\n4 Tormod's Crypt"
   }
 }

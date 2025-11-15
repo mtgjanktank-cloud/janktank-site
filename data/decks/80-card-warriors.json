@@ -2,17 +2,23 @@
   "id": "recsUWmIt4ZSvty3W",
   "slug": "80-card-warriors",
   "name": "80-Card Warriors",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.016Z",
+  "author": "Plum",
+  "format": "Historic",
+  "archetype": "Tribal",
+  "characteristics": [
+    "Aggro"
+  ],
+  "colors": [
+    "White",
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2024-12-08T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "Kargan Warleader",
   "decklist": {
-    "raw": "",
-    "mainText": "",
-    "sideText": ""
+    "raw": "4 A-Base Camp\n4 A-Kargan Intimidator\n4 A-Kargan Warleader\n4 Ajani, Nacatl Pariah\n2 Boseiju, Who Endures\n3 Break Out\n2 Bridgeworks Battle\n4 Cavern of Souls\n4 Collected Company\n4 Copperline Gorge\n4 Cragcrown Pathway\n4 Evolving Adaptive\n1 Forest\n4 Gornog, the Red Reaper\n4 Gruul Spellbreaker\n3 Honored Crop-Captain\n4 Mana Confluence\n1 Mountain\n4 Pawpatch Recruit\n4 Pelt Collector\n4 Secluded Courtyard\n4 Stomping Ground\n4 Voltaic Brawler\n\nSIDEBOARD:\n3 A-Haywire Mite\n1 Jegantha, the Wellspring\n1 Klothys, God of Destiny\n2 Pithing Needle\n2 Stone of Erech\n4 Suncleanser\n2 Tormod's Crypt",
+    "mainText": "4 A-Base Camp\n4 A-Kargan Intimidator\n4 A-Kargan Warleader\n4 Ajani, Nacatl Pariah\n2 Boseiju, Who Endures\n3 Break Out\n2 Bridgeworks Battle\n4 Cavern of Souls\n4 Collected Company\n4 Copperline Gorge\n4 Cragcrown Pathway\n4 Evolving Adaptive\n1 Forest\n4 Gornog, the Red Reaper\n4 Gruul Spellbreaker\n3 Honored Crop-Captain\n4 Mana Confluence\n1 Mountain\n4 Pawpatch Recruit\n4 Pelt Collector\n4 Secluded Courtyard\n4 Stomping Ground\n4 Voltaic Brawler",
+    "sideText": "3 A-Haywire Mite\n1 Jegantha, the Wellspring\n1 Klothys, God of Destiny\n2 Pithing Needle\n2 Stone of Erech\n4 Suncleanser\n2 Tormod's Crypt"
   }
 }

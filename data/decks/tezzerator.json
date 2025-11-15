@@ -2,17 +2,23 @@
   "id": "recqDII3fhWCILovH",
   "slug": "tezzerator",
   "name": "Tezzerator",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.015Z",
+  "author": "Plum",
+  "format": "Historic",
+  "archetype": "Midrange",
+  "characteristics": [
+    "Artifact, Tool Box"
+  ],
+  "colors": [
+    "White",
+    "Blue",
+    "Black"
+  ],
+  "updatedAt": "2025-08-14T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "Tezzeret, Master of the Bridge",
   "decklist": {
-    "raw": "",
-    "mainText": "",
+    "raw": "1 A-Haywire Mite\n1 Aether Spellbomb\n1 Aetherflux Reservoir\n1 Ancestral Statue\n4 Baleful Strix\n3 Battle at the Bridge\n2 Damnation\n2 Godless Shrine\n2 Hallowed Fountain\n1 Inventors' Fair\n1 Island\n3 Metallic Rebuke\n1 Moonsnare Prototype\n1 Pithing Needle\n4 Portable Hole\n4 Seat of the Synod\n4 Solar Transformer\n4 Spire of Industry\n1 Stone of Erech\n1 Swamp\n4 Tezzeret, Cruel Captain\n4 Tezzeret, Master of the Bridge\n1 Tormod's Crypt\n4 Vault of Whispers\n4 Watery Grave\n2 Whir of Invention",
+    "mainText": "1 A-Haywire Mite\n1 Aether Spellbomb\n1 Aetherflux Reservoir\n1 Ancestral Statue\n4 Baleful Strix\n3 Battle at the Bridge\n2 Damnation\n2 Godless Shrine\n2 Hallowed Fountain\n1 Inventors' Fair\n1 Island\n3 Metallic Rebuke\n1 Moonsnare Prototype\n1 Pithing Needle\n4 Portable Hole\n4 Seat of the Synod\n4 Solar Transformer\n4 Spire of Industry\n1 Stone of Erech\n1 Swamp\n4 Tezzeret, Cruel Captain\n4 Tezzeret, Master of the Bridge\n1 Tormod's Crypt\n4 Vault of Whispers\n4 Watery Grave\n2 Whir of Invention",
     "sideText": ""
   }
 }

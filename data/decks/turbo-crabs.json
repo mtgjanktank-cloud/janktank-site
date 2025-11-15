@@ -2,17 +2,24 @@
   "id": "recPoUf5iySiTtLzH",
   "slug": "turbo-crabs",
   "name": "Turbo Crabs",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.015Z",
+  "author": "Plum",
+  "format": "Historic",
+  "archetype": "Pseudo Combo",
+  "characteristics": [
+    "Value"
+  ],
+  "colors": [
+    "Blue",
+    "Black",
+    "Red",
+    "Green"
+  ],
+  "updatedAt": "2025-10-19T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "Crabomination",
   "decklist": {
-    "raw": "",
-    "mainText": "",
+    "raw": "4 Birthing Ritual\n4 Blood Crypt\n4 Bloodbraid Elf\n1 Boseiju, Who Endures\n4 Crabomination\n4 Etali, Primal Conqueror\n1 Forest\n4 Germinating Wurm\n4 Leyline Axe\n1 Mountain\n4 Nova Hellkite\n4 Overgrown Tomb\n4 Perigee Beckoner\n1 Restless Cottage\n1 Restless Ridgeline\n1 Restless Vents\n1 Sokenzan, Crucible of Defiance\n4 Stomping Ground\n1 Takenuma, Abandoned Mire\n4 Violent Outburst\n4 Ziatora's Proving Ground",
+    "mainText": "4 Birthing Ritual\n4 Blood Crypt\n4 Bloodbraid Elf\n1 Boseiju, Who Endures\n4 Crabomination\n4 Etali, Primal Conqueror\n1 Forest\n4 Germinating Wurm\n4 Leyline Axe\n1 Mountain\n4 Nova Hellkite\n4 Overgrown Tomb\n4 Perigee Beckoner\n1 Restless Cottage\n1 Restless Ridgeline\n1 Restless Vents\n1 Sokenzan, Crucible of Defiance\n4 Stomping Ground\n1 Takenuma, Abandoned Mire\n4 Violent Outburst\n4 Ziatora's Proving Ground",
     "sideText": ""
   }
 }

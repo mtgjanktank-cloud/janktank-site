@@ -2,17 +2,21 @@
   "id": "recSVvsTrfhv0C7EY",
   "slug": "sibsig-zombie-sac",
   "name": "Sibsig Zombie Sac",
-  "author": "",
-  "format": "",
-  "archetype": "",
-  "characteristics": [],
-  "colors": [],
-  "updatedAt": "2025-11-14T09:52:37.015Z",
+  "author": "Plum",
+  "format": "Historic",
+  "archetype": "Value",
+  "characteristics": [
+    "Sacrifice Based"
+  ],
+  "colors": [
+    "Black"
+  ],
+  "updatedAt": "2025-05-20T00:00:00.000Z",
   "containsBannedCards": false,
   "coverCard": "The Sibsig Ceremony",
   "decklist": {
-    "raw": "",
-    "mainText": "",
+    "raw": "2 Agadeem's Awakening\n4 Champion of the Perished\n2 Chthonian Nightmare\n4 Cryptbreaker\n4 Kami of Mourning\n4 Marionette Apprentice\n4 Phyrexian Tower\n4 Priest of Forgotten Gods\n4 Relentless Dead\n4 Shambling Ghast\n4 Spymaster's Vault\n8 Swamp\n2 The Sibsig Ceremony\n4 Undead Augur\n4 Unearth\n2 Zul Ashur, Lich Lord",
+    "mainText": "2 Agadeem's Awakening\n4 Champion of the Perished\n2 Chthonian Nightmare\n4 Cryptbreaker\n4 Kami of Mourning\n4 Marionette Apprentice\n4 Phyrexian Tower\n4 Priest of Forgotten Gods\n4 Relentless Dead\n4 Shambling Ghast\n4 Spymaster's Vault\n8 Swamp\n2 The Sibsig Ceremony\n4 Undead Augur\n4 Unearth\n2 Zul Ashur, Lich Lord",
     "sideText": ""
   }
 }
