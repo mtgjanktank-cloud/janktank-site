@@ -1,0 +1,23 @@
+{
+  "id": "recP3imDeh51Uovi3",
+  "slug": "uw-oketras-monument",
+  "name": "UW Oketra's Monument",
+  "author": "Plum",
+  "format": "Historic",
+  "archetype": "Aggro",
+  "characteristics": [
+    "Value"
+  ],
+  "colors": [
+    "White",
+    "Blue"
+  ],
+  "updatedAt": "2025-06-30T00:00:00.000Z",
+  "containsBannedCards": false,
+  "coverCard": "Oketra's Monument",
+  "decklist": {
+    "raw": "4 A-Guide of Souls\n4 A-Ocelot Pride\n4 Ajani, Nacatl Pariah\n2 Brave the Elements\n2 Eiganjo, Seat of the Empire\n4 Esper Sentinel\n4 Hallowed Fountain\n4 Judge's Familiar\n4 Kor Skyfisher\n4 Oketra's Monument\n2 Path to Exile\n5 Plains\n4 Razorgrass Ambush\n4 Seachrome Coast\n4 The Imperial City of Archades\n4 Thunderbond Vanguard\n1 Westvale Abbey\n\nSIDEBOARD:\n4 Fragment Reality\n2 Guardian of Faith\n2 Pithing Needle\n3 Reflector Mage\n2 Rest in Peace\n2 Surge of Salvation",
+    "mainText": "4 A-Guide of Souls\n4 A-Ocelot Pride\n4 Ajani, Nacatl Pariah\n2 Brave the Elements\n2 Eiganjo, Seat of the Empire\n4 Esper Sentinel\n4 Hallowed Fountain\n4 Judge's Familiar\n4 Kor Skyfisher\n4 Oketra's Monument\n2 Path to Exile\n5 Plains\n4 Razorgrass Ambush\n4 Seachrome Coast\n4 The Imperial City of Archades\n4 Thunderbond Vanguard\n1 Westvale Abbey",
+    "sideText": "4 Fragment Reality\n2 Guardian of Faith\n2 Pithing Needle\n3 Reflector Mage\n2 Rest in Peace\n2 Surge of Salvation"
+  }
+}
